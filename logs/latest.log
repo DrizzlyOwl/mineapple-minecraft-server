@@ -73,3 +73,7 @@
 [19:30:00] [Server thread/INFO]: Saving...
 [19:30:00] [Server thread/INFO]: Saved the world
 [19:30:00] [Server thread/INFO]: [Server] Save Complete
+[19:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[19:45:00] [Server thread/INFO]: Saving...
+[19:45:01] [Server thread/INFO]: Saved the world
+[19:45:01] [Server thread/INFO]: [Server] Save Complete
