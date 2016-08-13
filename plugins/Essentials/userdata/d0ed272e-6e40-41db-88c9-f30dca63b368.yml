@@ -1,0 +1,30 @@
+lastAccountName: Willyy
+timestamps:
+  login: 1471103641214
+  logout: 1471104327581
+  lastteleport: 1471104095887
+ipAddress: 98.65.161.226
+lastlocation:
+  world: world
+  x: -44.81556382333482
+  y: 60.0
+  z: 542.8631808384447
+  yaw: -142.61191
+  pitch: 77.69998
+afk: false
+logoutlocation:
+  world: world
+  x: -44.89689307535544
+  y: 59.0
+  z: 537.2471404327167
+  yaw: -69.261536
+  pitch: 30.299967
+homes:
+  home:
+    world: world
+    x: -44.81556382333482
+    y: 60.0
+    z: 542.8631808384447
+    yaw: -205.76192
+    pitch: 18.89998
+nickname: RhinoDude982

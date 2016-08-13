@@ -1,0 +1,31 @@
+lastAccountName: AdenBagelz
+timestamps:
+  login: 1470844767438
+  kits:
+    tools: 1470789160603
+  lastteleport: 1470841934498
+  logout: 1470844798338
+ipAddress: 72.70.184.238
+lastlocation:
+  world: world
+  x: 506.2412004291796
+  y: 63.0
+  z: 747.03407047247
+  yaw: -59.00082
+  pitch: 12.599988
+homes:
+  home:
+    world: world
+    x: 513.7723906011057
+    y: 64.0
+    z: 736.5943722312621
+    yaw: -303.9502
+    pitch: 30.449951
+logoutlocation:
+  world: world
+  x: -38.997555624261906
+  y: 68.0
+  z: 257.08514156644577
+  yaw: -37.500004
+  pitch: 30.9
+afk: false

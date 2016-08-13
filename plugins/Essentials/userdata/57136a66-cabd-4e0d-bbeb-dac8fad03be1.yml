@@ -1,0 +1,31 @@
+lastAccountName: sami0407
+timestamps:
+  login: 1470860471348
+  kits:
+    tools: 1470867322117
+  lastteleport: 1470866543086
+  logout: 1470868926733
+ipAddress: 96.33.183.152
+lastlocation:
+  world: world
+  x: -4592.770005633933
+  y: 73.0
+  z: 10501.37404140191
+  yaw: 310.6223
+  pitch: -22.73278
+logoutlocation:
+  world: world
+  x: -4586.264452622829
+  y: 56.0
+  z: 10499.847128177356
+  yaw: -0.42211914
+  pitch: 22.066893
+homes:
+  home:
+    world: world
+    x: -4737.951276567741
+    y: 64.0
+    z: 10502.388718668868
+    yaw: -249.16248
+    pitch: 1.9499943
+afk: false

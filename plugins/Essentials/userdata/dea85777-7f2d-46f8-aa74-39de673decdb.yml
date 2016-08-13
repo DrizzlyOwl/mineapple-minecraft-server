@@ -1,0 +1,29 @@
+lastAccountName: Maxillian
+timestamps:
+  login: 1471033901507
+  logout: 1471036410534
+  lastteleport: 1471027611954
+ipAddress: 173.61.153.103
+lastlocation:
+  world: world
+  x: 259.04737029071595
+  y: 71.0
+  z: 173.07333634698745
+  yaw: -68.7417
+  pitch: 11.760896
+logoutlocation:
+  world: world
+  x: -11.475219318641734
+  y: 84.0
+  z: 824.4813690675618
+  yaw: -149.78833
+  pitch: 25.39433
+nickname: YourMother
+homes:
+  home:
+    world: world
+    x: -12.52487995251894
+    y: 84.0
+    z: 819.5508682577639
+    yaw: -268.51672
+    pitch: 13.200282

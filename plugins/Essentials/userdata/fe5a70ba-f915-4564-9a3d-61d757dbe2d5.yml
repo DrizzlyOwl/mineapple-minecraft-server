@@ -1,0 +1,32 @@
+lastAccountName: LimpBiscuit
+timestamps:
+  login: 1471102689069
+  kits:
+    tools: 1470857172232
+  lastteleport: 1471104069362
+  logout: 1471104328637
+ipAddress: 72.197.213.159
+lastlocation:
+  world: world_nether
+  x: -310.91154337942436
+  y: 73.0
+  z: 229.1171024057205
+  yaw: -231.151
+  pitch: 43.800026
+nickname: RhinoDude981
+homes:
+  home:
+    world: world
+    x: -45.32573702896562
+    y: 59.0
+    z: 539.185809705608
+    yaw: -88.16189
+    pitch: 44.100006
+afk: false
+logoutlocation:
+  world: world
+  x: -42.35078247625404
+  y: 60.0
+  z: 541.2375000119209
+  yaw: -190.46484
+  pitch: 15.899983

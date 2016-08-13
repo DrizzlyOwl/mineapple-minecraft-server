@@ -1,0 +1,32 @@
+lastAccountName: AWildRegice
+timestamps:
+  login: 1471052652837
+  kits:
+    tools: 1470781224654
+  lastteleport: 1471052664916
+  logout: 1471052724815
+ipAddress: 76.189.199.222
+lastlocation:
+  world: world
+  x: -80.30000001192093
+  y: 4.0
+  z: 523.7093465419571
+  yaw: -109.19667
+  pitch: 42.950115
+afk: false
+logoutlocation:
+  world: world
+  x: -46.012991830307264
+  y: 57.5
+  z: 535.0099621466381
+  yaw: 337.36365
+  pitch: 16.950869
+nickname: fuck
+homes:
+  home:
+    world: world
+    x: -44.18071638023208
+    y: 59.0
+    z: 537.5088566965599
+    yaw: -141.53427
+    pitch: 52.641087

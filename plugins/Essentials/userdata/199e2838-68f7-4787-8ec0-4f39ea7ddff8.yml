@@ -1,0 +1,32 @@
+lastAccountName: beefsoup12
+timestamps:
+  login: 1471060722961
+  kits:
+    tools: 1470780007098
+  lastteleport: 1471058891799
+  logout: 1471060804642
+ipAddress: 99.120.101.88
+lastlocation:
+  world: world_nether
+  x: -55.248288586849206
+  y: 57.0
+  z: 29.553116474622072
+  yaw: 157.31874
+  pitch: 47.986794
+afk: false
+homes:
+  home:
+    world: world
+    x: -35.02015948953851
+    y: 63.0
+    z: 547.4645035725115
+    yaw: 92.419106
+    pitch: 31.745298
+logoutlocation:
+  world: world
+  x: -75.47841585522758
+  y: 67.0
+  z: 537.0757670768306
+  yaw: 20.74176
+  pitch: 35.15046
+nickname: FlaccidPancake

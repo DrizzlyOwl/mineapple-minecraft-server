@@ -1,0 +1,28 @@
+lastAccountName: oskis96
+timestamps:
+  login: 1471092156117
+  lastteleport: 1471092590625
+  logout: 1471092827068
+ipAddress: 213.238.252.84
+lastlocation:
+  world: world
+  x: -39.5
+  y: 68.0
+  z: 256.5
+  yaw: -173.54993
+  pitch: 19.949997
+homes:
+  home:
+    world: world
+    x: -101.69781821713529
+    y: 78.0
+    z: -17.699999988079078
+    yaw: 135.5951
+    pitch: 1.8001623
+logoutlocation:
+  world: world
+  x: -331.132298897145
+  y: 69.0
+  z: -371.8834499384751
+  yaw: 35.694885
+  pitch: 7.499993

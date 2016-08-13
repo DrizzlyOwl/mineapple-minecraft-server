@@ -1,0 +1,29 @@
+lastAccountName: ClarityOsu
+timestamps:
+  login: 1470875127549
+  lastteleport: 1470876319289
+  logout: 1470876342238
+ipAddress: 68.83.114.216
+lastlocation:
+  world: world
+  x: -39.5
+  y: 68.0
+  z: 256.5
+  yaw: -116.549995
+  pitch: -90.0
+homes:
+  home:
+    world: world
+    x: -58.83930062771122
+    y: 52.0
+    z: 532.4656555084106
+    yaw: 91.4769
+    pitch: 27.633127
+afk: false
+logoutlocation:
+  world: world
+  x: -70.42966371551071
+  y: 49.0
+  z: 535.6999999880791
+  yaw: 238.47768
+  pitch: 48.899956

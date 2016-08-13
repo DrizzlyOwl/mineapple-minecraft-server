@@ -1,0 +1,32 @@
+lastAccountName: JeffTheThriller
+timestamps:
+  login: 1471121147854
+  kits:
+    tools: 1470775828075
+  lastteleport: 1471114848685
+  logout: 1471121180686
+ipAddress: 5.71.241.214
+lastlocation:
+  world: world
+  x: -4746.364888718651
+  y: 63.0
+  z: 10522.300000011921
+  yaw: -82.43384
+  pitch: 77.100006
+afk: false
+logoutlocation:
+  world: world
+  x: -4741.923112774299
+  y: 63.0
+  z: 10518.167625852435
+  yaw: 177.0042
+  pitch: -0.5999808
+homes:
+  home:
+    world: world
+    x: -4715.306800174748
+    y: 45.0
+    z: 10493.500296808772
+    yaw: 55.26263
+    pitch: 4.8
+nickname: Elle_From_Hell
