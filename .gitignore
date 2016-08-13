@@ -1,2 +1,7 @@
 ops.json
-BuildTools
+BuildData
+spigotbuild
+maybe_delete
+BuildTools.jar
+BuildTools.log.txt
+usercache.json
