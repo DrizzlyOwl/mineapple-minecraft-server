@@ -77,3 +77,12 @@
 [19:45:00] [Server thread/INFO]: Saving...
 [19:45:01] [Server thread/INFO]: Saved the world
 [19:45:01] [Server thread/INFO]: [Server] Save Complete
+[19:52:45] [Server thread/INFO]: WalshyXD lost connection: user was kicked.
+[19:52:45] [Server thread/INFO]: WalshyXD lost connection: You have been idle for too long!
+[19:52:45] [Server thread/INFO]: WalshyXD left the game
+[19:52:46] [Server thread/WARN]: handleDisconnection() called twice
+[20:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[20:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:00:00] [Server thread/INFO]: Saving...
+[20:00:00] [Server thread/INFO]: Saved the world
+[20:00:00] [Server thread/INFO]: [Server] Save Complete
