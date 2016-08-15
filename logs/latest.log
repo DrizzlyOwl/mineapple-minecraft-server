@@ -39,3 +39,62 @@
 [02:00:00] [Server thread/INFO]: Saving...
 [02:00:00] [Server thread/INFO]: Saved the world
 [02:00:00] [Server thread/INFO]: [Server] Save Complete
+[02:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[02:15:00] [Server thread/INFO]: Saving...
+[02:15:00] [Server thread/INFO]: Saved the world
+[02:15:00] [Server thread/INFO]: [Server] Save Complete
+[02:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[02:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[02:30:00] [Server thread/INFO]: Saving...
+[02:30:00] [Server thread/INFO]: Saved the world
+[02:30:00] [Server thread/INFO]: [Server] Save Complete
+[02:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[02:45:00] [Server thread/INFO]: Saving...
+[02:45:00] [Server thread/INFO]: Saved the world
+[02:45:00] [Server thread/INFO]: [Server] Save Complete
+[02:52:31] [User Authenticator #59/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[02:52:31] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:53109] logged in with entity id 507514 at ([world]-158.6509960524764, 64.0, -16.572620995773534)
+[02:52:31] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[02:52:31] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
+[02:52:31] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
+[02:53:13] [Server thread/WARN]: KevinDaBaws was kicked for floating too long!
+[02:53:13] [Server thread/INFO]: KevinDaBaws lost connection: user was kicked.
+[02:53:13] [Server thread/INFO]: KevinDaBaws lost connection: Flying is not enabled on this server
+[02:53:13] [Server thread/INFO]: KevinDaBaws left the game
+[02:53:16] [User Authenticator #60/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[02:53:16] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:53180] logged in with entity id 508244 at ([world]-159.85652889018266, 122.64489020421014, -174.36708026999577)
+[02:53:16] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[02:53:16] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
+[02:53:16] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
+[02:54:09] [Server thread/INFO]: KevinDaBaws fell from a high place
+[02:54:14] [Server thread/INFO]: KevinDaBaws issued server command: /back
+[02:54:36] [Server thread/WARN]: KevinDaBaws was kicked for floating too long!
+[02:54:36] [Server thread/INFO]: KevinDaBaws lost connection: user was kicked.
+[02:54:36] [Server thread/INFO]: KevinDaBaws lost connection: Flying is not enabled on this server
+[02:54:36] [Server thread/INFO]: KevinDaBaws left the game
+[02:54:36] [Server thread/WARN]: handleDisconnection() called twice
+[02:54:38] [User Authenticator #61/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[02:54:38] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:53278] logged in with entity id 509743 at ([world]-137.021230632647, 81.90799365539772, 17.630142641598603)
+[02:54:38] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[02:54:38] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
+[02:54:38] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
+[02:54:53] [Server thread/WARN]: KevinDaBaws was kicked for floating too long!
+[02:54:53] [Server thread/INFO]: KevinDaBaws lost connection: user was kicked.
+[02:54:53] [Server thread/INFO]: KevinDaBaws lost connection: Flying is not enabled on this server
+[02:54:53] [Server thread/INFO]: KevinDaBaws left the game
+[02:54:53] [Server thread/WARN]: handleDisconnection() called twice
+[02:54:55] [User Authenticator #62/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[02:54:55] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:53295] logged in with entity id 510252 at ([world]-106.96346816627593, 66.92924034308501, 16.533216853505245)
+[02:54:55] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[02:54:55] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
+[02:54:55] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
+[02:55:37] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[02:55:39] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[02:55:39] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[02:56:53] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
+[02:56:53] [Server thread/INFO]: KevinDaBaws left the game
+[03:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[03:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[03:00:00] [Server thread/INFO]: Saving...
+[03:00:00] [Server thread/INFO]: Saved the world
+[03:00:00] [Server thread/INFO]: [Server] Save Complete
