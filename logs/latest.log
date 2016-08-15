@@ -1,1693 +1,555 @@
-[04:45:18] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[04:45:18] [Server thread/INFO]: Loading properties
-[04:45:18] [Server thread/INFO]: Default game type: SURVIVAL
-[04:45:19] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-078e2f8-9ff3d7f (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
-[04:45:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:45:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:45:19] [Server thread/INFO]: Debug logging is disabled
-[04:45:19] [Server thread/INFO]: Generating keypair
-[04:45:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:45:20] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[04:45:20] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
-[04:45:20] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
-[04:45:20] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
-[04:45:20] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[04:45:20] [Server thread/INFO]: Preparing level "world"
-[04:45:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3820634467636136119)
-[04:45:23] [Server thread/INFO]: Preparing spawn area: 0%
-[04:45:24] [Server thread/INFO]: Preparing spawn area: 19%
-[04:45:25] [Server thread/INFO]: Preparing spawn area: 43%
-[04:45:26] [Server thread/INFO]: Preparing spawn area: 58%
-[04:45:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3820634467636136119)
-[04:45:28] [Server thread/INFO]: Preparing spawn area: 19%
-[04:45:29] [Server thread/INFO]: Preparing spawn area: 42%
-[04:45:30] [Server thread/INFO]: Preparing spawn area: 69%
-[04:45:31] [Server thread/INFO]: Preparing spawn area: 94%
-[04:45:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
-[04:45:32] [Server thread/INFO]: Preparing spawn area: 46%
-[04:45:33] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
-[04:45:34] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
-[04:45:34] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
-[04:45:34] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
-[04:45:34] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
-[04:45:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
-[04:45:34] [Server thread/INFO]: Using locale en_US
-[04:45:35] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[04:45:35] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[04:45:35] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[04:45:35] [Server thread/INFO]: Using locale en_US
-[04:45:35] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
-[04:45:35] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
-[04:45:35] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
-[04:45:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:45:36] [Server thread/INFO]: Done (15.247s)! For help, type "help" or "?"
-[04:45:36] [Server thread/INFO]: Using epoll channel type
-[05:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[05:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[05:00:00] [Server thread/INFO]: Saving...
-[05:00:00] [Server thread/INFO]: Saved the world
-[05:00:00] [Server thread/INFO]: [Server] Save Complete
-[05:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[05:15:00] [Server thread/INFO]: Saving...
-[05:15:00] [Server thread/INFO]: Saved the world
-[05:15:00] [Server thread/INFO]: [Server] Save Complete
-[05:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[05:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[05:30:00] [Server thread/INFO]: Saving...
-[05:30:00] [Server thread/INFO]: Saved the world
-[05:30:00] [Server thread/INFO]: [Server] Save Complete
-[05:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[05:45:00] [Server thread/INFO]: Saving...
-[05:45:00] [Server thread/INFO]: Saved the world
-[05:45:00] [Server thread/INFO]: [Server] Save Complete
-[06:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[06:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[06:00:00] [Server thread/INFO]: Saving...
-[06:00:00] [Server thread/INFO]: Saved the world
-[06:00:00] [Server thread/INFO]: [Server] Save Complete
-[06:05:54] [User Authenticator #1/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
-[06:05:54] [Server thread/INFO]: Chico121212[/179.218.69.229:49828] logged in with entity id 234 at ([world]-144.5, 70.0, -59.5)
-[06:05:54] [Server thread/INFO]: [Server] Welcome back, Chico121212
-[06:05:54] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
-[06:05:54] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
-[06:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[06:15:00] [Server thread/INFO]: Saving...
-[06:15:00] [Server thread/INFO]: Saved the world
-[06:15:00] [Server thread/INFO]: [Server] Save Complete
-[06:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[06:22:01] [User Authenticator #2/INFO]: UUID of player RhinoDude980 is ac50f86b-5db6-4d00-b83d-6b76816c2d1f
-[06:22:01] [Server thread/INFO]: RhinoDude980[/5.29.177.100:54133] logged in with entity id 6368 at ([world]-125.74455880706361, 75.0, -34.51976300289366)
-[06:22:01] [Server thread/INFO]: [Server] Welcome back, RhinoDude980
-[06:22:01] [Server thread/INFO]: [CONSOLE->RhinoDude980] Hey there, RhinoDude980!
-[06:22:01] [Server thread/INFO]: [CONSOLE->RhinoDude980] Welcome to Mineapple
-[06:22:14] [Async Chat Thread - #0/INFO]: <RhinoDude980> hi man
-[06:22:24] [Async Chat Thread - #0/INFO]: <Chico121212> good morning
-[06:23:04] [Async Chat Thread - #0/INFO]: <RhinoDude980> u can get mending books n diamond pickaxes at the shop!
-[06:23:16] [Async Chat Thread - #0/INFO]: <RhinoDude980> sleep
-[06:23:18] [Async Chat Thread - #0/INFO]: <Chico121212> i know
-[06:24:07] [Async Chat Thread - #0/INFO]: <Chico121212> how can I get some emeralds
-[06:24:28] [Async Chat Thread - #0/INFO]: <RhinoDude980> cell weat carrots n potatos to the farner
-[06:24:37] [Async Chat Thread - #0/INFO]: <Chico121212> ok
-[06:24:38] [Async Chat Thread - #0/INFO]: <RhinoDude980> farmer*
-[06:24:54] [Async Chat Thread - #0/INFO]: <Chico121212> I found a endrod
-[06:25:03] [Async Chat Thread - #0/INFO]: <RhinoDude980> how?
-[06:25:24] [Async Chat Thread - #0/INFO]: <Chico121212> I found in the middle of nowfere
-[06:25:32] [Async Chat Thread - #0/INFO]: <RhinoDude980> ok
-[06:27:50] [Async Chat Thread - #1/INFO]: <RhinoDude980> replant
-[06:27:55] [Async Chat Thread - #1/INFO]: <Chico121212> ok
-[06:28:23] [Async Chat Thread - #1/INFO]: <RhinoDude980> we need more farms
-[06:28:30] [Async Chat Thread - #1/INFO]: <Chico121212> tes
-[06:28:48] [Async Chat Thread - #1/INFO]: <RhinoDude980> we will get ricH!!!
-[06:29:10] [Async Chat Thread - #1/INFO]: <RhinoDude980> got a hoe?
-[06:29:18] [Async Chat Thread - #1/INFO]: <Chico121212> yes
-[06:29:40] [Async Chat Thread - #1/INFO]: <RhinoDude980> come here
-[06:29:47] [Async Chat Thread - #1/INFO]: <Chico121212> ok
-[06:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[06:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[06:30:00] [Server thread/INFO]: Saving...
-[06:30:00] [Server thread/INFO]: Saved the world
-[06:30:00] [Server thread/INFO]: [Server] Save Complete
-[06:30:00] [Async Chat Thread - #1/INFO]: <RhinoDude980> ok
-[06:32:26] [Async Chat Thread - #2/INFO]: <RhinoDude980> do u got diamond tools?
-[06:32:47] [Async Chat Thread - #2/INFO]: <Chico121212> yea
-[06:32:52] [Async Chat Thread - #2/INFO]: <RhinoDude980> what?
-[06:33:05] [Async Chat Thread - #2/INFO]: <Chico121212> a swors and a pickaxe
-[06:33:10] [Async Chat Thread - #2/INFO]: <RhinoDude980> i got a pick
-[06:33:17] [Async Chat Thread - #2/INFO]: <RhinoDude980> ill do more mining
-[06:33:20] [Async Chat Thread - #2/INFO]: <Chico121212> nice
-[06:33:27] [Async Chat Thread - #2/INFO]: <RhinoDude980> need furtune
-[06:33:36] [Async Chat Thread - #2/INFO]: <Chico121212> yes
-[06:34:33] [Async Chat Thread - #2/INFO]: <RhinoDude980> olso n iron sword n a bow
-[06:34:39] [Async Chat Thread - #2/INFO]: <RhinoDude980> sleep
-[06:34:42] [Async Chat Thread - #2/INFO]: <Chico121212> yes
-[06:35:18] [Async Chat Thread - #2/INFO]: <RhinoDude980> ?
-[06:35:56] [Async Chat Thread - #2/INFO]: <RhinoDude980> r u sleeping?
-[06:36:24] [Async Chat Thread - #2/INFO]: <Chico121212> I went trading with the farmer
-[06:36:40] [Async Chat Thread - #2/INFO]: <RhinoDude980> ok but sleep
-[06:36:46] [Async Chat Thread - #2/INFO]: <RhinoDude980> ok
-[06:42:01] [Async Chat Thread - #3/INFO]: <RhinoDude980> what did u get?
-[06:42:14] [Async Chat Thread - #3/INFO]: <Chico121212> 7 emeralds
-[06:42:20] [Async Chat Thread - #3/INFO]: <RhinoDude980> ok
-[06:42:28] [Async Chat Thread - #3/INFO]: <RhinoDude980> help me make a farm
-[06:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[06:45:00] [Server thread/INFO]: Saving...
-[06:45:00] [Server thread/INFO]: Saved the world
-[06:45:00] [Server thread/INFO]: [Server] Save Complete
-[06:49:30] [Async Chat Thread - #4/INFO]: <RhinoDude980> ok sleep
-[06:50:22] [Async Chat Thread - #4/INFO]: <RhinoDude980> this will be wheat n potatos
-[06:50:35] [Async Chat Thread - #4/INFO]: <Chico121212> and carrots
-[06:54:26] [Async Chat Thread - #5/INFO]: <RhinoDude980> nx
-[06:54:40] [Async Chat Thread - #5/INFO]: <RhinoDude980> tnx*
-[06:54:47] [Async Chat Thread - #5/INFO]: <Chico121212> np
-[06:56:02] [Async Chat Thread - #6/INFO]: <RhinoDude980> do u got ouk log?
-[06:56:11] [Async Chat Thread - #6/INFO]: <RhinoDude980> oak*
-[06:56:23] [Async Chat Thread - #6/INFO]: <Chico121212> chopping trees
-[06:59:57] [Async Chat Thread - #7/INFO]: <RhinoDude980> sleep
-[07:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[07:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[07:00:00] [Server thread/INFO]: Saving...
-[07:00:07] [Server thread/INFO]: Saved the world
-[07:00:07] [Server thread/INFO]: [Server] Save Complete
-[07:00:07] [Server thread/WARN]: RhinoDude980 moved too quickly! -5.781365082071375,-2.495200877005928,13.944805940755927
-[07:00:14] [Server thread/INFO]: Chico121212 issued server command: /home
-[07:00:23] [Async Chat Thread - #7/INFO]: <RhinoDude980> where r u?
-[07:00:40] [Async Chat Thread - #7/INFO]: <Chico121212> in my home sleeping
-[07:03:39] [Server thread/INFO]: Chico121212 issued server command: /afk
-[07:03:51] [Server thread/INFO]: Chico121212 issued server command: /afk
-[07:03:57] [Async Chat Thread - #8/INFO]: <Chico121212> brb
-[07:03:59] [Server thread/INFO]: Chico121212 lost connection: Disconnected
-[07:03:59] [Server thread/INFO]: Chico121212 left the game
-[07:12:20] [User Authenticator #3/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
-[07:12:20] [Server thread/INFO]: Chico121212[/179.218.69.229:49973] logged in with entity id 25554 at ([world]-73.94211364478676, 64.0, 251.4506455104816)
-[07:12:20] [Server thread/INFO]: [Server] Welcome back, Chico121212
-[07:12:20] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
-[07:12:20] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
-[07:12:34] [Async Chat Thread - #9/INFO]: <Chico121212> back
-[07:12:48] [Async Chat Thread - #9/INFO]: <RhinoDude980> im going mining
-[07:12:54] [Async Chat Thread - #9/INFO]: <RhinoDude980> sleep
-[07:13:22] [Async Chat Thread - #9/INFO]: <RhinoDude980> sleep
-[07:13:28] [Async Chat Thread - #9/INFO]: <Chico121212> ok
-[07:13:33] [Server thread/INFO]: Chico121212 issued server command: /home
-[07:14:43] [Async Chat Thread - #10/INFO]: <RhinoDude980> do u got silk tuoch?
-[07:14:50] [Async Chat Thread - #10/INFO]: <Chico121212> no
-[07:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[07:15:00] [Server thread/INFO]: Saving...
-[07:15:00] [Server thread/INFO]: Saved the world
-[07:15:00] [Server thread/INFO]: [Server] Save Complete
-[07:15:31] [Async Chat Thread - #10/INFO]: <RhinoDude980> i need to move that ender chest
-[07:15:42] [Async Chat Thread - #10/INFO]: <Chico121212> ok
-[07:15:56] [Async Chat Thread - #10/INFO]: <Chico121212> how did u get the enderchest
-[07:15:58] [Async Chat Thread - #10/INFO]: <RhinoDude980> do u got blaze?
-[07:16:09] [Async Chat Thread - #10/INFO]: <Chico121212> no
-[07:17:22] [Async Chat Thread - #11/INFO]: <RhinoDude980> waa?
-[07:17:27] [Async Chat Thread - #11/INFO]: <RhinoDude980> lol
-[07:17:36] [Async Chat Thread - #11/INFO]: <Chico121212> its 4 u
-[07:18:01] [Async Chat Thread - #11/INFO]: <RhinoDude980> ok
-[07:19:18] [Async Chat Thread - #12/INFO]: <RhinoDude980> where r u?
-[07:19:46] [Async Chat Thread - #12/INFO]: <Chico121212> in my home making torches
-[07:19:56] [Async Chat Thread - #12/INFO]: <RhinoDude980> bring wood
-[07:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[07:20:06] [Async Chat Thread - #12/INFO]: <Chico121212> ok
-[07:20:29] [Async Chat Thread - #12/INFO]: <RhinoDude980> n a water bucket
-[07:22:36] [Async Chat Thread - #13/INFO]: <RhinoDude980> get obsidian for an ender chest
-[07:22:46] [Async Chat Thread - #13/INFO]: <Chico121212> ok
-[07:23:59] [Async Chat Thread - #14/INFO]: <RhinoDude980> do strip mining
-[07:24:12] [Async Chat Thread - #14/INFO]: <Chico121212> wut is strip mining
-[07:24:34] [Async Chat Thread - #14/INFO]: <RhinoDude980> come to me
-[07:24:40] [Async Chat Thread - #14/INFO]: <Chico121212> ok
-[07:25:05] [Async Chat Thread - #14/INFO]: <RhinoDude980> im in the chest room
-[07:25:22] [Async Chat Thread - #14/INFO]: <Chico121212> k
-[07:26:11] [Async Chat Thread - #14/INFO]: <RhinoDude980> 1 sec
-[07:26:33] [Async Chat Thread - #14/INFO]: <RhinoDude980> mine shrigt here
-[07:26:41] [Async Chat Thread - #14/INFO]: <Chico121212> ok
-[07:26:59] [Async Chat Thread - #14/INFO]: <RhinoDude980> on Y level 10
-[07:27:14] [Async Chat Thread - #14/INFO]: <Chico121212> lvl 5
-[07:27:33] [Async Chat Thread - #14/INFO]: <RhinoDude980> on Y
-[07:27:45] [Async Chat Thread - #14/INFO]: <RhinoDude980> do f3
-[07:27:49] [Async Chat Thread - #14/INFO]: <Chico121212> on 8
-[07:28:09] [Async Chat Thread - #14/INFO]: <RhinoDude980> stay on Y lvl10
-[07:28:23] [Async Chat Thread - #14/INFO]: <RhinoDude980> its the best im trust me
-[07:28:28] [Async Chat Thread - #14/INFO]: <Chico121212> I am on 10
-[07:28:33] [Async Chat Thread - #14/INFO]: <RhinoDude980> ok ok
-[07:29:16] [Async Chat Thread - #14/INFO]: <RhinoDude980> then turn 4 blocks n mine back
-[07:29:28] [Async Chat Thread - #14/INFO]: <Chico121212> ok
-[07:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[07:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[07:30:00] [Server thread/INFO]: Saving...
-[07:30:00] [Server thread/INFO]: Saved the world
-[07:30:00] [Server thread/INFO]: [Server] Save Complete
-[07:30:28] [Async Chat Thread - #14/INFO]: <RhinoDude980> all ways have wood n water
-[07:31:13] [Server thread/INFO]: CONSOLE issued server command: /w Chico121212 You better be behaving yourself today. 
-[07:31:13] [Server thread/INFO]: [me -> Chico121212] You better be behaving yourself today. 
-[07:31:25] [Async Chat Thread - #14/INFO]: <RhinoDude980> do here
-[07:32:08] [Server thread/INFO]: Chico121212 issued server command: /msg send
-[07:32:21] [Async Chat Thread - #14/INFO]: <RhinoDude980> omg!!
-[07:32:31] [Server thread/INFO]: CONSOLE issued server command: /lightning 
-[07:32:31] [Server thread/INFO]: Error: 0
-[07:32:34] [Async Chat Thread - #14/INFO]: <RhinoDude980> im such a nooob haha lol
-[07:32:38] [Server thread/INFO]: Chico121212 issued server command: /msg Console I am respecting
-[07:32:38] [Server thread/INFO]: [Chico121212 -> me] I am respecting
-[07:32:52] [Async Chat Thread - #14/INFO]: <RhinoDude980> mine here dude
-[07:33:00] [Server thread/INFO]: CONSOLE issued server command: /w chico good lad
-[07:33:00] [Server thread/INFO]: [me -> Chico121212] good lad
-[07:33:03] [Async Chat Thread - #14/INFO]: <RhinoDude980> no
-[07:33:43] [Server thread/INFO]: CONSOLE issued server command: /lightning rhi
-[07:33:43] [Server thread/INFO]: Smiting RhinoDude980
-[07:33:44] [Async Chat Thread - #14/INFO]: <RhinoDude980> when u fined
-[07:33:52] [Async Chat Thread - #14/INFO]: <Chico121212> redstone
-[07:34:26] [Async Chat Thread - #14/INFO]: <RhinoDude980> when u find somethin good turn 4 blocks left n mine bacl
-[07:34:36] [Async Chat Thread - #14/INFO]: <Chico121212> ok
-[07:34:38] [Async Chat Thread - #14/INFO]: <RhinoDude980> bach*
-[07:34:45] [Async Chat Thread - #14/INFO]: <RhinoDude980> back**
-[07:35:09] [Async Chat Thread - #14/INFO]: <Chico121212> can I repair my pic
-[07:35:13] [Async Chat Thread - #14/INFO]: <RhinoDude980> this is the best way to mine
-[07:35:19] [Async Chat Thread - #14/INFO]: <RhinoDude980> yeah
-[07:35:23] [Async Chat Thread - #14/INFO]: <Chico121212> yea
-[07:35:29] [Server thread/INFO]: CONSOLE issued server command: /mob skeleton 2 rh
-[07:35:29] [Server thread/INFO]: 2 skeletons spawned
-[07:35:39] [Async Chat Thread - #14/INFO]: <Chico121212> null
-[07:35:49] [Async Chat Thread - #14/INFO]: <RhinoDude980> waa?
-[07:35:55] [Async Chat Thread - #14/INFO]: <Chico121212> skeletons with boots
-[07:36:00] [Async Chat Thread - #14/INFO]: <RhinoDude980> wal is that u?
-[07:36:26] [Async Chat Thread - #14/INFO]: <RhinoDude980> combie 2 picks in n anvil
-[07:36:44] [Async Chat Thread - #14/INFO]: <Chico121212> Its a black player
-[07:36:56] [Async Chat Thread - #14/INFO]: <RhinoDude980> what?
-[07:37:32] [Async Chat Thread - #14/INFO]: <Chico121212> he spawns skeletons and zombies with boots
-[07:37:44] [Async Chat Thread - #14/INFO]: <RhinoDude980> a troll?
-[07:37:57] [Async Chat Thread - #14/INFO]: <Chico121212> and a myth
-[07:38:04] [Async Chat Thread - #14/INFO]: <RhinoDude980> haha
-[07:38:04] [Server thread/INFO]: [Server] was testing something. sorry
-[07:38:27] [Server thread/INFO]: [Server] turns out i can torture you from work with my mobile
-[07:38:37] [Async Chat Thread - #14/INFO]: <RhinoDude980> what?
-[07:38:40] [Server thread/INFO]: [Server] but i won't.
-[07:38:52] [Async Chat Thread - #14/INFO]: <RhinoDude980> who is this?
-[07:38:57] [Async Chat Thread - #14/INFO]: <Chico121212> oh no
-[07:39:01] [Async Chat Thread - #14/INFO]: <Chico121212> null
-[07:39:05] [Async Chat Thread - #14/INFO]: <Chico121212> RUUUUUUUn
-[07:39:09] [Server thread/INFO]: [Server] I am god
-[07:39:17] [Async Chat Thread - #14/INFO]: <RhinoDude980> ok god
-[07:39:23] [Async Chat Thread - #14/INFO]: <RhinoDude980> be good to us
-[07:39:37] [Async Chat Thread - #14/INFO]: <Chico121212> we did nothing to u
-[07:39:51] [Server thread/INFO]: [Server] as long as you're both good. ill be nice
-[07:40:01] [Server thread/INFO]: CONSOLE issued server command: /me winks at chico
-[07:40:01] [Server thread/INFO]: * @ winks at chico
-[07:41:58] [Async Chat Thread - #15/INFO]: <Chico121212> god
-[07:42:57] [Async Chat Thread - #15/INFO]: <Chico121212> can we try to find blazes
-[07:43:09] [Async Chat Thread - #15/INFO]: <Chico121212> brb
-[07:43:10] [Server thread/INFO]: Chico121212 lost connection: Disconnected
-[07:43:10] [Server thread/INFO]: Chico121212 left the game
-[07:44:18] [Server thread/INFO]: CONSOLE issued server command: /mob creeper 1 rhi
-[07:44:18] [Server thread/INFO]: 1 creepers spawned
-[07:44:52] [Async Chat Thread - #16/INFO]: <RhinoDude980> server?
-[07:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[07:45:00] [Server thread/INFO]: Saving...
-[07:45:00] [Server thread/INFO]: Saved the world
-[07:45:00] [Server thread/INFO]: [Server] Save Complete
-[07:54:45] [User Authenticator #4/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
-[07:54:46] [Server thread/INFO]: DrizzlyOwl[/176.27.13.83:58711] logged in with entity id 39830 at ([world]-50.03978172645343, 68.0, 217.00293027186282)
-[07:54:46] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
-[07:54:46] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Hey there, DrizzlyOwl!
-[07:54:46] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Welcome to Mineapple
-[07:54:52] [Async Chat Thread - #17/INFO]: <RhinoDude980> hi
-[07:54:53] [Async Chat Thread - #17/INFO]: <DrizzlyOwl> Hello everyone.
-[07:55:03] [Async Chat Thread - #17/INFO]: <DrizzlyOwl> I see Walshy has been tormenting you :)
-[07:55:15] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 1
-[07:55:15] [Async Chat Thread - #17/INFO]: <RhinoDude980> hehe
-[07:55:41] [Async Chat Thread - #17/INFO]: <RhinoDude980> can u give me the seed plz i want to find a slime chanck
-[07:56:00] [Server thread/INFO]: DrizzlyOwl issued server command: /seed
-[07:56:04] [Async Chat Thread - #17/INFO]: <DrizzlyOwl> Can you use /seed?
-[07:56:57] [Server thread/INFO]: RhinoDude980 issued server command: /seed
-[07:57:00] [Async Chat Thread - #17/INFO]: <RhinoDude980> no
-[07:57:08] [Async Chat Thread - #17/INFO]: <DrizzlyOwl> OK then I'll message you
-[07:57:09] [Server thread/INFO]: DrizzlyOwl issued server command: /seed
-[07:57:14] [Async Chat Thread - #17/INFO]: <RhinoDude980> tnx
-[07:57:20] [Async Chat Thread - #17/INFO]: <DrizzlyOwl> -3820634467636136119
-[07:58:38] [Server thread/INFO]: DrizzlyOwl issued server command: /clea
-[07:58:39] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[07:59:16] [Server thread/INFO]: DrizzlyOwl issued server command: /item farmland
-[07:59:41] [Async Chat Thread - #18/INFO]: <RhinoDude980> can u come to my mine for a sec/
-[07:59:43] [Async Chat Thread - #18/INFO]: <RhinoDude980> ?
-[07:59:53] [Async Chat Thread - #18/INFO]: <DrizzlyOwl> one sec
-[08:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[08:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[08:00:00] [Server thread/INFO]: Saving...
-[08:00:00] [Server thread/INFO]: Saved the world
-[08:00:00] [Server thread/INFO]: [Server] Save Complete
-[08:00:31] [Async Chat Thread - #18/INFO]: <RhinoDude980> there is an ender chest there, cam u poot it in the mine's chest room?
-[08:00:36] [Async Chat Thread - #18/INFO]: <RhinoDude980> can*
-[08:00:53] [Async Chat Thread - #18/INFO]: <RhinoDude980> dont tp me
-[08:00:58] [Server thread/INFO]: DrizzlyOwl issued server command: /tp RhinoDude980
-[08:01:06] [Server thread/INFO]: DrizzlyOwl issued server command: /back
-[08:01:57] [Async Chat Thread - #19/INFO]: <RhinoDude980> r u coming?
-[08:02:01] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> ok
-[08:02:02] [Server thread/INFO]: DrizzlyOwl issued server command: /tp RhinoDude980
-[08:02:04] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> i'm here
-[08:02:22] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> this way?
-[08:02:23] [User Authenticator #5/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
-[08:02:23] [Server thread/INFO]: Chico121212[/179.218.69.229:50019] logged in with entity id 43917 at ([world]-179.46160861569302, 69.0, 64.2625238600979)
-[08:02:23] [Server thread/INFO]: [Server] Welcome back, Chico121212
-[08:02:23] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
-[08:02:23] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
-[08:02:30] [Async Chat Thread - #19/INFO]: <RhinoDude980> go yo the top n get the ender chest
-[08:02:41] [Async Chat Thread - #19/INFO]: <Chico121212> back
-[08:02:42] [Server thread/INFO]: DrizzlyOwl issued server command: /top
-[08:02:45] [Server thread/INFO]: DrizzlyOwl issued server command: /back
-[08:02:47] [Async Chat Thread - #19/INFO]: <Chico121212> where
-[08:02:49] [Async Chat Thread - #19/INFO]: <RhinoDude980> poot it in the chest room
-[08:02:55] [Async Chat Thread - #19/INFO]: <RhinoDude980> not u chico
-[08:02:55] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> you need to show me where it is mate
-[08:03:03] [Async Chat Thread - #19/INFO]: <Chico121212> oh
-[08:03:20] [Async Chat Thread - #19/INFO]: <RhinoDude980> coming
-[08:03:23] [Server thread/INFO]: DrizzlyOwl issued server command: /tp RhinoDude980
-[08:03:28] [Server thread/INFO]: DrizzlyOwl issued server command: /speed RhinoDude980 2
-[08:03:35] [Server thread/INFO]: DrizzlyOwl issued server command: /speed running RhinoDude980 2
-[08:03:37] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> this might help
-[08:03:42] [Server thread/INFO]: DrizzlyOwl issued server command: /speed walking 2 RhinoDude980
-[08:03:54] [Server thread/INFO]: DrizzlyOwl issued server command: /speed 2
-[08:04:00] [Async Chat Thread - #19/INFO]: <RhinoDude980> here
-[08:04:07] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[08:04:09] [Async Chat Thread - #19/INFO]: <Chico121212> brb
-[08:04:10] [Server thread/INFO]: Chico121212 lost connection: Disconnected
-[08:04:10] [Server thread/INFO]: Chico121212 left the game
-[08:04:16] [Async Chat Thread - #19/INFO]: <RhinoDude980> can u give it to me
-[08:04:24] [Async Chat Thread - #19/INFO]: <RhinoDude980> tnx
-[08:04:25] [Server thread/INFO]: DrizzlyOwl issued server command: /chest
-[08:04:26] [Server thread/INFO]: DrizzlyOwl issued server command: /ender
-[08:04:29] [Server thread/INFO]: DrizzlyOwl issued server command: /enderchest
-[08:04:38] [Server thread/INFO]: DrizzlyOwl issued server command: /home
-[08:04:40] [Server thread/INFO]: DrizzlyOwl issued server command: /top
-[08:05:11] [Server thread/INFO]: DrizzlyOwl issued server command: /item seed
-[08:05:42] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[08:06:07] [User Authenticator #6/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
-[08:06:07] [Server thread/INFO]: Chico121212[/179.218.69.229:50028] logged in with entity id 47417 at ([world]-143.0754582459441, 70.0, -49.751823608305656)
-[08:06:07] [Server thread/INFO]: [Server] Welcome back, Chico121212
-[08:06:07] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
-[08:06:07] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
-[08:06:16] [Server thread/INFO]: DrizzlyOwl issued server command: /item farm
-[08:06:17] [Async Chat Thread - #20/INFO]: <Chico121212> bacck
-[08:06:18] [Server thread/INFO]: DrizzlyOwl issued server command: /item soil 2
-[08:06:27] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[08:06:30] [Async Chat Thread - #20/INFO]: <RhinoDude980> where r u goin all the time?
-[08:07:11] [Server thread/INFO]: Chico121212 has just earned the achievement [We Need to Go Deeper]
-[08:07:12] [Server thread/WARN]: Chico121212 moved too quickly! 142.4966468521976,-2.0,84.50884816158039
-[08:07:24] [Async Chat Thread - #20/INFO]: <RhinoDude980> i found 12 diamonds so far
-[08:07:32] [Server thread/INFO]: DrizzlyOwl issued server command: /item seed
-[08:07:34] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[08:07:43] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> Who built that house by you guys
-[08:07:44] [Server thread/INFO]: DrizzlyOwl issued server command: /tp Chico121212
-[08:07:54] [Async Chat Thread - #20/INFO]: <RhinoDude980> what?
-[08:07:57] [Async Chat Thread - #20/INFO]: <RhinoDude980> house?
-[08:08:01] [Async Chat Thread - #20/INFO]: <Chico121212> its ghast proof
-[08:08:12] [Async Chat Thread - #20/INFO]: <RhinoDude980> oh thats chico
-[08:08:13] [Async Chat Thread - #20/INFO]: <Chico121212> ghast destroy portals
-[08:08:14] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> chico did you build that farm house in the overworld
-[08:08:22] [Server thread/INFO]: DrizzlyOwl issued server command: /world 1
-[08:08:24] [Async Chat Thread - #20/INFO]: <RhinoDude980> no me
-[08:08:25] [Server thread/INFO]: DrizzlyOwl issued server command: /world
-[08:08:29] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> awesome
-[08:08:32] [Async Chat Thread - #20/INFO]: <RhinoDude980> tnx
-[08:08:55] [Async Chat Thread - #20/INFO]: <RhinoDude980> i can help u build spawn
-[08:09:07] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> would you like to?
-[08:09:15] [Async Chat Thread - #20/INFO]: <RhinoDude980> i dont care
-[08:09:23] [Async Chat Thread - #20/INFO]: <RhinoDude980> yeah
-[08:09:44] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> I could do with your building stylw
-[08:09:46] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> *styl
-[08:09:50] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> ffs.. *style
-[08:10:25] [Server thread/INFO]: DrizzlyOwl lost connection: Disconnected
-[08:10:25] [Server thread/INFO]: DrizzlyOwl left the game
-[08:10:53] [Server thread/INFO]: Chico121212 issued server command: /home
-[08:10:59] [Server thread/INFO]: CONSOLE issued server command: /w RhinoDude980 do you have skype?
-[08:10:59] [Server thread/INFO]: [me -> RhinoDude980] do you have skype?
-[08:11:16] [Async Chat Thread - #21/INFO]: <RhinoDude980> me?
-[08:11:21] [Server thread/INFO]: [Server] yeah
-[08:11:38] [Async Chat Thread - #21/INFO]: <RhinoDude980> oh it Drizz
-[08:11:42] [Async Chat Thread - #21/INFO]: <RhinoDude980> yeah
-[08:12:06] [Server thread/INFO]: [Server] add me DrizzlyOwl
-[08:12:31] [Async Chat Thread - #21/INFO]: <RhinoDude980> not now
-[08:12:36] [Server thread/INFO]: [Server] no problem
-[08:12:45] [Async Chat Thread - #21/INFO]: <RhinoDude980> make it day
-[08:13:03] [Async Chat Thread - #21/INFO]: <RhinoDude980> n cancel my speed
-[08:13:14] [Server thread/INFO]: Chico121212 issued server command: /
-[08:14:09] [Server thread/INFO]: CONSOLE issued server command: /payoff 
-[08:14:09] [Server thread/INFO]: Error: Only in-game players can use payoff.
-[08:14:17] [Server thread/INFO]: CONSOLE issued server command: /speed walking rhinodude980 1
-[08:14:17] [Server thread/INFO]: Change your speed limits.
-[08:14:17] [Server thread/INFO]: /speed [type] <speed> [player]
-[08:14:22] [Server thread/INFO]: CONSOLE issued server command: /speed walking 1 rhino
-[08:14:22] [Server thread/INFO]: Set walking speed to 1 for RhinoDude980.
-[08:14:26] [Server thread/INFO]: CONSOLE issued server command: /day 
-[08:14:26] [Server thread/INFO]: The time was set to 06:00 or 6:00 AM or 0ticks in: world, world_nether, world_the_end.
-[08:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[08:15:00] [Server thread/INFO]: Saving...
-[08:15:00] [Server thread/INFO]: Saved the world
-[08:15:00] [Server thread/INFO]: [Server] Save Complete
-[08:15:07] [Server thread/INFO]: Chico121212 issued server command: /msg penderiffic hey want to join
-[08:16:06] [Server thread/INFO]: Chico121212 issued server command: /msg DrizzlyOwl can I put armorstands
-[08:16:46] [Server thread/INFO]: Chico121212 issued server command: /msg
-[08:17:14] [Async Chat Thread - #22/INFO]: <RhinoDude980> chico help me harvest the the crops
-[08:17:18] [Async Chat Thread - #22/INFO]: <Chico121212> ok
-[08:17:29] [Server thread/INFO]: CONSOLE issued server command: /msg Chico if you can build them in survival, sure
-[08:17:29] [Server thread/INFO]: [me -> Chico121212] if you can build them in survival, sure
-[08:18:47] [Async Chat Thread - #23/INFO]: <RhinoDude980> take
-[08:19:09] [Async Chat Thread - #23/INFO]: <RhinoDude980> take this
-[08:19:13] [Async Chat Thread - #23/INFO]: <Chico121212> ok
-[08:19:18] [Async Chat Thread - #23/INFO]: <RhinoDude980> come here
-[08:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[08:21:03] [Async Chat Thread - #24/INFO]: <Chico121212> rhino
-[08:21:09] [Async Chat Thread - #24/INFO]: <RhinoDude980> yeah
-[08:21:16] [Async Chat Thread - #24/INFO]: <Chico121212> lets try to find blazes
-[08:21:32] [Async Chat Thread - #24/INFO]: <RhinoDude980> i want to tarde first
-[08:21:38] [Async Chat Thread - #24/INFO]: <Chico121212> ok
-[08:22:16] [Async Chat Thread - #24/INFO]: <RhinoDude980> get Aqua Affinity
-[08:22:28] [Server thread/INFO]: Chico121212 issued server command: /msg Console can you help us to find blazes
-[08:22:28] [Server thread/INFO]: [Chico121212 -> me] can you help us to find blazes
-[08:23:49] [Async Chat Thread - #25/INFO]: <RhinoDude980> lets make a slime farm
-[08:23:55] [Async Chat Thread - #25/INFO]: <Chico121212> sure
-[08:24:35] [Async Chat Thread - #25/INFO]: <RhinoDude980> i got the seed ill poot it in "mineatlas"
-[08:25:31] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:25:59] [Server thread/INFO]: Chico121212 issued server command: /home
-[08:26:02] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:33] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:34] [Async Chat Thread - #25/INFO]: <RhinoDude980> i got the seed ill poot it in "mineatlas"
-[08:26:38] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:41] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:42] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:43] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:44] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:46] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:47] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:48] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
-[08:26:52] [Async Chat Thread - #25/INFO]: <RhinoDude980> jk
-[08:27:10] [Async Chat Thread - #25/INFO]: <Chico121212> there is a zombie next to me
-[08:28:18] [Async Chat Thread - #26/INFO]: <RhinoDude980> creeper
-[08:28:58] [Async Chat Thread - #26/INFO]: <RhinoDude980> go go
-[08:29:44] [Async Chat Thread - #26/INFO]: <RhinoDude980> ok
-[08:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[08:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[08:30:00] [Server thread/INFO]: Saving...
-[08:30:00] [Server thread/INFO]: Saved the world
-[08:30:00] [Server thread/INFO]: [Server] Save Complete
-[08:30:12] [Async Chat Thread - #26/INFO]: <RhinoDude980> replant dude
-[08:30:27] [Async Chat Thread - #26/INFO]: <Chico121212> ok
-[08:32:29] [Async Chat Thread - #27/INFO]: <RhinoDude980> im goin to spwn
-[08:33:23] [Async Chat Thread - #27/INFO]: <RhinoDude980> give me your crops
-[08:33:33] [Async Chat Thread - #27/INFO]: <Chico121212> meet me in the nether
-[08:33:41] [Async Chat Thread - #27/INFO]: <RhinoDude980> why?
-[08:33:54] [Async Chat Thread - #27/INFO]: <RhinoDude980> give me your crops
-[08:34:05] [Async Chat Thread - #27/INFO]: <Chico121212> I relanted all
-[08:34:16] [Async Chat Thread - #27/INFO]: <RhinoDude980> im goin to trade
-[08:34:23] [Async Chat Thread - #27/INFO]: <Chico121212> ok
-[08:34:36] [Server thread/WARN]: Chico121212 moved too quickly! 142.53364688156034,-2.0,84.42867703357489
-[08:34:40] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.42730723175893,-2.0,84.49009709043065
-[08:34:54] [Async Chat Thread - #27/INFO]: <RhinoDude980> give me your crops
-[08:34:57] [Async Chat Thread - #27/INFO]: <Chico121212> lets find blazeds
-[08:35:19] [Async Chat Thread - #27/INFO]: <RhinoDude980> look out
-[08:35:25] [Async Chat Thread - #27/INFO]: <Chico121212> I replanted the rest of the crops
-[08:35:31] [Server thread/INFO]: Chico121212 issued server command: /home
-[08:35:33] [Async Chat Thread - #27/INFO]: <RhinoDude980> give meee
-[08:35:39] [Async Chat Thread - #27/INFO]: <Chico121212> ok ok
-[08:35:44] [Server thread/INFO]: Chico121212 issued server command: /home
-[08:36:00] [Server thread/WARN]: RhinoDude980 moved too quickly! -35.87761217416309,7.0,224.97896470819592
-[08:36:17] [Async Chat Thread - #27/INFO]: <RhinoDude980> is it in your chest?
-[08:36:28] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[08:36:44] [Async Chat Thread - #27/INFO]: <Chico121212> yea
-[08:37:41] [Async Chat Thread - #27/INFO]: <RhinoDude980> im goin to spawn
-[08:37:46] [Async Chat Thread - #27/INFO]: <Chico121212> ok
-[08:37:53] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.75754153880544,-2.0,84.40808449842419
-[08:38:05] [Server thread/WARN]: Chico121212 moved too quickly! 7.240317779992637,0.0,-12.161656841664573
-[08:38:06] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.55820447284188,7.0,224.9380176180226
-[08:38:18] [Async Chat Thread - #27/INFO]: <RhinoDude980> use the portal
-[08:38:23] [Async Chat Thread - #27/INFO]: <Chico121212> ok
-[08:39:23] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[08:40:16] [Server thread/WARN]: RhinoDude980 moved too quickly! 143.2140924479302,-2.0,84.16237423182906
-[08:40:25] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.66103883117759,7.0,224.93675577545957
-[08:40:40] [Async Chat Thread - #28/INFO]: <RhinoDude980> do /home to get home
-[08:40:47] [Server thread/INFO]: Chico121212 issued server command: /home
-[08:40:52] [Async Chat Thread - #28/INFO]: <Chico121212> I know
-[08:40:55] [Async Chat Thread - #28/INFO]: <RhinoDude980> k
-[08:41:01] [Async Chat Thread - #28/INFO]: <Chico121212> brb
-[08:41:04] [Server thread/INFO]: Chico121212 lost connection: Disconnected
-[08:41:04] [Server thread/INFO]: Chico121212 left the game
-[08:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[08:45:00] [Server thread/INFO]: Saving...
-[08:45:00] [Server thread/INFO]: Saved the world
-[08:45:00] [Server thread/INFO]: [Server] Save Complete
-[08:45:56] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[08:48:29] [User Authenticator #7/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
-[08:48:29] [Server thread/INFO]: Chico121212[/179.218.69.229:50040] logged in with entity id 68408 at ([world]-140.5, 70.0, -60.5)
-[08:48:29] [Server thread/INFO]: [Server] Welcome back, Chico121212
-[08:48:29] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
-[08:48:29] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
-[08:48:41] [Async Chat Thread - #29/INFO]: <Chico121212> back
-[08:48:45] [Async Chat Thread - #29/INFO]: <RhinoDude980> hi
-[08:49:17] [Async Chat Thread - #29/INFO]: <RhinoDude980> lets go find blase
-[08:49:23] [Async Chat Thread - #29/INFO]: <Chico121212> yea
-[08:49:49] [Async Chat Thread - #29/INFO]: <RhinoDude980> dont spam
-[08:49:59] [Async Chat Thread - #29/INFO]: <Chico121212> ok
-[08:50:17] [Async Chat Thread - #29/INFO]: <RhinoDude980> get the flash to sell to the clerc
-[08:50:20] [Server thread/WARN]: Chico121212 moved too quickly! 142.7466468108366,-2.0,83.83809017107896
-[08:50:35] [Async Chat Thread - #29/INFO]: <Chico121212> ok
-[08:50:40] [Server thread/INFO]: Chico121212 issued server command: /home
-[08:50:40] [Async Chat Thread - #29/INFO]: <RhinoDude980> 1 sec
-[08:51:13] [Async Chat Thread - #29/INFO]: <RhinoDude980> get tuorches
-[08:51:22] [Async Chat Thread - #29/INFO]: <Chico121212> yes
-[08:51:29] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.59603557236358,-2.0,84.31045911636198
-[08:52:17] [Async Chat Thread - #29/INFO]: <RhinoDude980> the portal is at 3/37
-[08:52:29] [Server thread/WARN]: Chico121212 moved too quickly! 141.75902419890656,-2.0,85.19999998807907
-[08:53:17] [Async Chat Thread - #30/INFO]: <Chico121212> Rhino
-[08:53:22] [Async Chat Thread - #30/INFO]: <RhinoDude980> yeah
-[08:53:27] [Async Chat Thread - #30/INFO]: <Chico121212> where are you
-[08:53:50] [Async Chat Thread - #30/INFO]: <RhinoDude980> getting xp
-[08:53:59] [Async Chat Thread - #30/INFO]: <Chico121212> ok
-[08:54:43] [Async Chat Thread - #30/INFO]: <Chico121212> take an enderchest
-[08:54:52] [Async Chat Thread - #30/INFO]: <RhinoDude980> i dont have
-[08:55:01] [Async Chat Thread - #30/INFO]: <Chico121212> ok
-[08:55:36] [Async Chat Thread - #30/INFO]: <RhinoDude980> got a pearl
-[08:55:42] [Async Chat Thread - #30/INFO]: <Chico121212> no
-[08:55:49] [Async Chat Thread - #30/INFO]: <RhinoDude980> what?
-[08:56:11] [Async Chat Thread - #30/INFO]: <Chico121212> I dint have one
-[08:56:21] [Async Chat Thread - #30/INFO]: <RhinoDude980> ender pearl?
-[08:56:54] [Async Chat Thread - #30/INFO]: <RhinoDude980> shit
-[08:57:40] [Async Chat Thread - #30/INFO]: <RhinoDude980> kill them i cover you
-[08:57:46] [Async Chat Thread - #30/INFO]: <Chico121212> ok
-[08:57:58] [Async Chat Thread - #30/INFO]: <RhinoDude980> look out
-[08:58:59] [Async Chat Thread - #31/INFO]: <RhinoDude980> the portal is at 3/37
-[08:59:04] [Async Chat Thread - #31/INFO]: <Chico121212> ok
-[09:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[09:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[09:00:00] [Server thread/INFO]: Saving...
-[09:00:00] [Server thread/INFO]: Saved the world
-[09:00:00] [Server thread/INFO]: [Server] Save Complete
-[09:00:13] [Async Chat Thread - #32/INFO]: <RhinoDude980> get a bow
-[09:01:24] [Async Chat Thread - #33/INFO]: <RhinoDude980> maaan
-[09:02:07] [Async Chat Thread - #33/INFO]: <RhinoDude980> dont mind glowstone with a pick
-[09:02:16] [Async Chat Thread - #33/INFO]: <Chico121212> ok
-[09:02:16] [Async Chat Thread - #33/INFO]: <RhinoDude980> use your hand
-[09:04:04] [Async Chat Thread - #34/INFO]: <RhinoDude980> what lvl r u?
-[09:04:12] [Async Chat Thread - #34/INFO]: <Chico121212> lvl 14
-[09:04:17] [Async Chat Thread - #34/INFO]: <RhinoDude980> in 32
-[09:04:20] [Async Chat Thread - #34/INFO]: <RhinoDude980> im
-[09:05:20] [Async Chat Thread - #35/INFO]: <RhinoDude980> do u want qurtz?
-[09:05:26] [Async Chat Thread - #35/INFO]: <Chico121212> no
-[09:05:36] [Async Chat Thread - #35/INFO]: <RhinoDude980> for xp
-[09:05:43] [Async Chat Thread - #35/INFO]: <Chico121212> yea
-[09:05:49] [Async Chat Thread - #35/INFO]: <RhinoDude980> go get
-[09:08:09] [Async Chat Thread - #36/INFO]: <RhinoDude980> help meee
-[09:08:24] [Async Chat Thread - #36/INFO]: <Chico121212> what
-[09:08:30] [Async Chat Thread - #36/INFO]: <RhinoDude980> im stuck
-[09:08:36] [Async Chat Thread - #36/INFO]: <RhinoDude980> tnxx
-[09:09:19] [Async Chat Thread - #36/INFO]: <RhinoDude980> k im goin home
-[09:09:32] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[09:09:38] [Server thread/INFO]: Chico121212 issued server command: /home
-[09:12:45] [Async Chat Thread - #37/INFO]: <RhinoDude980> i got futune 2
-[09:12:51] [Async Chat Thread - #37/INFO]: <RhinoDude980> thats nice
-[09:13:03] [Async Chat Thread - #37/INFO]: <Chico121212> fortune 2
-[09:13:08] [Async Chat Thread - #37/INFO]: <Chico121212> yes
-[09:14:51] [Async Chat Thread - #38/INFO]: <RhinoDude980> i got mending book do u want some?
-[09:14:58] [Async Chat Thread - #38/INFO]: <Chico121212> yea
-[09:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[09:15:00] [Server thread/INFO]: Saving...
-[09:15:00] [Server thread/INFO]: Saved the world
-[09:15:00] [Server thread/INFO]: [Server] Save Complete
-[09:15:10] [Async Chat Thread - #38/INFO]: <RhinoDude980> come to me
-[09:15:32] [Server thread/WARN]: Chico121212 moved too quickly! 142.171890627594,-2.0,84.73980732628644
-[09:15:57] [Server thread/WARN]: Chico121212 moved too quickly! -35.334992679521946,7.0,225.0078322318125
-[09:16:09] [Async Chat Thread - #38/INFO]: <RhinoDude980> come here
-[09:16:23] [Async Chat Thread - #38/INFO]: <Chico121212> I at spawn
-[09:16:32] [Async Chat Thread - #38/INFO]: <RhinoDude980> im pooting them in your chest
-[09:16:40] [Async Chat Thread - #38/INFO]: <RhinoDude980> do /home
-[09:16:44] [Server thread/INFO]: Chico121212 issued server command: /home
-[09:17:21] [Async Chat Thread - #38/INFO]: <Chico121212> thxx
-[09:17:26] [Async Chat Thread - #38/INFO]: <RhinoDude980> np
-[09:17:54] [Async Chat Thread - #38/INFO]: <Chico121212> anvil broke
-[09:17:57] [Async Chat Thread - #38/INFO]: <RhinoDude980> how mach xp do u got?
-[09:18:08] [Async Chat Thread - #38/INFO]: <RhinoDude980> ok
-[09:18:09] [Async Chat Thread - #38/INFO]: <Chico121212> 20
-[09:18:54] [Async Chat Thread - #38/INFO]: <RhinoDude980> we can bay bottles of xp!
-[09:19:18] [Async Chat Thread - #38/INFO]: <Chico121212> cool
-[09:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[09:20:16] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.3597110128546,-2.0,84.89704240010005
-[09:20:25] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.028294157682225,7.0,224.90864612829733
-[09:21:14] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[09:21:17] [Async Chat Thread - #39/INFO]: <RhinoDude980> sleep
-[09:21:59] [Async Chat Thread - #39/INFO]: <RhinoDude980> can u help me with the farm?
-[09:22:13] [Async Chat Thread - #39/INFO]: <Chico121212> I will adventure after the replanting
-[09:22:18] [Async Chat Thread - #39/INFO]: <RhinoDude980> k
-[09:22:24] [Async Chat Thread - #39/INFO]: <RhinoDude980> wait
-[09:22:36] [Async Chat Thread - #39/INFO]: <RhinoDude980> ill tell u where to go
-[09:22:51] [Async Chat Thread - #39/INFO]: <RhinoDude980> give me the crops
-[09:22:53] [Async Chat Thread - #39/INFO]: <Chico121212> try to find loot
-[09:22:57] [Async Chat Thread - #39/INFO]: <RhinoDude980> k
-[09:23:00] [Server thread/INFO]: RhinoDude980 issued server command: /afk
-[09:25:09] [Async Chat Thread - #40/INFO]: <RhinoDude980> there is a mesa 3000 blocks from spown
-[09:25:33] [Async Chat Thread - #40/INFO]: <Chico121212> north south west or east
-[09:26:04] [Async Chat Thread - #40/INFO]: <RhinoDude980> do mineatlas on google n poot this seed
-[09:26:27] [Async Chat Thread - #40/INFO]: <RhinoDude980> -3820634467636136119
-[09:26:39] [Async Chat Thread - #40/INFO]: <Chico121212> thanks
-[09:26:49] [Async Chat Thread - #40/INFO]: <RhinoDude980> np
-[09:27:12] [Async Chat Thread - #40/INFO]: <RhinoDude980> poot a nether portal there n go to the old one
-[09:27:38] [Async Chat Thread - #40/INFO]: <Chico121212> and go which way
-[09:27:51] [Async Chat Thread - #40/INFO]: <RhinoDude980> 1 block in the nether is 8 blocks in the over world
-[09:28:02] [Async Chat Thread - #40/INFO]: <Chico121212> ok
-[09:28:19] [Async Chat Thread - #40/INFO]: <RhinoDude980> on x and z
-[09:28:34] [Async Chat Thread - #40/INFO]: <RhinoDude980> give me the water
-[09:28:42] [Async Chat Thread - #40/INFO]: <RhinoDude980> n ctops
-[09:28:52] [Async Chat Thread - #40/INFO]: <RhinoDude980> crops*
-[09:29:02] [Async Chat Thread - #40/INFO]: <RhinoDude980> wait
-[09:29:17] [Async Chat Thread - #40/INFO]: <RhinoDude980> search it on google
-[09:29:22] [Async Chat Thread - #40/INFO]: <Chico121212> ok
-[09:29:26] [Async Chat Thread - #40/INFO]: <RhinoDude980> mineatlas
-[09:29:43] [Async Chat Thread - #40/INFO]: <RhinoDude980> then poot the seed: -3820634467636136119
-[09:29:51] [Async Chat Thread - #40/INFO]: <Chico121212> ok
-[09:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[09:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[09:30:00] [Server thread/INFO]: Saving...
-[09:30:00] [Server thread/INFO]: Saved the world
-[09:30:00] [Server thread/INFO]: [Server] Save Complete
-[09:30:17] [Server thread/INFO]: Chico121212 issued server command: /afk
-[09:31:04] [Async Chat Thread - #41/INFO]: <RhinoDude980> ill do it with u hold on
-[09:31:14] [Async Chat Thread - #41/INFO]: <RhinoDude980> ill do it with u hold on
-[09:31:16] [Async Chat Thread - #41/INFO]: <Chico121212> ok
-[09:31:48] [Async Chat Thread - #41/INFO]: <RhinoDude980> do u have obsidian?
-[09:32:09] [Async Chat Thread - #41/INFO]: <Chico121212> there is a nether portal next to me
-[09:32:20] [Async Chat Thread - #41/INFO]: <RhinoDude980> wait up
-[09:32:47] [Server thread/WARN]: Chico121212 moved too quickly! 142.76172049770662,-2.0,84.30894857827144
-[09:32:59] [Server thread/WARN]: RhinoDude980 moved too quickly! 143.33291101373737,-2.0,83.91301284503508
-[09:33:03] [Server thread/WARN]: Chico121212 moved too quickly! -34.60000002384186,7.0,225.17153373397915
-[09:33:14] [Server thread/WARN]: RhinoDude980 moved too quickly! -35.9326015407475,7.0,224.87783550518574
-[09:33:21] [Async Chat Thread - #42/INFO]: <RhinoDude980> wait
-[09:33:27] [Async Chat Thread - #42/INFO]: <Chico121212> ok
-[09:34:33] [Async Chat Thread - #43/INFO]: <RhinoDude980> we need to go 3000 blocks south in the over world
-[09:34:39] [Async Chat Thread - #43/INFO]: <Chico121212> ok
-[09:34:44] [Async Chat Thread - #43/INFO]: <RhinoDude980> or 375 in the nether
-[09:34:59] [Async Chat Thread - #43/INFO]: <Chico121212> that way
-[09:35:07] [Async Chat Thread - #43/INFO]: <Chico121212> sleep
-[09:35:11] [Async Chat Thread - #43/INFO]: <Chico121212> yes
-[09:35:13] [Server thread/INFO]: Chico121212 issued server command: /home
-[09:35:15] [Async Chat Thread - #43/INFO]: <RhinoDude980> to the nether
-[09:35:30] [Async Chat Thread - #43/INFO]: <Chico121212> ok
-[09:36:37] [Async Chat Thread - #44/INFO]: <Chico121212> rhino
-[09:36:49] [Async Chat Thread - #44/INFO]: <Chico121212> do you have obsidian
-[09:37:32] [Async Chat Thread - #44/INFO]: <RhinoDude980> we need to got to: 375/112 in the nether
-[09:37:39] [Async Chat Thread - #44/INFO]: <RhinoDude980> i have 8 on me
-[09:37:46] [Async Chat Thread - #44/INFO]: <Chico121212> m2
-[09:37:48] [Async Chat Thread - #44/INFO]: <RhinoDude980> n flint n still
-[09:38:11] [Async Chat Thread - #44/INFO]: <RhinoDude980> to the nether we shall go!
-[09:38:16] [Async Chat Thread - #44/INFO]: <RhinoDude980> lol
-[09:38:22] [Server thread/WARN]: RhinoDude980 moved too quickly! 35.81954411961803,-7.0,-224.9519054543253
-[09:38:32] [Server thread/WARN]: Chico121212 moved too quickly! 142.18818032342517,-2.0,84.5425947487008
-[09:39:18] [Async Chat Thread - #45/INFO]: <RhinoDude980> follow
-[09:39:33] [Async Chat Thread - #45/INFO]: <RhinoDude980> no
-[09:40:02] [Async Chat Thread - #45/INFO]: <RhinoDude980> do u have cobble?
-[09:41:02] [Async Chat Thread - #46/INFO]: <RhinoDude980> ill go get coole
-[09:41:10] [Server thread/WARN]: RhinoDude980 moved too quickly! -35.74749870409113,7.0,224.80580183950124
-[09:41:14] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[09:41:17] [Async Chat Thread - #46/INFO]: <Chico121212> ok
-[09:41:44] [Server thread/INFO]: Chico121212 issued server command: /home
-[09:41:58] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.9833220629461,-2.0,84.30172116663366
-[09:43:01] [Async Chat Thread - #47/INFO]: <RhinoDude980> where is he?
-[09:43:15] [Async Chat Thread - #47/INFO]: <Chico121212> he dissapeared
-[09:43:18] [Async Chat Thread - #47/INFO]: <RhinoDude980> k
-[09:43:55] [Async Chat Thread - #47/INFO]: <RhinoDude980> go to 112 on x and 375 on z
-[09:44:07] [Async Chat Thread - #47/INFO]: <RhinoDude980> make a tunnle if needed
-[09:44:33] [Async Chat Thread - #47/INFO]: <Chico121212> lets go to the overworld
-[09:44:46] [Async Chat Thread - #47/INFO]: <Chico121212> the nether is very dangerous
-[09:44:48] [Async Chat Thread - #47/INFO]: <RhinoDude980> i know what im doin trust me
-[09:44:55] [Async Chat Thread - #47/INFO]: <Chico121212> ok
-[09:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[09:45:00] [Server thread/INFO]: Saving...
-[09:45:00] [Server thread/INFO]: Saved the world
-[09:45:00] [Server thread/INFO]: [Server] Save Complete
-[09:45:20] [Async Chat Thread - #47/INFO]: <RhinoDude980> follow me
-[09:47:14] [Async Chat Thread - #48/INFO]: <RhinoDude980> keep goin
-[09:48:56] [User Authenticator #8/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
-[09:48:58] [Server thread/INFO]: JeffTheThriller[/90.196.207.201:65131] logged in with entity id 83535 at ([world]-4755.165006586019, 63.0, 10522.354114012314)
-[09:48:58] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
-[09:48:59] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Hey there, JeffTheThriller!
-[09:48:59] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Welcome to Mineapple
-[09:49:03] [Async Chat Thread - #49/INFO]: <RhinoDude980> a bit more
-[09:49:25] [Async Chat Thread - #49/INFO]: <RhinoDude980> we r makin a nether tunlle to a nase biome
-[09:49:31] [Async Chat Thread - #49/INFO]: <RhinoDude980> oops
-[09:49:40] [Server thread/INFO]: JeffTheThriller lost connection: Disconnected
-[09:49:40] [Server thread/INFO]: JeffTheThriller left the game
-[09:50:51] [Async Chat Thread - #50/INFO]: <RhinoDude980> thats it
-[09:51:22] [Async Chat Thread - #50/INFO]: <RhinoDude980> let hope it works
-[09:51:32] [Server thread/WARN]: RhinoDude980 moved too quickly! 776.9423672596695,-11.0,2632.9871003955072
-[09:51:37] [Server thread/WARN]: Chico121212 moved too quickly! 778.1343598294554,-11.0,2632.065640158624
-[09:51:38] [Async Chat Thread - #50/INFO]: <RhinoDude980> yyyeeeeesss!
-[09:51:51] [Async Chat Thread - #50/INFO]: <Chico121212> it woorked
-[09:51:54] [Async Chat Thread - #50/INFO]: <RhinoDude980> see
-[09:52:02] [Async Chat Thread - #50/INFO]: <Chico121212> cool
-[09:52:18] [Async Chat Thread - #50/INFO]: <RhinoDude980> now we can get tons of gold n clay!
-[09:52:24] [Async Chat Thread - #50/INFO]: <Chico121212> yep
-[09:52:52] [Async Chat Thread - #50/INFO]: <RhinoDude980> forgot beds
-[09:52:58] [Async Chat Thread - #50/INFO]: <Chico121212> yep
-[09:53:21] [Async Chat Thread - #50/INFO]: <Chico121212> tell Drizzly to help us
-[09:53:23] [Async Chat Thread - #50/INFO]: <RhinoDude980> lets eaplore a bit
-[09:53:49] [Async Chat Thread - #50/INFO]: <RhinoDude980> a mineshaft!
-[09:53:56] [Async Chat Thread - #50/INFO]: <RhinoDude980> come here
-[09:53:57] [Async Chat Thread - #50/INFO]: <Chico121212> gold mineeee
-[09:54:21] [Async Chat Thread - #50/INFO]: <RhinoDude980> there is gold all over the masa
-[09:54:26] [Async Chat Thread - #50/INFO]: <RhinoDude980> mesa
-[09:54:39] [Async Chat Thread - #50/INFO]: <Chico121212> lets explore
-[09:54:39] [Async Chat Thread - #50/INFO]: <RhinoDude980> here
-[09:54:45] [User Authenticator #9/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
-[09:54:45] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49293] logged in with entity id 85762 at ([world]-173.21516300689788, 67.5, 47.538866395219735)
-[09:54:45] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
-[09:54:45] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
-[09:54:45] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
-[09:55:06] [Async Chat Thread - #50/INFO]: <BuuTheGreat> heya
-[09:55:12] [Async Chat Thread - #50/INFO]: <RhinoDude980> buu we made a nether tunlle to a mesa biome!!!!@
-[09:55:19] [Async Chat Thread - #50/INFO]: <BuuTheGreat> oh nice
-[09:55:41] [Async Chat Thread - #50/INFO]: <RhinoDude980> n thre is a mine realy close
-[09:55:58] [Async Chat Thread - #50/INFO]: <BuuTheGreat> cool
-[09:56:06] [Async Chat Thread - #50/INFO]: <RhinoDude980> wanna come see?
-[09:56:13] [Server thread/INFO]: BuuTheGreat issued server command: /tpa rhi
-[09:56:28] [Server thread/INFO]: RhinoDude980 issued server command: /tpaccept
-[09:56:32] [Async Chat Thread - #50/INFO]: <RhinoDude980> u ok?
-[09:56:36] [Async Chat Thread - #50/INFO]: <BuuTheGreat> yea
-[09:56:39] [Async Chat Thread - #50/INFO]: <Chico121212> yep
-[09:56:42] [Async Chat Thread - #50/INFO]: <BuuTheGreat> oh nice
-[09:56:46] [Async Chat Thread - #50/INFO]: <BuuTheGreat> a shaft
-[09:56:54] [Async Chat Thread - #50/INFO]: <RhinoDude980> yep
-[09:57:10] [Async Chat Thread - #50/INFO]: <RhinoDude980> say "thank you"
-[09:57:19] [Async Chat Thread - #50/INFO]: <BuuTheGreat> me?
-[09:57:28] [Async Chat Thread - #50/INFO]: <RhinoDude980> never mind
-[09:57:45] [Async Chat Thread - #50/INFO]: <RhinoDude980> tons of gold n clay
-[09:59:10] [Async Chat Thread - #51/INFO]: <BuuTheGreat> wow
-[10:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[10:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[10:00:00] [Server thread/INFO]: Saving...
-[10:00:00] [Server thread/INFO]: Saved the world
-[10:00:00] [Server thread/INFO]: [Server] Save Complete
-[10:00:08] [Async Chat Thread - #51/INFO]: <RhinoDude980> k im goin home
-[10:00:11] [Async Chat Thread - #51/INFO]: <Chico121212> goooold
-[10:00:11] [Async Chat Thread - #51/INFO]: <BuuTheGreat> this is quite rare right?
-[10:00:17] [Async Chat Thread - #51/INFO]: <RhinoDude980> bring the goods
-[10:00:23] [Async Chat Thread - #51/INFO]: <Chico121212> ok
-[10:00:29] [Async Chat Thread - #51/INFO]: <RhinoDude980> i used mineatlas
-[10:00:59] [Async Chat Thread - #51/INFO]: <RhinoDude980> its a website
-[10:01:03] [Async Chat Thread - #51/INFO]: <BuuTheGreat> woa lots of gold
-[10:01:06] [Async Chat Thread - #51/INFO]: <RhinoDude980> for seeds
-[10:01:32] [Async Chat Thread - #51/INFO]: <RhinoDude980> bring me some im loggint out for now
-[10:02:03] [Async Chat Thread - #51/INFO]: <RhinoDude980> the portal is at 888/3000
-[10:02:13] [Server thread/WARN]: RhinoDude980 moved too quickly! -777.3568335267945,11.0,-2632.5140144077227
-[10:03:13] [Server thread/INFO]: Chico121212 issued server command: /home
-[10:04:05] [Server thread/INFO]: BuuTheGreat was slain by Cave Spider
-[10:04:12] [Async Chat Thread - #52/INFO]: <RhinoDude980> can u make the tunnle 3 tall when u go back?
-[10:04:19] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[10:05:08] [Async Chat Thread - #52/INFO]: <Chico121212> Buu
-[10:05:11] [Async Chat Thread - #52/INFO]: <BuuTheGreat> yea?
-[10:05:23] [Async Chat Thread - #52/INFO]: <Chico121212> type /back to get your items
-[10:05:58] [Async Chat Thread - #52/INFO]: <Chico121212> watch out for the spiders
-[10:06:20] [Async Chat Thread - #52/INFO]: <BuuTheGreat> yep
-[10:06:22] [Async Chat Thread - #52/INFO]: <BuuTheGreat> I did
-[10:06:44] [Async Chat Thread - #52/INFO]: <BuuTheGreat> darn they are agressive
-[10:06:52] [Async Chat Thread - #52/INFO]: <RhinoDude980> yeah
-[10:07:45] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[10:08:16] [Async Chat Thread - #53/INFO]: <Chico121212> tpa BuuTheGreat
-[10:08:22] [Server thread/INFO]: BuuTheGreat issued server command: /tpa chico
-[10:08:25] [Async Chat Thread - #53/INFO]: <BuuTheGreat> call me Buu ok?
-[10:08:27] [Async Chat Thread - #53/INFO]: <BuuTheGreat> lol
-[10:08:31] [Server thread/INFO]: Chico121212 issued server command: /tpaccept
-[10:08:58] [Async Chat Thread - #53/INFO]: <BuuTheGreat> heya
-[10:13:44] [Async Chat Thread - #54/INFO]: <Chico121212> buu
-[10:13:46] [Async Chat Thread - #54/INFO]: <BuuTheGreat> yea
-[10:13:57] [Async Chat Thread - #54/INFO]: <Chico121212> can I see your house
-[10:14:07] [Async Chat Thread - #54/INFO]: <BuuTheGreat> it's up the hill
-[10:14:11] [Async Chat Thread - #54/INFO]: <BuuTheGreat> snow hill
-[10:14:37] [Async Chat Thread - #54/INFO]: <RhinoDude980> tnx for the help chico
-[10:14:42] [Async Chat Thread - #54/INFO]: <Chico121212> is it finished yet
-[10:14:44] [Async Chat Thread - #54/INFO]: <BuuTheGreat> wb
-[10:14:48] [Async Chat Thread - #54/INFO]: <Chico121212> np
-[10:14:52] [Async Chat Thread - #54/INFO]: <RhinoDude980> yes
-[10:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[10:15:00] [Server thread/INFO]: Saving...
-[10:15:00] [Server thread/INFO]: Saved the world
-[10:15:00] [Server thread/INFO]: [Server] Save Complete
-[10:16:14] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.739442573271006,7.0,225.0870133423279
-[10:16:18] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[10:18:54] [Async Chat Thread - #55/INFO]: <Chico121212> bb
-[10:18:55] [Server thread/INFO]: Chico121212 lost connection: Disconnected
-[10:18:55] [Server thread/INFO]: Chico121212 left the game
-[10:19:08] [Async Chat Thread - #55/INFO]: <BuuTheGreat> lol
-[10:19:13] [Async Chat Thread - #55/INFO]: <RhinoDude980> he
-[10:19:40] [Async Chat Thread - #55/INFO]: <RhinoDude980> do u got your horse?
-[10:19:49] [Async Chat Thread - #55/INFO]: <RhinoDude980> yeah
-[10:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[10:20:02] [Async Chat Thread - #55/INFO]: <RhinoDude980> never mind he is here
-[10:20:12] [Async Chat Thread - #55/INFO]: <RhinoDude980> mine n yours
-[10:22:35] [User Authenticator #10/INFO]: UUID of player Skyking_Caton is 960738d5-ef2b-410b-a2bb-f4676c592de8
-[10:22:36] [Server thread/INFO]: Skyking_Caton[/78.73.231.113:50808] logged in with entity id 96107 at ([world]-268.62181205124193, 80.0, 166.70905621048314)
-[10:22:36] [Server thread/INFO]: [Server] Welcome back, Skyking_Caton
-[10:22:36] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Hey there, Skyking_Caton!
-[10:22:36] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Welcome to Mineapple
-[10:22:39] [Async Chat Thread - #56/INFO]: <BuuTheGreat> eb
-[10:22:41] [Async Chat Thread - #56/INFO]: <BuuTheGreat> wb
-[10:22:47] [Async Chat Thread - #56/INFO]: <RhinoDude980> i finliy made a cage for them!
-[10:23:21] [Async Chat Thread - #56/INFO]: <RhinoDude980> sky we made a nether tunnle to a mesa biome
-[10:23:28] [Async Chat Thread - #56/INFO]: <Skyking_Caton> nice
-[10:23:49] [Async Chat Thread - #56/INFO]: <RhinoDude980> tons of gold n clay
-[10:28:00] [Async Chat Thread - #57/INFO]: <BuuTheGreat> meh no lucky fishing
-[10:28:10] [Server thread/WARN]: Skyking_Caton moved too quickly! 36.392601327168904,-7.0,-224.97767672332014
-[10:28:13] [Async Chat Thread - #57/INFO]: <RhinoDude980> use enchants
-[10:28:18] [Async Chat Thread - #57/INFO]: <BuuTheGreat> I have
-[10:28:28] [Async Chat Thread - #57/INFO]: <BuuTheGreat> unb3 lure 2
-[10:28:35] [Async Chat Thread - #57/INFO]: <RhinoDude980> ok
-[10:28:59] [Async Chat Thread - #57/INFO]: <RhinoDude980> u can bay lure n combine it if u want
-[10:29:07] [Async Chat Thread - #57/INFO]: <RhinoDude980> there is lure 3
-[10:29:22] [Async Chat Thread - #57/INFO]: <BuuTheGreat> yep
-[10:29:24] [Async Chat Thread - #57/INFO]: <RhinoDude980> get luck of the sea too
-[10:29:24] [Async Chat Thread - #57/INFO]: <BuuTheGreat> I know
-[10:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[10:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[10:30:00] [Server thread/INFO]: Saving...
-[10:30:00] [Server thread/INFO]: Saved the world
-[10:30:00] [Server thread/INFO]: [Server] Save Complete
-[10:30:02] [Async Chat Thread - #57/INFO]: <RhinoDude980> come here
-[10:30:12] [Server thread/WARN]: RhinoDude980 moved too quickly! -5.8920172132492326,7.5,3.770015787472488
-[10:30:13] [Server thread/WARN]: Skyking_Caton moved too quickly! 777.6649611301214,-11.0,2632.434010855716
-[10:30:40] [Async Chat Thread - #57/INFO]: <BuuTheGreat> where?
-[10:30:44] [Async Chat Thread - #57/INFO]: <RhinoDude980> come to the roof thru the porch
-[10:31:24] [Async Chat Thread - #57/INFO]: <BuuTheGreat> behind
-[10:31:26] [Async Chat Thread - #57/INFO]: <RhinoDude980> this is the best house i have ever made in survival
-[10:31:32] [Async Chat Thread - #57/INFO]: <BuuTheGreat> nice
-[10:31:50] [Async Chat Thread - #57/INFO]: <RhinoDude980> n this area is grate
-[10:32:05] [Async Chat Thread - #57/INFO]: <BuuTheGreat> shall we go get gold?
-[10:32:14] [Async Chat Thread - #57/INFO]: <RhinoDude980> ok
-[10:32:28] [Async Chat Thread - #57/INFO]: <RhinoDude980> no lets get blaze
-[10:32:38] [Async Chat Thread - #57/INFO]: <BuuTheGreat> I want get gold
-[10:32:44] [Async Chat Thread - #57/INFO]: <RhinoDude980> ok
-[10:32:49] [Async Chat Thread - #57/INFO]: <RhinoDude980> why?
-[10:33:01] [Async Chat Thread - #57/INFO]: <RhinoDude980> its good for a becon
-[10:33:06] [Async Chat Thread - #57/INFO]: <BuuTheGreat> cause it's maybe gonna be currency
-[10:33:19] [Async Chat Thread - #57/INFO]: <RhinoDude980> ok..
-[10:33:29] [Async Chat Thread - #57/INFO]: <BuuTheGreat> you there?
-[10:33:33] [Async Chat Thread - #57/INFO]: <RhinoDude980> no
-[10:33:56] [Server thread/WARN]: BuuTheGreat moved too quickly! 142.53157629733798,-2.0,84.36236660045995
-[10:34:10] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.22839204891042,-2.0,84.78057778538769
-[10:34:12] [Server thread/WARN]: BuuTheGreat moved too quickly! -35.932282900957375,7.0,225.3024004318868
-[10:34:17] [Async Chat Thread - #57/INFO]: <RhinoDude980> im here
-[10:34:32] [Server thread/WARN]: BuuTheGreat moved too quickly! 36.64860228600408,-7.0,-224.51187372293663
-[10:34:51] [Server thread/INFO]: BuuTheGreat issued server command: /tpa rhi
-[10:34:57] [Server thread/INFO]: RhinoDude980 issued server command: /tpaccept
-[10:35:05] [User Authenticator #11/INFO]: UUID of player Maxillian is dea85777-7f2d-46f8-aa74-39de673decdb
-[10:35:06] [Server thread/INFO]: Maxillian[/100.35.204.34:59187] logged in with entity id 101870 at ([world]-11.475219318641734, 84.0, 824.4813690675618)
-[10:35:06] [Server thread/INFO]: [Server] Welcome back, Maxillian
-[10:35:06] [Server thread/INFO]: [CONSOLE->Maxillian] Hey there, Maxillian!
-[10:35:06] [Server thread/INFO]: [CONSOLE->Maxillian] Welcome to Mineapple
-[10:35:12] [Async Chat Thread - #57/INFO]: <BuuTheGreat> wb
-[10:35:12] [Async Chat Thread - #57/INFO]: <~YourMother> hello
-[10:35:13] [Async Chat Thread - #57/INFO]: <RhinoDude980> hi
-[10:35:20] [Async Chat Thread - #57/INFO]: <RhinoDude980> shit
-[10:35:25] [Async Chat Thread - #57/INFO]: <BuuTheGreat> how to get to that biome?
-[10:35:37] [Async Chat Thread - #57/INFO]: <RhinoDude980> there
-[10:35:54] [User Authenticator #12/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
-[10:35:54] [Server thread/INFO]: Chico121212[/179.218.69.229:50091] logged in with entity id 102272 at ([world]4.842987378451054, 68.6625000178814, 8.963453211942532)
-[10:35:54] [Server thread/INFO]: [Server] Welcome back, Chico121212
-[10:35:54] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
-[10:35:54] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
-[10:35:56] [Async Chat Thread - #57/INFO]: <RhinoDude980> follow the cobbledtone
-[10:36:03] [Async Chat Thread - #57/INFO]: <Chico121212> back
-[10:36:08] [Async Chat Thread - #57/INFO]: <RhinoDude980> hi
-[10:36:09] [Server thread/WARN]: BuuTheGreat moved too quickly! -35.56429899703714,7.0,224.92743400536202
-[10:36:20] [Server thread/WARN]: BuuTheGreat moved too quickly! 35.57638488711946,-7.0,-225.04855351585843
-[10:36:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[10:36:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[10:36:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[10:36:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[10:36:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[10:36:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[10:36:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[10:36:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[10:36:37] [Server thread/WARN]: Chico121212 moved wrongly!
-[10:37:19] [Async Chat Thread - #58/INFO]: <RhinoDude980> i got 2 magma cream
-[10:37:27] [Server thread/INFO]: Maxillian lost connection: Disconnected
-[10:37:27] [Server thread/INFO]: Maxillian left the game
-[10:37:30] [Async Chat Thread - #58/INFO]: <BuuTheGreat> nice
-[10:37:41] [Server thread/WARN]: Skyking_Caton moved too quickly! -777.434218399179,11.0,-2632.504008570471
-[10:37:44] [Async Chat Thread - #58/INFO]: <RhinoDude980> for poishins
-[10:37:48] [Async Chat Thread - #58/INFO]: <BuuTheGreat> yo
-[10:37:48] [Async Chat Thread - #58/INFO]: <Skyking_Caton> hi
-[10:37:54] [Async Chat Thread - #58/INFO]: <RhinoDude980> hi man
-[10:38:04] [Server thread/WARN]: BuuTheGreat moved too quickly! 777.7920022782762,-11.0,2632.4079977098027
-[10:38:05] [Server thread/WARN]: Chico121212 moved wrongly!
-[10:38:25] [Async Chat Thread - #58/INFO]: <RhinoDude980> an
-[10:38:49] [Async Chat Thread - #58/INFO]: <RhinoDude980> any one want quartz i got a lot
-[10:39:07] [Async Chat Thread - #58/INFO]: <Skyking_Caton> no thanks
-[10:40:26] [Server thread/INFO]: RhinoDude980 lost connection: Disconnected
-[10:40:26] [Server thread/INFO]: RhinoDude980 left the game
-[10:40:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@1652449d[id=<null>,name=RhinoDude980,properties={},legacy=false] (/5.29.177.100:54632) lost connection: Disconnected
-[10:40:44] [Server thread/WARN]: Skyking_Caton moved too quickly! -35.887101729530315,7.0,224.9900031901014
-[10:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[10:45:00] [Server thread/INFO]: Saving...
-[10:45:00] [Server thread/INFO]: Saved the world
-[10:45:00] [Server thread/INFO]: [Server] Save Complete
-[10:45:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@18136193[id=<null>,name=RhinoDude980,properties={},legacy=false] (/5.29.177.100:54645) lost connection: Disconnected
-[10:47:50] [Server thread/WARN]: Tried to over-fill a container
-[10:48:51] [Server thread/INFO]: Chico121212 issued server command: /home
-[10:50:47] [User Authenticator #13/INFO]: UUID of player RhinoDude980 is ac50f86b-5db6-4d00-b83d-6b76816c2d1f
-[10:50:47] [Server thread/INFO]: RhinoDude980[/5.29.177.100:54727] logged in with entity id 113460 at ([world_nether]105.62109574927977, 77.0, -147.85270290657522)
-[10:50:47] [Server thread/INFO]: [Server] Welcome back, RhinoDude980
-[10:50:47] [Server thread/INFO]: [CONSOLE->RhinoDude980] Hey there, RhinoDude980!
-[10:50:47] [Server thread/INFO]: [CONSOLE->RhinoDude980] Welcome to Mineapple
-[10:50:50] [Async Chat Thread - #59/INFO]: <BuuTheGreat> wb
-[10:50:52] [Async Chat Thread - #59/INFO]: <RhinoDude980> hi
-[10:51:31] [Async Chat Thread - #59/INFO]: <RhinoDude980> we can also make a portal to an ice spics biome
-[10:51:37] [Async Chat Thread - #59/INFO]: <RhinoDude980> if u want
-[10:51:39] [Async Chat Thread - #59/INFO]: <BuuTheGreat> nice
-[10:51:49] [Async Chat Thread - #59/INFO]: <RhinoDude980> its not hard at all
-[10:52:06] [Async Chat Thread - #59/INFO]: <Chico121212> bb
-[10:52:08] [Server thread/INFO]: Chico121212 lost connection: Disconnected
-[10:52:08] [Server thread/INFO]: Chico121212 left the game
-[10:56:10] [Async Chat Thread - #60/INFO]: <RhinoDude980> cant find a fortres
-[10:56:14] [Async Chat Thread - #60/INFO]: <RhinoDude980> gtg
-[10:56:16] [Server thread/INFO]: RhinoDude980 lost connection: Disconnected
-[10:56:16] [Server thread/INFO]: RhinoDude980 left the game
-[11:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[11:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[11:00:00] [Server thread/INFO]: Saving...
-[11:00:00] [Server thread/INFO]: Saved the world
-[11:00:00] [Server thread/INFO]: [Server] Save Complete
-[11:02:54] [Server thread/INFO]: BuuTheGreat has just earned the achievement [Hot Topic]
-[11:03:36] [Server thread/INFO]: BuuTheGreat has just earned the achievement [Acquire Hardware]
-[11:04:02] [User Authenticator #14/INFO]: UUID of player RhinoDude980 is ac50f86b-5db6-4d00-b83d-6b76816c2d1f
-[11:04:02] [Server thread/INFO]: RhinoDude980[/5.29.177.100:54775] logged in with entity id 116589 at ([world_nether]51.96379981117815, 76.0, -76.84496377721212)
-[11:04:02] [Server thread/INFO]: [Server] Welcome back, RhinoDude980
-[11:04:02] [Server thread/INFO]: [CONSOLE->RhinoDude980] Hey there, RhinoDude980!
-[11:04:02] [Server thread/INFO]: [CONSOLE->RhinoDude980] Welcome to Mineapple
-[11:04:06] [Async Chat Thread - #61/INFO]: <BuuTheGreat> wb
-[11:04:41] [Async Chat Thread - #61/INFO]: <RhinoDude980> ghast
-[11:08:02] [Server thread/WARN]: RhinoDude980 moved too quickly! -35.88222190058265,7.0,224.92644794982618
-[11:08:23] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[11:08:37] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[11:09:54] [Server thread/INFO]: BuuTheGreat fell from a high place
-[11:09:59] [Async Chat Thread - #62/INFO]: <RhinoDude980> search "mineatlas" on google n poot the server's seed: -3820634467636136119
-[11:10:08] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[11:10:30] [Async Chat Thread - #62/INFO]: <BuuTheGreat> is it this server's seed?
-[11:10:35] [Async Chat Thread - #62/INFO]: <RhinoDude980> yeah
-[11:10:43] [Async Chat Thread - #62/INFO]: <BuuTheGreat> how did you get it?
-[11:10:47] [Async Chat Thread - #62/INFO]: <RhinoDude980> poot it on mineatlas
-[11:10:53] [Async Chat Thread - #62/INFO]: <RhinoDude980> i ask drizz
-[11:11:03] [Async Chat Thread - #62/INFO]: <BuuTheGreat> and he really told you?
-[11:11:08] [Async Chat Thread - #62/INFO]: <RhinoDude980> yeah
-[11:11:13] [Async Chat Thread - #62/INFO]: <BuuTheGreat> what's the point..
-[11:11:32] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[11:11:32] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[11:11:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:11:32] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:11:32] [Server thread/INFO]: Debug logging is disabled
-[11:11:32] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b424
-[11:11:32] [Server thread/INFO]: [BukkitCompat] Disabling BukkitCompat vR22A
-[11:11:32] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.13.1
-[11:11:32] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
-[11:11:32] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
-[11:11:32] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
-[11:11:32] [Server thread/INFO]: [MCBans] Loading MCBans v4.3.5
-[11:11:32] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
-[11:11:33] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
-[11:11:33] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
-[11:11:33] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
-[11:11:33] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
-[11:11:33] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
-[11:11:33] [Server thread/INFO]: Using locale en_US
-[11:11:33] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[11:11:33] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[11:11:33] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[11:11:33] [Server thread/INFO]: Using locale en_US
-[11:11:33] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
-[11:11:33] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
-[11:11:33] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
-[11:11:33] [Server thread/INFO]: [MCBans] Enabling MCBans v4.3.5
-[11:11:33] [Server thread/INFO]: [MCBans] config.yml is not found! Created default config.yml!
-[11:11:33] [Server thread/INFO]: [MCBans] === Missing OR Invalid API Key! ===
-[11:11:33] [Server thread/ERROR]: [MCBans] Missing or invalid API Key!
-[11:11:33] [Server thread/ERROR]: [MCBans] Please copy your API key to configuration file.
-[11:11:33] [Server thread/ERROR]: [MCBans] Don't have API key? Go: http://my.mcbans.com/servers/
-[11:11:33] [Server thread/INFO]: [MCBans] Loading language file: default
-[11:11:33] [Server thread/INFO]: [MCBans] Using SuperPerms for permission control.
-[11:11:33] [Server thread/INFO]: [MCBans] CoreProtect plugin found. Using this for rollback.
-[11:11:33] [Server thread/INFO]: [MCBans] MCBans version 4.3.5 is enabled!
-[11:11:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:11:33] [Thread-15/INFO]: [MCBans] Looking for fastest api server!
-[11:11:33] [Thread-15/WARN]: [MCBans] Can't reach any MCBans API Servers!
-[11:11:33] [Thread-15/WARN]: [MCBans] Check your network or please wait until the recovery!
-[11:11:33] [Server thread/INFO]: CONSOLE: Reload complete.
-[11:11:35] [Async Chat Thread - #62/INFO]: <RhinoDude980> we can find villiges n slime chanks
-[11:11:45] [Async Chat Thread - #62/INFO]: <RhinoDude980> what point?
-[11:11:45] [Async Chat Thread - #62/INFO]: <BuuTheGreat> yea but it's fake
-[11:11:55] [Async Chat Thread - #62/INFO]: <RhinoDude980> what?
-[11:12:15] [Async Chat Thread - #62/INFO]: <RhinoDude980> why?
-[11:12:26] [Async Chat Thread - #62/INFO]: <BuuTheGreat> because it's cheating
-[11:12:34] [Async Chat Thread - #62/INFO]: <RhinoDude980> no
-[11:12:44] [Async Chat Thread - #62/INFO]: <BuuTheGreat> ye it is
-[11:12:44] [Server thread/INFO]: [Server] it's not against the rules
-[11:12:54] [Async Chat Thread - #62/INFO]: <BuuTheGreat> who says?
-[11:12:56] [Async Chat Thread - #62/INFO]: <Skyking_Caton> O_o
-[11:12:56] [Async Chat Thread - #62/INFO]: <RhinoDude980> slime chanks r hard to find dude
-[11:13:02] [Server thread/INFO]: [Server] I do - DrizzlyOwl
-[11:13:09] [Async Chat Thread - #62/INFO]: <RhinoDude980> n mesas
-[11:13:25] [Async Chat Thread - #62/INFO]: <BuuTheGreat> what's the point? why is it legal?
-[11:13:35] [Async Chat Thread - #62/INFO]: <RhinoDude980> dude its ok its not giving as dimonds
-[11:13:47] [Async Chat Thread - #62/INFO]: <RhinoDude980> its only the seed
-[11:14:24] [Async Chat Thread - #62/INFO]: <RhinoDude980> whuldent you do it in singlr player/
-[11:14:26] [Async Chat Thread - #62/INFO]: <BuuTheGreat> but i mean, it's meant to explore places not just find them on a map
-[11:14:26] [Async Chat Thread - #62/INFO]: <RhinoDude980> ?
-[11:14:52] [Async Chat Thread - #62/INFO]: <BuuTheGreat> this isn't singleplayer
-[11:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[11:15:00] [Server thread/INFO]: Saving...
-[11:15:00] [Server thread/INFO]: Saved the world
-[11:15:00] [Server thread/INFO]: [Server] Save Complete
-[11:15:10] [Async Chat Thread - #62/INFO]: <RhinoDude980> i do it all the time
-[11:15:39] [Async Chat Thread - #62/INFO]: <RhinoDude980> its like starting a world with a villge seed
-[11:15:50] [Async Chat Thread - #62/INFO]: <RhinoDude980> dont worry
-[11:16:24] [Async Chat Thread - #62/INFO]: <BuuTheGreat> but it's not nice
-[11:16:29] [Async Chat Thread - #62/INFO]: <BuuTheGreat> it ruins the game pretty much
-[11:16:49] [Async Chat Thread - #62/INFO]: <RhinoDude980> ok then dont use it
-[11:16:57] [Async Chat Thread - #62/INFO]: <BuuTheGreat> nah i won't
-[11:17:41] [Server thread/INFO]: BuuTheGreat has just earned the achievement [DIAMONDS!]
-[11:17:54] [Async Chat Thread - #62/INFO]: <RhinoDude980> but this is the easiest way find slime chanks
-[11:18:00] [Async Chat Thread - #62/INFO]: <RhinoDude980> nice
-[11:19:43] [Async Chat Thread - #63/INFO]: <BuuTheGreat> if I was admin of a server and you used the seed to explore the world
-[11:19:49] [Async Chat Thread - #63/INFO]: <BuuTheGreat> you would be perm banned
-[11:19:55] [Async Chat Thread - #63/INFO]: <RhinoDude980> i got furtune!
-[11:19:59] [Async Chat Thread - #63/INFO]: <BuuTheGreat> nice :P
-[11:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[11:20:03] [Async Chat Thread - #63/INFO]: <BuuTheGreat> which fortune?
-[11:20:08] [Async Chat Thread - #63/INFO]: <RhinoDude980> sry i fogot buu
-[11:20:11] [Async Chat Thread - #63/INFO]: <RhinoDude980> 2
-[11:20:14] [Async Chat Thread - #63/INFO]: <BuuTheGreat> nice
-[11:20:30] [Async Chat Thread - #63/INFO]: <RhinoDude980> tell me when u need
-[11:20:43] [Async Chat Thread - #63/INFO]: <BuuTheGreat> yea
-[11:20:55] [Async Chat Thread - #63/INFO]: <RhinoDude980> any one got silk books?
-[11:21:01] [Async Chat Thread - #63/INFO]: <BuuTheGreat> nope
-[11:21:33] [Async Chat Thread - #63/INFO]: <BuuTheGreat> you found the mesa biome with the seed?
-[11:21:40] [Async Chat Thread - #63/INFO]: <RhinoDude980> any one want feader falling 4?
-[11:21:46] [Async Chat Thread - #63/INFO]: <BuuTheGreat> me
-[11:21:47] [Async Chat Thread - #63/INFO]: <RhinoDude980> yeah man
-[11:21:51] [Async Chat Thread - #63/INFO]: <BuuTheGreat> lol
-[11:21:55] [Async Chat Thread - #63/INFO]: <RhinoDude980> give me a diamond
-[11:22:10] [Async Chat Thread - #63/INFO]: <BuuTheGreat> Save it for me
-[11:22:11] [Async Chat Thread - #63/INFO]: <RhinoDude980> i got mending too
-[11:22:12] [Async Chat Thread - #63/INFO]: <BuuTheGreat> I'm mining
-[11:22:24] [Async Chat Thread - #63/INFO]: <RhinoDude980> i can have another
-[11:23:37] [Async Chat Thread - #64/INFO]: <BuuTheGreat> wait can you see below the ground with the seed?
-[11:23:47] [Async Chat Thread - #64/INFO]: <RhinoDude980> no
-[11:23:53] [Async Chat Thread - #64/INFO]: <BuuTheGreat> oh okay
-[11:24:10] [Async Chat Thread - #64/INFO]: <BuuTheGreat> because if you could then.. it's a bit bad lol
-[11:24:27] [Async Chat Thread - #64/INFO]: <RhinoDude980> the website showed u biomes n structures
-[11:24:39] [Async Chat Thread - #64/INFO]: <RhinoDude980> n slime chanks
-[11:24:55] [Async Chat Thread - #64/INFO]: <RhinoDude980> chunk****
-[11:25:00] [Async Chat Thread - #64/INFO]: <BuuTheGreat> k
-[11:26:35] [Async Chat Thread - #65/INFO]: <RhinoDude980> buu r u in my mine/
-[11:26:36] [Async Chat Thread - #65/INFO]: <RhinoDude980> ?
-[11:26:40] [Async Chat Thread - #65/INFO]: <BuuTheGreat> nope
-[11:26:48] [Async Chat Thread - #65/INFO]: <RhinoDude980> come to me
-[11:26:55] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
-[11:27:06] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[11:27:07] [Async Chat Thread - #65/INFO]: <RhinoDude980> duuuude
-[11:27:19] [Async Chat Thread - #65/INFO]: <BuuTheGreat> yea?
-[11:27:45] [Async Chat Thread - #65/INFO]: <RhinoDude980> stop dying lolol!
-[11:27:58] [Async Chat Thread - #65/INFO]: <BuuTheGreat> I let me die
-[11:28:01] [Server thread/INFO]: RhinoDude980 issued server command: /afk
-[11:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[11:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[11:30:00] [Server thread/INFO]: Saving...
-[11:30:00] [Server thread/INFO]: Saved the world
-[11:30:00] [Server thread/INFO]: [Server] Save Complete
-[11:30:20] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[11:33:23] [Async Chat Thread - #66/INFO]: <RhinoDude980> lol
-[11:33:34] [Async Chat Thread - #66/INFO]: <RhinoDude980> your armor broke
-[11:33:37] [Async Chat Thread - #66/INFO]: <BuuTheGreat> ye
-[11:33:50] [Async Chat Thread - #66/INFO]: <RhinoDude980> make irob
-[11:33:53] [Async Chat Thread - #66/INFO]: <RhinoDude980> iron
-[11:34:13] [Async Chat Thread - #66/INFO]: <RhinoDude980> do u have a diamod?
-[11:34:20] [Async Chat Thread - #66/INFO]: <RhinoDude980> diamond
-[11:35:06] [Async Chat Thread - #66/INFO]: <BuuTheGreat> thx
-[11:35:10] [Async Chat Thread - #66/INFO]: <RhinoDude980> np
-[11:35:31] [Async Chat Thread - #66/INFO]: <BuuTheGreat> lol
-[11:35:35] [Async Chat Thread - #66/INFO]: <RhinoDude980> ill make my own boots now
-[11:35:41] [Async Chat Thread - #66/INFO]: <RhinoDude980> he
-[11:35:49] [Async Chat Thread - #66/INFO]: <BuuTheGreat> nice
-[11:35:58] [Async Chat Thread - #66/INFO]: <RhinoDude980> need more lvls
-[11:37:26] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.525119097679,-2.0,84.69614897477756
-[11:37:36] [Server thread/WARN]: RhinoDude980 moved too quickly! -35.640883066654084,7.0,225.04090942463847
-[11:39:58] [Server thread/INFO]: RhinoDude980 issued server command: /
-[11:40:10] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[11:41:02] [Async Chat Thread - #67/INFO]: <BuuTheGreat> lol you take levels XD
-[11:41:06] [Async Chat Thread - #67/INFO]: <RhinoDude980> i need a bit more xp
-[11:41:10] [Async Chat Thread - #67/INFO]: <BuuTheGreat> lol
-[11:41:22] [Async Chat Thread - #67/INFO]: <RhinoDude980> ok
-[11:42:48] [Async Chat Thread - #68/INFO]: <RhinoDude980> i can get depth strider 3
-[11:42:54] [Async Chat Thread - #68/INFO]: <BuuTheGreat> lol
-[11:44:11] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.25771982329903,-2.0,84.60401225683759
-[11:44:34] [User Authenticator #15/WARN]: [MCBans] Can't reach MCBans API Servers! Check passed player: DrizzlyOwl
-[11:44:34] [User Authenticator #15/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
-[11:44:34] [Server thread/INFO]: DrizzlyOwl[/188.166.170.87:64013] logged in with entity id 132998 at ([world]17.411969164603878, 67.12442195630848, 209.54354965767538)
-[11:44:34] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
-[11:44:34] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Hey there, DrizzlyOwl!
-[11:44:34] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Welcome to Mineapple
-[11:44:39] [Async Chat Thread - #69/INFO]: <BuuTheGreat> wb
-[11:44:39] [Async Chat Thread - #69/INFO]: <RhinoDude980> hi man
-[11:44:45] [Async Chat Thread - #69/INFO]: <DrizzlyOwl> hello
-[11:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[11:45:00] [Server thread/INFO]: Saving...
-[11:45:00] [Server thread/INFO]: Saved the world
-[11:45:00] [Server thread/INFO]: [Server] Save Complete
-[11:45:11] [Server thread/INFO]: BuuTheGreat has just earned the achievement [Delicious Fish]
-[11:45:13] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[11:45:18] [Async Chat Thread - #69/INFO]: <BuuTheGreat> lol
-[11:45:19] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 1
-[11:45:30] [Async Chat Thread - #69/INFO]: <RhinoDude980> drizz do u know a nether furtres?
-[11:45:44] [Async Chat Thread - #69/INFO]: <DrizzlyOwl> I don't know of any
-[11:45:51] [Async Chat Thread - #69/INFO]: <RhinoDude980> ok
-[11:46:00] [Async Chat Thread - #69/INFO]: <RhinoDude980> does elle know?
-[11:48:04] [Server thread/INFO]: RhinoDude980 was slain by Zombie
-[11:48:08] [Async Chat Thread - #70/INFO]: <BuuTheGreat> oh
-[11:48:14] [Async Chat Thread - #70/INFO]: <BuuTheGreat> omg
-[11:48:23] [Async Chat Thread - #70/INFO]: <RhinoDude980> shiit
-[11:48:31] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.4739677669323,-2.0,84.3756762804519
-[11:48:32] [Async Chat Thread - #70/INFO]: <BuuTheGreat> you lost levels? :s
-[11:49:33] [Async Chat Thread - #71/INFO]: <RhinoDude980> help!
-[11:49:37] [Async Chat Thread - #71/INFO]: <BuuTheGreat> ?
-[11:49:55] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.46675269376665,7.0,225.01440621818267
-[11:50:03] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[11:50:13] [Server thread/INFO]: RhinoDude980 issued server command: /back
-[11:50:52] [Async Chat Thread - #72/INFO]: <RhinoDude980> help! me
-[11:50:56] [Async Chat Thread - #72/INFO]: <BuuTheGreat> with what?
-[11:51:04] [Async Chat Thread - #72/INFO]: <RhinoDude980> my tools
-[11:51:10] [Async Chat Thread - #72/INFO]: <BuuTheGreat> where are they?
-[11:51:36] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.7083264384481,-2.0,84.26728736048
-[11:51:56] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[11:52:45] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.34300695826792,7.0,225.16320514838316
-[11:53:03] [Async Chat Thread - #73/INFO]: <RhinoDude980> ok i got my staff
-[11:53:08] [Async Chat Thread - #73/INFO]: <BuuTheGreat> nice
-[11:53:11] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[11:53:27] [Async Chat Thread - #73/INFO]: <RhinoDude980> i lost 18 lvls
-[11:53:59] [Async Chat Thread - #73/INFO]: <RhinoDude980> the pigmen got hit by the ghast
-[11:54:19] [Async Chat Thread - #73/INFO]: <RhinoDude980> then the got behind me
-[11:54:21] [Server thread/WARN]: RhinoDude980 moved wrongly!
-[11:54:33] [Server thread/INFO]: DrizzlyOwl issued server command: /day
-[11:54:33] [Server thread/INFO]: Command 'day' conflicts with plugin 'Essentials v2.0.1-b424', McMyAdmin will not receive this command. Command will be sent to 'Essentials v2.0.1-b424' instead.
-[11:55:14] [Async Chat Thread - #73/INFO]: <BuuTheGreat> oh
-[11:55:34] [Async Chat Thread - #73/INFO]: <RhinoDude980> ok only xp lost
-[11:55:45] [Async Chat Thread - #73/INFO]: <BuuTheGreat> nice
-[11:56:02] [Async Chat Thread - #73/INFO]: <RhinoDude980> they scard the crap out of me
-[11:56:08] [Async Chat Thread - #73/INFO]: <BuuTheGreat> lol
-[11:56:23] [Async Chat Thread - #73/INFO]: <RhinoDude980> lols
-[11:56:41] [Async Chat Thread - #73/INFO]: <RhinoDude980> tell me when u need furtune
-[11:56:47] [Async Chat Thread - #73/INFO]: <BuuTheGreat> ye
-[11:57:12] [Async Chat Thread - #73/INFO]: <RhinoDude980> drizz does any one got an xp farm?
-[11:57:17] [Async Chat Thread - #73/INFO]: <DrizzlyOwl> i dont know mate
-[11:57:18] [Async Chat Thread - #73/INFO]: <DrizzlyOwl> sorry
-[11:57:22] [Async Chat Thread - #73/INFO]: <RhinoDude980> ok
-[11:57:24] [Async Chat Thread - #73/INFO]: <BuuTheGreat> walshy has
-[11:57:37] [Async Chat Thread - #73/INFO]: <RhinoDude980> cool where is it?
-[11:57:47] [Async Chat Thread - #73/INFO]: <BuuTheGreat> end but he teleported me away
-[11:57:57] [Async Chat Thread - #73/INFO]: <RhinoDude980> ok
-[12:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[12:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[12:00:00] [Server thread/INFO]: Saving...
-[12:00:00] [Server thread/INFO]: Saved the world
-[12:00:00] [Server thread/INFO]: [Server] Save Complete
-[12:01:40] [Async Chat Thread - #74/INFO]: <RhinoDude980> use futune on crops
-[12:05:18] [Server thread/INFO]: DrizzlyOwl issued server command: /day
-[12:05:18] [Server thread/INFO]: Command 'day' conflicts with plugin 'Essentials v2.0.1-b424', McMyAdmin will not receive this command. Command will be sent to 'Essentials v2.0.1-b424' instead.
-[12:05:51] [Async Chat Thread - #75/INFO]: <BuuTheGreat> this seed isn't rich of diamonds.. by mining I can see that
-[12:06:09] [Async Chat Thread - #75/INFO]: <RhinoDude980> 0.o
-[12:06:40] [Async Chat Thread - #75/INFO]: <BuuTheGreat> it's strange
-[12:06:40] [Async Chat Thread - #75/INFO]: <RhinoDude980> it depends on the time u do it
-[12:06:53] [Async Chat Thread - #75/INFO]: <RhinoDude980> tell me when u find
-[12:09:23] [Async Chat Thread - #76/INFO]: <BuuTheGreat> yo
-[12:09:25] [Async Chat Thread - #76/INFO]: <Skyking_Caton> hello
-[12:09:35] [Async Chat Thread - #76/INFO]: <RhinoDude980> yo yo wazap!
-[12:09:39] [Async Chat Thread - #76/INFO]: <RhinoDude980> lol
-[12:12:16] [Server thread/INFO]: RhinoDude980 issued server command: /
-[12:12:45] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.7984424262663,-2.0,84.30800743151212
-[12:12:54] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.50818836758555,7.0,224.99756433421376
-[12:13:11] [Async Chat Thread - #77/INFO]: <DrizzlyOwl> lol hey
-[12:13:16] [Async Chat Thread - #77/INFO]: <DrizzlyOwl> didnt see you there
-[12:13:22] [Async Chat Thread - #77/INFO]: <RhinoDude980> can u poot a fletcher in the shop?
-[12:13:37] [Async Chat Thread - #77/INFO]: <DrizzlyOwl> whats a fletcher?
-[12:14:00] [Async Chat Thread - #77/INFO]: <RhinoDude980> he buys string n sells arorrs n bows
-[12:14:07] [Async Chat Thread - #77/INFO]: <DrizzlyOwl> ask walshy next time he's on :)
-[12:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[12:15:00] [Server thread/INFO]: Saving...
-[12:15:00] [Server thread/INFO]: Saved the world
-[12:15:00] [Server thread/INFO]: [Server] Save Complete
-[12:15:02] [Async Chat Thread - #77/INFO]: <BuuTheGreat> rhino I need now your pick
-[12:15:03] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
-[12:15:03] [Server thread/INFO]: BuuTheGreat left the game
-[12:15:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@245b21d1[id=<null>,name=BuuTheGreat,properties={},legacy=false] (/91.159.165.4:49445) lost connection: Disconnected
-[12:15:13] [Async Chat Thread - #77/INFO]: <RhinoDude980> k
-[12:15:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@ba30cbf[id=<null>,name=BuuTheGreat,properties={},legacy=false] (/91.159.165.4:49454) lost connection: Disconnected
-[12:15:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@52776c49[id=<null>,name=BuuTheGreat,properties={},legacy=false] (/91.159.165.4:49464) lost connection: Disconnected
-[12:15:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@361cb19c[id=<null>,name=BuuTheGreat,properties={},legacy=false] (/91.159.165.4:49472) lost connection: Disconnected
-[12:15:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@2afb30df[id=<null>,name=BuuTheGreat,properties={},legacy=false] (/91.159.165.4:49480) lost connection: Disconnected
-[12:17:12] [Async Chat Thread - #78/INFO]: <RhinoDude980> i got a stack n a half of emerals!!!
-[12:17:21] [Async Chat Thread - #78/INFO]: <RhinoDude980> emerald
-[12:17:48] [User Authenticator #16/WARN]: [MCBans] Can't reach MCBans API Servers! Check passed player: BuuTheGreat
-[12:17:48] [User Authenticator #16/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
-[12:17:48] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49514] logged in with entity id 153720 at ([world]-396.2416394665739, 12.164773281826067, 121.69999998807907)
-[12:17:48] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
-[12:17:48] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
-[12:17:48] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
-[12:17:57] [Async Chat Thread - #78/INFO]: <RhinoDude980> i got a stack n a half of emerald!!!
-[12:18:06] [Async Chat Thread - #78/INFO]: <BuuTheGreat> nice
-[12:18:43] [Async Chat Thread - #78/INFO]: <BuuTheGreat> rhino
-[12:18:50] [Async Chat Thread - #78/INFO]: <BuuTheGreat> I need your pick
-[12:19:00] [Async Chat Thread - #78/INFO]: <RhinoDude980> one se i can get 3!
-[12:19:09] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[12:19:28] [Async Chat Thread - #78/INFO]: <BuuTheGreat> 3?
-[12:19:36] [Async Chat Thread - #78/INFO]: <RhinoDude980> furtune 3
-[12:19:47] [Async Chat Thread - #78/INFO]: <BuuTheGreat> now?
-[12:19:55] [Async Chat Thread - #78/INFO]: <RhinoDude980> a villiger
-[12:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[12:20:00] [Async Chat Thread - #78/INFO]: <BuuTheGreat> oh :D
-[12:20:22] [Async Chat Thread - #78/INFO]: <RhinoDude980> do u got 23 xp?
-[12:20:30] [Async Chat Thread - #78/INFO]: <BuuTheGreat> only 17 :/
-[12:20:38] [Async Chat Thread - #78/INFO]: <RhinoDude980> sky??
-[12:20:45] [Async Chat Thread - #78/INFO]: <Skyking_Caton> yeah
-[12:20:51] [Async Chat Thread - #78/INFO]: <RhinoDude980> we can get furtune 3!
-[12:21:00] [Async Chat Thread - #78/INFO]: <RhinoDude980> do u have 23 lvls?
-[12:21:07] [Async Chat Thread - #78/INFO]: <Skyking_Caton> only 19
-[12:21:18] [Async Chat Thread - #78/INFO]: <RhinoDude980> ok get more
-[12:21:26] [Async Chat Thread - #78/INFO]: <RhinoDude980> i wasted 17
-[12:21:39] [Server thread/INFO]: Skyking_Caton was shot by Skeleton
-[12:21:44] [Async Chat Thread - #78/INFO]: <RhinoDude980> !!!!!
-[12:21:45] [Server thread/INFO]: Skyking_Caton issued server command: /back
-[12:21:52] [Async Chat Thread - #78/INFO]: <RhinoDude980> dont die buu
-[12:21:57] [Async Chat Thread - #78/INFO]: <BuuTheGreat> I try
-[12:21:58] [Async Chat Thread - #78/INFO]: <RhinoDude980> come here
-[12:22:09] [Async Chat Thread - #78/INFO]: <BuuTheGreat> no I want these diamonds
-[12:22:15] [Async Chat Thread - #78/INFO]: <Skyking_Caton> 7 levels now XD
-[12:22:25] [Async Chat Thread - #78/INFO]: <RhinoDude980> get quartz from the nethr
-[12:22:39] [Async Chat Thread - #78/INFO]: <RhinoDude980> u can dubble that!
-[12:22:46] [Async Chat Thread - #78/INFO]: <RhinoDude980> do it
-[12:23:07] [Async Chat Thread - #78/INFO]: <RhinoDude980> wirte the courdints
-[12:23:18] [Async Chat Thread - #78/INFO]: <BuuTheGreat> yea I wait
-[12:23:29] [Async Chat Thread - #78/INFO]: <RhinoDude980> the xyz
-[12:23:37] [Async Chat Thread - #78/INFO]: <BuuTheGreat> Rhino I want fort 2 ok?
-[12:23:54] [Async Chat Thread - #78/INFO]: <RhinoDude980> i can get 3!
-[12:24:00] [Async Chat Thread - #78/INFO]: <RhinoDude980> come here
-[12:24:07] [Async Chat Thread - #78/INFO]: <RhinoDude980> combine the 2
-[12:24:11] [Async Chat Thread - #78/INFO]: <BuuTheGreat> no the diamonds are here
-[12:24:20] [Async Chat Thread - #78/INFO]: <BuuTheGreat> combine?
-[12:24:26] [Async Chat Thread - #78/INFO]: <RhinoDude980> u can go back to them!
-[12:24:31] [Async Chat Thread - #78/INFO]: <RhinoDude980> plzzzz???
-[12:24:46] [Server thread/INFO]: BuuTheGreat issued server command: /tpa rhino
-[12:24:47] [Async Chat Thread - #78/INFO]: <BuuTheGreat> ok
-[12:24:57] [Async Chat Thread - #78/INFO]: <RhinoDude980> ?tp accept
-[12:25:03] [Server thread/INFO]: RhinoDude980 issued server command: /tp accept
-[12:25:03] [Server thread/INFO]: §cRhinoDude980 §4was denied access to command.
-[12:25:10] [Server thread/INFO]: RhinoDude980 issued server command: /tpaccept
-[12:25:14] [Async Chat Thread - #78/INFO]: <RhinoDude980> oops
-[12:25:26] [Async Chat Thread - #78/INFO]: <RhinoDude980> get quartz
-[12:25:33] [Async Chat Thread - #78/INFO]: <BuuTheGreat> what?
-[12:25:39] [Async Chat Thread - #78/INFO]: <RhinoDude980> get to lvl 23
-[12:25:56] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[12:26:08] [Async Chat Thread - #78/INFO]: <RhinoDude980> what r u doin?
-[12:26:12] [Async Chat Thread - #78/INFO]: <BuuTheGreat> fishin
-[12:26:26] [Async Chat Thread - #78/INFO]: <BuuTheGreat> can I kill you I get xp from that right?
-[12:26:30] [Async Chat Thread - #78/INFO]: <BuuTheGreat> lol
-[12:26:38] [Async Chat Thread - #78/INFO]: <RhinoDude980> dude get quartz
-[12:26:47] [Async Chat Thread - #78/INFO]: <BuuTheGreat> quartz why`?
-[12:26:55] [Async Chat Thread - #78/INFO]: <RhinoDude980> for xp!
-[12:27:04] [Async Chat Thread - #78/INFO]: <BuuTheGreat> nah I ain't go to nether
-[12:27:10] [Async Chat Thread - #78/INFO]: <RhinoDude980> fine
-[12:27:21] [Async Chat Thread - #78/INFO]: <RhinoDude980> just get to lvl 23
-[12:27:48] [Async Chat Thread - #78/INFO]: <BuuTheGreat> I try
-[12:28:00] [Async Chat Thread - #78/INFO]: <BuuTheGreat> wait I can mine to it
-[12:28:09] [Async Chat Thread - #78/INFO]: <BuuTheGreat> coal
-[12:28:13] [Async Chat Thread - #78/INFO]: <RhinoDude980> quartz gives u a lot of xp tho
-[12:28:27] [Async Chat Thread - #78/INFO]: <RhinoDude980> n its all over the nether
-[12:28:33] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[12:28:59] [Async Chat Thread - #78/INFO]: <RhinoDude980> u can also trade to get xp
-[12:29:47] [Server thread/INFO]: Skyking_Caton has just earned the achievement [The Lie]
-[12:29:50] [Async Chat Thread - #78/INFO]: <RhinoDude980> where ru?
-[12:29:54] [Async Chat Thread - #78/INFO]: <BuuTheGreat> mining
-[12:29:55] [Async Chat Thread - #78/INFO]: <RhinoDude980> r u?
-[12:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[12:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[12:30:00] [Server thread/INFO]: Saving...
-[12:30:00] [Server thread/INFO]: Saved the world
-[12:30:00] [Server thread/INFO]: [Server] Save Complete
-[12:30:10] [Async Chat Thread - #78/INFO]: <RhinoDude980> want that for a diamond?
-[12:30:33] [Async Chat Thread - #78/INFO]: <BuuTheGreat> want what?
-[12:30:51] [Server thread/INFO]: DrizzlyOwl lost connection: user was kicked.
-[12:30:51] [Server thread/INFO]: DrizzlyOwl lost connection: You have been idle for too long!
-[12:30:51] [Server thread/INFO]: DrizzlyOwl left the game
-[12:30:51] [Server thread/WARN]: handleDisconnection() called twice
-[12:30:53] [Async Chat Thread - #78/INFO]: <RhinoDude980> r u in a cave?
-[12:30:57] [Async Chat Thread - #78/INFO]: <BuuTheGreat> no
-[12:31:01] [Async Chat Thread - #78/INFO]: <RhinoDude980> where?
-[12:31:07] [Async Chat Thread - #78/INFO]: <BuuTheGreat> in a mine
-[12:31:38] [Async Chat Thread - #78/INFO]: <RhinoDude980> im in the stirs come here for a sec
-[12:31:46] [Async Chat Thread - #78/INFO]: <RhinoDude980> stairs*
-[12:32:42] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[12:32:47] [Async Chat Thread - #79/INFO]: <BuuTheGreat> are you home?
-[12:32:54] [Async Chat Thread - #79/INFO]: <RhinoDude980> in the mine
-[12:33:01] [Async Chat Thread - #79/INFO]: <BuuTheGreat> ok
-[12:33:03] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[12:33:58] [Server thread/INFO]: Skyking_Caton lost connection: Disconnected
-[12:33:58] [Server thread/INFO]: Skyking_Caton left the game
-[12:33:58] [Async Chat Thread - #79/INFO]: <RhinoDude980> im in the stairs
-[12:34:12] [Async Chat Thread - #79/INFO]: <BuuTheGreat> I'm in ur house
-[12:34:17] [Async Chat Thread - #79/INFO]: <BuuTheGreat> smelting
-[12:34:20] [Async Chat Thread - #79/INFO]: <BuuTheGreat> to get levels
-[12:34:27] [Async Chat Thread - #79/INFO]: <RhinoDude980> ok
-[12:34:50] [Async Chat Thread - #79/INFO]: <RhinoDude980> want that for a diamond?
-[12:35:14] [Async Chat Thread - #79/INFO]: <BuuTheGreat> yea when I get the diamonds
-[12:35:19] [Async Chat Thread - #79/INFO]: <RhinoDude980> k
-[12:35:55] [Async Chat Thread - #79/INFO]: <BuuTheGreat> you can put more ore in ovens
-[12:35:58] [Async Chat Thread - #79/INFO]: <RhinoDude980> trade with the villager to get lvls too
-[12:36:02] [Async Chat Thread - #79/INFO]: <BuuTheGreat> so I get levels
-[12:36:09] [Async Chat Thread - #79/INFO]: <RhinoDude980> k
-[12:36:50] [Async Chat Thread - #79/INFO]: <RhinoDude980> lets sleep
-[12:36:57] [Async Chat Thread - #79/INFO]: <BuuTheGreat> nah
-[12:37:03] [Async Chat Thread - #79/INFO]: <RhinoDude980> why?
-[12:37:11] [Async Chat Thread - #79/INFO]: <BuuTheGreat> ok
-[12:37:22] [Async Chat Thread - #79/INFO]: <RhinoDude980> chico got a bed
-[12:37:43] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[12:37:45] [Async Chat Thread - #79/INFO]: <RhinoDude980> im in
-[12:37:48] [Async Chat Thread - #79/INFO]: <BuuTheGreat> chico is not here
-[12:37:57] [Async Chat Thread - #79/INFO]: <RhinoDude980> ok sleep
-[12:38:14] [Async Chat Thread - #79/INFO]: <BuuTheGreat> hey someone has destroyed my bed
-[12:38:27] [Async Chat Thread - #79/INFO]: <RhinoDude980> sleep at chicos
-[12:38:31] [Async Chat Thread - #79/INFO]: <BuuTheGreat> where?
-[12:38:35] [Async Chat Thread - #79/INFO]: <BuuTheGreat> oh there
-[12:38:55] [Async Chat Thread - #79/INFO]: <RhinoDude980> i accidendly gave him your bed
-[12:39:06] [Async Chat Thread - #79/INFO]: <RhinoDude980> ti thout he didnt had one
-[12:39:08] [Async Chat Thread - #79/INFO]: <BuuTheGreat> man there is a skele
-[12:39:41] [Async Chat Thread - #79/INFO]: <RhinoDude980> 2 floor
-[12:40:18] [User Authenticator #17/WARN]: [MCBans] Can't reach MCBans API Servers! Check passed player: DrizzlyOwl
-[12:40:18] [User Authenticator #17/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
-[12:40:19] [Server thread/INFO]: DrizzlyOwl[/188.166.170.87:51238] logged in with entity id 164771 at ([world]-66.37483995424535, 76.88448810286687, 277.2380718835816)
-[12:40:19] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
-[12:40:19] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Hey there, DrizzlyOwl!
-[12:40:19] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Welcome to Mineapple
-[12:40:21] [Server thread/INFO]: BuuTheGreat lost connection: Timed out
-[12:40:21] [Server thread/INFO]: BuuTheGreat left the game
-[12:40:23] [Server thread/INFO]: DrizzlyOwl issued server command: /day
-[12:40:23] [Server thread/INFO]: Command 'day' conflicts with plugin 'Essentials v2.0.1-b424', McMyAdmin will not receive this command. Command will be sent to 'Essentials v2.0.1-b424' instead.
-[12:40:30] [Async Chat Thread - #79/INFO]: <RhinoDude980> can u make it day?
-[12:40:33] [Async Chat Thread - #79/INFO]: <DrizzlyOwl> just did
-[12:40:37] [Async Chat Thread - #79/INFO]: <RhinoDude980> tnx
-[12:40:38] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 1
-[12:40:43] [User Authenticator #18/WARN]: [MCBans] Can't reach MCBans API Servers! Check passed player: BuuTheGreat
-[12:40:43] [User Authenticator #18/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
-[12:40:43] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49528] logged in with entity id 165048 at ([world]-180.00352171457683, 65.0, -20.010669542919715)
-[12:40:43] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
-[12:40:43] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
-[12:40:43] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
-[12:40:52] [Async Chat Thread - #79/INFO]: <RhinoDude980> get the ors
-[12:41:01] [Async Chat Thread - #79/INFO]: <RhinoDude980> ores
-[12:41:19] [Async Chat Thread - #79/INFO]: <BuuTheGreat> 19:p
-[12:41:32] [Async Chat Thread - #79/INFO]: <RhinoDude980> drizz we can get furtune 3
-[12:41:37] [Async Chat Thread - #79/INFO]: <DrizzlyOwl> no sorry
-[12:41:51] [Async Chat Thread - #79/INFO]: <RhinoDude980> what?
-[12:42:00] [Async Chat Thread - #79/INFO]: <BuuTheGreat> we can get it legit drizz
-[12:42:05] [Async Chat Thread - #79/INFO]: <DrizzlyOwl> oh sorry i thought you were asking me
-[12:42:07] [Async Chat Thread - #79/INFO]: <RhinoDude980> yeah
-[12:42:10] [Async Chat Thread - #79/INFO]: <BuuTheGreat> no
-[12:42:14] [Async Chat Thread - #79/INFO]: <RhinoDude980> oh ok
-[12:42:39] [Async Chat Thread - #79/INFO]: <RhinoDude980> buu trade i got tons of crop
-[12:42:48] [Async Chat Thread - #79/INFO]: <BuuTheGreat> what kind
-[12:43:06] [Async Chat Thread - #79/INFO]: <RhinoDude980> furtune the filed
-[12:43:17] [Async Chat Thread - #79/INFO]: <BuuTheGreat> what?
-[12:43:35] [Async Chat Thread - #79/INFO]: <RhinoDude980> use furtune on carrots n potatos
-[12:43:57] [Async Chat Thread - #79/INFO]: <RhinoDude980> then sell to the villsger
-[12:44:40] [Async Chat Thread - #79/INFO]: <RhinoDude980> oh ok
-[12:44:51] [Async Chat Thread - #79/INFO]: <BuuTheGreat> do I get levels from villagers?
-[12:44:58] [Async Chat Thread - #79/INFO]: <RhinoDude980> yeah
-[12:44:59] [Server thread/INFO]: DrizzlyOwl issued server command: /v
-[12:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[12:45:00] [Server thread/INFO]: Saving...
-[12:45:00] [Server thread/INFO]: Saved the world
-[12:45:00] [Server thread/INFO]: [Server] Save Complete
-[12:45:06] [Server thread/INFO]: DrizzlyOwl issued server command: /v
-[12:45:20] [Async Chat Thread - #79/INFO]: <RhinoDude980> use the pick on carrots n potatos
-[12:45:58] [Async Chat Thread - #79/INFO]: <RhinoDude980> sell them rotten flesh too
-[12:46:34] [Async Chat Thread - #79/INFO]: <RhinoDude980> dont do it on wheat its jut more seeds
-[12:46:56] [Async Chat Thread - #79/INFO]: <RhinoDude980> give me your stobt
-[12:47:01] [Async Chat Thread - #79/INFO]: <RhinoDude980> stone
-[12:47:28] [Async Chat Thread - #79/INFO]: <RhinoDude980> replant too
-[12:48:15] [Async Chat Thread - #79/INFO]: <RhinoDude980> oooh a pffer fish
-[12:48:28] [Async Chat Thread - #79/INFO]: <RhinoDude980> puffer
-[12:48:29] [Async Chat Thread - #79/INFO]: <BuuTheGreat> lol
-[12:49:03] [Async Chat Thread - #79/INFO]: <RhinoDude980> we can make water brithing poitions with it
-[12:49:44] [Async Chat Thread - #79/INFO]: <RhinoDude980> get potatos too
-[12:49:52] [Async Chat Thread - #79/INFO]: <RhinoDude980> save the emeralds
-[12:51:00] [Server thread/WARN]: Horse moved wrongly!
-[12:51:00] [Server thread/WARN]: Horse moved wrongly!
-[12:51:00] [Server thread/WARN]: Horse moved wrongly!
-[12:51:00] [Server thread/WARN]: Horse moved wrongly!
-[12:51:00] [Server thread/WARN]: Horse moved wrongly!
-[12:51:00] [Server thread/WARN]: Horse moved wrongly!
-[12:51:01] [Server thread/WARN]: Horse moved wrongly!
-[12:51:09] [Server thread/INFO]: DrizzlyOwl issued server command: /day
-[12:51:09] [Server thread/INFO]: Command 'day' conflicts with plugin 'Essentials v2.0.1-b424', McMyAdmin will not receive this command. Command will be sent to 'Essentials v2.0.1-b424' instead.
-[12:51:24] [Async Chat Thread - #80/INFO]: <BuuTheGreat> ok
-[12:51:39] [Async Chat Thread - #80/INFO]: <BuuTheGreat> where is the villager
-[12:51:47] [Async Chat Thread - #80/INFO]: <RhinoDude980> in spawn
-[12:51:53] [Async Chat Thread - #80/INFO]: <BuuTheGreat> oh
-[12:52:11] [Async Chat Thread - #80/INFO]: <RhinoDude980> sell them rotten flesh too
-[12:52:13] [Server thread/INFO]: BuuTheGreat has just earned the achievement [We Need to Go Deeper]
-[12:52:15] [Server thread/WARN]: BuuTheGreat moved too quickly! 141.88973179469573,-2.0,84.7912760144091
-[12:52:36] [Server thread/WARN]: BuuTheGreat moved too quickly! -35.51316498779288,7.0,225.40734490333878
-[12:52:57] [Async Chat Thread - #80/INFO]: <BuuTheGreat> lol chico stole my beds XD
-[12:53:06] [Async Chat Thread - #80/INFO]: <RhinoDude980> i did
-[12:53:08] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[12:53:10] [Async Chat Thread - #80/INFO]: <BuuTheGreat> why
-[12:53:18] [Async Chat Thread - #80/INFO]: <BuuTheGreat> where is villager
-[12:53:22] [Async Chat Thread - #80/INFO]: <RhinoDude980> i thot he didnt had one
-[12:53:38] [Async Chat Thread - #80/INFO]: <RhinoDude980> left of spone
-[12:53:40] [Async Chat Thread - #80/INFO]: <BuuTheGreat> where is villager tho?
-[12:54:04] [Async Chat Thread - #80/INFO]: <RhinoDude980> coming
-[12:54:14] [Async Chat Thread - #80/INFO]: <BuuTheGreat> im here already
-[12:54:22] [Async Chat Thread - #80/INFO]: <BuuTheGreat> but I don't see him yet
-[12:54:46] [Async Chat Thread - #80/INFO]: <BuuTheGreat> where?
-[12:54:57] [Async Chat Thread - #80/INFO]: <RhinoDude980> here
-[12:55:21] [Async Chat Thread - #80/INFO]: <RhinoDude980> drizz poot more torches in the shop
-[12:55:30] [Async Chat Thread - #80/INFO]: <BuuTheGreat> which one?
-[12:55:41] [Async Chat Thread - #80/INFO]: <RhinoDude980> this
-[12:55:56] [Async Chat Thread - #80/INFO]: <RhinoDude980> k im off
-[12:56:02] [Server thread/INFO]: RhinoDude980 issued server command: /home
-[12:56:10] [Async Chat Thread - #80/INFO]: <BuuTheGreat> k
-[12:56:20] [Async Chat Thread - #80/INFO]: <BuuTheGreat> rhino
-[12:56:26] [Async Chat Thread - #80/INFO]: <RhinoDude980> yeah
-[12:56:29] [Async Chat Thread - #80/INFO]: <BuuTheGreat> where is the villager you can get for from?
-[12:56:38] [Async Chat Thread - #80/INFO]: <BuuTheGreat> fortune from
-[12:56:48] [Async Chat Thread - #80/INFO]: <RhinoDude980> he has furtune 1
-[12:57:06] [Async Chat Thread - #80/INFO]: <BuuTheGreat> not fortune 3?
-[12:57:12] [Async Chat Thread - #80/INFO]: <RhinoDude980> no
-[12:57:19] [Async Chat Thread - #80/INFO]: <RhinoDude980> i have 2 of 2
-[12:57:23] [Async Chat Thread - #80/INFO]: <BuuTheGreat> ah
-[12:57:28] [Async Chat Thread - #80/INFO]: <BuuTheGreat> oh
-[12:57:44] [Async Chat Thread - #80/INFO]: <RhinoDude980> cos i got 2 of 1 from the villager
-[12:57:45] [Async Chat Thread - #80/INFO]: <BuuTheGreat> Can I have the second one?
-[12:58:05] [Async Chat Thread - #80/INFO]: <RhinoDude980> lets combine the,
-[12:58:06] [Server thread/INFO]: BuuTheGreat issued server command: /Home
-[12:58:10] [Async Chat Thread - #80/INFO]: <BuuTheGreat> ye
-[12:58:11] [Async Chat Thread - #80/INFO]: <RhinoDude980> them
-[12:58:17] [Server thread/INFO]: BuuTheGreat issued server command: /tpa rhi
-[12:58:22] [Async Chat Thread - #80/INFO]: <BuuTheGreat> are u home
-[12:58:24] [Async Chat Thread - #80/INFO]: <RhinoDude980> im not homr
-[12:58:27] [Async Chat Thread - #80/INFO]: <BuuTheGreat> oh
-[12:58:29] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[12:58:40] [Server thread/INFO]: RhinoDude980 issued server command: /tpa BuuTheGreat
-[12:58:48] [Server thread/INFO]: BuuTheGreat issued server command: /tpaccept
-[12:58:49] [Async Chat Thread - #80/INFO]: <RhinoDude980> get me to spawn
-[12:58:56] [Async Chat Thread - #80/INFO]: <BuuTheGreat> oh im not there lol
-[12:59:04] [Async Chat Thread - #80/INFO]: <RhinoDude980> haha
-[12:59:33] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.27179845538998,-2.0,84.77280153837688
-[12:59:41] [Async Chat Thread - #80/INFO]: <BuuTheGreat> 20
-[12:59:44] [Async Chat Thread - #80/INFO]: <RhinoDude980> r u lvl23?
-[12:59:48] [Async Chat Thread - #80/INFO]: <BuuTheGreat> no
-[12:59:50] [Server thread/WARN]: RhinoDude980 moved too quickly! -35.560320375314504,7.0,224.5494470771294
-[13:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[13:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[13:00:00] [Server thread/INFO]: Saving...
-[13:00:00] [Server thread/INFO]: Saved the world
-[13:00:00] [Server thread/INFO]: [Server] Save Complete
-[13:00:04] [Async Chat Thread - #80/INFO]: <RhinoDude980> getquartz
-[13:00:14] [Async Chat Thread - #80/INFO]: <BuuTheGreat> I try with coal
-[13:00:21] [Async Chat Thread - #80/INFO]: <BuuTheGreat> I die in nether so no
-[13:00:23] [Async Chat Thread - #80/INFO]: <BuuTheGreat> lol
-[13:00:38] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
-[13:02:10] [Async Chat Thread - #81/INFO]: <RhinoDude980> make it day
-[13:02:13] [Server thread/INFO]: DrizzlyOwl issued server command: /day
-[13:02:13] [Server thread/INFO]: Command 'day' conflicts with plugin 'Essentials v2.0.1-b424', McMyAdmin will not receive this command. Command will be sent to 'Essentials v2.0.1-b424' instead.
-[13:02:16] [Async Chat Thread - #81/INFO]: <DrizzlyOwl> a l
-[13:02:21] [Async Chat Thread - #81/INFO]: <DrizzlyOwl> please wouldbe nice
-[13:02:34] [Async Chat Thread - #81/INFO]: <RhinoDude980> thank you!
-[13:06:11] [Async Chat Thread - #82/INFO]: <RhinoDude980> what lvl r u?
-[13:06:14] [Async Chat Thread - #82/INFO]: <BuuTheGreat> 22
-[13:06:27] [Async Chat Thread - #82/INFO]: <RhinoDude980> do u got the pick?
-[13:06:33] [Async Chat Thread - #82/INFO]: <BuuTheGreat> ye
-[13:06:47] [Async Chat Thread - #82/INFO]: <BuuTheGreat> ugh
-[13:06:54] [Async Chat Thread - #82/INFO]: <RhinoDude980> k combine them n get yo diamonds
-[13:06:55] [Async Chat Thread - #82/INFO]: <BuuTheGreat> is this spawn lol
-[13:08:07] [Async Chat Thread - #83/INFO]: <RhinoDude980> poot ice below path block to make a super path
-[13:08:25] [Async Chat Thread - #83/INFO]: <BuuTheGreat> ok
-[13:08:29] [Server thread/INFO]: BuuTheGreat issued server command: /tpa rhi
-[13:08:39] [Async Chat Thread - #83/INFO]: <BuuTheGreat> accept tele rhino
-[13:09:00] [Async Chat Thread - #83/INFO]: <RhinoDude980> req
-[13:09:01] [Async Chat Thread - #83/INFO]: <BuuTheGreat> ./tpaccept
-[13:09:04] [Async Chat Thread - #83/INFO]: <BuuTheGreat> do
-[13:09:16] [Server thread/INFO]: RhinoDude980 issued server command: /tpaccept
-[13:09:18] [Async Chat Thread - #83/INFO]: <BuuTheGreat> write in /tpaccept
-[13:09:23] [Async Chat Thread - #83/INFO]: <BuuTheGreat> enter
-[13:09:33] [Async Chat Thread - #83/INFO]: <RhinoDude980> u didnt requested
-[13:09:40] [Async Chat Thread - #83/INFO]: <BuuTheGreat> I did earlier
-[13:09:45] [Async Chat Thread - #83/INFO]: <BuuTheGreat> it says
-[13:09:49] [Async Chat Thread - #83/INFO]: <RhinoDude980> do agine
-[13:09:54] [Server thread/INFO]: BuuTheGreat issued server command: /tpa rhi
-[13:09:56] [Async Chat Thread - #83/INFO]: <BuuTheGreat> ok
-[13:10:02] [Server thread/INFO]: RhinoDude980 issued server command: /tpaccept
-[13:10:04] [Async Chat Thread - #83/INFO]: <RhinoDude980> k
-[13:10:25] [Async Chat Thread - #83/INFO]: <BuuTheGreat> woa
-[13:10:27] [Async Chat Thread - #83/INFO]: <RhinoDude980> DO IT!!!111
-[13:10:30] [Async Chat Thread - #83/INFO]: <BuuTheGreat> where is anvil
-[13:10:32] [Async Chat Thread - #83/INFO]: <RhinoDude980> lol
-[13:10:37] [Async Chat Thread - #83/INFO]: <RhinoDude980> 2 floor
-[13:11:26] [Async Chat Thread - #83/INFO]: <BuuTheGreat> :>d
-[13:11:28] [Async Chat Thread - #83/INFO]: <BuuTheGreat> :D
-[13:11:31] [Async Chat Thread - #83/INFO]: <RhinoDude980> let me see
-[13:11:44] [Async Chat Thread - #83/INFO]: <RhinoDude980> cool
-[13:12:09] [Async Chat Thread - #83/INFO]: <RhinoDude980> go mine the diamonds n give me 1 for the shovel
-[13:12:27] [Async Chat Thread - #83/INFO]: <BuuTheGreat> ye
-[13:13:05] [Async Chat Thread - #83/INFO]: <RhinoDude980> actualy 2
-[13:13:10] [Async Chat Thread - #83/INFO]: <RhinoDude980> give me 2
-[13:13:28] [Async Chat Thread - #83/INFO]: <BuuTheGreat> idk if it's worth two
-[13:13:59] [Async Chat Thread - #83/INFO]: <RhinoDude980> its a diamond for the ebchantment
-[13:14:21] [Async Chat Thread - #83/INFO]: <BuuTheGreat> ok
-[13:14:25] [Async Chat Thread - #83/INFO]: <RhinoDude980> ok
-[13:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[13:15:00] [Server thread/INFO]: Saving...
-[13:15:00] [Server thread/INFO]: Saved the world
-[13:15:00] [Server thread/INFO]: [Server] Save Complete
-[13:16:39] [Async Chat Thread - #84/INFO]: <RhinoDude980> im coming
-[13:17:05] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[13:17:21] [Server thread/INFO]: DrizzlyOwl lost connection: user was kicked.
-[13:17:21] [Server thread/INFO]: DrizzlyOwl lost connection: You have been idle for too long!
-[13:17:21] [Server thread/INFO]: DrizzlyOwl left the game
-[13:17:21] [Server thread/WARN]: handleDisconnection() called twice
-[13:18:03] [Async Chat Thread - #85/INFO]: <RhinoDude980> where r u?
-[13:18:05] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[13:18:09] [Async Chat Thread - #85/INFO]: <BuuTheGreat> gonna mine
-[13:18:11] [Async Chat Thread - #85/INFO]: <BuuTheGreat> them
-[13:18:15] [Async Chat Thread - #85/INFO]: <RhinoDude980> k
-[13:18:22] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[13:18:40] [Async Chat Thread - #85/INFO]: <RhinoDude980> dont mine stone with the furtune pick
-[13:18:57] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[13:19:03] [Async Chat Thread - #85/INFO]: <BuuTheGreat> nah
-[13:19:10] [Async Chat Thread - #85/INFO]: <BuuTheGreat> ok
-[13:19:12] [Async Chat Thread - #85/INFO]: <BuuTheGreat> nice
-[13:19:13] [Async Chat Thread - #85/INFO]: <BuuTheGreat> :p
-[13:19:22] [Async Chat Thread - #85/INFO]: <BuuTheGreat> 20!
-[13:19:23] [Async Chat Thread - #85/INFO]: <BuuTheGreat> :D
-[13:19:27] [Async Chat Thread - #85/INFO]: <RhinoDude980> coooool!
-[13:19:34] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[13:19:46] [Async Chat Thread - #85/INFO]: <RhinoDude980> come here
-[13:19:50] [Async Chat Thread - #85/INFO]: <BuuTheGreat> where
-[13:19:57] [Async Chat Thread - #85/INFO]: <RhinoDude980> the mine
-[13:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[13:20:05] [Async Chat Thread - #85/INFO]: <RhinoDude980> the stairs
-[13:20:52] [Server thread/INFO]: BuuTheGreat has just earned the achievement [Diamonds to you!]
-[13:20:53] [Async Chat Thread - #85/INFO]: <BuuTheGreat> thanks dude
-[13:21:09] [Async Chat Thread - #85/INFO]: <RhinoDude980> another 1
-[13:21:17] [Async Chat Thread - #85/INFO]: <BuuTheGreat> you said one?
-[13:21:27] [Async Chat Thread - #85/INFO]: <RhinoDude980> i said 2!
-[13:21:30] [Async Chat Thread - #85/INFO]: <BuuTheGreat> scroll up
-[13:21:41] [Async Chat Thread - #85/INFO]: <RhinoDude980> duuuude
-[13:21:46] [Async Chat Thread - #85/INFO]: <BuuTheGreat> I don't want this for 1
-[13:21:56] [Async Chat Thread - #85/INFO]: <BuuTheGreat> for 2 I mean
-[13:22:07] [Async Chat Thread - #85/INFO]: <RhinoDude980> fine!
-[13:22:18] [Async Chat Thread - #85/INFO]: <BuuTheGreat> you can make a better one now :P
-[13:22:22] [Async Chat Thread - #85/INFO]: <RhinoDude980> give the furtune
-[13:22:25] [Async Chat Thread - #85/INFO]: <RhinoDude980> pick
-[13:22:41] [Async Chat Thread - #85/INFO]: <BuuTheGreat> I made it
-[13:22:49] [Async Chat Thread - #85/INFO]: <RhinoDude980> what???
-[13:22:55] [Async Chat Thread - #85/INFO]: <BuuTheGreat> I made the pick
-[13:23:21] [Async Chat Thread - #85/INFO]: <RhinoDude980> my emerald my crops my 3 diamonds!
-[13:23:47] [Async Chat Thread - #85/INFO]: <RhinoDude980> u only spented xp
-[13:23:57] [Async Chat Thread - #85/INFO]: <BuuTheGreat> and time
-[13:24:00] [Async Chat Thread - #85/INFO]: <BuuTheGreat> much time
-[13:24:06] [Async Chat Thread - #85/INFO]: <RhinoDude980> ffffffff
-[13:24:40] [Async Chat Thread - #85/INFO]: <RhinoDude980> u can use it when ever but i keep it
-[13:24:49] [Async Chat Thread - #85/INFO]: <BuuTheGreat> nah I hold it I made it
-[13:24:50] [Async Chat Thread - #85/INFO]: <BuuTheGreat> :P
-[13:25:02] [Async Chat Thread - #85/INFO]: <BuuTheGreat> as you said once
-[13:25:09] [Async Chat Thread - #85/INFO]: <BuuTheGreat> you mine it you hold it
-[13:25:20] [Async Chat Thread - #85/INFO]: <RhinoDude980> u didnt mined it
-[13:25:29] [Async Chat Thread - #85/INFO]: <BuuTheGreat> no but I made it
-[13:25:40] [Async Chat Thread - #85/INFO]: <RhinoDude980> i made it...
-[13:25:45] [User Authenticator #19/WARN]: [MCBans] Can't reach MCBans API Servers! Check passed player: JeffTheThriller
-[13:25:45] [User Authenticator #19/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
-[13:25:45] [Server thread/INFO]: JeffTheThriller[/2.216.214.41:50700] logged in with entity id 187458 at ([world]-4755.165006586019, 63.0, 10522.354114012314)
-[13:25:45] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
-[13:25:45] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Hey there, JeffTheThriller!
-[13:25:45] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Welcome to Mineapple
-[13:25:49] [Async Chat Thread - #85/INFO]: <BuuTheGreat> no, I put them together
-[13:25:51] [Async Chat Thread - #85/INFO]: <RhinoDude980> u only spented xp
-[13:25:58] [Async Chat Thread - #85/INFO]: <BuuTheGreat> and a lot of time
-[13:25:59] [Async Chat Thread - #85/INFO]: <RhinoDude980> -_-
-[13:26:12] [Server thread/INFO]: JeffTheThriller lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[13:26:12] [Server thread/INFO]: JeffTheThriller left the game
-[13:26:17] [Async Chat Thread - #85/INFO]: <BuuTheGreat> you can use it too just ask
-[13:26:30] [Async Chat Thread - #85/INFO]: <RhinoDude980> dude i keep it
-[13:26:48] [Async Chat Thread - #85/INFO]: <RhinoDude980> its like 70% me
-[13:26:52] [Async Chat Thread - #85/INFO]: <RhinoDude980> mine
-[13:27:22] [Async Chat Thread - #85/INFO]: <BuuTheGreat> more like 60-40 mine
-[13:27:24] [Async Chat Thread - #85/INFO]: <BuuTheGreat> :P
-[13:27:33] [Async Chat Thread - #85/INFO]: <RhinoDude980> me 60
-[13:28:06] [Async Chat Thread - #85/INFO]: <RhinoDude980> ok im goin mining can u give it?
-[13:28:32] [Async Chat Thread - #85/INFO]: <RhinoDude980> ok its for both of as
-[13:28:43] [Async Chat Thread - #85/INFO]: <BuuTheGreat> yea
-[13:29:06] [Async Chat Thread - #85/INFO]: <RhinoDude980> can u give me?
-[13:29:08] [Async Chat Thread - #85/INFO]: <BuuTheGreat> if you find dia
-[13:29:24] [Async Chat Thread - #85/INFO]: <RhinoDude980> dude im goin mining
-[13:29:39] [Async Chat Thread - #85/INFO]: <BuuTheGreat> ye I can see that, with a sword in hand,
-[13:29:58] [Async Chat Thread - #85/INFO]: <BuuTheGreat> gtg
-[13:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[13:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[13:30:00] [Server thread/INFO]: Saving...
-[13:30:00] [Server thread/INFO]: Saved the world
-[13:30:00] [Server thread/INFO]: [Server] Save Complete
-[13:30:01] [Async Chat Thread - #85/INFO]: <RhinoDude980> u call me a lier?
-[13:30:04] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
-[13:30:04] [Server thread/INFO]: BuuTheGreat left the game
-[13:30:24] [Server thread/INFO]: RhinoDude980 lost connection: Disconnected
-[13:30:24] [Server thread/INFO]: RhinoDude980 left the game
-[13:32:22] [Server thread/INFO]: [Server] GET YOUR TITS OUT
-[13:34:59] [User Authenticator #20/WARN]: [MCBans] Can't reach MCBans API Servers! Check passed player: RhinoDude980
-[13:34:59] [User Authenticator #20/INFO]: UUID of player RhinoDude980 is ac50f86b-5db6-4d00-b83d-6b76816c2d1f
-[13:34:59] [Server thread/INFO]: RhinoDude980[/5.29.177.100:55225] logged in with entity id 189527 at ([world]-179.54354434600114, 65.0, -22.602280058241096)
-[13:34:59] [Server thread/INFO]: [Server] Welcome back, RhinoDude980
-[13:34:59] [Server thread/INFO]: [CONSOLE->RhinoDude980] Hey there, RhinoDude980!
-[13:34:59] [Server thread/INFO]: [CONSOLE->RhinoDude980] Welcome to Mineapple
-[13:35:12] [Async Chat Thread - #86/INFO]: <RhinoDude980> Drizz r u here?
-[13:35:24] [Server thread/INFO]: [Server] Spent another day on the server eh?
-[13:35:29] [Async Chat Thread - #86/INFO]: <RhinoDude980> yeah
-[13:35:34] [Server thread/INFO]: [Server] good man
-[13:35:41] [Async Chat Thread - #86/INFO]: <RhinoDude980> buuthegreat took my pick
-[13:35:57] [Server thread/INFO]: [Server] Why'd you lend it out ^_^
-[13:36:19] [Async Chat Thread - #86/INFO]: <RhinoDude980> ha
-[13:36:39] [Server thread/INFO]: [Server] Don't lend anything to your buddy chico.
-[13:36:50] [Server thread/INFO]: [Server] Caugh him breaking the rules last night
-[13:36:55] [Async Chat Thread - #86/INFO]: <RhinoDude980> ok
-[13:37:00] [Server thread/INFO]: [Server] I'll ban him if he does it again
-[13:37:09] [Server thread/INFO]: [Server] Don't mention I've told you this
-[13:37:15] [Async Chat Thread - #86/INFO]: <RhinoDude980> can u give me a pick i want to go minig
-[13:37:23] [Async Chat Thread - #86/INFO]: <RhinoDude980> ok
-[13:37:23] [Server thread/INFO]: [Server] It's walshy btw.
-[13:37:30] [Async Chat Thread - #86/INFO]: <RhinoDude980> oh
-[13:37:44] [Server thread/INFO]: [Server] Sorry bud. you are responsible for your own items
-[13:37:51] [Server thread/INFO]: [Server] One of the villagers sells a good pick
-[13:38:10] [Async Chat Thread - #86/INFO]: <RhinoDude980> it had furtun 3 eff4 and unb3
-[13:38:19] [Async Chat Thread - #86/INFO]: <RhinoDude980> furtune
-[13:38:27] [Async Chat Thread - #86/INFO]: <RhinoDude980> plzz
-[13:39:09] [Async Chat Thread - #86/INFO]: <RhinoDude980> i just want to go mining
-[13:39:44] [Async Chat Thread - #86/INFO]: <RhinoDude980> also me n chico made a nether tunnel to a mesa biome
-[13:41:06] [Async Chat Thread - #87/INFO]: <RhinoDude980> ?
-[13:42:28] [Server thread/INFO]: RhinoDude980 lost connection: Disconnected
-[13:42:28] [Server thread/INFO]: RhinoDude980 left the game
-[13:42:55] [Server thread/INFO]: [Server] Sorry Rhino, Mods have to follow rules too :/
-[13:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[13:45:00] [Server thread/INFO]: Saving...
-[13:45:00] [Server thread/INFO]: Saved the world
-[13:45:00] [Server thread/INFO]: [Server] Save Complete
-[13:57:02] [User Authenticator #21/WARN]: [MCBans] Can't reach MCBans API Servers! Check passed player: WalshyXD
-[13:57:02] [User Authenticator #21/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
-[13:57:02] [Server thread/INFO]: WalshyXD[/86.3.13.214:49755] logged in with entity id 190366 at ([world]-154.21925653743563, 71.34512608459386, -10.437889536296002)
-[13:57:02] [Server thread/INFO]: [Server] Welcome back, WalshyXD
-[13:57:03] [Server thread/INFO]: [CONSOLE->WalshyXD] Hey there, WalshyXD!
-[13:57:03] [Server thread/INFO]: [CONSOLE->WalshyXD] Welcome to Mineapple
-[13:57:13] [Server thread/INFO]: WalshyXD issued server command: /gm 1
-[13:57:26] [Server thread/INFO]: WalshyXD issued server command: /tp -40 68 256
-[14:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[14:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[14:00:00] [Server thread/INFO]: Saving...
-[14:00:00] [Server thread/INFO]: Saved the world
-[14:00:00] [Server thread/INFO]: [Server] Save Complete
+[16:05:37] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[16:05:37] [Server thread/INFO]: Loading properties
+[16:05:37] [Server thread/INFO]: Default game type: SURVIVAL
+[16:05:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-078e2f8-9ff3d7f (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[16:05:38] [Server thread/INFO]: Debug logging is disabled
+[16:05:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:05:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:05:38] [Server thread/INFO]: Generating keypair
+[16:05:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:05:38] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:05:38] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[16:05:38] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[16:05:38] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[16:05:38] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:05:38] [Server thread/INFO]: Preparing level "world"
+[16:05:39] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3820634467636136119)
+[16:05:40] [Server thread/INFO]: Preparing spawn area: 0%
+[16:05:41] [Server thread/INFO]: Preparing spawn area: 38%
+[16:05:42] [Server thread/INFO]: Preparing spawn area: 79%
+[16:05:43] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3820634467636136119)
+[16:05:44] [Server thread/INFO]: Preparing spawn area: 64%
+[16:05:45] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
+[16:05:45] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[16:05:46] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[16:05:46] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[16:05:46] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[16:05:46] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[16:05:46] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[16:05:46] [Server thread/INFO]: Using locale en_US
+[16:05:46] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:05:46] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[16:05:46] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:05:47] [Server thread/INFO]: Using locale en_US
+[16:05:47] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[16:05:47] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[16:05:47] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[16:05:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:05:47] [Server thread/INFO]: Done (8.643s)! For help, type "help" or "?"
+[16:05:47] [Server thread/INFO]: Using epoll channel type
+[16:05:52] [User Authenticator #1/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[16:05:53] [Server thread/INFO]: WalshyXD[/86.3.13.214:58746] logged in with entity id 193 at ([world]-39.78135654773012, 68.0, 270.88608181723896)
+[16:05:53] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[16:05:53] [Server thread/INFO]: [CONSOLE->WalshyXD] Hey there, WalshyXD!
+[16:05:53] [Server thread/INFO]: [CONSOLE->WalshyXD] Welcome to Mineapple
+[16:05:55] [User Authenticator #2/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[16:05:56] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:50841] logged in with entity id 647 at ([world]-188.75762903363062, 66.9375, 12.57508732952038)
+[16:05:56] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[16:05:56] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[16:05:56] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[16:06:01] [User Authenticator #3/INFO]: UUID of player LAPSLIE is 13ab7374-19c4-4e90-a6b6-780f3eba6738
+[16:06:02] [Server thread/INFO]: LAPSLIE[/86.150.151.18:65258] logged in with entity id 999 at ([world]-4757.556836688722, 63.0, 10524.25527316891)
+[16:06:02] [Server thread/INFO]: [Server] Welcome back, LAPSLIE
+[16:06:03] [Server thread/INFO]: [CONSOLE->LAPSLIE] Hey there, LAPSLIE!
+[16:06:03] [Server thread/INFO]: [CONSOLE->LAPSLIE] Welcome to Mineapple
+[16:06:03] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[16:06:04] [Server thread/INFO]: WalshyXD issued server command: /v
+[16:06:05] [User Authenticator #4/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[16:06:06] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:49775] logged in with entity id 1503 at ([world]-42.5, 73.0, 258.5)
+[16:06:06] [Server thread/INFO]: [Server] Ahri_Le_Fox has just joined for the first time.
+[16:06:06] [Server thread/INFO]: [Server] 49 unique players have visited this server.
+[16:06:06] [pool-4-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/e2e0b31c-6c41-4eea-b099-39a85a5ec3f0.yml
+[16:06:06] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[16:06:06] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[16:06:06] [Server thread/INFO]: WalshyXD issued server command: /tp LimpBiscuit
+[16:06:12] [User Authenticator #5/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[16:06:12] [Server thread/INFO]: weme105[/50.137.116.59:57386] logged in with entity id 1538 at ([world]-139.30000001192093, 71.7531999805212, -59.69999998807907)
+[16:06:13] [Server thread/INFO]: [Server] Welcome back, weme105
+[16:06:13] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[16:06:13] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[16:06:28] [Server thread/INFO]: weme105 has just earned the achievement [Cow Tipper]
+[16:06:31] [Async Chat Thread - #0/INFO]: <Ahri_Le_Fox> cancer
+[16:06:35] [Server thread/INFO]: weme105 issued server command: /home
+[16:06:39] [Async Chat Thread - #0/INFO]: <weme105> hard af
+[16:06:40] [Server thread/INFO]: WalshyXD issued server command: /kick Ahri_Le_Fox
+[16:06:40] [Server thread/INFO]: Ahri_Le_Fox lost connection: user was kicked.
+[16:06:40] [Server thread/INFO]: Ahri_Le_Fox lost connection: Kicked from server.
+[16:06:40] [Server thread/INFO]: Ahri_Le_Fox left the game
+[16:06:40] [Server thread/INFO]: §6Player§c WalshyXD §6kicked Ahri_Le_Fox for Kicked from server..
+[16:06:40] [Server thread/WARN]: handleDisconnection() called twice
+[16:06:42] [Async Chat Thread - #0/INFO]: <weme105> hard af
+[16:06:44] [Server thread/INFO]: weme105 issued server command: /home
+[16:06:45] [User Authenticator #6/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[16:06:45] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:49784] logged in with entity id 1812 at ([world]-45.75353949401925, 73.0, 256.75406007575856)
+[16:06:45] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[16:06:46] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[16:06:46] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[16:06:48] [Async Chat Thread - #0/INFO]: <weme105> hard af
+[16:06:50] [Server thread/INFO]: WalshyXD issued server command: /ban Ahri_Le_Fox
+[16:06:50] [Server thread/INFO]: Ahri_Le_Fox lost connection: user was kicked.
+[16:06:50] [Server thread/INFO]: Ahri_Le_Fox lost connection: §cYou have been banned:
+§rThe Ban Hammer has spoken!
+[16:06:50] [Server thread/INFO]: Ahri_Le_Fox left the game
+[16:06:50] [Server thread/INFO]: §6Player§c WalshyXD §6banned§c Ahri_Le_Fox §6for: §c§cYou have been banned:
+§rThe Ban Hammer has spoken!§6.
+[16:06:50] [Server thread/WARN]: handleDisconnection() called twice
+[16:06:52] [Async Chat Thread - #0/INFO]: <weme105> nigger
+[16:06:56] [User Authenticator #7/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[16:06:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@33799c41[id=e2e0b31c-6c41-4eea-b099-39a85a5ec3f0,name=Ahri_Le_Fox,properties={textures=[com.mojang.authlib.properties.Property@394c596e]},legacy=false] (/108.90.227.154:49787): You are banned from this server!
+Reason: The Ban Hammer has spoken!
+[16:06:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@33799c41[id=e2e0b31c-6c41-4eea-b099-39a85a5ec3f0,name=Ahri_Le_Fox,properties={textures=[com.mojang.authlib.properties.Property@394c596e]},legacy=false] (/108.90.227.154:49787) lost connection: You are banned from this server!
+Reason: The Ban Hammer has spoken!
+[16:06:56] [Async Chat Thread - #0/INFO]: <WalshyXD> watch it
+[16:06:59] [Async Chat Thread - #0/INFO]: <WalshyXD> or you're nex
+[16:07:01] [Async Chat Thread - #0/INFO]: <WalshyXD> next
+[16:07:08] [Async Chat Thread - #0/INFO]: <weme105> unban him pls
+[16:07:11] [Async Chat Thread - #0/INFO]: <WalshyXD> no
+[16:07:19] [Async Chat Thread - #0/INFO]: <WalshyXD> friend of yours?
+[16:07:24] [Async Chat Thread - #0/INFO]: <~RhinoDude981> yeah
+[16:07:27] [Async Chat Thread - #0/INFO]: <~RhinoDude981> he's pretty dumb
+[16:07:30] [Async Chat Thread - #0/INFO]: <weme105> aquantience
+[16:07:30] [Server thread/INFO]: WalshyXD issued server command: /unban ahri_le_fox
+[16:07:30] [Server thread/INFO]: §6Player§c WalshyXD §6unbanned§c Ahri_Le_Fox.
+[16:07:32] [Async Chat Thread - #0/INFO]: <~RhinoDude981> just unban him
+[16:07:33] [Async Chat Thread - #0/INFO]: <WalshyXD> he's unbanned
+[16:07:45] [User Authenticator #8/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[16:07:45] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:49822] logged in with entity id 3545 at ([world]-45.75353949401925, 73.0, 256.75406007575856)
+[16:07:45] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[16:07:45] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[16:07:45] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[16:07:53] [Async Chat Thread - #0/INFO]: <Ahri_Le_Fox> hoi
+[16:07:56] [Async Chat Thread - #0/INFO]: <WalshyXD> Welcome back, Now behave
+[16:08:11] [Async Chat Thread - #0/INFO]: <weme105> <3 darts
+[16:08:14] [Async Chat Thread - #0/INFO]: <Ahri_Le_Fox> this is minecraft right
+[16:08:19] [Async Chat Thread - #0/INFO]: <weme105> you know any chicks in heree
+[16:08:24] [Async Chat Thread - #0/INFO]: <weme105> tryin to get my nut
+[16:08:46] [Async Chat Thread - #0/INFO]: <Ahri_Le_Fox> ok
+[16:09:17] [Server thread/INFO]: Ahri_Le_Fox issued server command: /tp
+[16:09:17] [Server thread/INFO]: §cAhri_Le_Fox §4was denied access to command.
+[16:09:22] [Async Chat Thread - #0/INFO]: <Ahri_Le_Fox> can you tp me to weme m8
+[16:09:29] [Server thread/INFO]: weme105 issued server command: /tpahere Ahri_Le_Fox
+[16:09:29] [Server thread/INFO]: Ahri_Le_Fox issued server command: /tpa weme
+[16:09:32] [Server thread/INFO]: Ahri_Le_Fox issued server command: /tpaccept
+[16:09:33] [Async Chat Thread - #0/INFO]: <weme105> \
+[16:09:59] [Server thread/INFO]: Ahri_Le_Fox issued server command: /w weme
+[16:10:03] [User Authenticator #9/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
+[16:10:04] [Server thread/INFO]: JeffTheThriller[/2.216.214.41:51452] logged in with entity id 6883 at ([world]-4744.5, 65.0, 10491.5)
+[16:10:04] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
+[16:10:04] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Hey there, JeffTheThriller!
+[16:10:04] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Welcome to Mineapple
+[16:10:11] [Server thread/INFO]: Ahri_Le_Fox issued server command: /w weme105 "stop jerking off to imaginry women, loser"
+[16:10:18] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:10:18] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:10:18] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:10:18] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:10:41] [Server thread/INFO]: Ahri_Le_Fox has just earned the achievement [Taking Inventory]
+[16:10:59] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:03] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:05] [Server thread/INFO]: Ahri_Le_Fox issued server command: /
+[16:11:06] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:07] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:10] [Server thread/INFO]: Ahri_Le_Fox issued server command: /w rhinodude981 x -100y 60z 550
+[16:11:11] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:13] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:22] [Server thread/INFO]: WalshyXD issued server command: /tp LimpBiscuit
+[16:11:26] [Server thread/INFO]: JeffTheThriller lost connection: Disconnected
+[16:11:26] [Server thread/INFO]: JeffTheThriller left the game
+[16:11:28] [Server thread/INFO]: Ahri_Le_Fox has just earned the achievement [Getting Wood]
+[16:11:30] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:32] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:34] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:37] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:39] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:11:54] [Async Chat Thread - #1/INFO]: <weme105> this is minecraft
+[16:11:59] [Async Chat Thread - #1/INFO]: <weme105> home of all hot grill
+[16:12:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:12:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:12:31] [Server thread/INFO]: Ahri_Le_Fox issued server command: /sethome
+[16:12:50] [User Authenticator #10/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
+[16:12:50] [Server thread/INFO]: JeffTheThriller[/2.216.214.41:51561] logged in with entity id 11490 at ([world]-4748.299830260414, 64.0, 10490.095951752779)
+[16:12:50] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
+[16:12:50] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Hey there, JeffTheThriller!
+[16:12:50] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Welcome to Mineapple
+[16:12:58] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:13:00] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:13:18] [Server thread/INFO]: WalshyXD issued server command: /invsee JeffTheThriller
+[16:13:18] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:18] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:18] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:21] [Server thread/INFO]: WalshyXD issued server command: /killall monsters
+[16:13:27] [Server thread/INFO]: WalshyXD issued server command: /tp jeff
+[16:13:30] [Server thread/INFO]: Ahri_Le_Fox has just earned the achievement [Benchmarking]
+[16:13:34] [Server thread/INFO]: WalshyXD issued server command: /v
+[16:13:45] [Server thread/INFO]: Ahri_Le_Fox has just earned the achievement [Time to Strike!]
+[16:13:52] [Server thread/INFO]: Ahri_Le_Fox has just earned the achievement [Time to Mine!]
+[16:13:55] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:57] [Server thread/INFO]: WalshyXD issued server command: /gm 0
+[16:14:14] [Server thread/INFO]: Ahri_Le_Fox issued server command: /ethome
+[16:14:16] [Server thread/INFO]: Ahri_Le_Fox issued server command: /sethome
+[16:14:44] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[16:14:56] [Server thread/INFO]: LAPSLIE lost connection: Disconnected
+[16:14:56] [Server thread/INFO]: LAPSLIE left the game
+[16:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:15:00] [Server thread/INFO]: Saving...
+[16:15:00] [Server thread/INFO]: Saved the world
+[16:15:00] [Server thread/INFO]: [Server] Save Complete
+[16:15:12] [User Authenticator #11/INFO]: UUID of player LAPSLIE is 13ab7374-19c4-4e90-a6b6-780f3eba6738
+[16:15:12] [Server thread/INFO]: LAPSLIE[/86.150.151.18:65407] logged in with entity id 17216 at ([world]-4757.136770641332, 63.875, 10521.247803079295)
+[16:15:12] [Server thread/INFO]: [Server] Welcome back, LAPSLIE
+[16:15:12] [Server thread/INFO]: [CONSOLE->LAPSLIE] Hey there, LAPSLIE!
+[16:15:12] [Server thread/INFO]: [CONSOLE->LAPSLIE] Welcome to Mineapple
+[16:15:22] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[16:15:22] [Server thread/INFO]: LimpBiscuit left the game
+[16:15:26] [User Authenticator #12/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[16:15:27] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:50855] logged in with entity id 17333 at ([world]223.90941231765268, 80.6625000178814, 117.69824218750001)
+[16:15:27] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[16:15:27] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[16:15:27] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[16:15:32] [Server thread/INFO]: JeffTheThriller burned to death
+[16:15:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:15:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:16:22] [Server thread/INFO]: Ahri_Le_Fox issued server command: /r hitler
+[16:17:39] [Server thread/INFO]: WalshyXD issued server command: /co
+[16:17:42] [User Authenticator #13/INFO]: UUID of player lreford is 978551e8-fb61-4e67-bf5f-85794e4d1546
+[16:17:42] [Server thread/INFO]: lreford[/86.27.47.136:50802] logged in with entity id 18574 at ([world]-39.5, 68.0, 256.5)
+[16:17:42] [Server thread/INFO]: [Server] Welcome back, lreford
+[16:17:42] [Server thread/INFO]: [CONSOLE->lreford] Hey there, lreford!
+[16:17:42] [Server thread/INFO]: [CONSOLE->lreford] Welcome to Mineapple
+[16:17:45] [Server thread/INFO]: WalshyXD issued server command: /co rollback
+[16:17:53] [Server thread/INFO]: WalshyXD issued server command: /co rollback 20m 100
+[16:17:54] [Server thread/INFO]: lreford issued server command: /home
+[16:17:56] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:17:56] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:17:56] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:17:56] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:18:02] [Server thread/INFO]: WalshyXD issued server command: /co rollback t:20m r:50
+[16:18:16] [Async Chat Thread - #2/INFO]: <WalshyXD> hey man
+[16:18:16] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:18:18] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:18:23] [Async Chat Thread - #2/INFO]: <~Cypher> Hey Walshy.
+[16:18:25] [Async Chat Thread - #2/INFO]: <Ahri_Le_Fox> suh dude
+[16:18:26] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:18:27] [Server thread/INFO]: Ahri_Le_Fox issued server command: /name
+[16:18:29] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick
+[16:18:29] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:18:31] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick Ahri
+[16:18:37] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick &2nick
+[16:18:43] [Async Chat Thread - #2/INFO]: <~Ahri> color name confirmed?
+[16:18:49] [Async Chat Thread - #2/INFO]: <~Cypher> Kinda got robbed.
+[16:18:54] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[16:18:54] [Server thread/INFO]: LimpBiscuit left the game
+[16:18:57] [Async Chat Thread - #2/INFO]: <weme105> can i suck the juices out of your succulent pussy pls
+[16:19:02] [Server thread/INFO]: WalshyXD issued server command: /enderchest
+[16:19:04] [Server thread/INFO]: Ahri_Le_Fox was slain by Spider
+[16:19:12] [Server thread/INFO]: Ahri_Le_Fox issued server command: /return
+[16:19:17] [User Authenticator #14/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[16:19:17] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:50882] logged in with entity id 19543 at ([world]-36.85108677546167, 63.003016261509046, 183.3170906784378)
+[16:19:17] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[16:19:17] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[16:19:17] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[16:19:26] [Server thread/INFO]: JeffTheThriller was shot by WalshyXD using [Herpes]
+[16:19:32] [Async Chat Thread - #2/INFO]: <~RhinoDude981> what the fuck is happening with my minecraft
+[16:19:35] [Async Chat Thread - #2/INFO]: <~RhinoDude981> holy shit
+[16:19:42] [Async Chat Thread - #2/INFO]: <~Ahri> get a new pc
+[16:19:49] [Async Chat Thread - #2/INFO]: <~RhinoDude981> im fucking poor
+[16:19:51] [Async Chat Thread - #2/INFO]: <~Ahri> (;
+[16:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[16:20:23] [Server thread/INFO]: lreford issued server command: /msg WalshyXD Definately need mods and anti-grief stuff...
+[16:20:25] [Async Chat Thread - #2/INFO]: <weme105> ahri's hot
+[16:20:31] [Async Chat Thread - #2/INFO]: <weme105> i wanna ram her tight pussy
+[16:20:31] [Server thread/INFO]: WalshyXD issued server command: /tp lreford
+[16:20:32] [Server thread/INFO]: WalshyXD issued server command: /v
+[16:20:43] [Async Chat Thread - #2/INFO]: <~Ahri> ;)
+[16:20:56] [Server thread/INFO]: WalshyXD issued server command: /w lreford been alright so far
+[16:20:57] [Async Chat Thread - #2/INFO]: <~Elle_From_Hell> weme whats ur skype
+[16:21:02] [Async Chat Thread - #2/INFO]: <weme105> meme
+[16:21:02] [Server thread/INFO]: WalshyXD issued server command: /back
+[16:21:02] [Async Chat Thread - #2/INFO]: <~Elle_From_Hell> send u noodz
+[16:21:07] [Async Chat Thread - #2/INFO]: <weme105> i dont use skype
+[16:21:14] [Server thread/INFO]: lreford issued server command: /r Yeah, except I kinda got griefed and attacked.
+[16:21:14] [Async Chat Thread - #2/INFO]: <~Ahri> i do, elle.
+[16:21:25] [Server thread/INFO]: WalshyXD issued server command: /tp lreford
+[16:21:30] [Server thread/INFO]: WalshyXD issued server command: /r where
+[16:21:33] [Async Chat Thread - #2/INFO]: <~Ahri> hey weme
+[16:21:34] [Server thread/INFO]: weme105 issued server command: /whhois elle
+[16:21:36] [Server thread/INFO]: WalshyXD issued server command: /w
+[16:21:38] [Async Chat Thread - #2/INFO]: <~Ahri> you know what this one poster said:
+[16:21:40] [Server thread/INFO]: weme105 issued server command: /whhois elle_from_hell
+[16:21:45] [Async Chat Thread - #2/INFO]: <~Ahri> "stop jerking off to imaginary women, loser"
+[16:21:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:21:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:21:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:21:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:21:50] [Server thread/INFO]: WalshyXD issued server command: /v
+[16:21:53] [Server thread/INFO]: lreford issued server command: /r Missing chests and furnaces. Got robbed totally at my temporary place.
+[16:22:07] [Async Chat Thread - #2/INFO]: <weme105> elle isn't imaginary shes right here
+[16:22:12] [Async Chat Thread - #2/INFO]: <~Ahri> ik
+[16:22:17] [Async Chat Thread - #2/INFO]: <~Ahri> elle are you not straight
+[16:22:18] [Server thread/INFO]: WalshyXD issued server command: /r wow... and ash's place didnt get touched
+[16:22:23] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:22:25] [Async Chat Thread - #2/INFO]: <~Elle_From_Hell> im gay af
+[16:22:25] [Async Chat Thread - #2/INFO]: <weme105> inb4 catfish aff
+[16:22:26] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:22:32] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:22:33] [Async Chat Thread - #2/INFO]: <~Ahri> im lesbian
+[16:22:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:22:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:22:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:22:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:22:35] [Server thread/INFO]: lreford issued server command: /r So... yeah... kinda need mods.
+[16:22:35] [Server thread/INFO]: JeffTheThriller was slain by Spider
+[16:22:47] [Server thread/INFO]: JeffTheThriller issued server command: /back
+[16:22:48] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:23:01] [Server thread/INFO]: lreford issued server command: /r At least one to keep an eye on these shitheads.
+[16:23:05] [Server thread/INFO]: WalshyXD issued server command: /r build away from spawn :)
+[16:23:14] [Async Chat Thread - #2/INFO]: <WalshyXD> i'll give you what needs to be replaced
+[16:23:15] [Async Chat Thread - #2/INFO]: <~Elle_From_Hell> thats why i fuck lapslie
+[16:23:17] [Server thread/INFO]: lreford issued server command: /r Shouldn't really need to...
+[16:23:18] [Async Chat Thread - #2/INFO]: <~Elle_From_Hell> cus im gay
+[16:23:19] [Server thread/INFO]: LimpBiscuit issued server command: /tpahere weme105
+[16:23:31] [Async Chat Thread - #2/INFO]: <~PYROMANIAC> i'm a girl btw
+[16:23:38] [Async Chat Thread - #2/INFO]: <WalshyXD> wanna fuck?
+[16:23:44] [Server thread/INFO]: LimpBiscuit issued server command: /tpahere weme105
+[16:23:51] [Async Chat Thread - #2/INFO]: <weme105> join my discord
+[16:23:53] [Async Chat Thread - #2/INFO]: <~Ahri> im a girl too
+[16:23:53] [Async Chat Thread - #2/INFO]: <~PYROMANIAC> i'm on my period right now
+[16:23:56] [Async Chat Thread - #2/INFO]: <~PYROMANIAC> soo..
+[16:23:59] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[16:24:00] [Async Chat Thread - #2/INFO]: <~PYROMANIAC> if your into that
+[16:24:03] [Async Chat Thread - #2/INFO]: <~Ahri> 16, young and sweet.
+[16:24:06] [Async Chat Thread - #2/INFO]: <~Elle_From_Hell> ill still eat that ussy like raw meat
+[16:24:11] [Async Chat Thread - #2/INFO]: <~Elle_From_Hell> *oussy
+[16:24:12] [Async Chat Thread - #2/INFO]: <weme105> periods stop nothing
+[16:24:13] [Server thread/INFO]: WalshyXD issued server command: /r let me know if you need anything.
+[16:24:20] [Server thread/INFO]: WalshyXD issued server command: /r to rebuild
+[16:24:38] [Server thread/INFO]: WalshyXD issued server command: /r check out the spawn :)
+[16:24:51] [Server thread/INFO]: lreford issued server command: /spawn
+[16:25:01] [Server thread/INFO]: lreford was shot by Skeleton
+[16:25:17] [Async Chat Thread - #3/INFO]: <~Elle_From_Hell> weme how old ar eyou?
+[16:25:22] [Server thread/INFO]: lreford issued server command: /r You didn't do a walshyville on it, did you?
+[16:25:24] [Async Chat Thread - #3/INFO]: <~Ahri> he's 21
+[16:25:31] [Async Chat Thread - #3/INFO]: <~Ahri> and likes to say "HA IM GHAY"
+[16:25:39] [Server thread/INFO]: WalshyXD issued server command: /r nahhh. Actually took the time to make it this time
+[16:25:42] [Server thread/INFO]: WalshyXD issued server command: /r not done yet
+[16:25:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:25:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:25:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:25:51] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[16:25:56] [Server thread/INFO]: weme105 issued server command: /nick Michael
+[16:25:58] [Server thread/WARN]: weme105 moved wrongly!
+[16:26:00] [Server thread/WARN]: weme105 moved wrongly!
+[16:26:01] [Server thread/INFO]: LimpBiscuit issued server command: /nick
+[16:26:03] [Server thread/WARN]: weme105 moved wrongly!
+[16:26:05] [Server thread/WARN]: weme105 moved wrongly!
+[16:26:23] [Server thread/INFO]: lreford issued server command: /r There was one plugin on the old server that allowed admins to place buildings...
+[16:26:51] [Server thread/WARN]: weme105 moved wrongly!
+[16:27:00] [Async Chat Thread - #4/INFO]: <~Michael> thats rood
+[16:27:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:35] [Server thread/INFO]: lreford issued server command: /r Wonder if I should do a yozo and find a mushroom biome somewhere...
+[16:27:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:27:52] [Server thread/INFO]: WalshyXD issued server command: /r I aint found one yet
+[16:28:00] [Server thread/INFO]: Ahri_Le_Fox has just earned the achievement [Monster Hunter]
+[16:28:15] [Server thread/INFO]: lreford issued server command: /r Cam had a house about 3 mil blocks out from spawn. :D
+[16:28:30] [Server thread/INFO]: WalshyXD issued server command: /tp LAPSLIE
+[16:29:08] [Server thread/INFO]: Ahri_Le_Fox issued server command: /w michael x -100y 60z 550
+[16:29:33] [Server thread/INFO]: WalshyXD issued server command: /tphere jeff
+[16:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:29:47] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:29:47] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:29:47] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[16:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:30:00] [Server thread/INFO]: Saving...
+[16:30:00] [Server thread/INFO]: Saved the world
+[16:30:00] [Server thread/INFO]: [Server] Save Complete
+[16:30:30] [Async Chat Thread - #5/INFO]: <~Michael> chat is deader than my cat:(
+[16:30:37] [Server thread/INFO]: Ahri_Le_Fox has just earned the achievement [Getting an Upgrade]
+[16:30:52] [Async Chat Thread - #5/INFO]: <~Cypher> Chat is more dead than 2 of my cats.
+[16:31:02] [Server thread/INFO]: WalshyXD issued server command: /sethome JeffTheThriller
+[16:31:04] [Async Chat Thread - #5/INFO]: <~Ahri> this chat is dead more than me trying to reach my climax
+[16:31:05] [Server thread/INFO]: WalshyXD issued server command: /home
+[16:31:09] [Server thread/INFO]: WalshyXD issued server command: /home JeffTheThriller
+[16:31:13] [Async Chat Thread - #5/INFO]: <~Michael> chat is more dead than my dog :((
+[16:31:15] [Server thread/INFO]: WalshyXD issued server command: /invsee JeffTheThriller
+[16:31:26] [Async Chat Thread - #5/INFO]: <~Ahri> rhino eats dogs confirmed on discord
+[16:31:28] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[16:31:34] [Server thread/INFO]: WalshyXD issued server command: /pseudo
+[16:31:55] [Async Chat Thread - #5/INFO]: <~Michael> join my discord https://discord.gg/RbCe7
+[16:32:25] [Server thread/INFO]: WalshyXD issued server command: /fly LAPSLIE
+[16:32:30] [Server thread/INFO]: WalshyXD issued server command: /speed fly 10 LAPSLIE
+[16:32:44] [Server thread/INFO]: JeffTheThriller fell from a high place
+[16:32:56] [Server thread/WARN]: weme105 moved wrongly!
+[16:32:56] [Server thread/INFO]: JeffTheThriller issued server command: /back
+[16:33:03] [Server thread/INFO]: WalshyXD issued server command: /tp j
+[16:33:12] [Server thread/INFO]: WalshyXD issued server command: /invsee JeffTheThriller
+[16:33:27] [Server thread/WARN]: weme105 moved wrongly!
+[16:33:40] [Server thread/WARN]: weme105 moved wrongly!
+[16:33:43] [Server thread/WARN]: weme105 moved wrongly!
+[16:33:49] [Server thread/WARN]: weme105 moved wrongly!
+[16:33:52] [Server thread/INFO]: WalshyXD issued server command: /tphere JeffTheThriller
+[16:33:55] [Server thread/WARN]: weme105 moved wrongly!
+[16:34:07] [Server thread/INFO]: lreford issued server command: /r Found an undersea temple if you're interested - I'm in a boat atm.
+[16:34:28] [Server thread/INFO]: WalshyXD issued server command: /r im. nothing in there for me
+[16:34:39] [Server thread/INFO]: WalshyXD issued server command: /speed fly 10 WalshyXD
+[16:35:02] [Server thread/INFO]: JeffTheThriller fell from a high place
+[16:35:11] [Server thread/INFO]: WalshyXD issued server command: /sethome
+[16:35:13] [Server thread/INFO]: JeffTheThriller issued server command: /back
+[16:37:04] [Server thread/INFO]: WalshyXD issued server command: /fly LAPSLIE
+[16:37:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:37:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:37:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:37:19] [User Authenticator #15/INFO]: UUID of player Danomanic is 6364a333-8100-41bd-8777-d09f0ce79118
+[16:37:20] [Server thread/INFO]: Danomanic[/86.16.139.135:50677] logged in with entity id 46474 at ([world]-41.16359374597412, 68.0, 261.1830693626932)
+[16:37:20] [Server thread/INFO]: [Server] Welcome back, Danomanic
+[16:37:20] [Server thread/INFO]: [CONSOLE->Danomanic] Hey there, Danomanic!
+[16:37:20] [Server thread/INFO]: [CONSOLE->Danomanic] Welcome to Mineapple
+[16:37:29] [Server thread/WARN]: weme105 moved wrongly!
+[16:37:34] [Server thread/INFO]: WalshyXD issued server command: /fly LAPSLIE
+[16:37:39] [Server thread/WARN]: weme105 moved wrongly!
+[16:37:41] [Server thread/INFO]: WalshyXD issued server command: /fly LAPSLIE
+[16:37:41] [Server thread/WARN]: weme105 moved wrongly!
+[16:37:44] [Server thread/WARN]: weme105 moved wrongly!
+[16:37:45] [User Authenticator #16/INFO]: UUID of player Danomanic is 6364a333-8100-41bd-8777-d09f0ce79118
+[16:37:45] [Server thread/INFO]: Danomanic lost connection: user was kicked.
+[16:37:45] [Server thread/INFO]: Danomanic lost connection: You logged in from another location
+[16:37:45] [Server thread/INFO]: Danomanic left the game
+[16:37:45] [Server thread/INFO]: Danomanic[/86.16.139.135:50769] logged in with entity id 47171 at ([world]-41.16359374597412, 68.0, 261.1830693626932)
+[16:37:45] [Server thread/INFO]: [Server] Welcome back, Danomanic
+[16:37:45] [Server thread/WARN]: handleDisconnection() called twice
+[16:37:45] [Server thread/INFO]: [CONSOLE->Danomanic] Hey there, Danomanic!
+[16:37:45] [Server thread/INFO]: [CONSOLE->Danomanic] Welcome to Mineapple
+[16:37:52] [Server thread/WARN]: weme105 moved wrongly!
+[16:37:54] [Server thread/WARN]: weme105 moved wrongly!
+[16:37:56] [Server thread/WARN]: weme105 moved wrongly!
+[16:37:59] [Server thread/INFO]: WalshyXD issued server command: /fly JeffTheThriller
+[16:38:00] [Server thread/WARN]: weme105 moved wrongly!
+[16:38:02] [Server thread/WARN]: weme105 moved wrongly!
+[16:38:06] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[16:38:06] [Server thread/WARN]: weme105 moved wrongly!
+[16:38:08] [Server thread/WARN]: weme105 moved wrongly!
+[16:38:11] [Server thread/INFO]: WalshyXD issued server command: /speed fly JeffTheThriller 10
+[16:38:23] [Server thread/INFO]: WalshyXD issued server command: /speed fly 10 JeffTheThriller
+[16:38:32] [Server thread/INFO]: weme105 drowned
+[16:38:46] [Server thread/WARN]: lreford moved wrongly!
+[16:38:48] [Server thread/INFO]: Danomanic has just earned the achievement [Getting Wood]
+[16:39:03] [Server thread/INFO]: WalshyXD issued server command: /fly JeffTheThriller
+[16:39:14] [Server thread/INFO]: LAPSLIE was slain by Enderman
+[16:39:16] [Server thread/INFO]: WalshyXD issued server command: /fly JeffTheThriller
+[16:39:21] [Server thread/INFO]: LAPSLIE issued server command: /back
+[16:40:07] [Server thread/INFO]: WalshyXD issued server command: /fly j
+[16:40:09] [Server thread/INFO]: WalshyXD issued server command: /fly jeff
+[16:40:35] [Server thread/INFO]: Danomanic issued server command: /ping
+[16:41:16] [Server thread/INFO]: LAPSLIE fell from a high place
+[16:41:19] [Server thread/INFO]: JeffTheThriller lost connection: Disconnected
+[16:41:19] [Server thread/INFO]: JeffTheThriller left the game
+[16:41:23] [Server thread/INFO]: LAPSLIE issued server command: /back
+[16:41:33] [Server thread/INFO]: WalshyXD issued server command: /invsee jeffthethriller
+[16:41:40] [User Authenticator #17/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
+[16:41:40] [Server thread/INFO]: JeffTheThriller[/2.216.214.41:51630] logged in with entity id 49506 at ([world]-4741.278555938504, 62.9375, 10507.66561929458)
+[16:41:40] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
+[16:41:40] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Hey there, JeffTheThriller!
+[16:41:40] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Welcome to Mineapple
+[16:41:42] [Server thread/INFO]: weme105 was slain by Zombie
+[16:41:47] [Server thread/INFO]: weme105 issued server command: /
+[16:41:50] [Server thread/INFO]: lreford lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[16:41:50] [Server thread/INFO]: lreford left the game
+[16:41:53] [Server thread/INFO]: JeffTheThriller was slain by Zombie
+[16:41:53] [Async Chat Thread - #6/INFO]: <Danomanic> Damn zombies in spawn!
+[16:42:39] [Server thread/INFO]: WalshyXD issued server command: /speed fly WalshyXD 1
+[16:42:44] [Server thread/INFO]: WalshyXD issued server command: /speed fly 1 WalshyXD
+[16:42:52] [Server thread/INFO]: Ahri_Le_Fox was slain by weme105 using [nigger killer]
+[16:42:58] [Async Chat Thread - #7/INFO]: <~Ahri> LOL
+[16:43:06] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[16:43:31] [Async Chat Thread - #7/INFO]: <Danomanic> I may have just blew up part of the spawn area due to a creeper. Sorry
+[16:43:35] [Server thread/INFO]: Ahri_Le_Fox was slain by LimpBiscuit using [Baguette]
+[16:43:44] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[16:43:46] [Server thread/INFO]: JeffTheThriller lost connection: Disconnected
+[16:43:46] [Server thread/INFO]: JeffTheThriller left the game
+[16:43:57] [Server thread/INFO]: WalshyXD issued server command: /tphere LAPSLIE
+[16:44:00] [Server thread/INFO]: Ahri_Le_Fox issued server command: /home
+[16:44:13] [Server thread/INFO]: Ahri_Le_Fox issued server command: /home
+[16:44:28] [Server thread/INFO]: Ahri_Le_Fox was shot by LimpBiscuit using [AWP | Dragon Lore]
+[16:44:56] [Server thread/INFO]: weme105 was shot by Skeleton
+[16:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:45:00] [Server thread/INFO]: Saving...
+[16:45:00] [Server thread/INFO]: Saved the world
+[16:45:00] [Server thread/INFO]: [Server] Save Complete
+[16:45:17] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[16:45:20] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[16:45:29] [Server thread/INFO]: Ahri_Le_Fox was slain by LimpBiscuit using [Dicks Out for Harambe]
+[16:45:49] [User Authenticator #18/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
+[16:45:49] [Server thread/INFO]: JeffTheThriller[/2.216.214.41:51648] logged in with entity id 51910 at ([world]-4744.5, 65.0, 10491.5)
+[16:45:49] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
+[16:45:49] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Hey there, JeffTheThriller!
+[16:45:49] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Welcome to Mineapple
+[16:45:53] [Server thread/INFO]: LAPSLIE lost connection: Disconnected
+[16:45:53] [Server thread/INFO]: LAPSLIE left the game
+[16:45:53] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[16:45:59] [Server thread/INFO]: LimpBiscuit issued server command: /spawn
+[16:46:01] [Server thread/INFO]: LimpBiscuit issued server command: /
+[16:46:02] [Server thread/WARN]: Danomanic moved too quickly! 36.063668574830245,-7.0,-225.00991946967815
+[16:46:04] [Async Chat Thread - #8/INFO]: <~RhinoDude981> no spawn command yet?
+[16:46:07] [Async Chat Thread - #8/INFO]: <WalshyXD> nah
+[16:46:26] [Server thread/INFO]: Danomanic was slain by Zombie
+[16:46:27] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[16:46:32] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[16:46:33] [Server thread/INFO]: Danomanic issued server command: /spawn
+[16:46:46] [Async Chat Thread - #8/INFO]: <~Ahri> limp cunt
+[16:46:49] [Async Chat Thread - #8/INFO]: <~Ahri> LOL
+[16:46:53] [Async Chat Thread - #8/INFO]: <~Ahri> the name of this tool
+[16:47:29] [Server thread/INFO]: WalshyXD issued server command: /effect JeffTheThriller minecraft:glowing 10000
+[16:47:29] [Server thread/INFO]: [WalshyXD: Given Glowing (ID 24) * 0 to JeffTheThriller for 10000 seconds]
+[16:47:56] [Server thread/INFO]: LimpBiscuit was blown up by Creeper
+[16:48:04] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[16:48:43] [Server thread/INFO]: LimpBiscuit was shot by Skeleton
+[16:48:45] [Server thread/INFO]: WalshyXD issued server command: /tphere jeff
+[16:48:58] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[16:49:04] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[16:49:07] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[16:49:09] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[16:49:11] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[16:49:18] [Server thread/INFO]: Danomanic issued server command: /who
+[16:49:27] [Server thread/INFO]: Danomanic lost connection: Disconnected
+[16:49:27] [Server thread/INFO]: Danomanic left the game
+[16:50:07] [Async Chat Thread - #9/INFO]: <~Elle_From_Hell> SAID BYW
+[16:50:09] [Server thread/INFO]: JeffTheThriller lost connection: Disconnected
+[16:50:09] [Server thread/INFO]: JeffTheThriller left the game
+[16:51:24] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[16:51:24] [Server thread/INFO]: WalshyXD left the game
+[16:52:25] [Async Chat Thread - #10/INFO]: <~Ahri> my character is hold a fucking weed
+[16:52:26] [Async Chat Thread - #10/INFO]: <~Ahri> m8
+[16:52:29] [Async Chat Thread - #10/INFO]: <~Ahri> ayy lmao
+[16:52:55] [Async Chat Thread - #10/INFO]: <~Ahri> arent i holding a cig m8
+[16:54:30] [Async Chat Thread - #11/INFO]: <~Ahri> i have a flesh light
+[16:57:52] [Async Chat Thread - #12/INFO]: <~Ahri> cancer
+[16:58:01] [Async Chat Thread - #12/INFO]: <~Ahri> oops
+[16:58:05] [Async Chat Thread - #12/INFO]: <~Ahri> wrong chat
+[16:59:06] [Async Chat Thread - #13/INFO]: <~Ahri> intrigga
+[16:59:35] [Server thread/INFO]: Ahri_Le_Fox lost connection: Disconnected
+[16:59:35] [Server thread/INFO]: Ahri_Le_Fox left the game
+[16:59:50] [User Authenticator #19/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[16:59:50] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:50163] logged in with entity id 57802 at ([world]-39.52713759945706, 61.0, 545.6999999880791)
+[16:59:50] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[16:59:50] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[16:59:50] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[17:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[17:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:00:00] [Server thread/INFO]: Saving...
+[17:00:00] [Server thread/INFO]: Saved the world
+[17:00:00] [Server thread/INFO]: [Server] Save Complete

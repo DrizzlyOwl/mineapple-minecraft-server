@@ -1,25 +1,25 @@
 lastAccountName: weme105
 timestamps:
-  login: 1471224935344
-  logout: 1471224957666
+  login: 1471291572922
+  logout: 1471290996262
   kits:
     tools: 1470785789495
-  lastteleport: 1470914982057
+  lastteleport: 1471291777729
 ipAddress: 50.137.116.59
 logoutlocation:
   world: world
-  x: -44.433655208819204
+  x: -43.02483776683754
   y: 60.0
-  z: 541.6623521054768
-  yaw: 245.22787
-  pitch: 31.294062
+  z: 542.6339967175322
+  yaw: 177.80588
+  pitch: 26.107704
 lastlocation:
   world: world
-  x: -269.14002733420443
-  y: 63.0
-  z: 645.4854361006627
-  yaw: 346.34302
-  pitch: 7.122829
+  x: -36.98886438804901
+  y: 64.0
+  z: 567.3632470599678
+  yaw: 199.60072
+  pitch: 21.635939
 homes:
   home:
     world: world
@@ -29,3 +29,4 @@ homes:
     yaw: 7.494615
     pitch: 17.987663
 afk: false
+nickname: Michael

@@ -1,16 +1,16 @@
 lastAccountName: lreford
 timestamps:
-  login: 1470873940096
-  logout: 1470874671928
-  lastteleport: 1470874591549
+  login: 1471292262703
+  logout: 1471293710545
+  lastteleport: 1471292279670
 ipAddress: 86.27.47.136
 logoutlocation:
   world: world
-  x: -39.5
+  x: -2685.1422902622153
   y: 68.0
-  z: 256.5
-  yaw: 0.0
-  pitch: 0.0
+  z: -248.64744709067318
+  yaw: 13.625153
+  pitch: 10.649948
 nickname: Cypher
 homes:
   home:
@@ -22,8 +22,8 @@ homes:
     pitch: 35.399937
 lastlocation:
   world: world
-  x: -6.57278535930328
-  y: 64.0
-  z: 437.69999998807907
-  yaw: 188.09938
-  pitch: 31.049946
+  x: -41.31942426338436
+  y: 63.0
+  z: 338.41357398215945
+  yaw: -176.849
+  pitch: 10.500012

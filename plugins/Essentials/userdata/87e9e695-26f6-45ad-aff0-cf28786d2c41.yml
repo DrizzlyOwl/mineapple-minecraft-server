@@ -1,26 +1,26 @@
 lastAccountName: JeffTheThriller
 timestamps:
-  login: 1471281945595
+  login: 1471293949599
   kits:
     tools: 1470775828075
-  lastteleport: 1471214830677
-  logout: 1471281972920
+  lastteleport: 1471293318880
+  logout: 1471294209296
 ipAddress: 2.216.214.41
 lastlocation:
   world: world
-  x: -4801.552356863566
-  y: 40.0
-  z: 10508.832992529784
-  yaw: -218.78772
-  pitch: 52.199966
+  x: -4737.2752605847845
+  y: 63.0
+  z: 10525.302434120675
+  yaw: 174.8999
+  pitch: 21.000013
 afk: false
 logoutlocation:
   world: world
-  x: -4755.165006586019
-  y: 63.0
-  z: 10522.354114012314
-  yaw: -97.73745
-  pitch: 19.649792
+  x: -4755.570062618178
+  y: 63.0625
+  z: 10472.687697530979
+  yaw: 352.4647
+  pitch: 33.299953
 homes:
   home:
     world: world
