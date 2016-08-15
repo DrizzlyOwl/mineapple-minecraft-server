@@ -11,8 +11,14 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 8
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 settings:
-  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: true
@@ -35,13 +41,7 @@ settings:
       max: 3072.0
     attackDamage:
       max: 3072.0
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  debug: false
 commands:
   tab-complete: 1
   log: true
@@ -59,6 +59,18 @@ stats:
 world-settings:
   default:
     verbose: false
+    mob-spawn-range: 6
+    growth:
+      cactus-modifier: 30
+      cane-modifier: 100
+      melon-modifier: 200
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 50
+      wheat-modifier: 200
+      netherwart-modifier: 200
+      vine-modifier: 200
+      cocoa-modifier: 200
     entity-activation-range:
       animals: 16
       monsters: 42
@@ -75,17 +87,6 @@ world-settings:
     hopper-amount: 1
     random-light-updates: true
     save-structure-info: true
-    growth:
-      cactus-modifier: 30
-      cane-modifier: 100
-      melon-modifier: 200
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 50
-      wheat-modifier: 200
-      netherwart-modifier: 200
-      vine-modifier: 200
-      cocoa-modifier: 200
     max-entity-collisions: 8
     dragon-death-sound-radius: 0
     seed-village: 10387312
@@ -99,7 +100,6 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    mob-spawn-range: 6
     item-despawn-rate: 3000
     merge-radius:
       item: 5

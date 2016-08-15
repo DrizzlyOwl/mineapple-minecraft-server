@@ -1,100 +1,49 @@
-[00:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[00:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:00:00] [Server thread/INFO]: Saving...
-[00:00:00] [Server thread/INFO]: Saved the world
-[00:00:00] [Server thread/INFO]: [Server] Save Complete
-[00:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:15:00] [Server thread/INFO]: Saving...
-[00:15:00] [Server thread/INFO]: Saved the world
-[00:15:00] [Server thread/INFO]: [Server] Save Complete
-[00:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[00:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:30:00] [Server thread/INFO]: Saving...
-[00:30:00] [Server thread/INFO]: Saved the world
-[00:30:00] [Server thread/INFO]: [Server] Save Complete
-[00:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:45:00] [Server thread/INFO]: Saving...
-[00:45:00] [Server thread/INFO]: Saved the world
-[00:45:00] [Server thread/INFO]: [Server] Save Complete
-[01:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[01:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:00:00] [Server thread/INFO]: Saving...
-[01:00:00] [Server thread/INFO]: Saved the world
-[01:00:00] [Server thread/INFO]: [Server] Save Complete
-[01:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:15:00] [Server thread/INFO]: Saving...
-[01:15:00] [Server thread/INFO]: Saved the world
-[01:15:00] [Server thread/INFO]: [Server] Save Complete
-[01:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[01:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:30:00] [Server thread/INFO]: Saving...
-[01:30:00] [Server thread/INFO]: Saved the world
-[01:30:00] [Server thread/INFO]: [Server] Save Complete
-[01:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:45:00] [Server thread/INFO]: Saving...
-[01:45:00] [Server thread/INFO]: Saved the world
-[01:45:00] [Server thread/INFO]: [Server] Save Complete
-[02:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[02:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:00:00] [Server thread/INFO]: Saving...
-[02:00:00] [Server thread/INFO]: Saved the world
-[02:00:00] [Server thread/INFO]: [Server] Save Complete
-[02:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:15:00] [Server thread/INFO]: Saving...
-[02:15:00] [Server thread/INFO]: Saved the world
-[02:15:00] [Server thread/INFO]: [Server] Save Complete
-[02:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[02:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:30:00] [Server thread/INFO]: Saving...
-[02:30:00] [Server thread/INFO]: Saved the world
-[02:30:00] [Server thread/INFO]: [Server] Save Complete
-[02:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:45:00] [Server thread/INFO]: Saving...
-[02:45:00] [Server thread/INFO]: Saved the world
-[02:45:00] [Server thread/INFO]: [Server] Save Complete
-[02:52:31] [User Authenticator #59/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
-[02:52:31] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:53109] logged in with entity id 507514 at ([world]-158.6509960524764, 64.0, -16.572620995773534)
-[02:52:31] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
-[02:52:31] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
-[02:52:31] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
-[02:53:13] [Server thread/WARN]: KevinDaBaws was kicked for floating too long!
-[02:53:13] [Server thread/INFO]: KevinDaBaws lost connection: user was kicked.
-[02:53:13] [Server thread/INFO]: KevinDaBaws lost connection: Flying is not enabled on this server
-[02:53:13] [Server thread/INFO]: KevinDaBaws left the game
-[02:53:16] [User Authenticator #60/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
-[02:53:16] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:53180] logged in with entity id 508244 at ([world]-159.85652889018266, 122.64489020421014, -174.36708026999577)
-[02:53:16] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
-[02:53:16] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
-[02:53:16] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
-[02:54:09] [Server thread/INFO]: KevinDaBaws fell from a high place
-[02:54:14] [Server thread/INFO]: KevinDaBaws issued server command: /back
-[02:54:36] [Server thread/WARN]: KevinDaBaws was kicked for floating too long!
-[02:54:36] [Server thread/INFO]: KevinDaBaws lost connection: user was kicked.
-[02:54:36] [Server thread/INFO]: KevinDaBaws lost connection: Flying is not enabled on this server
-[02:54:36] [Server thread/INFO]: KevinDaBaws left the game
-[02:54:36] [Server thread/WARN]: handleDisconnection() called twice
-[02:54:38] [User Authenticator #61/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
-[02:54:38] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:53278] logged in with entity id 509743 at ([world]-137.021230632647, 81.90799365539772, 17.630142641598603)
-[02:54:38] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
-[02:54:38] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
-[02:54:38] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
-[02:54:53] [Server thread/WARN]: KevinDaBaws was kicked for floating too long!
-[02:54:53] [Server thread/INFO]: KevinDaBaws lost connection: user was kicked.
-[02:54:53] [Server thread/INFO]: KevinDaBaws lost connection: Flying is not enabled on this server
-[02:54:53] [Server thread/INFO]: KevinDaBaws left the game
-[02:54:53] [Server thread/WARN]: handleDisconnection() called twice
-[02:54:55] [User Authenticator #62/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
-[02:54:55] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:53295] logged in with entity id 510252 at ([world]-106.96346816627593, 66.92924034308501, 16.533216853505245)
-[02:54:55] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
-[02:54:55] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
-[02:54:55] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
-[02:55:37] [Server thread/INFO]: KevinDaBaws issued server command: /home
-[02:55:39] [Server thread/INFO]: KevinDaBaws issued server command: /home
-[02:55:39] [Server thread/INFO]: KevinDaBaws issued server command: /home
-[02:56:53] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
-[02:56:53] [Server thread/INFO]: KevinDaBaws left the game
-[03:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[03:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[03:00:00] [Server thread/INFO]: Saving...
-[03:00:00] [Server thread/INFO]: Saved the world
-[03:00:00] [Server thread/INFO]: [Server] Save Complete
+[04:45:18] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[04:45:18] [Server thread/INFO]: Loading properties
+[04:45:18] [Server thread/INFO]: Default game type: SURVIVAL
+[04:45:19] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-078e2f8-9ff3d7f (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[04:45:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:45:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:45:19] [Server thread/INFO]: Debug logging is disabled
+[04:45:19] [Server thread/INFO]: Generating keypair
+[04:45:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:45:20] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[04:45:20] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[04:45:20] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[04:45:20] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[04:45:20] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[04:45:20] [Server thread/INFO]: Preparing level "world"
+[04:45:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3820634467636136119)
+[04:45:23] [Server thread/INFO]: Preparing spawn area: 0%
+[04:45:24] [Server thread/INFO]: Preparing spawn area: 19%
+[04:45:25] [Server thread/INFO]: Preparing spawn area: 43%
+[04:45:26] [Server thread/INFO]: Preparing spawn area: 58%
+[04:45:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3820634467636136119)
+[04:45:28] [Server thread/INFO]: Preparing spawn area: 19%
+[04:45:29] [Server thread/INFO]: Preparing spawn area: 42%
+[04:45:30] [Server thread/INFO]: Preparing spawn area: 69%
+[04:45:31] [Server thread/INFO]: Preparing spawn area: 94%
+[04:45:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
+[04:45:32] [Server thread/INFO]: Preparing spawn area: 46%
+[04:45:33] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[04:45:34] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[04:45:34] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[04:45:34] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[04:45:34] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[04:45:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[04:45:34] [Server thread/INFO]: Using locale en_US
+[04:45:35] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[04:45:35] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[04:45:35] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[04:45:35] [Server thread/INFO]: Using locale en_US
+[04:45:35] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[04:45:35] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[04:45:35] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[04:45:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:45:36] [Server thread/INFO]: Done (15.247s)! For help, type "help" or "?"
+[04:45:36] [Server thread/INFO]: Using epoll channel type
+[05:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[05:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[05:00:00] [Server thread/INFO]: Saving...
+[05:00:00] [Server thread/INFO]: Saved the world
+[05:00:00] [Server thread/INFO]: [Server] Save Complete
