@@ -1,26 +1,26 @@
 lastAccountName: DrizzlyOwl
 timestamps:
   login: 1471262086109
-  logout: 1471199108828
-  lastteleport: 1471198919940
+  logout: 1471263025782
+  lastteleport: 1471262905154
   kits:
     color: 1470953260568
     notch: 1470953243511
 ipAddress: 176.27.13.83
 logoutlocation:
   world: world
-  x: -50.03978172645343
-  y: 68.0
-  z: 217.00293027186282
-  yaw: -308.25146
-  pitch: -7.3500023
+  x: 17.411969164603878
+  y: 67.12442195630848
+  z: 209.54354965767538
+  yaw: 101.400024
+  pitch: 15.449993
 lastlocation:
-  world: world
-  x: -5.512499988079075
-  y: 63.0
-  z: 231.69999998807907
-  yaw: -287.7002
-  pitch: -80.400024
+  world: world_nether
+  x: 4.5
+  y: 68.0
+  z: 41.5
+  yaw: 41.85
+  pitch: 7.7999997
 money: '150.0'
 afk: false
 socialspy: true

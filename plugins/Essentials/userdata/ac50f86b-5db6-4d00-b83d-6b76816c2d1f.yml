@@ -2,15 +2,15 @@ lastAccountName: RhinoDude980
 timestamps:
   login: 1471256521450
   logout: 1471220174454
-  lastteleport: 1471219392492
+  lastteleport: 1471265162031
 ipAddress: 5.29.177.100
 lastlocation:
   world: world
-  x: -40.830946939632206
-  y: 73.0
-  z: 251.84415752970438
-  yaw: 183.17982
-  pitch: 6.4499836
+  x: -71.21152266976212
+  y: 65.0
+  z: 253.48565343282164
+  yaw: 341.62112
+  pitch: 13.799941
 logoutlocation:
   world: world
   x: -125.74455880706361

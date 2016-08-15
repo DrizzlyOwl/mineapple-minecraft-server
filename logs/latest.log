@@ -313,3 +313,248 @@
 [08:00:00] [Server thread/INFO]: Saving...
 [08:00:00] [Server thread/INFO]: Saved the world
 [08:00:00] [Server thread/INFO]: [Server] Save Complete
+[08:00:31] [Async Chat Thread - #18/INFO]: <RhinoDude980> there is an ender chest there, cam u poot it in the mine's chest room?
+[08:00:36] [Async Chat Thread - #18/INFO]: <RhinoDude980> can*
+[08:00:53] [Async Chat Thread - #18/INFO]: <RhinoDude980> dont tp me
+[08:00:58] [Server thread/INFO]: DrizzlyOwl issued server command: /tp RhinoDude980
+[08:01:06] [Server thread/INFO]: DrizzlyOwl issued server command: /back
+[08:01:57] [Async Chat Thread - #19/INFO]: <RhinoDude980> r u coming?
+[08:02:01] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> ok
+[08:02:02] [Server thread/INFO]: DrizzlyOwl issued server command: /tp RhinoDude980
+[08:02:04] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> i'm here
+[08:02:22] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> this way?
+[08:02:23] [User Authenticator #5/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
+[08:02:23] [Server thread/INFO]: Chico121212[/179.218.69.229:50019] logged in with entity id 43917 at ([world]-179.46160861569302, 69.0, 64.2625238600979)
+[08:02:23] [Server thread/INFO]: [Server] Welcome back, Chico121212
+[08:02:23] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
+[08:02:23] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
+[08:02:30] [Async Chat Thread - #19/INFO]: <RhinoDude980> go yo the top n get the ender chest
+[08:02:41] [Async Chat Thread - #19/INFO]: <Chico121212> back
+[08:02:42] [Server thread/INFO]: DrizzlyOwl issued server command: /top
+[08:02:45] [Server thread/INFO]: DrizzlyOwl issued server command: /back
+[08:02:47] [Async Chat Thread - #19/INFO]: <Chico121212> where
+[08:02:49] [Async Chat Thread - #19/INFO]: <RhinoDude980> poot it in the chest room
+[08:02:55] [Async Chat Thread - #19/INFO]: <RhinoDude980> not u chico
+[08:02:55] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> you need to show me where it is mate
+[08:03:03] [Async Chat Thread - #19/INFO]: <Chico121212> oh
+[08:03:20] [Async Chat Thread - #19/INFO]: <RhinoDude980> coming
+[08:03:23] [Server thread/INFO]: DrizzlyOwl issued server command: /tp RhinoDude980
+[08:03:28] [Server thread/INFO]: DrizzlyOwl issued server command: /speed RhinoDude980 2
+[08:03:35] [Server thread/INFO]: DrizzlyOwl issued server command: /speed running RhinoDude980 2
+[08:03:37] [Async Chat Thread - #19/INFO]: <DrizzlyOwl> this might help
+[08:03:42] [Server thread/INFO]: DrizzlyOwl issued server command: /speed walking 2 RhinoDude980
+[08:03:54] [Server thread/INFO]: DrizzlyOwl issued server command: /speed 2
+[08:04:00] [Async Chat Thread - #19/INFO]: <RhinoDude980> here
+[08:04:07] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[08:04:09] [Async Chat Thread - #19/INFO]: <Chico121212> brb
+[08:04:10] [Server thread/INFO]: Chico121212 lost connection: Disconnected
+[08:04:10] [Server thread/INFO]: Chico121212 left the game
+[08:04:16] [Async Chat Thread - #19/INFO]: <RhinoDude980> can u give it to me
+[08:04:24] [Async Chat Thread - #19/INFO]: <RhinoDude980> tnx
+[08:04:25] [Server thread/INFO]: DrizzlyOwl issued server command: /chest
+[08:04:26] [Server thread/INFO]: DrizzlyOwl issued server command: /ender
+[08:04:29] [Server thread/INFO]: DrizzlyOwl issued server command: /enderchest
+[08:04:38] [Server thread/INFO]: DrizzlyOwl issued server command: /home
+[08:04:40] [Server thread/INFO]: DrizzlyOwl issued server command: /top
+[08:05:11] [Server thread/INFO]: DrizzlyOwl issued server command: /item seed
+[08:05:42] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[08:06:07] [User Authenticator #6/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
+[08:06:07] [Server thread/INFO]: Chico121212[/179.218.69.229:50028] logged in with entity id 47417 at ([world]-143.0754582459441, 70.0, -49.751823608305656)
+[08:06:07] [Server thread/INFO]: [Server] Welcome back, Chico121212
+[08:06:07] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
+[08:06:07] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
+[08:06:16] [Server thread/INFO]: DrizzlyOwl issued server command: /item farm
+[08:06:17] [Async Chat Thread - #20/INFO]: <Chico121212> bacck
+[08:06:18] [Server thread/INFO]: DrizzlyOwl issued server command: /item soil 2
+[08:06:27] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[08:06:30] [Async Chat Thread - #20/INFO]: <RhinoDude980> where r u goin all the time?
+[08:07:11] [Server thread/INFO]: Chico121212 has just earned the achievement [We Need to Go Deeper]
+[08:07:12] [Server thread/WARN]: Chico121212 moved too quickly! 142.4966468521976,-2.0,84.50884816158039
+[08:07:24] [Async Chat Thread - #20/INFO]: <RhinoDude980> i found 12 diamonds so far
+[08:07:32] [Server thread/INFO]: DrizzlyOwl issued server command: /item seed
+[08:07:34] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[08:07:43] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> Who built that house by you guys
+[08:07:44] [Server thread/INFO]: DrizzlyOwl issued server command: /tp Chico121212
+[08:07:54] [Async Chat Thread - #20/INFO]: <RhinoDude980> what?
+[08:07:57] [Async Chat Thread - #20/INFO]: <RhinoDude980> house?
+[08:08:01] [Async Chat Thread - #20/INFO]: <Chico121212> its ghast proof
+[08:08:12] [Async Chat Thread - #20/INFO]: <RhinoDude980> oh thats chico
+[08:08:13] [Async Chat Thread - #20/INFO]: <Chico121212> ghast destroy portals
+[08:08:14] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> chico did you build that farm house in the overworld
+[08:08:22] [Server thread/INFO]: DrizzlyOwl issued server command: /world 1
+[08:08:24] [Async Chat Thread - #20/INFO]: <RhinoDude980> no me
+[08:08:25] [Server thread/INFO]: DrizzlyOwl issued server command: /world
+[08:08:29] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> awesome
+[08:08:32] [Async Chat Thread - #20/INFO]: <RhinoDude980> tnx
+[08:08:55] [Async Chat Thread - #20/INFO]: <RhinoDude980> i can help u build spawn
+[08:09:07] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> would you like to?
+[08:09:15] [Async Chat Thread - #20/INFO]: <RhinoDude980> i dont care
+[08:09:23] [Async Chat Thread - #20/INFO]: <RhinoDude980> yeah
+[08:09:44] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> I could do with your building stylw
+[08:09:46] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> *styl
+[08:09:50] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> ffs.. *style
+[08:10:25] [Server thread/INFO]: DrizzlyOwl lost connection: Disconnected
+[08:10:25] [Server thread/INFO]: DrizzlyOwl left the game
+[08:10:53] [Server thread/INFO]: Chico121212 issued server command: /home
+[08:10:59] [Server thread/INFO]: CONSOLE issued server command: /w RhinoDude980 do you have skype?
+[08:10:59] [Server thread/INFO]: [me -> RhinoDude980] do you have skype?
+[08:11:16] [Async Chat Thread - #21/INFO]: <RhinoDude980> me?
+[08:11:21] [Server thread/INFO]: [Server] yeah
+[08:11:38] [Async Chat Thread - #21/INFO]: <RhinoDude980> oh it Drizz
+[08:11:42] [Async Chat Thread - #21/INFO]: <RhinoDude980> yeah
+[08:12:06] [Server thread/INFO]: [Server] add me DrizzlyOwl
+[08:12:31] [Async Chat Thread - #21/INFO]: <RhinoDude980> not now
+[08:12:36] [Server thread/INFO]: [Server] no problem
+[08:12:45] [Async Chat Thread - #21/INFO]: <RhinoDude980> make it day
+[08:13:03] [Async Chat Thread - #21/INFO]: <RhinoDude980> n cancel my speed
+[08:13:14] [Server thread/INFO]: Chico121212 issued server command: /
+[08:14:09] [Server thread/INFO]: CONSOLE issued server command: /payoff 
+[08:14:09] [Server thread/INFO]: Error: Only in-game players can use payoff.
+[08:14:17] [Server thread/INFO]: CONSOLE issued server command: /speed walking rhinodude980 1
+[08:14:17] [Server thread/INFO]: Change your speed limits.
+[08:14:17] [Server thread/INFO]: /speed [type] <speed> [player]
+[08:14:22] [Server thread/INFO]: CONSOLE issued server command: /speed walking 1 rhino
+[08:14:22] [Server thread/INFO]: Set walking speed to 1 for RhinoDude980.
+[08:14:26] [Server thread/INFO]: CONSOLE issued server command: /day 
+[08:14:26] [Server thread/INFO]: The time was set to 06:00 or 6:00 AM or 0ticks in: world, world_nether, world_the_end.
+[08:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:15:00] [Server thread/INFO]: Saving...
+[08:15:00] [Server thread/INFO]: Saved the world
+[08:15:00] [Server thread/INFO]: [Server] Save Complete
+[08:15:07] [Server thread/INFO]: Chico121212 issued server command: /msg penderiffic hey want to join
+[08:16:06] [Server thread/INFO]: Chico121212 issued server command: /msg DrizzlyOwl can I put armorstands
+[08:16:46] [Server thread/INFO]: Chico121212 issued server command: /msg
+[08:17:14] [Async Chat Thread - #22/INFO]: <RhinoDude980> chico help me harvest the the crops
+[08:17:18] [Async Chat Thread - #22/INFO]: <Chico121212> ok
+[08:17:29] [Server thread/INFO]: CONSOLE issued server command: /msg Chico if you can build them in survival, sure
+[08:17:29] [Server thread/INFO]: [me -> Chico121212] if you can build them in survival, sure
+[08:18:47] [Async Chat Thread - #23/INFO]: <RhinoDude980> take
+[08:19:09] [Async Chat Thread - #23/INFO]: <RhinoDude980> take this
+[08:19:13] [Async Chat Thread - #23/INFO]: <Chico121212> ok
+[08:19:18] [Async Chat Thread - #23/INFO]: <RhinoDude980> come here
+[08:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[08:21:03] [Async Chat Thread - #24/INFO]: <Chico121212> rhino
+[08:21:09] [Async Chat Thread - #24/INFO]: <RhinoDude980> yeah
+[08:21:16] [Async Chat Thread - #24/INFO]: <Chico121212> lets try to find blazes
+[08:21:32] [Async Chat Thread - #24/INFO]: <RhinoDude980> i want to tarde first
+[08:21:38] [Async Chat Thread - #24/INFO]: <Chico121212> ok
+[08:22:16] [Async Chat Thread - #24/INFO]: <RhinoDude980> get Aqua Affinity
+[08:22:28] [Server thread/INFO]: Chico121212 issued server command: /msg Console can you help us to find blazes
+[08:22:28] [Server thread/INFO]: [Chico121212 -> me] can you help us to find blazes
+[08:23:49] [Async Chat Thread - #25/INFO]: <RhinoDude980> lets make a slime farm
+[08:23:55] [Async Chat Thread - #25/INFO]: <Chico121212> sure
+[08:24:35] [Async Chat Thread - #25/INFO]: <RhinoDude980> i got the seed ill poot it in "mineatlas"
+[08:25:31] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:25:59] [Server thread/INFO]: Chico121212 issued server command: /home
+[08:26:02] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:33] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:34] [Async Chat Thread - #25/INFO]: <RhinoDude980> i got the seed ill poot it in "mineatlas"
+[08:26:38] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:41] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:42] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:43] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:44] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:46] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:47] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:48] [Async Chat Thread - #25/INFO]: <RhinoDude980> sleep
+[08:26:52] [Async Chat Thread - #25/INFO]: <RhinoDude980> jk
+[08:27:10] [Async Chat Thread - #25/INFO]: <Chico121212> there is a zombie next to me
+[08:28:18] [Async Chat Thread - #26/INFO]: <RhinoDude980> creeper
+[08:28:58] [Async Chat Thread - #26/INFO]: <RhinoDude980> go go
+[08:29:44] [Async Chat Thread - #26/INFO]: <RhinoDude980> ok
+[08:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[08:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:30:00] [Server thread/INFO]: Saving...
+[08:30:00] [Server thread/INFO]: Saved the world
+[08:30:00] [Server thread/INFO]: [Server] Save Complete
+[08:30:12] [Async Chat Thread - #26/INFO]: <RhinoDude980> replant dude
+[08:30:27] [Async Chat Thread - #26/INFO]: <Chico121212> ok
+[08:32:29] [Async Chat Thread - #27/INFO]: <RhinoDude980> im goin to spwn
+[08:33:23] [Async Chat Thread - #27/INFO]: <RhinoDude980> give me your crops
+[08:33:33] [Async Chat Thread - #27/INFO]: <Chico121212> meet me in the nether
+[08:33:41] [Async Chat Thread - #27/INFO]: <RhinoDude980> why?
+[08:33:54] [Async Chat Thread - #27/INFO]: <RhinoDude980> give me your crops
+[08:34:05] [Async Chat Thread - #27/INFO]: <Chico121212> I relanted all
+[08:34:16] [Async Chat Thread - #27/INFO]: <RhinoDude980> im goin to trade
+[08:34:23] [Async Chat Thread - #27/INFO]: <Chico121212> ok
+[08:34:36] [Server thread/WARN]: Chico121212 moved too quickly! 142.53364688156034,-2.0,84.42867703357489
+[08:34:40] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.42730723175893,-2.0,84.49009709043065
+[08:34:54] [Async Chat Thread - #27/INFO]: <RhinoDude980> give me your crops
+[08:34:57] [Async Chat Thread - #27/INFO]: <Chico121212> lets find blazeds
+[08:35:19] [Async Chat Thread - #27/INFO]: <RhinoDude980> look out
+[08:35:25] [Async Chat Thread - #27/INFO]: <Chico121212> I replanted the rest of the crops
+[08:35:31] [Server thread/INFO]: Chico121212 issued server command: /home
+[08:35:33] [Async Chat Thread - #27/INFO]: <RhinoDude980> give meee
+[08:35:39] [Async Chat Thread - #27/INFO]: <Chico121212> ok ok
+[08:35:44] [Server thread/INFO]: Chico121212 issued server command: /home
+[08:36:00] [Server thread/WARN]: RhinoDude980 moved too quickly! -35.87761217416309,7.0,224.97896470819592
+[08:36:17] [Async Chat Thread - #27/INFO]: <RhinoDude980> is it in your chest?
+[08:36:28] [Server thread/INFO]: RhinoDude980 issued server command: /home
+[08:36:44] [Async Chat Thread - #27/INFO]: <Chico121212> yea
+[08:37:41] [Async Chat Thread - #27/INFO]: <RhinoDude980> im goin to spawn
+[08:37:46] [Async Chat Thread - #27/INFO]: <Chico121212> ok
+[08:37:53] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.75754153880544,-2.0,84.40808449842419
+[08:38:05] [Server thread/WARN]: Chico121212 moved too quickly! 7.240317779992637,0.0,-12.161656841664573
+[08:38:06] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.55820447284188,7.0,224.9380176180226
+[08:38:18] [Async Chat Thread - #27/INFO]: <RhinoDude980> use the portal
+[08:38:23] [Async Chat Thread - #27/INFO]: <Chico121212> ok
+[08:39:23] [Server thread/INFO]: RhinoDude980 issued server command: /home
+[08:40:16] [Server thread/WARN]: RhinoDude980 moved too quickly! 143.2140924479302,-2.0,84.16237423182906
+[08:40:25] [Server thread/WARN]: RhinoDude980 moved too quickly! -36.66103883117759,7.0,224.93675577545957
+[08:40:40] [Async Chat Thread - #28/INFO]: <RhinoDude980> do /home to get home
+[08:40:47] [Server thread/INFO]: Chico121212 issued server command: /home
+[08:40:52] [Async Chat Thread - #28/INFO]: <Chico121212> I know
+[08:40:55] [Async Chat Thread - #28/INFO]: <RhinoDude980> k
+[08:41:01] [Async Chat Thread - #28/INFO]: <Chico121212> brb
+[08:41:04] [Server thread/INFO]: Chico121212 lost connection: Disconnected
+[08:41:04] [Server thread/INFO]: Chico121212 left the game
+[08:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:45:00] [Server thread/INFO]: Saving...
+[08:45:00] [Server thread/INFO]: Saved the world
+[08:45:00] [Server thread/INFO]: [Server] Save Complete
+[08:45:56] [Server thread/INFO]: RhinoDude980 issued server command: /home
+[08:48:29] [User Authenticator #7/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
+[08:48:29] [Server thread/INFO]: Chico121212[/179.218.69.229:50040] logged in with entity id 68408 at ([world]-140.5, 70.0, -60.5)
+[08:48:29] [Server thread/INFO]: [Server] Welcome back, Chico121212
+[08:48:29] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
+[08:48:29] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
+[08:48:41] [Async Chat Thread - #29/INFO]: <Chico121212> back
+[08:48:45] [Async Chat Thread - #29/INFO]: <RhinoDude980> hi
+[08:49:17] [Async Chat Thread - #29/INFO]: <RhinoDude980> lets go find blase
+[08:49:23] [Async Chat Thread - #29/INFO]: <Chico121212> yea
+[08:49:49] [Async Chat Thread - #29/INFO]: <RhinoDude980> dont spam
+[08:49:59] [Async Chat Thread - #29/INFO]: <Chico121212> ok
+[08:50:17] [Async Chat Thread - #29/INFO]: <RhinoDude980> get the flash to sell to the clerc
+[08:50:20] [Server thread/WARN]: Chico121212 moved too quickly! 142.7466468108366,-2.0,83.83809017107896
+[08:50:35] [Async Chat Thread - #29/INFO]: <Chico121212> ok
+[08:50:40] [Server thread/INFO]: Chico121212 issued server command: /home
+[08:50:40] [Async Chat Thread - #29/INFO]: <RhinoDude980> 1 sec
+[08:51:13] [Async Chat Thread - #29/INFO]: <RhinoDude980> get tuorches
+[08:51:22] [Async Chat Thread - #29/INFO]: <Chico121212> yes
+[08:51:29] [Server thread/WARN]: RhinoDude980 moved too quickly! 142.59603557236358,-2.0,84.31045911636198
+[08:52:17] [Async Chat Thread - #29/INFO]: <RhinoDude980> the portal is at 3/37
+[08:52:29] [Server thread/WARN]: Chico121212 moved too quickly! 141.75902419890656,-2.0,85.19999998807907
+[08:53:17] [Async Chat Thread - #30/INFO]: <Chico121212> Rhino
+[08:53:22] [Async Chat Thread - #30/INFO]: <RhinoDude980> yeah
+[08:53:27] [Async Chat Thread - #30/INFO]: <Chico121212> where are you
+[08:53:50] [Async Chat Thread - #30/INFO]: <RhinoDude980> getting xp
+[08:53:59] [Async Chat Thread - #30/INFO]: <Chico121212> ok
+[08:54:43] [Async Chat Thread - #30/INFO]: <Chico121212> take an enderchest
+[08:54:52] [Async Chat Thread - #30/INFO]: <RhinoDude980> i dont have
+[08:55:01] [Async Chat Thread - #30/INFO]: <Chico121212> ok
+[08:55:36] [Async Chat Thread - #30/INFO]: <RhinoDude980> got a pearl
+[08:55:42] [Async Chat Thread - #30/INFO]: <Chico121212> no
+[08:55:49] [Async Chat Thread - #30/INFO]: <RhinoDude980> what?
+[08:56:11] [Async Chat Thread - #30/INFO]: <Chico121212> I dint have one
+[08:56:21] [Async Chat Thread - #30/INFO]: <RhinoDude980> ender pearl?
+[08:56:54] [Async Chat Thread - #30/INFO]: <RhinoDude980> shit
+[08:57:40] [Async Chat Thread - #30/INFO]: <RhinoDude980> kill them i cover you
+[08:57:46] [Async Chat Thread - #30/INFO]: <Chico121212> ok
+[08:57:58] [Async Chat Thread - #30/INFO]: <RhinoDude980> look out
+[08:58:59] [Async Chat Thread - #31/INFO]: <RhinoDude980> the portal is at 3/37
+[08:59:04] [Async Chat Thread - #31/INFO]: <Chico121212> ok
+[09:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[09:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:00:00] [Server thread/INFO]: Saving...
+[09:00:00] [Server thread/INFO]: Saved the world
+[09:00:00] [Server thread/INFO]: [Server] Save Complete
