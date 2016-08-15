@@ -2,15 +2,15 @@ lastAccountName: Chico121212
 timestamps:
   login: 1471265309399
   logout: 1471264864394
-  lastteleport: 1471265445102
+  lastteleport: 1471268119027
 ipAddress: 179.218.69.229
 lastlocation:
-  world: world_nether
-  x: -2.291314189606033
+  world: world
+  x: -42.94911237396038
   y: 68.0
-  z: 31.300000011920925
-  yaw: 0.6296249
-  pitch: 44.84997
+  z: 264.8175730239226
+  yaw: -229.02025
+  pitch: 32.85001
 logoutlocation:
   world: world
   x: -140.5
