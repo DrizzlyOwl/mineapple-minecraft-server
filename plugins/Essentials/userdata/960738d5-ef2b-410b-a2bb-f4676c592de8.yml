@@ -1,21 +1,21 @@
 lastAccountName: Skyking_Caton
 timestamps:
-  login: 1471203537788
-  logout: 1471206563524
-  lastteleport: 1471178539745
+  login: 1471270956025
+  logout: 1471278838706
+  lastteleport: 1471278110870
 ipAddress: 78.73.231.113
 logoutlocation:
   world: world
-  x: -268.62181205124193
+  x: -268.27915364729586
   y: 80.0
-  z: 166.70905621048314
-  yaw: -137.30197
-  pitch: 31.828636
+  z: 168.47431465738697
+  yaw: -180.85583
+  pitch: 24.535835
 lastlocation:
   world: world
-  x: -288.7089420517572
+  x: -267.5
   y: 80.0
-  z: 176.36676174850993
-  yaw: -311.29242
-  pitch: 49.39605
+  z: 166.5
+  yaw: 5.800595
+  pitch: 1.4915814
 afk: false
