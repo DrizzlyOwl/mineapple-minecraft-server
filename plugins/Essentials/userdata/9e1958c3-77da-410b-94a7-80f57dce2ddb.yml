@@ -1,18 +1,18 @@
 lastAccountName: weme105
 timestamps:
-  login: 1470914057525
-  logout: 1470915003934
+  login: 1471224935344
+  logout: 1471224957666
   kits:
     tools: 1470785789495
   lastteleport: 1470914982057
 ipAddress: 50.137.116.59
 logoutlocation:
   world: world
-  x: -49.5385062388696
-  y: 56.0
-  z: 536.5839855629799
-  yaw: 1.0509133
-  pitch: 22.807314
+  x: -44.433655208819204
+  y: 60.0
+  z: 541.6623521054768
+  yaw: 245.22787
+  pitch: 31.294062
 lastlocation:
   world: world
   x: -269.14002733420443
