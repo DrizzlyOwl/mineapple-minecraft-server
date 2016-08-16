@@ -1,23 +1,23 @@
 lastAccountName: Ahri_Le_Fox
 timestamps:
-  login: 1471294790443
-  logout: 1471294775477
-  lastteleport: 1471293997848
+  login: 1471301222567
+  logout: 1471301476219
+  lastteleport: 1471300252709
 ipAddress: 108.90.227.154
 logoutlocation:
   world: world
-  x: -39.52713759945706
-  y: 61.0
-  z: 545.6999999880791
-  yaw: -239.9085
-  pitch: 25.539442
+  x: -43.20000123655452
+  y: 63.0
+  z: 550.1173766068667
+  yaw: -251.10983
+  pitch: 30.349329
 lastlocation:
   world: world
-  x: -13.654331799033189
-  y: 69.0
-  z: 273.64308182764097
-  yaw: -26.744019
-  pitch: 10.13427
+  x: -39.5
+  y: 68.02159847259522
+  z: 256.5
+  yaw: 0.0
+  pitch: 0.0
 homes:
   home:
     world: world
@@ -26,4 +26,4 @@ homes:
     z: 543.2331407238376
     yaw: -60.188923
     pitch: 2.8299246
-nickname: Ahri
+nickname: unusual_meme

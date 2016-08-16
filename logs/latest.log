@@ -553,3 +553,1153 @@ Reason: The Ban Hammer has spoken!
 [17:00:00] [Server thread/INFO]: Saving...
 [17:00:00] [Server thread/INFO]: Saved the world
 [17:00:00] [Server thread/INFO]: [Server] Save Complete
+[17:01:20] [Server thread/INFO]: Ahri_Le_Fox issued server command: /recipe
+[17:01:20] [Server thread/INFO]: §cAhri_Le_Fox §4was denied access to command.
+[17:01:28] [Async Chat Thread - #14/INFO]: <~Ahri> ./recipe
+[17:03:51] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[17:04:38] [User Authenticator #20/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[17:04:39] [Server thread/INFO]: AlmostJesus[/174.117.23.186:50087] logged in with entity id 58785 at ([world]-39.5, 71.0, 256.5)
+[17:04:39] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[17:04:39] [pool-4-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/170093d5-d08f-4a8a-8217-05b1be0c0b32.yml
+[17:04:39] [Server thread/INFO]: [CONSOLE->AlmostJesus] Hey there, AlmostJesus!
+[17:04:39] [Server thread/INFO]: [CONSOLE->AlmostJesus] Welcome to Mineapple
+[17:05:02] [Async Chat Thread - #15/INFO]: <~Ahri> NO
+[17:05:13] [Async Chat Thread - #15/INFO]: <~Ahri> YOU JUST GOT ME BANNED FROM CS:GO MOM
+[17:05:42] [Server thread/INFO]: Ahri_Le_Fox was slain by LimpBiscuit
+[17:06:06] [Async Chat Thread - #15/INFO]: <~Ahri> bunghole
+[17:06:18] [Async Chat Thread - #15/INFO]: <~Ahri> one less lonley asf
+[17:06:30] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[17:07:21] [Async Chat Thread - #16/INFO]: <AlmostJesus> Are Ash and Walshy still active on this server?
+[17:07:25] [Async Chat Thread - #16/INFO]: <~Ahri> yes
+[17:07:30] [Async Chat Thread - #16/INFO]: <~Ahri> are you trying to get me banned
+[17:07:33] [Async Chat Thread - #16/INFO]: <~RhinoDude981> walsh went off a while ago
+[17:07:46] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick nigger
+[17:07:47] [Async Chat Thread - #16/INFO]: <~nigger> okay
+[17:07:50] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick Ahri
+[17:07:52] [Async Chat Thread - #16/INFO]: <~Ahri> lol
+[17:08:42] [Async Chat Thread - #16/INFO]: <AlmostJesus> Were any of you guys on the Shady Sands server way back?
+[17:08:49] [Async Chat Thread - #16/INFO]: <~RhinoDude981> no
+[17:10:29] [User Authenticator #21/INFO]: UUID of player LAPSLIE is 13ab7374-19c4-4e90-a6b6-780f3eba6738
+[17:10:29] [Server thread/INFO]: LAPSLIE[/86.150.151.18:49775] logged in with entity id 61700 at ([world]-4740.408314457643, 88.0, 10528.169391232683)
+[17:10:29] [Server thread/INFO]: [Server] Welcome back, LAPSLIE
+[17:10:29] [Server thread/INFO]: [CONSOLE->LAPSLIE] Hey there, LAPSLIE!
+[17:10:29] [Server thread/INFO]: [CONSOLE->LAPSLIE] Welcome to Mineapple
+[17:11:48] [Server thread/INFO]: Ahri_Le_Fox issued server command: /w rhinodude981 nigger
+[17:12:01] [Async Chat Thread - #17/INFO]: <~Ahri> 1-800-fuck-niggers
+[17:12:07] [Server thread/INFO]: Ahri_Le_Fox lost connection: Disconnected
+[17:12:07] [Server thread/INFO]: Ahri_Le_Fox left the game
+[17:12:13] [User Authenticator #22/INFO]: UUID of player CamiTho is f7affcec-87b1-4354-bd92-33b759ed6fae
+[17:12:13] [Server thread/INFO]: CamiTho[/104.229.6.83:56468] logged in with entity id 62850 at ([world]234.86221778226064, 22.0, 122.73495112522781)
+[17:12:13] [Server thread/INFO]: [Server] Welcome back, CamiTho
+[17:12:13] [Server thread/INFO]: [CONSOLE->CamiTho] Hey there, CamiTho!
+[17:12:13] [Server thread/INFO]: [CONSOLE->CamiTho] Welcome to Mineapple
+[17:12:13] [pool-4-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/f7affcec-87b1-4354-bd92-33b759ed6fae.yml
+[17:12:26] [Server thread/INFO]: LimpBiscuit issued server command: /msg weme105 18882224227
+[17:12:29] [Server thread/INFO]: LimpBiscuit issued server command: /msg weme105 18882224227
+[17:12:30] [Server thread/INFO]: LimpBiscuit issued server command: /msg weme105 18882224227
+[17:12:30] [Server thread/INFO]: LimpBiscuit issued server command: /msg weme105 18882224227
+[17:12:31] [Server thread/INFO]: LimpBiscuit issued server command: /msg weme105 18882224227
+[17:12:36] [Server thread/INFO]: CamiTho lost connection: Disconnected
+[17:12:36] [Server thread/INFO]: CamiTho left the game
+[17:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:15:00] [Server thread/INFO]: Saving...
+[17:15:00] [Server thread/INFO]: Saved the world
+[17:15:00] [Server thread/INFO]: [Server] Save Complete
+[17:17:34] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[17:17:34] [Server thread/INFO]: AlmostJesus left the game
+[17:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[17:20:09] [Server thread/INFO]: CONSOLE issued server command: /mob creeper 10 lap
+[17:20:09] [Server thread/INFO]: 10 creepers spawned
+[17:20:10] [Server thread/INFO]: LAPSLIE was blown up by Creeper
+[17:21:54] [Server thread/INFO]: LAPSLIE lost connection: Disconnected
+[17:21:54] [Server thread/INFO]: LAPSLIE left the game
+[17:25:14] [User Authenticator #23/INFO]: UUID of player PolarrBeer is 8fe881c4-c022-4dfb-b3bf-e441dac84f88
+[17:25:14] [Server thread/INFO]: PolarrBeer[/146.66.142.213:50433] logged in with entity id 66426 at ([world]-34.5, 73.0, 259.5)
+[17:25:14] [Server thread/INFO]: [Server] PolarrBeer has just joined for the first time.
+[17:25:14] [Server thread/INFO]: [Server] 50 unique players have visited this server.
+[17:25:14] [Server thread/INFO]: [CONSOLE->PolarrBeer] Hey there, PolarrBeer!
+[17:25:14] [Server thread/INFO]: [CONSOLE->PolarrBeer] Welcome to Mineapple
+[17:25:14] [pool-4-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/8fe881c4-c022-4dfb-b3bf-e441dac84f88.yml
+[17:25:23] [Server thread/INFO]: PolarrBeer lost connection: Disconnected
+[17:25:23] [Server thread/INFO]: PolarrBeer left the game
+[17:27:13] [User Authenticator #24/INFO]: UUID of player I_R_TARD is f0ae569d-71cc-4784-9ed2-5c41e4904795
+[17:27:14] [Server thread/INFO]: I_R_TARD[/90.227.27.126:55885] logged in with entity id 66828 at ([world]-140.06538313954013, 64.0, -12.073376842579169)
+[17:27:14] [Server thread/INFO]: [Server] Welcome back, I_R_TARD
+[17:27:14] [Server thread/INFO]: [CONSOLE->I_R_TARD] Hey there, I_R_TARD!
+[17:27:14] [Server thread/INFO]: [CONSOLE->I_R_TARD] Welcome to Mineapple
+[17:27:53] [Server thread/INFO]: I_R_TARD lost connection: Disconnected
+[17:27:53] [Server thread/INFO]: I_R_TARD left the game
+[17:29:56] [Server thread/INFO]: weme105 was burnt to a crisp whilst fighting LimpBiscuit
+[17:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[17:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:30:00] [Server thread/INFO]: Saving...
+[17:30:00] [Server thread/INFO]: Saved the world
+[17:30:00] [Server thread/INFO]: [Server] Save Complete
+[17:30:01] [User Authenticator #25/INFO]: UUID of player RhinoDude980 is ac50f86b-5db6-4d00-b83d-6b76816c2d1f
+[17:30:02] [Server thread/INFO]: RhinoDude980[/5.29.177.100:56019] logged in with entity id 67619 at ([world]-177.75285048739195, 65.0, -21.581899149662114)
+[17:30:02] [Server thread/INFO]: [Server] Welcome back, RhinoDude980
+[17:30:02] [Server thread/INFO]: [CONSOLE->RhinoDude980] Hey there, RhinoDude980!
+[17:30:02] [Server thread/INFO]: [CONSOLE->RhinoDude980] Welcome to Mineapple
+[17:30:18] [Async Chat Thread - #18/INFO]: <~RhinoDude981> hi
+[17:30:20] [Async Chat Thread - #18/INFO]: <RhinoDude980> hi
+[17:30:30] [Async Chat Thread - #18/INFO]: <~Michael> BOY I RUN
+[17:30:41] [Server thread/INFO]: weme105 issued server command: /nick RhinoDude979
+[17:30:42] [Async Chat Thread - #18/INFO]: <RhinoDude980> r u new?
+[17:30:45] [Async Chat Thread - #18/INFO]: <~RhinoDude981> no
+[17:30:45] [Async Chat Thread - #18/INFO]: <~RhinoDude979> yes
+[17:30:59] [Async Chat Thread - #18/INFO]: <RhinoDude980> what?
+[17:31:04] [Async Chat Thread - #18/INFO]: <~RhinoDude981> what?
+[17:31:10] [Async Chat Thread - #18/INFO]: <~RhinoDude979> what?
+[17:31:14] [Async Chat Thread - #18/INFO]: <RhinoDude980> why do have my name?
+[17:31:18] [Async Chat Thread - #18/INFO]: <~RhinoDude981> its a meme
+[17:31:25] [Async Chat Thread - #18/INFO]: <~RhinoDude979> why do have my name?
+[17:31:33] [Async Chat Thread - #18/INFO]: <~RhinoDude981> no why do you have my name
+[17:31:40] [Async Chat Thread - #18/INFO]: <RhinoDude980> i dot
+[17:31:43] [Async Chat Thread - #18/INFO]: <RhinoDude980> dont
+[17:31:57] [Async Chat Thread - #18/INFO]: <RhinoDude980> da hell is this
+[17:31:59] [Async Chat Thread - #18/INFO]: <~RhinoDude979> you hace m,y name
+[17:32:06] [Async Chat Thread - #18/INFO]: <~RhinoDude981> no u
+[17:32:06] [Async Chat Thread - #18/INFO]: <~RhinoDude979> da hell r u
+[17:32:12] [Async Chat Thread - #18/INFO]: <RhinoDude980> 1 sec
+[17:32:14] [Server thread/INFO]: RhinoDude980 lost connection: Disconnected
+[17:32:14] [Server thread/INFO]: RhinoDude980 left the game
+[17:32:41] [Server thread/INFO]: weme105 issued server command: /nick RhinoDude980
+[17:32:42] [User Authenticator #26/INFO]: UUID of player RhinoDude980 is ac50f86b-5db6-4d00-b83d-6b76816c2d1f
+[17:32:42] [Server thread/INFO]: RhinoDude980[/5.29.177.100:56068] logged in with entity id 68768 at ([world]-154.82903363003447, 63.9375, -9.798318313207494)
+[17:32:42] [Server thread/INFO]: [Server] Welcome back, RhinoDude980
+[17:32:42] [Server thread/INFO]: [CONSOLE->RhinoDude980] Hey there, RhinoDude980!
+[17:32:42] [Server thread/INFO]: [CONSOLE->RhinoDude980] Welcome to Mineapple
+[17:33:24] [Async Chat Thread - #19/INFO]: <RhinoDude980> wal is that u?
+[17:33:24] [Async Chat Thread - #19/INFO]: <~RhinoDude979> what da hell
+[17:33:32] [Async Chat Thread - #19/INFO]: <~RhinoDude979> no u wal?
+[17:33:48] [Async Chat Thread - #19/INFO]: <RhinoDude980> walshy is the owner
+[17:34:10] [Async Chat Thread - #19/INFO]: <RhinoDude980> tp to me
+[17:34:13] [Async Chat Thread - #19/INFO]: <~RhinoDude979> no\
+[17:34:51] [Server thread/WARN]: RhinoDude980 moved too quickly! -35.126068704568425,7.0,225.13329784053553
+[17:35:02] [Async Chat Thread - #19/INFO]: <RhinoDude980> im in spown
+[17:35:09] [Async Chat Thread - #19/INFO]: <~RhinoDude979> no boy
+[17:35:23] [Server thread/INFO]: weme105 issued server command: /tpa RhinoDude980
+[17:35:30] [Server thread/INFO]: RhinoDude980 issued server command: /tpaccept
+[17:35:41] [Async Chat Thread - #19/INFO]: <RhinoDude980> oh
+[17:35:49] [Async Chat Thread - #19/INFO]: <~RhinoDude979> o
+[17:35:57] [Async Chat Thread - #19/INFO]: <RhinoDude980> r u new?
+[17:36:05] [Async Chat Thread - #19/INFO]: <~RhinoDude979> yeet
+[17:36:35] [Server thread/INFO]: RhinoDude980 issued server command: /home
+[17:36:51] [Async Chat Thread - #19/INFO]: <~RhinoDude979> yeet
+[17:36:52] [Async Chat Thread - #19/INFO]: <RhinoDude980> dude what the hell??
+[17:36:52] [Async Chat Thread - #19/INFO]: <~RhinoDude979> yeet
+[17:36:59] [Async Chat Thread - #19/INFO]: <~RhinoDude979> watch ur language
+[17:37:04] [Server thread/INFO]: weme105 issued server command: /home
+[17:40:35] [Async Chat Thread - #20/INFO]: <RhinoDude980> who else is here?
+[17:40:39] [Async Chat Thread - #20/INFO]: <~RhinoDude981> me
+[17:40:45] [Async Chat Thread - #20/INFO]: <RhinoDude980> hi
+[17:40:56] [Async Chat Thread - #20/INFO]: <~RhinoDude981> hello
+[17:41:03] [Async Chat Thread - #20/INFO]: <RhinoDude980> r u new?
+[17:41:11] [Async Chat Thread - #20/INFO]: <~RhinoDude981> no
+[17:41:14] [Async Chat Thread - #20/INFO]: <RhinoDude980> ok
+[17:41:50] [Async Chat Thread - #20/INFO]: <RhinoDude980> whats your name? i cant see it
+[17:41:59] [Async Chat Thread - #20/INFO]: <~RhinoDude981> you just do /realname
+[17:42:05] [Async Chat Thread - #20/INFO]: <~RhinoDude981> and then their nickname
+[17:42:14] [Server thread/INFO]: RhinoDude980 issued server command: /realname
+[17:42:59] [User Authenticator #27/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[17:42:59] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:50652] logged in with entity id 72498 at ([world]-44.958623438071854, 58.0, 535.262750499784)
+[17:42:59] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[17:42:59] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[17:42:59] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[17:43:11] [Async Chat Thread - #21/INFO]: <~Ahri> bypassed that ban boys
+[17:43:24] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick RhinoCock69
+[17:43:25] [Async Chat Thread - #21/INFO]: <~RhinoCock69> okay
+[17:43:27] [Server thread/INFO]: RhinoDude980 issued server command: /realname RhinoDude981
+[17:43:36] [Async Chat Thread - #21/INFO]: <RhinoDude980> hi
+[17:43:43] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick RhinoDude669
+[17:43:46] [Async Chat Thread - #21/INFO]: <~RhinoDude669> okay
+[17:43:56] [Async Chat Thread - #21/INFO]: <~RhinoDude979> h
+[17:44:04] [Server thread/INFO]: RhinoDude980 issued server command: /realname RhinoDude669
+[17:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:45:00] [Server thread/INFO]: Saving...
+[17:45:00] [Server thread/INFO]: Saved the world
+[17:45:00] [Server thread/INFO]: [Server] Save Complete
+[17:47:23] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick LimpDick
+[17:47:25] [Async Chat Thread - #22/INFO]: <~LimpDick> shut up boi
+[17:47:39] [Server thread/INFO]: Ahri_Le_Fox issued server command: /nick unusual_meme
+[17:47:41] [Async Chat Thread - #22/INFO]: <~unusual_meme> there we go
+[17:47:59] [Server thread/INFO]: weme105 issued server command: /nick LimpDiscuit
+[17:48:03] [Async Chat Thread - #22/INFO]: <~LimpDiscuit> ay
+[17:48:07] [Async Chat Thread - #22/INFO]: <RhinoDude980> be nice girls
+[17:48:21] [Async Chat Thread - #22/INFO]: <~LimpDiscuit> i wanna fuck ur ass
+[17:48:31] [Async Chat Thread - #22/INFO]: <RhinoDude980> r u gay?
+[17:48:34] [Async Chat Thread - #22/INFO]: <RhinoDude980> lol
+[17:48:44] [Async Chat Thread - #22/INFO]: <~LimpDiscuit> maybe r u? lol
+[17:49:03] [Async Chat Thread - #22/INFO]: <~unusual_meme> ./tts stfu
+[17:49:08] [Async Chat Thread - #22/INFO]: <RhinoDude980> im not a homofob
+[17:49:44] [Server thread/INFO]: Ahri_Le_Fox was slain by weme105 using [nigger killer]
+[17:49:51] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[17:49:55] [Async Chat Thread - #22/INFO]: <~LimpDiscuit> i think u r
+[17:50:08] [Async Chat Thread - #22/INFO]: <RhinoDude980> jk my man
+[17:50:17] [Async Chat Thread - #22/INFO]: <RhinoDude980> nigger killer???
+[17:50:23] [Async Chat Thread - #22/INFO]: <RhinoDude980> the f?
+[17:50:30] [Server thread/INFO]: weme105 was slain by LimpBiscuit using [harambe gun]
+[17:50:40] [Async Chat Thread - #22/INFO]: <~LimpDiscuit> dont hate im just vaping
+[17:51:38] [Server thread/INFO]: Ahri_Le_Fox was slain by LimpBiscuit
+[17:51:44] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[17:52:20] [Server thread/INFO]: Ahri_Le_Fox was slain by LimpBiscuit using [I Love Hentai]
+[17:52:25] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[17:52:29] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> I'm vaping nigger
+[17:52:39] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[17:53:01] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[17:53:12] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[17:53:15] [User Authenticator #28/INFO]: UUID of player Skyking_Caton is 960738d5-ef2b-410b-a2bb-f4676c592de8
+[17:53:15] [Server thread/INFO]: Skyking_Caton[/78.73.231.113:56352] logged in with entity id 76884 at ([world]-268.27915364729586, 80.0, 168.47431465738697)
+[17:53:15] [Server thread/INFO]: [Server] Welcome back, Skyking_Caton
+[17:53:15] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Hey there, Skyking_Caton!
+[17:53:15] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Welcome to Mineapple
+[17:53:20] [Async Chat Thread - #23/INFO]: <RhinoDude980> hi man
+[17:53:24] [Async Chat Thread - #23/INFO]: <Skyking_Caton> hello
+[17:53:26] [Server thread/INFO]: weme105 suffocated in a wall
+[17:53:32] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[17:53:37] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[17:53:40] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[17:53:43] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[17:53:45] [Async Chat Thread - #23/INFO]: <RhinoDude980> what r u 2 doin?
+[17:54:00] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> vaping
+[17:54:08] [Async Chat Thread - #23/INFO]: <RhinoDude980> what?
+[17:54:16] [Server thread/INFO]: Ahri_Le_Fox was slain by LimpBiscuit using [I Love Hentai]
+[17:54:21] [Server thread/INFO]: Ahri_Le_Fox lost connection: Disconnected
+[17:54:21] [Server thread/INFO]: Ahri_Le_Fox left the game
+[17:54:39] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> killing myself
+[17:54:46] [Async Chat Thread - #23/INFO]: <RhinoDude980> ok...
+[17:55:29] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> Hey dude, I vape. Yeah you know vaping? I do it. Yeah vaping, it's something I do. I don't smoke, I
+[17:55:56] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> I'm Rick Harrison, and this is my pawn shop. I work here with my old man and my son, Big Hoss. Every
+[17:55:59] [Async Chat Thread - #23/INFO]: <RhinoDude980> what vaping?
+[17:56:04] [Async Chat Thread - #23/INFO]: <RhinoDude980> weed?
+[17:56:07] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> thing in here has a story and a price. One thing I've learned after 21 years - you never know WHAT i
+[17:56:16] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> is gonna come through that door
+[17:56:22] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> no vaping isnt smoking weed
+[17:56:36] [Async Chat Thread - #23/INFO]: <RhinoDude980> what r u doin in minecraft???
+[17:56:43] [Async Chat Thread - #23/INFO]: <~RhinoDude981> playing
+[17:56:45] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> fappin and building
+[17:56:45] [Async Chat Thread - #23/INFO]: <RhinoDude980> hahaha
+[17:56:51] [Async Chat Thread - #23/INFO]: <RhinoDude980> ok
+[17:57:05] [Async Chat Thread - #23/INFO]: <~LimpDiscuit> you got kik honey sweets ill send u noods
+[17:59:14] [Async Chat Thread - #24/INFO]: <~LimpDiscuit> sykking
+[17:59:17] [Async Chat Thread - #24/INFO]: <~LimpDiscuit> wanna fuck
+[17:59:23] [Async Chat Thread - #24/INFO]: <Skyking_Caton> no thanks
+[17:59:27] [Async Chat Thread - #24/INFO]: <~LimpDiscuit> please
+[17:59:36] [Async Chat Thread - #24/INFO]: <RhinoDude980> r u a girl?
+[17:59:45] [Async Chat Thread - #24/INFO]: <Skyking_Caton> me, no
+[17:59:48] [Async Chat Thread - #24/INFO]: <RhinoDude980> no
+[17:59:49] [Async Chat Thread - #24/INFO]: <~LimpDiscuit> maybe lol
+[18:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[18:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:00:00] [Server thread/INFO]: Saving...
+[18:00:00] [Server thread/INFO]: Saved the world
+[18:00:00] [Server thread/INFO]: [Server] Save Complete
+[18:00:07] [Async Chat Thread - #24/INFO]: <RhinoDude980> nope nope........nope
+[18:00:18] [Async Chat Thread - #24/INFO]: <~LimpDiscuit> what?
+[18:00:46] [Server thread/INFO]: weme105 issued server command: /nick RhinoDude980s little slut
+[18:00:58] [Server thread/INFO]: weme105 issued server command: /nick RhinoDude980sLittleSlut
+[18:01:06] [Server thread/INFO]: weme105 issued server command: /nick RhinoDudesLittleSlut
+[18:01:15] [Server thread/INFO]: weme105 issued server command: /nick RhinoDudesLilSlut
+[18:01:26] [Server thread/INFO]: weme105 issued server command: /nick RnoDdesLilSlut
+[18:01:29] [Async Chat Thread - #25/INFO]: <~RnoDdesLilSlut> Hey bb
+[18:01:36] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[18:01:43] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[18:02:53] [Async Chat Thread - #26/INFO]: <~RhinoDude981> rip
+[18:02:54] [User Authenticator #29/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:02:54] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:51608] logged in with entity id 82804 at ([world]-47.66882150899756, 60.0, 547.3216578804268)
+[18:02:54] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:02:54] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:02:54] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:03:00] [Async Chat Thread - #26/INFO]: <RhinoDude980> hi
+[18:03:01] [Server thread/INFO]: weme105 issued server command: /home
+[18:03:11] [Server thread/INFO]: Ahri_Le_Fox issued server command: /home
+[18:03:19] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[18:05:56] [Server thread/WARN]: Ahri_Le_Fox was kicked for floating too long!
+[18:05:56] [Server thread/INFO]: Ahri_Le_Fox lost connection: user was kicked.
+[18:05:56] [Server thread/INFO]: Ahri_Le_Fox lost connection: Flying is not enabled on this server
+[18:05:56] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:05:56] [Server thread/WARN]: handleDisconnection() called twice
+[18:06:00] [User Authenticator #30/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:06:00] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:51615] logged in with entity id 85394 at ([world]-25.367079784814052, 69.12143370867582, 544.9468368729406)
+[18:06:00] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:06:01] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:06:01] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:06:08] [Server thread/WARN]: Ahri_Le_Fox was kicked for floating too long!
+[18:06:08] [Server thread/INFO]: Ahri_Le_Fox lost connection: user was kicked.
+[18:06:08] [Server thread/INFO]: Ahri_Le_Fox lost connection: Flying is not enabled on this server
+[18:06:08] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:06:08] [Server thread/WARN]: handleDisconnection() called twice
+[18:06:11] [User Authenticator #31/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:06:11] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:51617] logged in with entity id 86364 at ([world]-18.15562793450466, 71.65345042700882, 539.9410063405455)
+[18:06:11] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:06:11] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:06:11] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:06:19] [Async Chat Thread - #27/INFO]: <RhinoDude980> what?
+[18:06:26] [Async Chat Thread - #27/INFO]: <~RhinoDude981> his wifi
+[18:06:27] [Async Chat Thread - #27/INFO]: <~RhinoDude981> is bad
+[18:06:32] [Async Chat Thread - #27/INFO]: <RhinoDude980> ok
+[18:06:50] [Server thread/WARN]: RhinoDude980 was kicked for floating too long!
+[18:06:50] [Server thread/INFO]: RhinoDude980 lost connection: user was kicked.
+[18:06:50] [Server thread/INFO]: RhinoDude980 lost connection: Flying is not enabled on this server
+[18:06:50] [Server thread/INFO]: RhinoDude980 left the game
+[18:06:57] [User Authenticator #32/INFO]: UUID of player RhinoDude980 is ac50f86b-5db6-4d00-b83d-6b76816c2d1f
+[18:06:57] [Server thread/INFO]: RhinoDude980[/5.29.177.100:56099] logged in with entity id 87535 at ([world]-96.7735479979935, 74.77160001635552, -18.0781719271059)
+[18:06:57] [Server thread/INFO]: [Server] Welcome back, RhinoDude980
+[18:06:57] [Server thread/INFO]: [CONSOLE->RhinoDude980] Hey there, RhinoDude980!
+[18:06:57] [Server thread/INFO]: [CONSOLE->RhinoDude980] Welcome to Mineapple
+[18:07:18] [Server thread/INFO]: Ahri_Le_Fox was slain by weme105 using [harambe gun]
+[18:07:24] [Server thread/INFO]: Ahri_Le_Fox issued server command: /home
+[18:07:31] [Server thread/WARN]: Ahri_Le_Fox moved too quickly! 57.4036295603836,18.360749999999996,-10.147459364246515
+[18:08:04] [Server thread/WARN]: Ahri_Le_Fox moved wrongly!
+[18:08:04] [Server thread/WARN]: Ahri_Le_Fox moved wrongly!
+[18:11:07] [Server thread/INFO]: Ahri_Le_Fox lost connection: Disconnected
+[18:11:07] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:11:09] [User Authenticator #33/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:11:09] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:51627] logged in with entity id 91951 at ([world]-25.511648780753312, 62.0, 530.9502584373683)
+[18:11:09] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:11:09] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:11:09] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:11:11] [Server thread/INFO]: RhinoDude980 lost connection: Disconnected
+[18:11:11] [Server thread/INFO]: RhinoDude980 left the game
+[18:13:23] [Server thread/INFO]: LimpBiscuit lost connection: Timed out
+[18:13:23] [Server thread/INFO]: LimpBiscuit left the game
+[18:13:41] [Server thread/INFO]: Ahri_Le_Fox fell from a high place
+[18:13:49] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[18:13:58] [User Authenticator #34/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[18:13:58] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:50963] logged in with entity id 93363 at ([world]-21.472458909949264, 64.94623190615128, 531.2305339757503)
+[18:13:58] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[18:13:58] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[18:13:58] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[18:14:01] [Server thread/INFO]: Ahri_Le_Fox fell from a high place
+[18:14:04] [Server thread/INFO]: weme105 lost connection: Disconnected
+[18:14:04] [Server thread/INFO]: weme105 left the game
+[18:14:07] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[18:14:41] [Server thread/INFO]: Ahri_Le_Fox lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:14:41] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:15:00] [Server thread/INFO]: Saving...
+[18:15:00] [Server thread/INFO]: Saved the world
+[18:15:00] [Server thread/INFO]: [Server] Save Complete
+[18:15:47] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[18:15:47] [Server thread/INFO]: LimpBiscuit left the game
+[18:17:20] [User Authenticator #35/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:17:20] [Server thread/INFO]: weme105[/50.137.116.59:62108] logged in with entity id 94523 at ([world]-0.6389397901859286, 78.0, 531.6519293829908)
+[18:17:20] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:17:20] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:17:20] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:18:15] [User Authenticator #36/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:18:15] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:51855] logged in with entity id 94966 at ([world]-28.945400373714932, 68.0, 255.8863366041794)
+[18:18:15] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:18:15] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:18:15] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:18:30] [Server thread/WARN]: Boat moved wrongly!
+[18:18:30] [Server thread/WARN]: Boat moved wrongly!
+[18:18:31] [Server thread/WARN]: Boat moved wrongly!
+[18:18:33] [Server thread/INFO]: Ahri_Le_Fox issued server command: /home
+[18:18:50] [Server thread/INFO]: Ahri_Le_Fox issued server command: /login Ahri_Le_Fox
+[18:18:51] [Server thread/INFO]: Skyking_Caton was shot by Skeleton
+[18:18:58] [Server thread/INFO]: Skyking_Caton issued server command: /back
+[18:19:00] [User Authenticator #37/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[18:19:00] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51063] logged in with entity id 95516 at ([world]-44.38472914490051, 60.0, 541.9753454734323)
+[18:19:00] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[18:19:00] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[18:19:00] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[18:19:06] [Server thread/INFO]: Ahri_Le_Fox issued server command: /amemode 1
+[18:19:08] [Server thread/INFO]: Ahri_Le_Fox issued server command: /gamemode 1
+[18:19:08] [Server thread/INFO]: §cAhri_Le_Fox §4was denied access to command.
+[18:19:14] [Server thread/INFO]: Ahri_Le_Fox lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:19:14] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:19:31] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[18:19:31] [Server thread/INFO]: LimpBiscuit left the game
+[18:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[18:21:21] [Server thread/WARN]: weme105 was kicked for floating a vehicle too long!
+[18:21:21] [Server thread/INFO]: weme105 lost connection: user was kicked.
+[18:21:21] [Server thread/INFO]: weme105 lost connection: Flying is not enabled on this server
+[18:21:21] [Server thread/INFO]: weme105 left the game
+[18:21:21] [Server thread/WARN]: handleDisconnection() called twice
+[18:21:24] [User Authenticator #38/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:21:24] [Server thread/INFO]: weme105[/50.137.116.59:62227] logged in with entity id 96550 at ([world]-37.00936740365047, 102.92910121917637, 548.38879383004)
+[18:21:24] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:21:24] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:21:24] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:21:58] [User Authenticator #39/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[18:21:58] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51142] logged in with entity id 96894 at ([world]-38.44122316208339, 63.0, 547.6649454366776)
+[18:21:58] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[18:21:59] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[18:21:59] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[18:22:13] [Server thread/INFO]: weme105 was slain by Spider
+[18:22:28] [User Authenticator #40/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:22:28] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:52131] logged in with entity id 97107 at ([world]-43.5, 60.0, 543.5)
+[18:22:28] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:22:28] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:22:28] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:23:43] [Server thread/INFO]: Ahri_Le_Fox lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:23:43] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:24:34] [Server thread/INFO]: Skyking_Caton was shot by Skeleton
+[18:24:37] [Server thread/INFO]: Skyking_Caton issued server command: /back
+[18:24:38] [Server thread/INFO]: weme105 was blown up by Creeper
+[18:24:57] [Server thread/INFO]: LimpBiscuit was slain by Spider
+[18:25:03] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[18:25:54] [User Authenticator #41/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:25:54] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:52268] logged in with entity id 98708 at ([world]-46.424065011006626, 59.0, 539.4486214675283)
+[18:25:54] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:25:55] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:25:55] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:27:56] [Server thread/INFO]: Skyking_Caton lost connection: Disconnected
+[18:27:56] [Server thread/INFO]: Skyking_Caton left the game
+[18:28:37] [Async Chat Thread - #28/INFO]: <~RnoDdesLilSlut> #Hacking is not for noobs. Hacking is funny. (0.5800225575782376)
+[18:28:40] [Async Chat Thread - #28/INFO]: <~RnoDdesLilSlut> #Hacking is not for noobs. Hacking is funny. (0.9610476069917177)
+[18:28:43] [Async Chat Thread - #28/INFO]: <~RnoDdesLilSlut> #Hacking is not for noobs. Hacking is funny. (0.5565460826875341)
+[18:28:47] [Async Chat Thread - #28/INFO]: <~RnoDdesLilSlut> #Hacking is not for noobs. Hacking is funny. (0.5080143030304597)
+[18:28:49] [Server thread/WARN]: weme105 was kicked for floating a vehicle too long!
+[18:28:49] [Server thread/INFO]: weme105 lost connection: user was kicked.
+[18:28:49] [Server thread/INFO]: weme105 lost connection: Flying is not enabled on this server
+[18:28:49] [Server thread/INFO]: weme105 left the game
+[18:28:49] [Server thread/WARN]: handleDisconnection() called twice
+[18:28:52] [User Authenticator #42/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:28:52] [Server thread/INFO]: weme105[/50.137.116.59:62451] logged in with entity id 100351 at ([world]-32.17794436553147, 84.10294909781673, 541.3439757424617)
+[18:28:52] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:28:52] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:28:52] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:29:57] [Async Chat Thread - #29/INFO]: <~unusual_meme> #Hacking is not for noobs. Hacking is funny. (0.7690733493649565)
+[18:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[18:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:30:00] [Server thread/INFO]: Saving...
+[18:30:00] [Server thread/INFO]: Saved the world
+[18:30:00] [Server thread/INFO]: [Server] Save Complete
+[18:30:00] [Async Chat Thread - #29/INFO]: <~unusual_meme> #Hacking is not for noobs. Hacking is funny. (0.39361390210955427)
+[18:30:42] [Server thread/INFO]: Ahri_Le_Fox was killed trying to hurt Zombie
+[18:30:47] [Server thread/INFO]: Ahri_Le_Fox issued server command: /back
+[18:31:47] [Server thread/WARN]: weme105 was kicked for floating too long!
+[18:31:47] [Server thread/INFO]: weme105 lost connection: user was kicked.
+[18:31:47] [Server thread/INFO]: weme105 lost connection: Flying is not enabled on this server
+[18:31:47] [Server thread/INFO]: weme105 left the game
+[18:31:47] [Server thread/WARN]: handleDisconnection() called twice
+[18:31:51] [User Authenticator #43/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:31:51] [Server thread/INFO]: weme105[/50.137.116.59:62540] logged in with entity id 101494 at ([world]-12.670640880810451, 70.94799364228503, 544.0290373018125)
+[18:31:51] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:31:51] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:31:51] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:32:09] [Server thread/WARN]: weme105 was kicked for floating too long!
+[18:32:09] [Server thread/INFO]: weme105 lost connection: user was kicked.
+[18:32:09] [Server thread/INFO]: weme105 lost connection: Flying is not enabled on this server
+[18:32:09] [Server thread/INFO]: weme105 left the game
+[18:32:09] [Server thread/WARN]: handleDisconnection() called twice
+[18:32:13] [User Authenticator #44/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:32:13] [Server thread/INFO]: weme105[/50.137.116.59:62550] logged in with entity id 101533 at ([world]-15.143234393049042, 76.2498493643791, 536.3923841578107)
+[18:32:14] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:32:14] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:32:14] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:32:22] [Server thread/WARN]: weme105 was kicked for floating too long!
+[18:32:22] [Server thread/INFO]: weme105 lost connection: user was kicked.
+[18:32:22] [Server thread/INFO]: weme105 lost connection: Flying is not enabled on this server
+[18:32:22] [Server thread/INFO]: weme105 left the game
+[18:32:22] [Server thread/WARN]: handleDisconnection() called twice
+[18:32:25] [User Authenticator #45/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:32:25] [Server thread/INFO]: weme105[/50.137.116.59:62557] logged in with entity id 101571 at ([world]-15.143234393049042, 73.02873368037135, 536.3923841578107)
+[18:32:25] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:32:25] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:32:25] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:32:55] [Server thread/INFO]: LimpBiscuit was blown up by Creeper
+[18:33:26] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[18:33:26] [Server thread/INFO]: LimpBiscuit left the game
+[18:33:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@206084f9[id=<null>,name=LimpBiscuit,properties={},legacy=false] (/72.197.213.159:51150) lost connection: Disconnected
+[18:33:31] [Server thread/INFO]: weme105 fell from a high place
+[18:33:40] [User Authenticator #47/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[18:33:40] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51171] logged in with entity id 101941 at ([world]-8.802287312632108, 79.0, 493.08027469336304)
+[18:33:40] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[18:33:40] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[18:33:40] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[18:33:52] [Server thread/INFO]: weme105 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:33:52] [Server thread/INFO]: weme105 left the game
+[18:34:34] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[18:34:34] [Server thread/INFO]: LimpBiscuit left the game
+[18:35:46] [Server thread/INFO]: Ahri_Le_Fox lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:35:46] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:38:25] [User Authenticator #48/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[18:38:25] [Server thread/INFO]: AlmostJesus[/174.117.23.186:50682] logged in with entity id 102780 at ([world]-324.01676804626436, 63.0, -278.23567954444655)
+[18:38:25] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[18:38:25] [Server thread/INFO]: [CONSOLE->AlmostJesus] Hey there, AlmostJesus!
+[18:38:25] [Server thread/INFO]: [CONSOLE->AlmostJesus] Welcome to Mineapple
+[18:39:06] [User Authenticator #49/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:39:06] [Server thread/INFO]: weme105[/50.137.116.59:64007] logged in with entity id 103136 at ([world]-21.09364619988756, 64.0, 537.3511736820547)
+[18:39:06] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:39:06] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:39:06] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:39:20] [Server thread/INFO]: weme105 issued server command: /home
+[18:39:39] [Server thread/INFO]: weme105 lost connection: Disconnected
+[18:39:39] [Server thread/INFO]: weme105 left the game
+[18:39:57] [User Authenticator #50/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:39:57] [Server thread/INFO]: weme105[/50.137.116.59:64048] logged in with entity id 103410 at ([world]-22.30000001192093, 62.0, 538.3044793105537)
+[18:39:57] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:39:58] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:39:58] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:40:04] [Server thread/INFO]: weme105 lost connection: Disconnected
+[18:40:04] [Server thread/INFO]: weme105 left the game
+[18:40:09] [Server thread/INFO]: AlmostJesus has just earned the achievement [Monster Hunter]
+[18:42:37] [User Authenticator #51/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:42:37] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:52901] logged in with entity id 103803 at ([world]-45.2633072287267, 64.0, 540.594658187903)
+[18:42:37] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:42:37] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:42:37] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:42:54] [Server thread/INFO]: Ahri_Le_Fox lost connection: Disconnected
+[18:42:54] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:43:56] [User Authenticator #52/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:43:56] [Server thread/INFO]: weme105[/50.137.116.59:64509] logged in with entity id 104099 at ([world]-22.30000001192093, 62.0, 538.3044793105537)
+[18:43:56] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:43:57] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:43:57] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:45:00] [Server thread/INFO]: Saving...
+[18:45:00] [Server thread/INFO]: Saved the world
+[18:45:00] [Server thread/INFO]: [Server] Save Complete
+[18:45:53] [Server thread/INFO]: AlmostJesus has just earned the achievement [Cow Tipper]
+[18:47:02] [User Authenticator #53/INFO]: UUID of player Ahri_Le_Fox is e2e0b31c-6c41-4eea-b099-39a85a5ec3f0
+[18:47:02] [Server thread/INFO]: Ahri_Le_Fox[/108.90.227.154:53215] logged in with entity id 105444 at ([world]-46.952560126781464, 63.8447679954834, 535.6821550646196)
+[18:47:02] [Server thread/INFO]: [Server] Welcome back, Ahri_Le_Fox
+[18:47:02] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Hey there, Ahri_Le_Fox!
+[18:47:02] [Server thread/INFO]: [CONSOLE->Ahri_Le_Fox] Welcome to Mineapple
+[18:47:17] [Server thread/WARN]: weme105 moved wrongly!
+[18:47:20] [Server thread/WARN]: weme105 moved wrongly!
+[18:47:23] [Server thread/WARN]: weme105 moved wrongly!
+[18:48:29] [User Authenticator #54/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[18:48:29] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51810] logged in with entity id 106301 at ([world]16.27470431407228, 68.0, 236.94217865012388)
+[18:48:29] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[18:48:29] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[18:48:29] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[18:48:39] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[18:51:03] [Server thread/INFO]: LimpBiscuit lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:51:03] [Server thread/INFO]: LimpBiscuit left the game
+[18:51:10] [Server thread/WARN]: weme105 was kicked for floating too long!
+[18:51:10] [Server thread/INFO]: weme105 lost connection: user was kicked.
+[18:51:10] [Server thread/INFO]: weme105 lost connection: Flying is not enabled on this server
+[18:51:11] [Server thread/INFO]: weme105 left the game
+[18:51:11] [Server thread/WARN]: handleDisconnection() called twice
+[18:51:15] [User Authenticator #55/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:51:15] [Server thread/INFO]: weme105[/50.137.116.59:64737] logged in with entity id 107025 at ([world]-45.8348383254672, 60.483052050895026, 542.0678695368664)
+[18:51:15] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:51:15] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:51:15] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:51:16] [Server thread/INFO]: Ahri_Le_Fox lost connection: Disconnected
+[18:51:16] [Server thread/INFO]: Ahri_Le_Fox left the game
+[18:52:28] [User Authenticator #56/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[18:52:28] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51833] logged in with entity id 107063 at ([world]-45.69999998807907, 60.0, 544.6999999880791)
+[18:52:28] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[18:52:28] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[18:52:28] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[18:53:26] [Server thread/WARN]: AlmostJesus moved too quickly! 7.7274654850575075,6.823240724935758,8.122013980139464
+[18:54:14] [User Authenticator #57/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:54:19] [Server thread/INFO]: weme105 lost connection: Disconnected
+[18:54:19] [Server thread/INFO]: weme105 left the game
+[18:54:19] [Server thread/INFO]: weme105[/50.137.116.59:64825] logged in with entity id 107741 at ([world]-41.01386913389039, 60.58307781780647, 544.5864652881882)
+[18:54:19] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:54:19] [Server thread/WARN]: AlmostJesus moved too quickly! 9.258465453843826,17.753199980521202,18.86529431136479
+[18:54:19] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:54:19] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:54:28] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[18:54:28] [Server thread/INFO]: LimpBiscuit left the game
+[18:54:31] [User Authenticator #58/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[18:54:32] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51845] logged in with entity id 108036 at ([world]-73.52056442645345, 59.41999998688698, 559.5254336297971)
+[18:54:32] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[18:54:36] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[18:54:36] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[18:55:20] [Server thread/INFO]: weme105 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:55:20] [Server thread/INFO]: weme105 left the game
+[18:56:08] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[18:56:26] [User Authenticator #59/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[18:56:26] [Server thread/INFO]: weme105[/50.137.116.59:64960] logged in with entity id 108929 at ([world]-41.16995377494897, 60.0, 544.5878975009715)
+[18:56:26] [Server thread/INFO]: [Server] Welcome back, weme105
+[18:56:27] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[18:56:27] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[18:57:12] [Server thread/INFO]: weme105 lost connection: Disconnected
+[18:57:12] [Server thread/INFO]: weme105 left the game
+[18:58:51] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[18:58:51] [Server thread/INFO]: LimpBiscuit left the game
+[18:58:58] [User Authenticator #60/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[18:58:58] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51856] logged in with entity id 111330 at ([world]-151.5551950103524, 63.0, 501.3731736263128)
+[18:58:58] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[18:58:59] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[18:58:59] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[18:59:12] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[19:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[19:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[19:00:00] [Server thread/INFO]: Saving...
+[19:00:00] [Server thread/INFO]: Saved the world
+[19:00:00] [Server thread/INFO]: [Server] Save Complete
+[19:00:59] [Server thread/INFO]: AlmostJesus was blown up by Creeper
+[19:01:52] [Server thread/INFO]: AlmostJesus issued server command: /spawn
+[19:02:16] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[19:02:16] [Server thread/INFO]: AlmostJesus left the game
+[19:10:24] [Server thread/INFO]: LimpBiscuit was blown up by Creeper
+[19:10:31] [Server thread/INFO]: LimpBiscuit issued server command: /back
+[19:10:56] [Server thread/INFO]: LimpBiscuit was shot by Skeleton
+[19:11:03] [Server thread/INFO]: LimpBiscuit issued server command: /back
+[19:11:42] [Server thread/INFO]: LimpBiscuit issued server command: /back
+[19:12:20] [Server thread/INFO]: LimpBiscuit was shot by Skeleton
+[19:13:04] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[19:13:04] [Server thread/INFO]: LimpBiscuit left the game
+[19:13:25] [User Authenticator #61/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[19:13:25] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51870] logged in with entity id 119540 at ([world]380.5, 26.0, 124.5)
+[19:13:25] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[19:13:25] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[19:13:25] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[19:13:35] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[19:13:35] [Server thread/INFO]: LimpBiscuit left the game
+[19:13:46] [User Authenticator #62/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[19:13:46] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51883] logged in with entity id 120243 at ([world]-39.5, 68.0, 256.5)
+[19:13:46] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[19:13:46] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[19:13:46] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[19:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[19:15:00] [Server thread/INFO]: Saving...
+[19:15:00] [Server thread/INFO]: Saved the world
+[19:15:00] [Server thread/INFO]: [Server] Save Complete
+[19:16:28] [Server thread/INFO]: LimpBiscuit lost connection: Timed out
+[19:16:28] [Server thread/INFO]: LimpBiscuit left the game
+[19:18:47] [User Authenticator #63/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[19:18:47] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51900] logged in with entity id 120693 at ([world]-39.5, 68.0, 256.5)
+[19:18:47] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[19:18:47] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[19:18:47] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[19:18:58] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[19:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[19:22:26] [Server thread/INFO]: LimpBiscuit lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[19:22:26] [Server thread/INFO]: LimpBiscuit left the game
+[19:24:34] [User Authenticator #64/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[19:24:34] [Server thread/INFO]: LimpBiscuit[/72.197.213.159:51921] logged in with entity id 122188 at ([world]-24.725908679005336, 66.0, 471.30000001192093)
+[19:24:34] [Server thread/INFO]: [Server] Welcome back, LimpBiscuit
+[19:24:35] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Hey there, LimpBiscuit!
+[19:24:35] [Server thread/INFO]: [CONSOLE->LimpBiscuit] Welcome to Mineapple
+[19:24:42] [Server thread/INFO]: LimpBiscuit was slain by Zombie
+[19:24:51] [Server thread/INFO]: LimpBiscuit issued server command: /back
+[19:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[19:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[19:30:00] [Server thread/INFO]: Saving...
+[19:30:00] [Server thread/INFO]: Saved the world
+[19:30:00] [Server thread/INFO]: [Server] Save Complete
+[19:34:01] [Server thread/WARN]: LimpBiscuit moved too quickly! 0.25846523561273216,4.753199980521202,-8.883526519682732
+[19:40:07] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[19:40:09] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[19:40:11] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[19:40:12] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[19:42:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:42:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[19:45:00] [Server thread/INFO]: Saving...
+[19:45:00] [Server thread/INFO]: Saved the world
+[19:45:00] [Server thread/INFO]: [Server] Save Complete
+[19:47:11] [User Authenticator #65/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[19:47:11] [Server thread/INFO]: weme105[/50.137.116.59:64489] logged in with entity id 133450 at ([world]-12.952672456877186, 65.84838900485558, 548.1869266302579)
+[19:47:11] [Server thread/INFO]: [Server] Welcome back, weme105
+[19:47:11] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[19:47:11] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[19:49:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:49:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:00] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:00] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:00] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:52:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:53:13] [Server thread/WARN]: weme105 moved wrongly!
+[19:53:22] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[19:53:24] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[19:53:34] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[19:53:37] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[19:54:26] [Server thread/INFO]: weme105 lost connection: Disconnected
+[19:54:26] [Server thread/INFO]: weme105 left the game
+[19:54:29] [User Authenticator #66/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[19:54:29] [Server thread/INFO]: weme105[/50.137.116.59:64708] logged in with entity id 140337 at ([world]-133.67071060857953, 71.0, 340.5315824185982)
+[19:54:29] [Server thread/INFO]: [Server] Welcome back, weme105
+[19:54:29] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[19:54:29] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[19:55:03] [Server thread/INFO]: weme105 issued server command: /spawm
+[19:55:06] [Server thread/INFO]: weme105 issued server command: /spawn
+[19:56:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:56:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:56:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:56:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:56:50] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:56:50] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:56:50] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:22] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:23] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:23] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:23] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:24] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:57:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:58:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:58:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:58:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:58:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:58:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:58:41] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[19:59:00] [Server thread/INFO]: LimpBiscuit issued server command: /tpa weme
+[19:59:17] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[19:59:22] [Server thread/INFO]: LimpBiscuit issued server command: /tpa weme
+[19:59:40] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[19:59:45] [Server thread/INFO]: LimpBiscuit issued server command: /tpa weme105
+[19:59:50] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[20:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[20:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:00:00] [Server thread/INFO]: Saving...
+[20:00:00] [Server thread/INFO]: Saved the world
+[20:00:00] [Server thread/INFO]: [Server] Save Complete
+[20:00:15] [User Authenticator #67/INFO]: UUID of player Chico121212 is d83af238-598e-49f0-8319-377bc262e3fb
+[20:00:15] [Server thread/INFO]: Chico121212[/179.218.69.229:50136] logged in with entity id 143941 at ([world]-184.89402243988786, 70.0, -26.836626026593553)
+[20:00:15] [Server thread/INFO]: [Server] Welcome back, Chico121212
+[20:00:15] [Server thread/INFO]: [CONSOLE->Chico121212] Hey there, Chico121212!
+[20:00:15] [Server thread/INFO]: [CONSOLE->Chico121212] Welcome to Mineapple
+[20:01:14] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[20:01:21] [Server thread/INFO]: Chico121212 lost connection: Disconnected
+[20:01:21] [Server thread/INFO]: Chico121212 left the game
+[20:01:39] [Server thread/INFO]: LimpBiscuit issued server command: /tpa weme105
+[20:01:41] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[20:02:09] [Server thread/INFO]: LimpBiscuit issued server command: /tpa weme105
+[20:02:11] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[20:02:15] [Server thread/INFO]: LimpBiscuit issued server command: /tpa weme105
+[20:02:17] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[20:02:19] [Server thread/INFO]: LimpBiscuit issued server command: /tpa weme105
+[20:02:21] [Server thread/INFO]: weme105 issued server command: /tpaccept\
+[20:02:23] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[20:02:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:49] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:50] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:50] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:50] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:50] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:51] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:51] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:51] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:03:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:04:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:04:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:04:19] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:05:07] [Server thread/WARN]: weme105 moved wrongly!
+[20:05:09] [Server thread/WARN]: weme105 moved wrongly!
+[20:05:11] [Server thread/INFO]: weme105 was shot by Skeleton
+[20:05:18] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:05:21] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:06:02] [Server thread/WARN]: weme105 moved wrongly!
+[20:06:06] [Server thread/WARN]: weme105 moved wrongly!
+[20:06:09] [Server thread/INFO]: weme105 was slain by Zombie
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:06:13] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:06:15] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:06:15] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:06:15] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:06:16] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:06:17] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:06:19] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:06:20] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuittr
+[20:06:21] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuittrt
+[20:06:21] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuittrt
+[20:06:22] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuittrt
+[20:06:22] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:06:22] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuittrt
+[20:06:22] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuittrt
+[20:06:22] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuittrt
+[20:06:23] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:06:24] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:06:24] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuittrt
+[20:06:28] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuitt
+[20:06:29] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:06:30] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:07:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:14] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:14] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:14] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:14] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:07:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:08:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:08:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:08:37] [Server thread/INFO]: weme105 lost connection: Disconnected
+[20:08:37] [Server thread/INFO]: weme105 left the game
+[20:09:15] [User Authenticator #68/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[20:09:15] [Server thread/INFO]: weme105[/50.137.116.59:65222] logged in with entity id 146520 at ([world]-58.34065466438192, 71.0, 253.06433012982848)
+[20:09:15] [Server thread/INFO]: [Server] Welcome back, weme105
+[20:09:15] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[20:09:15] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[20:11:21] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:11:25] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:12:04] [Server thread/INFO]: weme105 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): UnpooledHeapByteBuf(ridx: 1, widx: 1, cap: 1)
+[20:12:04] [Server thread/INFO]: weme105 left the game
+[20:12:08] [User Authenticator #69/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[20:12:08] [Server thread/INFO]: weme105[/50.137.116.59:65308] logged in with entity id 148145 at ([world]-46.726891658300445, 68.6625000178814, 221.16486143587719)
+[20:12:08] [Server thread/INFO]: [Server] Welcome back, weme105
+[20:12:08] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[20:12:08] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[20:12:12] [Server thread/INFO]: weme105 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): UnpooledHeapByteBuf(ridx: 1, widx: 1, cap: 1)
+[20:12:12] [Server thread/INFO]: weme105 left the game
+[20:12:39] [User Authenticator #70/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[20:12:39] [Server thread/INFO]: weme105[/50.137.116.59:65372] logged in with entity id 148196 at ([world]-46.726891658300445, 68.6625000178814, 221.16486143587719)
+[20:12:39] [Server thread/INFO]: [Server] Welcome back, weme105
+[20:12:39] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[20:12:39] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[20:12:46] [Server thread/INFO]: weme105 was blown up by Creeper
+[20:12:51] [Server thread/INFO]: weme105 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[20:12:51] [Server thread/INFO]: weme105 left the game
+[20:14:16] [User Authenticator #71/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[20:14:17] [Server thread/INFO]: weme105[/50.137.116.59:65472] logged in with entity id 148510 at ([world]-49.86944716368542, 68.6352762996185, 220.20340875789427)
+[20:14:17] [Server thread/INFO]: [Server] Welcome back, weme105
+[20:14:17] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[20:14:17] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[20:14:48] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:14:56] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:15:00] [Server thread/INFO]: Saving...
+[20:15:00] [Server thread/INFO]: Saved the world
+[20:15:00] [Server thread/INFO]: [Server] Save Complete
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:16:50] [Server thread/INFO]: LimpBiscuit was blown up by Creeper
+[20:16:55] [Server thread/INFO]: LimpBiscuit issued server command: /back
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:15] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:15] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:15] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:15] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:15] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:15] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:15] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:15] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:19] [Server thread/INFO]: LimpBiscuit issued server command: /tpahere weme105
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:17:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:18:08] [Server thread/INFO]: LimpBiscuit issued server command: /tpa weme105
+[20:18:14] [Server thread/INFO]: weme105 issued server command: /tpaccept
+[20:18:15] [Server thread/INFO]: weme105 was slain by Zombie
+[20:18:27] [Server thread/INFO]: weme105 issued server command: /back
+[20:19:40] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:19:40] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:19:43] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[20:20:12] [Server thread/INFO]: weme105 issued server command: /home
+[20:20:18] [Server thread/WARN]: weme105 moved too quickly! 63.83503669602554,11.564500015974048,-531.5598153797366
+[20:20:24] [Server thread/INFO]: weme105 issued server command: /back
+[20:20:26] [Server thread/INFO]: weme105 issued server command: /
+[20:21:08] [Server thread/INFO]: weme105 issued server command: /
+[20:21:09] [Server thread/INFO]: weme105 issued server command: /back
+[20:21:19] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:21:23] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:23:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:51] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:51] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:23:51] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:24:25] [Server thread/INFO]: weme105 was shot by Skeleton
+[20:24:38] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:24:41] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:25:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:25:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:25:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:25:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:25:29] [Server thread/INFO]: weme105 was shot by Skeleton
+[20:25:37] [Server thread/INFO]: weme105 issued server command: /back
+[20:25:46] [Server thread/INFO]: weme105 issued server command: /back
+[20:25:50] [Server thread/INFO]: weme105 issued server command: /back
+[20:26:16] [Server thread/INFO]: weme105 was shot by Skeleton
+[20:26:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:26:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:26:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:26:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:28:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:28:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:28:40] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[20:28:43] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[20:28:48] [Server thread/WARN]: LimpBiscuit moved wrongly!
+[20:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[20:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:30:00] [Server thread/INFO]: Saving...
+[20:30:00] [Server thread/INFO]: Saved the world
+[20:30:00] [Server thread/INFO]: [Server] Save Complete
+[20:31:27] [Server thread/INFO]: weme105 issued server command: /tpa LimpBiscuit
+[20:31:31] [Server thread/INFO]: LimpBiscuit issued server command: /tpaccept
+[20:34:33] [Server thread/INFO]: LimpBiscuit issued server command: /home
+[20:34:35] [Server thread/INFO]: weme105 issued server command: /home
+[20:39:15] [Server thread/WARN]: Bubba moved wrongly!
+[20:39:15] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:19] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:19] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:19] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:20] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:20] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:20] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:31] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:42] [Server thread/WARN]: Bubba moved wrongly!
+[20:41:42] [Server thread/WARN]: Bubba moved wrongly!
+[20:42:06] [Server thread/INFO]: weme105 was slain by Zombie
+[20:43:43] [Async Chat Thread - #30/INFO]: <~RnoDdesLilSlut> BEPIS
+[20:43:47] [Server thread/INFO]: weme105 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[20:43:47] [Server thread/INFO]: weme105 left the game
+[20:44:13] [Server thread/INFO]: LimpBiscuit issued server command: /kit tools
+[20:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:45:00] [Server thread/INFO]: Saving...
+[20:45:00] [Server thread/INFO]: Saved the world
+[20:45:00] [Server thread/INFO]: [Server] Save Complete
+[20:45:25] [Server thread/INFO]: LimpBiscuit lost connection: Disconnected
+[20:45:25] [Server thread/INFO]: LimpBiscuit left the game
+[21:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[21:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:00:00] [Server thread/INFO]: Saving...
+[21:00:00] [Server thread/INFO]: Saved the world
+[21:00:00] [Server thread/INFO]: [Server] Save Complete
