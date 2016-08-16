@@ -1,8 +1,8 @@
 lastAccountName: KevinDaBaws
 timestamps:
-  login: 1471344492859
+  login: 1471348374572
   lastteleport: 1471344821165
-  logout: 1471344448922
+  logout: 1471348503825
   kits:
     tools: 1471344839780
 ipAddress: 92.0.179.202
@@ -15,11 +15,11 @@ lastlocation:
   pitch: 0.0
 logoutlocation:
   world: world
-  x: -1056.699999988079
-  y: 11.0
-  z: 141.69999998807907
-  yaw: -176.39142
-  pitch: 3.300023
+  x: -1047.300000011921
+  y: 14.0
+  z: 128.69999998807907
+  yaw: 155.7077
+  pitch: 33.59986
 homes:
   home:
     world: world
@@ -28,3 +28,4 @@ homes:
     z: 127.46385662879112
     yaw: 111.7634
     pitch: 13.349988
+afk: false

@@ -1,23 +1,23 @@
 lastAccountName: RhinoDude980
 timestamps:
-  login: 1471298817188
-  logout: 1471299071982
-  lastteleport: 1471297000437
+  login: 1471349568707
+  logout: 1471357427366
+  lastteleport: 1471357105026
 ipAddress: 5.29.177.100
 lastlocation:
   world: world
-  x: -38.84783050048802
-  y: 66.0
-  z: 212.3000000119209
-  yaw: 340.56226
-  pitch: -5.438905
+  x: -36.73091914219956
+  y: 73.0
+  z: 253.99336277140637
+  yaw: -226.97209
+  pitch: 16.049826
 logoutlocation:
   world: world
-  x: -182.04954105614758
+  x: -183.06565145038266
   y: 70.0
-  z: -21.23306141253828
-  yaw: 242.12805
-  pitch: 18.750023
+  z: -24.84569595700913
+  yaw: -27.678867
+  pitch: 32.249958
 homes:
   home:
     world: world
@@ -27,5 +27,3 @@ homes:
     yaw: 214.72119
     pitch: 8.699987
 afk: false
-mail:
-- §6[§rBuuTheGreat§6] §rI give the pick back to you bro

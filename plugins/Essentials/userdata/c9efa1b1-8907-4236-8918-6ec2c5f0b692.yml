@@ -1,8 +1,8 @@
 lastAccountName: eddomarshall
 timestamps:
-  login: 1471199388454
-  logout: 1471199528826
-ipAddress: 86.170.253.75
+  login: 1471349003621
+  logout: 1471349122659
+ipAddress: 86.170.252.211
 lastlocation:
   world: world
   x: -53.69999998807907
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 16.050024
 logoutlocation:
   world: world
-  x: -87.70245087510148
-  y: 62.073264324665075
-  z: 119.56824715449189
-  yaw: -241.93188
+  x: -173.07901886453106
+  y: 64.32426426506044
+  z: 48.68750000000001
+  yaw: 24.73816
   pitch: 18.150032
