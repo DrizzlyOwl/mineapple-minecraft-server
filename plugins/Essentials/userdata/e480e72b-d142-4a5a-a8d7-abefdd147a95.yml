@@ -1,0 +1,29 @@
+lastAccountName: egger49
+timestamps:
+  login: 1471396999104
+  lastteleport: 1471400572280
+  logout: 1471401090140
+ipAddress: 99.247.164.202
+lastlocation:
+  world: world
+  x: 819.6999999880791
+  y: 67.0
+  z: 644.2320356336857
+  yaw: 176.70306
+  pitch: 15.899983
+homes:
+  home:
+    world: world
+    x: 963.7216166767514
+    y: 109.0
+    z: 769.5163941960551
+    yaw: 10.803466
+    pitch: 26.100014
+nickname: Jesus
+logoutlocation:
+  world: world
+  x: 964.2260431605622
+  y: 109.0
+  z: 769.7137959563447
+  yaw: 158.104
+  pitch: 43.500027

@@ -1,16 +1,16 @@
 lastAccountName: ClarityOsu
 timestamps:
-  login: 1470875127549
-  lastteleport: 1470876319289
-  logout: 1470876342238
+  login: 1471399641015
+  lastteleport: 1471400744984
+  logout: 1471400802750
 ipAddress: 68.83.114.216
 lastlocation:
   world: world
-  x: -39.5
-  y: 68.0
-  z: 256.5
-  yaw: -116.549995
-  pitch: -90.0
+  x: 107.69999998807907
+  y: 66.0
+  z: -38.96322147575852
+  yaw: 267.31323
+  pitch: 6.750037
 homes:
   home:
     world: world
@@ -22,8 +22,9 @@ homes:
 afk: false
 logoutlocation:
   world: world
-  x: -70.42966371551071
-  y: 49.0
-  z: 535.6999999880791
-  yaw: 238.47768
-  pitch: 48.899956
+  x: -52.28935012355932
+  y: 53.5
+  z: 531.8943410006414
+  yaw: 291.57642
+  pitch: 7.533141
+nickname: egger69

@@ -1,30 +1,30 @@
 lastAccountName: LAPSLIE
 timestamps:
-  login: 1471295429743
-  logout: 1471296114981
-  lastteleport: 1471293690045
+  login: 1471380857300
+  logout: 1471390821569
+  lastteleport: 1471390815504
 ipAddress: 86.150.151.18
 lastlocation:
   world: world
-  x: -4728.300000011921
-  y: 84.0
-  z: 10544.699999988079
-  yaw: 146.0646
-  pitch: 9.450089
+  x: -4741.784952262121
+  y: 62.0
+  z: 10526.656231306926
+  yaw: -182.92014
+  pitch: 90.0
 logoutlocation:
   world: world
-  x: -4730.042830820932
-  y: 85.0
-  z: 10543.906140210896
-  yaw: 145.34973
-  pitch: 13.349997
+  x: -4742.071395389654
+  y: 95.0
+  z: 10544.088691393765
+  yaw: -0.3701477
+  pitch: 22.500055
 afk: false
 homes:
   home:
     world: world
-    x: -4742.048800183643
+    x: -4741.948277208021
     y: 95.0
-    z: 10544.470765993312
-    yaw: -0.975248
-    pitch: 4.5001764
+    z: 10543.490415540968
+    yaw: -357.9702
+    pitch: 9.450049
 nickname: PYROMANIAC

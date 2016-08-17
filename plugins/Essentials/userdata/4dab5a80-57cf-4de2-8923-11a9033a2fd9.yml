@@ -1,27 +1,27 @@
 lastAccountName: AWildRegice
 timestamps:
-  login: 1471052652837
+  login: 1471398202314
   kits:
     tools: 1470781224654
-  lastteleport: 1471052664916
-  logout: 1471052724815
+  lastteleport: 1471398274465
+  logout: 1471399455506
 ipAddress: 76.189.199.222
 lastlocation:
   world: world
-  x: -80.30000001192093
-  y: 4.0
-  z: 523.7093465419571
-  yaw: -109.19667
-  pitch: 42.950115
+  x: -52.69999998807906
+  y: 55.0
+  z: 523.3000000119209
+  yaw: 134.42694
+  pitch: 60.535378
 afk: false
 logoutlocation:
   world: world
-  x: -46.012991830307264
-  y: 57.5
-  z: 535.0099621466381
-  yaw: 337.36365
-  pitch: 16.950869
-nickname: fuck
+  x: -52.69999998807906
+  y: 55.0
+  z: 523.3000000119209
+  yaw: 134.42694
+  pitch: 60.535378
+nickname: AlmostGod
 homes:
   home:
     world: world

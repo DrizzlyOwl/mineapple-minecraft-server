@@ -1,25 +1,25 @@
 lastAccountName: weme105
 timestamps:
-  login: 1471306457060
-  logout: 1471308227547
+  login: 1471400800842
+  logout: 1471400896448
   kits:
     tools: 1470785789495
-  lastteleport: 1471307680063
+  lastteleport: 1471400526385
 ipAddress: 50.137.116.59
 logoutlocation:
   world: world
-  x: -43.05340455946854
-  y: 60.0
-  z: 543.319753865352
-  yaw: 313.8576
-  pitch: 21.793165
+  x: -29.44386819725172
+  y: 12.0
+  z: 637.0389379661956
+  yaw: 178.02264
+  pitch: 9.186843
 lastlocation:
   world: world
-  x: -42.93953262053584
-  y: 64.0
-  z: 541.2228213074321
-  yaw: 337.45148
-  pitch: 39.603306
+  x: -74.18289597307972
+  y: 62.5
+  z: 233.54969502267033
+  yaw: -7.4826803
+  pitch: 2.9512923
 homes:
   home:
     world: world
@@ -29,4 +29,4 @@ homes:
     yaw: 7.494615
     pitch: 17.987663
 afk: false
-nickname: RnoDdesLilSlut
+nickname: eggar48

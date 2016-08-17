@@ -1,23 +1,23 @@
 lastAccountName: WalshyXD
 timestamps:
-  login: 1471291553466
-  lastteleport: 1471294125779
-  logout: 1471294284261
+  login: 1471373788328
+  lastteleport: 1471387030258
+  logout: 1471387151241
 ipAddress: 86.3.13.214
 lastlocation:
   world: world
-  x: -4735.814769350202
-  y: 174.7699233919261
-  z: 10503.10276136899
-  yaw: -152.882
-  pitch: 84.60001
+  x: -54.71323203424809
+  y: 87.85955490782169
+  z: 255.35753310843393
+  yaw: -168.61035
+  pitch: 20.400017
 logoutlocation:
-  world: world
-  x: -4741.784081080013
-  y: 108.61246235082393
-  z: 10533.163651673556
-  yaw: 188.35878
-  pitch: 52.049946
+  world: world_the_end
+  x: -18.93815203325626
+  y: 47.5
+  z: 475.12176089614337
+  yaw: 331.7198
+  pitch: 10.499862
 afk: false
 homes:
   home:
@@ -34,9 +34,6 @@ homes:
     z: 10500.410725552423
     yaw: -44.58272
     pitch: 48.299965
-godmode: true
+godmode: false
 money: '42.0'
 powertools: {}
-mail:
-- §6[§rServer§6] §rlol
-- §6[§rDrizzlyOwl§6] §r*8* NEW PENIS ENLARGEMENT PILLS HERE ONLY £X.XX *8*
