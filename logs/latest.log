@@ -76,3 +76,33 @@
 [09:30:00] [Server thread/INFO]: Saving...
 [09:30:00] [Server thread/INFO]: Saved the world
 [09:30:00] [Server thread/INFO]: [Server] Save Complete
+[09:31:20] [User Authenticator #1/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
+[09:31:21] [Server thread/INFO]: DrizzlyOwl[/212.159.92.9:58153] logged in with entity id 224 at ([world_nether]-41.89082667412543, 82.62124286565316, 28.202490698094344)
+[09:31:21] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
+[09:31:21] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Hey there, DrizzlyOwl!
+[09:31:21] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Welcome to Mineapple
+[09:31:25] [Server thread/INFO]: De-opped DrizzlyOwl
+[09:31:31] [Server thread/INFO]: DrizzlyOwl issued server command: /world
+[09:31:41] [Server thread/INFO]: DrizzlyOwl issued server command: /spawn
+[09:31:42] [Server thread/INFO]: DrizzlyOwl issued server command: /home
+[09:31:46] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[09:32:13] [Server thread/INFO]: DrizzlyOwl issued server command: /home
+[09:32:28] [Server thread/INFO]: DrizzlyOwl tried to swim in lava
+[09:33:33] [Server thread/INFO]: DrizzlyOwl issued server command: /sethome
+[09:33:40] [Server thread/INFO]: DrizzlyOwl lost connection: Disconnected
+[09:33:40] [Server thread/INFO]: DrizzlyOwl left the game
+[09:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:45:00] [Server thread/INFO]: Saving...
+[09:45:00] [Server thread/INFO]: Saved the world
+[09:45:00] [Server thread/INFO]: [Server] Save Complete
+[09:49:02] [User Authenticator #2/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[09:49:03] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49221] logged in with entity id 2630 at ([world]-92.5, 121.0, -119.5)
+[09:49:03] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[09:49:03] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
+[09:49:03] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
+[09:49:15] [Server thread/INFO]: BuuTheGreat issued server command: /seen rhinodude980
+[10:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[10:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:00:00] [Server thread/INFO]: Saving...
+[10:00:00] [Server thread/INFO]: Saved the world
+[10:00:00] [Server thread/INFO]: [Server] Save Complete
