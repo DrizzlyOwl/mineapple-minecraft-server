@@ -82,3 +82,37 @@
 [07:00:00] [Server thread/INFO]: Saving...
 [07:00:00] [Server thread/INFO]: Saved the world
 [07:00:00] [Server thread/INFO]: [Server] Save Complete
+[07:02:38] [User Authenticator #1/INFO]: UUID of player creeperparty555 is 6bd9b8a4-c5b9-43c8-a3fe-ec8c957de05f
+[07:02:38] [Server thread/INFO]: creeperparty555[/81.156.167.161:51070] logged in with entity id 353 at ([world]-44.5, 73.0, 258.5)
+[07:02:39] [Server thread/INFO]: [Server] creeperparty555 has just joined for the first time.
+[07:02:39] [Server thread/INFO]: [Server] 60 unique players have visited this server.
+[07:02:39] [Server thread/INFO]: [CONSOLE->creeperparty555] Hey there, creeperparty555!
+[07:02:39] [Server thread/INFO]: [CONSOLE->creeperparty555] Welcome to Mineapple
+[07:02:39] [pool-4-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/6bd9b8a4-c5b9-43c8-a3fe-ec8c957de05f.yml
+[07:03:22] [Server thread/INFO]: creeperparty555 lost connection: Disconnected
+[07:03:22] [Server thread/INFO]: creeperparty555 left the game
+[07:05:00] [User Authenticator #2/INFO]: UUID of player Skyking_Caton is 960738d5-ef2b-410b-a2bb-f4676c592de8
+[07:05:00] [Server thread/INFO]: Skyking_Caton[/78.73.231.113:49641] logged in with entity id 694 at ([world]-273.812850836841, 89.0, 162.02893516165668)
+[07:05:00] [Server thread/INFO]: [Server] Welcome back, Skyking_Caton
+[07:05:00] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Hey there, Skyking_Caton!
+[07:05:00] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Welcome to Mineapple
+[07:09:30] [Server thread/INFO]: Skyking_Caton lost connection: Disconnected
+[07:09:30] [Server thread/INFO]: Skyking_Caton left the game
+[07:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:15:00] [Server thread/INFO]: Saving...
+[07:15:00] [Server thread/INFO]: Saved the world
+[07:15:00] [Server thread/INFO]: [Server] Save Complete
+[07:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[07:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:30:00] [Server thread/INFO]: Saving...
+[07:30:00] [Server thread/INFO]: Saved the world
+[07:30:00] [Server thread/INFO]: [Server] Save Complete
+[07:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:45:00] [Server thread/INFO]: Saving...
+[07:45:00] [Server thread/INFO]: Saved the world
+[07:45:00] [Server thread/INFO]: [Server] Save Complete
+[08:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[08:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:00:00] [Server thread/INFO]: Saving...
+[08:00:00] [Server thread/INFO]: Saved the world
+[08:00:00] [Server thread/INFO]: [Server] Save Complete
