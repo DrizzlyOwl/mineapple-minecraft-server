@@ -71,3 +71,8 @@
 [09:28:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [09:28:46] [Server thread/INFO]: Done (15.223s)! For help, type "help" or "?"
 [09:28:46] [Server thread/INFO]: Using epoll channel type
+[09:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[09:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:30:00] [Server thread/INFO]: Saving...
+[09:30:00] [Server thread/INFO]: Saved the world
+[09:30:00] [Server thread/INFO]: [Server] Save Complete
