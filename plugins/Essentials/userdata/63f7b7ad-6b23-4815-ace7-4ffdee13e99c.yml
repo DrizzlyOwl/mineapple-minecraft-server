@@ -1,16 +1,16 @@
 lastAccountName: Sammeh10
 timestamps:
-  login: 1471204623085
-  logout: 1471204641872
+  login: 1471482725493
+  logout: 1471482756436
   lastteleport: 1471061046994
 ipAddress: 99.27.87.14
 logoutlocation:
   world: world
-  x: -61.76249998807907
+  x: -65.37988107783812
   y: 41.0
-  z: 558.0148453953839
-  yaw: 86.70798
-  pitch: 42.44999
+  z: 559.6999999880791
+  yaw: -120.292336
+  pitch: 19.950008
 lastlocation:
   world: world
   x: -52.30000001192093

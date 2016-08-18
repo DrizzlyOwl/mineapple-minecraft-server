@@ -1,25 +1,25 @@
 lastAccountName: weme105
 timestamps:
-  login: 1471400800842
-  logout: 1471400896448
+  login: 1471479177516
+  logout: 1471479879343
   kits:
     tools: 1470785789495
-  lastteleport: 1471400526385
+  lastteleport: 1471479519293
 ipAddress: 50.137.116.59
 logoutlocation:
   world: world
-  x: -29.44386819725172
-  y: 12.0
-  z: 637.0389379661956
-  yaw: 178.02264
-  pitch: 9.186843
+  x: -44.5457632946005
+  y: 59.0
+  z: 539.4392681142507
+  yaw: 147.29272
+  pitch: 38.13647
 lastlocation:
   world: world
-  x: -74.18289597307972
-  y: 62.5
-  z: 233.54969502267033
-  yaw: -7.4826803
-  pitch: 2.9512923
+  x: -441.96917080238995
+  y: 11.0
+  z: 640.6999999880791
+  yaw: 272.07562
+  pitch: 31.870464
 homes:
   home:
     world: world
@@ -29,4 +29,4 @@ homes:
     yaw: 7.494615
     pitch: 17.987663
 afk: false
-nickname: eggar48
+nickname: TheRealEllie

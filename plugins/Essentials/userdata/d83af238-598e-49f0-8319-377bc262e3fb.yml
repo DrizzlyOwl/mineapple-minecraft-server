@@ -3,6 +3,7 @@ timestamps:
   login: 1471341244836
   logout: 1471342888899
   lastteleport: 1471342499459
+  jail: 1471483078206
 ipAddress: 179.218.69.229
 lastlocation:
   world: world
@@ -29,3 +30,5 @@ homes:
 afk: false
 mail:
 - §6[§rServer§6] §rleave the griefed house untouched and I'll inspect tonight
+jailed: true
+jail: cell1

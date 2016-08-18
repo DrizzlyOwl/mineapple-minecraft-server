@@ -1,19 +1,21 @@
 lastAccountName: fillow123
 timestamps:
-  login: 1471422592848
-  logout: 1471422600363
+  login: 1471475270963
+  logout: 1471475897390
+  lastteleport: 1471475875520
 ipAddress: 83.183.195.177
 lastlocation:
   world: world
-  x: -31.5
-  y: 68.0
-  z: 263.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -44.30000001192093
+  y: 60.0
+  z: 256.83914272579705
+  yaw: 278.6999
+  pitch: 33.74996
 logoutlocation:
   world: world
-  x: -8.534965879940147
-  y: 102.73695335389172
-  z: 453.1364461100307
-  yaw: -322.51715
-  pitch: 80.24999
+  x: -42.30000001192093
+  y: 62.0
+  z: 256.6999999880791
+  yaw: -181.19997
+  pitch: 3.8999965
+afk: false
