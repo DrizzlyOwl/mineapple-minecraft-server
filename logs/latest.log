@@ -1,83 +1,2188 @@
-[00:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[00:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:00:00] [Server thread/INFO]: Saving...
-[00:00:00] [Server thread/INFO]: Saved the world
-[00:00:00] [Server thread/INFO]: [Server] Save Complete
-[00:07:19] [Server thread/INFO]: Hottub99 issued server command: /home
-[00:08:14] [Server thread/INFO]: AlmostJesus was slain by Zombie
-[00:08:21] [Server thread/INFO]: AlmostJesus issued server command: /back
-[00:08:44] [Server thread/INFO]: AlmostJesus was slain by Zombie
-[00:08:53] [Server thread/INFO]: AlmostJesus issued server command: /back
-[00:09:22] [Server thread/INFO]: AlmostJesus issued server command: /back
-[00:09:27] [Server thread/INFO]: AlmostJesus issued server command: /back
-[00:09:41] [Server thread/INFO]: AlmostJesus was slain by Zombie
-[00:10:12] [Server thread/INFO]: AlmostJesus issued server command: /back
-[00:10:40] [Server thread/INFO]: AlmostJesus issued server command: /back
-[00:10:56] [Server thread/INFO]: AlmostJesus issued server command: /home
-[00:11:31] [Server thread/INFO]: AlmostJesus issued server command: /home
-[00:11:45] [Server thread/INFO]: AlmostJesus issued server command: /home
-[00:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:15:00] [Server thread/INFO]: Saving...
-[00:15:00] [Server thread/INFO]: Saved the world
-[00:15:00] [Server thread/INFO]: [Server] Save Complete
-[00:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[00:24:49] [Server thread/INFO]: AlmostJesus issued server command: /spawn
-[00:25:31] [Server thread/INFO]: Hottub99 issued server command: /home
-[00:25:42] [Server thread/INFO]: Hottub99 lost connection: Disconnected
-[00:25:42] [Server thread/INFO]: Hottub99 left the game
-[00:26:32] [Server thread/INFO]: AlmostJesus issued server command: /home
-[00:26:43] [Server thread/INFO]: AlmostJesus issued server command: /home
-[00:27:16] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
-[00:27:16] [Server thread/INFO]: AlmostJesus left the game
-[00:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[00:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:30:00] [Server thread/INFO]: Saving...
-[00:30:00] [Server thread/INFO]: Saved the world
-[00:30:00] [Server thread/INFO]: [Server] Save Complete
-[00:33:52] [Server thread/INFO]: egger49 lost connection: Disconnected
-[00:33:52] [Server thread/INFO]: egger49 left the game
-[00:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:45:00] [Server thread/INFO]: Saving...
-[00:45:00] [Server thread/INFO]: Saved the world
-[00:45:00] [Server thread/INFO]: [Server] Save Complete
-[01:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[01:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:00:00] [Server thread/INFO]: Saving...
-[01:00:00] [Server thread/INFO]: Saved the world
-[01:00:00] [Server thread/INFO]: [Server] Save Complete
-[01:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:15:00] [Server thread/INFO]: Saving...
-[01:15:00] [Server thread/INFO]: Saved the world
-[01:15:00] [Server thread/INFO]: [Server] Save Complete
-[01:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[01:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:30:00] [Server thread/INFO]: Saving...
-[01:30:00] [Server thread/INFO]: Saved the world
-[01:30:00] [Server thread/INFO]: [Server] Save Complete
-[01:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:45:00] [Server thread/INFO]: Saving...
-[01:45:00] [Server thread/INFO]: Saved the world
-[01:45:00] [Server thread/INFO]: [Server] Save Complete
-[02:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[02:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:00:00] [Server thread/INFO]: Saving...
-[02:00:00] [Server thread/INFO]: Saved the world
-[02:00:00] [Server thread/INFO]: [Server] Save Complete
-[02:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:15:00] [Server thread/INFO]: Saving...
-[02:15:00] [Server thread/INFO]: Saved the world
-[02:15:00] [Server thread/INFO]: [Server] Save Complete
-[02:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[02:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:30:00] [Server thread/INFO]: Saving...
-[02:30:00] [Server thread/INFO]: Saved the world
-[02:30:00] [Server thread/INFO]: [Server] Save Complete
-[02:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:45:00] [Server thread/INFO]: Saving...
-[02:45:00] [Server thread/INFO]: Saved the world
-[02:45:00] [Server thread/INFO]: [Server] Save Complete
-[03:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
-[03:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[03:00:00] [Server thread/INFO]: Saving...
-[03:00:00] [Server thread/INFO]: Saved the world
-[03:00:00] [Server thread/INFO]: [Server] Save Complete
+[13:36:50] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[13:36:50] [Server thread/INFO]: Loading properties
+[13:36:50] [Server thread/INFO]: Default game type: SURVIVAL
+[13:36:51] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-078e2f8-9ff3d7f (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[13:36:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:36:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:36:51] [Server thread/INFO]: Debug logging is disabled
+[13:36:51] [Server thread/INFO]: Generating keypair
+[13:36:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:36:51] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:36:52] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[13:36:52] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[13:36:52] [Server thread/INFO]: [Slack] Loading Slack v1.5.0
+[13:36:52] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[13:36:52] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[13:36:52] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[13:36:52] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:36:52] [Server thread/INFO]: Preparing level "world"
+[13:36:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3820634467636136119)
+[13:36:54] [Server thread/INFO]: Preparing spawn area: 0%
+[13:36:55] [Server thread/INFO]: Preparing spawn area: 34%
+[13:36:56] [Server thread/INFO]: Preparing spawn area: 94%
+[13:36:56] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3488346064576240778)
+[13:36:57] [Server thread/INFO]: Preparing spawn area: 4%
+[13:36:58] [Server thread/INFO]: Preparing spawn area: 6%
+[13:36:59] [Server thread/INFO]: Preparing spawn area: 11%
+[13:37:00] [Server thread/INFO]: Preparing spawn area: 15%
+[13:37:01] [Server thread/INFO]: Preparing spawn area: 21%
+[13:37:02] [Server thread/INFO]: Preparing spawn area: 24%
+[13:37:03] [Server thread/INFO]: Preparing spawn area: 36%
+[13:37:05] [Server thread/INFO]: Preparing spawn area: 40%
+[13:37:06] [Server thread/INFO]: Preparing spawn area: 48%
+[13:37:07] [Server thread/INFO]: Preparing spawn area: 51%
+[13:37:08] [Server thread/INFO]: Preparing spawn area: 58%
+[13:37:09] [Server thread/INFO]: Preparing spawn area: 69%
+[13:37:10] [Server thread/INFO]: Preparing spawn area: 80%
+[13:37:11] [Server thread/INFO]: Preparing spawn area: 86%
+[13:37:12] [Server thread/INFO]: Preparing spawn area: 93%
+[13:37:12] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
+[13:37:13] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[13:37:14] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[13:37:14] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[13:37:14] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[13:37:14] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[13:37:14] [Server thread/INFO]: [Slack] Enabling Slack v1.5.0
+[13:37:14] [Server thread/INFO]: [Slack] Slack has been enabled.
+[13:37:14] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[13:37:15] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:37:15] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
+[13:37:15] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
+[13:37:15] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[13:37:15] [Server thread/INFO]: Using locale en_US
+[13:37:16] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[13:37:16] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[13:37:16] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[13:37:16] [Server thread/INFO]: Using locale en_US
+[13:37:16] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[13:37:16] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[13:37:16] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[13:37:16] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[13:37:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[13:37:17] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:37:17] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/minecraft (MySQL 5.7)
+[13:37:17] [Server thread/INFO]: [WorldGuard] Current version of schema `minecraft`: 2
+[13:37:17] [Server thread/INFO]: [WorldGuard] Schema `minecraft` is up to date. No migration necessary.
+[13:37:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:37:18] [Server thread/INFO]: Done (25.994s)! For help, type "help" or "?"
+[13:37:18] [Server thread/INFO]: Using epoll channel type
+[13:37:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@5743661d[id=<null>,name=Danomanic,properties={},legacy=false] (/86.16.139.135:57776) lost connection: Disconnected
+[13:37:24] [User Authenticator #1/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[13:37:25] [User Authenticator #2/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[13:37:28] [Server thread/INFO]: WalshyXD[/86.3.13.214:49692] logged in with entity id 165 at ([world]-39.729628751924196, 74.38394659107783, 261.41976048288257)
+[13:37:29] [Server thread/INFO]: egger49[/99.247.164.202:51404] logged in with entity id 166 at ([world]7558.06147954612, 173.0, 9478.860185258465)
+[13:37:29] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[13:37:29] [Server thread/INFO]: [CONSOLE->WalshyXD] Hey there, WalshyXD!
+[13:37:29] [Server thread/INFO]: [CONSOLE->WalshyXD] Welcome to Mineapple
+[13:37:29] [Server thread/INFO]: [Server] Welcome back, egger49
+[13:37:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e5a951b[id=<null>,name=Danomanic,properties={},legacy=false] (/86.16.139.135:57780) lost connection: Disconnected
+[13:37:29] [Server thread/INFO]: [CONSOLE->egger49] Hey there, egger49!
+[13:37:29] [Server thread/INFO]: [CONSOLE->egger49] Welcome to Mineapple
+[13:37:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@34677a66[id=<null>,name=Danomanic,properties={},legacy=false] (/86.16.139.135:57787) lost connection: Disconnected
+[13:37:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@682aa06c[id=<null>,name=Danomanic,properties={},legacy=false] (/86.16.139.135:57793) lost connection: Disconnected
+[13:37:43] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[13:37:56] [User Authenticator #3/INFO]: UUID of player Danomanic is 6364a333-8100-41bd-8777-d09f0ce79118
+[13:37:57] [Server thread/INFO]: Danomanic[/86.16.139.135:57858] logged in with entity id 4007 at ([world]-38.39515019441202, 68.0, 256.9407748957232)
+[13:37:57] [Server thread/INFO]: [Server] Welcome back, Danomanic
+[13:37:57] [Server thread/INFO]: [CONSOLE->Danomanic] Hey there, Danomanic!
+[13:37:57] [Server thread/INFO]: [CONSOLE->Danomanic] Welcome to Mineapple
+[13:38:07] [Server thread/INFO]: Danomanic issued server command: /home
+[13:39:01] [User Authenticator #4/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
+[13:39:02] [Server thread/INFO]: JeffTheThriller[/5.71.243.173:49702] logged in with entity id 5371 at ([world]-4715.5, 45.0, 10493.5)
+[13:39:02] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
+[13:39:03] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Hey there, JeffTheThriller!
+[13:39:03] [Server thread/INFO]: [CONSOLE->JeffTheThriller] Welcome to Mineapple
+[13:39:13] [User Authenticator #5/INFO]: UUID of player LAPSLIE is 13ab7374-19c4-4e90-a6b6-780f3eba6738
+[13:39:14] [Server thread/INFO]: LAPSLIE[/86.150.151.18:49730] logged in with entity id 5890 at ([world_nether]-541.4061799824634, 128.0, 1183.4334593228716)
+[13:39:14] [Server thread/INFO]: [Server] Welcome back, LAPSLIE
+[13:39:14] [Server thread/INFO]: [CONSOLE->LAPSLIE] Hey there, LAPSLIE!
+[13:39:14] [Server thread/INFO]: [CONSOLE->LAPSLIE] Welcome to Mineapple
+[13:40:26] [Async Chat Thread - #0/INFO]: <WalshyXD> OH DAMN
+[13:40:34] [Async Chat Thread - #0/INFO]: <WalshyXD> forgot you could build giant portals now
+[13:40:45] [Server thread/INFO]: Danomanic issued server command: /home
+[13:40:45] [Server thread/WARN]: LAPSLIE moved too quickly! 9.722262671348915,0.0,11.264738828939244
+[13:40:46] [Server thread/WARN]: WalshyXD moved too quickly! 32.286766754193906,8.822069171253418,-233.27529932524595
+[13:40:49] [Server thread/INFO]: Danomanic issued server command: /ping
+[13:41:32] [Async Chat Thread - #0/INFO]: <~Harley> need blue flowers
+[13:41:47] [Async Chat Thread - #0/INFO]: <WalshyXD> nows the time for exploring the nether
+[13:41:57] [Async Chat Thread - #0/INFO]: <WalshyXD> fortresses reset too
+[13:42:03] [Async Chat Thread - #0/INFO]: <~Harley> nice
+[13:42:07] [Async Chat Thread - #0/INFO]: <~wonder_woman> cant really i'm stuck above it
+[13:42:11] [Server thread/WARN]: WalshyXD moved too quickly! -30.623045725624586,-9.0,233.23602798060662
+[13:42:12] [Async Chat Thread - #0/INFO]: <~wonder_woman> :/
+[13:42:30] [Async Chat Thread - #0/INFO]: <~Harley> walshy can i have some (dark) blue dye pls?
+[13:42:51] [Server thread/INFO]: LAPSLIE issued server command: /home
+[13:42:53] [Async Chat Thread - #0/INFO]: <WalshyXD> Thats lapis babe.
+[13:42:57] [Async Chat Thread - #0/INFO]: <WalshyXD> and no
+[13:42:58] [User Authenticator #6/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[13:42:59] [Server thread/INFO]: AlmostJesus[/174.117.23.186:53433] logged in with entity id 8181 at ([world]6702.023052976584, 80.0, 10031.810735508278)
+[13:42:59] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[13:42:59] [Server thread/INFO]: [CONSOLE->AlmostJesus] Hey there, AlmostJesus!
+[13:42:59] [Server thread/INFO]: [CONSOLE->AlmostJesus] Welcome to Mineapple
+[13:43:00] [Async Chat Thread - #0/INFO]: <~Harley> oh...
+[13:43:01] [Async Chat Thread - #0/INFO]: <~Harley> lol
+[13:43:03] [Async Chat Thread - #0/INFO]: <~Harley> have some
+[13:43:30] [Server thread/INFO]: AlmostJesus issued server command: /home
+[13:43:55] [Server thread/INFO]: WalshyXD issued server command: /tp -6267 68 7158
+[13:44:23] [Server thread/WARN]: LAPSLIE moved too quickly! 4158.827137700764,-7.0,-9231.03178441327
+[13:44:34] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[13:44:37] [Async Chat Thread - #1/INFO]: <~Harley> holy shit walshy look at me
+[13:44:42] [Server thread/INFO]: WalshyXD issued server command: /tp JeffTheThriller
+[13:44:52] [Async Chat Thread - #1/INFO]: <WalshyXD> the fuck
+[13:44:55] [Async Chat Thread - #1/INFO]: <~Harley> harley quinn sields xD
+[13:44:56] [Async Chat Thread - #1/INFO]: <WalshyXD> bring your old skin back
+[13:44:58] [Async Chat Thread - #1/INFO]: <~Harley> *shields
+[13:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:45:00] [Server thread/INFO]: Saving...
+[13:45:05] [Async Chat Thread - #1/INFO]: <~Harley> no
+[13:45:06] [Server thread/INFO]: Saved the world
+[13:45:06] [Server thread/INFO]: [Server] Save Complete
+[13:45:07] [Server thread/WARN]: egger49 moved too quickly! 17.372325918545357,-110.1576385899157,17.622306441522596
+[13:45:09] [Server thread/WARN]: egger49 moved too quickly! 0.0,-12.684430447309559,0.0
+[13:45:17] [Async Chat Thread - #1/INFO]: <WalshyXD> I can't love an old lady.
+[13:45:19] [Server thread/INFO]: WalshyXD issued server command: /back
+[13:45:34] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[13:45:36] [Async Chat Thread - #1/INFO]: <~Harley> its harley quinn wtf
+[13:45:47] [Async Chat Thread - #1/INFO]: <WalshyXD> thats one I never followed
+[13:45:57] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[13:45:57] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-6256.712061480495, 75.04240894755867, 7170.76565602923)
+[13:46:14] [Server thread/INFO]: WalshyXD issued server command: //replace 0 2
+[13:46:15] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 0 2 - Region: (-6281.0, 67.0, 7170.0) - (-6257.0, 75.0, 7178.0)
+[13:46:39] [Server thread/INFO]: WalshyXD issued server command: /tp JeffTheThriller
+[13:46:57] [Async Chat Thread - #2/INFO]: <WalshyXD> Im sorry honey
+[13:47:01] [Async Chat Thread - #2/INFO]: <WalshyXD> I'll accept you
+[13:47:05] [Async Chat Thread - #2/INFO]: <~Harley> :(
+[13:47:15] [Async Chat Thread - #2/INFO]: <WalshyXD> as long as you accept me for my yorkshireness
+[13:47:23] [User Authenticator #7/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
+[13:47:24] [Server thread/INFO]: Hottub99[/173.33.145.241:54874] logged in with entity id 11117 at ([world]7556.881640178904, 163.0, 9484.913406462896)
+[13:47:24] [Server thread/INFO]: [Server] Welcome back, Hottub99
+[13:47:24] [Server thread/INFO]: [CONSOLE->Hottub99] Hey there, Hottub99!
+[13:47:24] [Server thread/INFO]: [CONSOLE->Hottub99] Welcome to Mineapple
+[13:47:44] [Async Chat Thread - #2/INFO]: <WalshyXD> :(
+[13:47:45] [Async Chat Thread - #2/INFO]: <~Harley> mes are you still stuck?
+[13:47:50] [Async Chat Thread - #2/INFO]: <~Harley> *james
+[13:47:51] [Async Chat Thread - #2/INFO]: <~wonder_woman> nah
+[13:47:55] [Async Chat Thread - #2/INFO]: <~wonder_woman> when home
+[13:47:58] [Async Chat Thread - #2/INFO]: <~Harley> u in the nether?
+[13:48:07] [Async Chat Thread - #2/INFO]: <~wonder_woman> got a fuck tone of mushrooms tho
+[13:48:08] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[13:48:10] [Async Chat Thread - #2/INFO]: <~wonder_woman> yass
+[13:48:14] [Async Chat Thread - #2/INFO]: <~Harley> same
+[13:48:22] [Server thread/INFO]: WalshyXD issued server command: /tp -40 68 256
+[13:48:27] [Server thread/INFO]: WalshyXD issued server command: /gm 0
+[13:48:36] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[13:48:38] [Server thread/INFO]: CONSOLE issued server command: /seen lreford
+[13:48:38] [Server thread/INFO]: Player lreford has been offline since 6 hours 44 minutes.
+[13:48:38] [Server thread/INFO]:  - IP Address: 86.27.47.136
+[13:48:38] [Server thread/INFO]:  - Location: (world, 90,076, 48, 92,880)
+[13:48:53] [Server thread/WARN]: JeffTheThriller moved too quickly! 4110.982860760932,-4.921599998474122,-9195.591706269684
+[13:49:00] [Server thread/INFO]: WalshyXD issued server command: /tp jeff
+[13:49:05] [Async Chat Thread - #2/INFO]: <~wonder_woman> the new nethers terrbile D:
+[13:49:07] [Async Chat Thread - #2/INFO]: <WalshyXD> like my shield?
+[13:49:11] [Async Chat Thread - #2/INFO]: <~wonder_woman> it's too hot
+[13:49:21] [Async Chat Thread - #2/INFO]: <~Harley> mine better
+[13:49:27] [Async Chat Thread - #2/INFO]: <WalshyXD> yours is bland
+[13:49:32] [Async Chat Thread - #2/INFO]: <~Harley> james lets go raid the forts
+[13:49:34] [Async Chat Thread - #2/INFO]: <WalshyXD> surprised itdoesnt have a dick on it.
+[13:49:35] [Async Chat Thread - #2/INFO]: <WalshyXD> pfft
+[13:49:48] [Async Chat Thread - #2/INFO]: <~wonder_woman> okay
+[13:49:50] [Server thread/INFO]: LAPSLIE issued server command: /home
+[13:50:05] [Async Chat Thread - #2/INFO]: <WalshyXD> Its getting hot in here
+[13:50:08] [Async Chat Thread - #2/INFO]: <WalshyXD> so take off all your clothes
+[13:50:11] [Server thread/INFO]: WalshyXD issued server command: /world
+[13:50:17] [Server thread/WARN]: WalshyXD moved too quickly! -4.13985377899462,7.2247820056323775,6.136962770589889
+[13:50:32] [Server thread/WARN]: LAPSLIE moved too quickly! 4153.805600839881,-7.0,-9229.37640022189
+[13:50:42] [Async Chat Thread - #2/INFO]: <~Harley> ey
+[13:50:46] [Async Chat Thread - #2/INFO]: <~wonder_woman> hello there
+[13:50:52] [Async Chat Thread - #2/INFO]: <~Harley> idk where the forts are
+[13:50:58] [Async Chat Thread - #2/INFO]: <~Harley> ey look
+[13:51:03] [Async Chat Thread - #2/INFO]: <~Harley> at my shields
+[13:51:03] [Async Chat Thread - #2/INFO]: <~wonder_woman> 2000+ blocks way
+[13:51:19] [Async Chat Thread - #2/INFO]: <~Harley> for my skin
+[13:51:37] [Async Chat Thread - #2/INFO]: <~wonder_woman> your blue (daba dade daba do)
+[13:51:44] [Async Chat Thread - #2/INFO]: <~Harley> lol
+[13:51:59] [Async Chat Thread - #2/INFO]: <WalshyXD> Ash is proposing a nether and end reset every month
+[13:52:02] [Async Chat Thread - #2/INFO]: <WalshyXD> Could be good
+[13:52:06] [Async Chat Thread - #2/INFO]: <WalshyXD> you 2 should raid end cities
+[13:52:08] [Async Chat Thread - #2/INFO]: <~Harley> fair
+[13:52:12] [Async Chat Thread - #2/INFO]: <WalshyXD> the loot is alot better than nether
+[13:52:13] [Async Chat Thread - #2/INFO]: <AlmostJesus> Seems fair
+[13:52:15] [Async Chat Thread - #2/INFO]: <~wonder_woman> were is the end
+[13:52:20] [Async Chat Thread - #2/INFO]: <~Harley> souunds fun
+[13:52:24] [Async Chat Thread - #2/INFO]: <~Harley> portal m8
+[13:52:37] [Async Chat Thread - #2/INFO]: <~wonder_woman> .... were is the end portal
+[13:52:38] [Async Chat Thread - #2/INFO]: <~wonder_woman> soz
+[13:52:43] [Async Chat Thread - #2/INFO]: <WalshyXD> I hav the coordinates if you want them
+[13:52:48] [Async Chat Thread - #2/INFO]: <~Harley> yeah
+[13:52:49] [Server thread/INFO]: WalshyXD issued server command: /tp -1328 30 -1730
+[13:52:56] [Async Chat Thread - #2/INFO]: <WalshyXD> hold on
+[13:52:57] [Async Chat Thread - #2/INFO]: <~Harley> tp lol
+[13:53:00] [Async Chat Thread - #2/INFO]: <WalshyXD> ima do this the lazy way
+[13:53:08] [Server thread/INFO]: WalshyXD issued server command: /tphere JeffTheThriller
+[13:53:11] [Server thread/INFO]: WalshyXD issued server command: /tphere LAPSLIE
+[13:53:14] [Async Chat Thread - #2/INFO]: <WalshyXD> dont go in
+[13:53:18] [Async Chat Thread - #2/INFO]: <WalshyXD> dragon is revived lol
+[13:53:29] [Async Chat Thread - #2/INFO]: <WalshyXD> Remeber. I FOUND THIS SURVIVALLY
+[13:53:39] [Async Chat Thread - #2/INFO]: <~Harley> yes
+[13:53:43] [Async Chat Thread - #2/INFO]: <~Harley> where are the cities?
+[13:53:50] [Async Chat Thread - #2/INFO]: <WalshyXD> sec
+[13:53:54] [Async Chat Thread - #2/INFO]: <WalshyXD> imma kill dragon and show
+[13:53:56] [Server thread/WARN]: WalshyXD moved too quickly! 1425.3411754301326,18.513128073387147,1730.2322403254718
+[13:53:57] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[13:53:57] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[13:53:57] [Server thread/INFO]: Found that there's a dragon still alive (EntityEnderDragon['Ender Dragon'/17371, l='world_the_end', x=20.72, y=82.86, z=59.05])
+[13:53:57] [Server thread/INFO]: But we didn't have a portal, let's remove it.
+[13:54:01] [Async Chat Thread - #2/INFO]: <WalshyXD> gimme 2 mins
+[13:54:04] [Async Chat Thread - #2/INFO]: <WalshyXD> and cover your ears
+[13:54:11] [Async Chat Thread - #2/INFO]: <~Harley> lol casually just kill the dragon
+[13:54:27] [Server thread/INFO]: WalshyXD issued server command: /give walshy 373 1 16384 {CustomPotionEffects:[1:{Id:5,Amplifier:100,Duration:99999}]}
+[13:54:31] [Async Chat Thread - #2/INFO]: <~Harley> james did u go in?
+[13:54:36] [Server thread/INFO]: WalshyXD issued server command: /speed fly WalshyXD 10
+[13:54:39] [Async Chat Thread - #2/INFO]: <~Harley> hi lol
+[13:54:40] [Server thread/INFO]: WalshyXD issued server command: /speed fly 10 WalshyXD
+[13:54:42] [Async Chat Thread - #2/INFO]: <~wonder_woman> behind a wall
+[13:54:48] [Async Chat Thread - #2/INFO]: <~wonder_woman> that wall
+[13:55:12] [Async Chat Thread - #2/INFO]: <WalshyXD> come in
+[13:55:12] [Server thread/INFO]: Danomanic lost connection: Disconnected
+[13:55:12] [Server thread/INFO]: Danomanic left the game
+[13:55:20] [Async Chat Thread - #2/INFO]: <~Harley> hat wasnt loud
+[13:55:20] [Server thread/INFO]: JeffTheThriller has just earned the achievement [The End?]
+[13:55:22] [Server thread/WARN]: JeffTheThriller moved too quickly! 1426.385264296274,18.26590000152588,1730.6312470096557
+[13:55:24] [Server thread/INFO]: LAPSLIE has just earned the achievement [The End?]
+[13:55:25] [Server thread/WARN]: LAPSLIE moved too quickly! 1426.4272013530967,18.26590000152588,1731.1590308785608
+[13:55:30] [Async Chat Thread - #2/INFO]: <WalshyXD> follow me
+[13:55:46] [Async Chat Thread - #2/INFO]: <AlmostJesus> Shoul turn the ender dragon into a public event every month
+[13:55:46] [Async Chat Thread - #2/INFO]: <WalshyXD> killing the dragon makes 2 portal
+[13:55:51] [Async Chat Thread - #2/INFO]: <WalshyXD> 1 home. 1 to outside cities
+[13:56:18] [Async Chat Thread - #2/INFO]: <WalshyXD> gotta throw a pearl at that
+[13:56:36] [Async Chat Thread - #2/INFO]: <~Harley> james got them all lol
+[13:57:15] [Async Chat Thread - #2/INFO]: <WalshyXD> might have to travel a bit
+[13:57:15] [Async Chat Thread - #2/INFO]: <~Harley> ggy af
+[13:57:20] [Async Chat Thread - #2/INFO]: <WalshyXD> i explored a few in survival
+[13:57:48] [Async Chat Thread - #2/INFO]: <WalshyXD> it requires making alot of bridges
+[13:58:24] [Server thread/INFO]: Hottub99 issued server command: /home
+[13:58:32] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[13:58:32] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (500.3093737200033, 175.9010247855461, -1177.9275676958232)
+[13:58:42] [Async Chat Thread - #2/INFO]: <~Harley> hm
+[13:58:51] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[13:58:51] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (406.0, 61.0, -1252.0) - (500.0, 175.0, -1178.0)
+[13:58:53] [Async Chat Thread - #2/INFO]: <~wonder_woman> how do we get an eleitra
+[13:59:06] [Async Chat Thread - #2/INFO]: <WalshyXD> you gotta find a fortress with a floating shit
+[13:59:09] [Async Chat Thread - #2/INFO]: <WalshyXD> ship*
+[13:59:14] [Async Chat Thread - #2/INFO]: <WalshyXD> the elytra is in the ship
+[13:59:14] [Async Chat Thread - #2/INFO]: <~Harley> lol
+[13:59:15] [Async Chat Thread - #2/INFO]: <~wonder_woman> ....
+[13:59:20] [Async Chat Thread - #2/INFO]: <~wonder_woman> kk m8
+[13:59:23] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[13:59:58] [Async Chat Thread - #2/INFO]: <~Harley> ummm
+[14:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[14:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:00:00] [Server thread/INFO]: Saving...
+[14:00:01] [Server thread/INFO]: Saved the world
+[14:00:01] [Server thread/INFO]: [Server] Save Complete
+[14:00:03] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:00:03] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (607.6174351197085, 187.11648365730457, -1147.4913168701983)
+[14:00:05] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:00:05] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (607.0, 61.0, -1260.0) - (735.0, 187.0, -1148.0)
+[14:00:12] [Server thread/WARN]: JeffTheThriller moved too quickly! 0.6383779491002315,-2.0,15.494882609343676
+[14:00:12] [Server thread/WARN]: LAPSLIE moved too quickly! 1.2633230542240597,2.0,-14.607696934330079
+[14:00:16] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:00:21] [Async Chat Thread - #2/INFO]: <AlmostJesus> Can I tp to someone in the nether, I need to get some glowstone?
+[14:00:22] [Async Chat Thread - #2/INFO]: <~Harley> enderman is on me
+[14:00:30] [Async Chat Thread - #2/INFO]: <WalshyXD> kill it.
+[14:00:33] [Async Chat Thread - #2/INFO]: <WalshyXD> they're a bitch
+[14:00:40] [Async Chat Thread - #2/INFO]: <WalshyXD> you gotta watch where you're looking
+[14:00:43] [Server thread/INFO]: WalshyXD issued server command: /tp -546 72 -1838
+[14:00:55] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:00:55] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (-581.445166073268, 130.90592323477725, -1795.07622887693)
+[14:00:59] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:00:59] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (-582.0, 61.0, -1858.0) - (-536.0, 130.0, -1796.0)
+[14:01:01] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:01:20] [Server thread/INFO]: WalshyXD issued server command: //smooth
+[14:01:20] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /smooth - Region: (-582.0, 61.0, -1858.0) - (-536.0, 130.0, -1796.0)
+[14:01:26] [Server thread/INFO]: LAPSLIE was slain by Enderman
+[14:01:28] [Server thread/INFO]: WalshyXD issued server command: //set tool
+[14:01:30] [Async Chat Thread - #2/INFO]: <~wonder_woman> oh
+[14:01:31] [Server thread/INFO]: WalshyXD issued server command: //settool
+[14:01:32] [Server thread/INFO]: LAPSLIE issued server command: /back
+[14:01:35] [Async Chat Thread - #2/INFO]: <~Harley> uh oh
+[14:01:45] [Async Chat Thread - #2/INFO]: <WalshyXD> thankffully you have the /back command
+[14:01:46] [Async Chat Thread - #2/INFO]: <WalshyXD> i didnt
+[14:01:52] [Async Chat Thread - #2/INFO]: <WalshyXD> Travelled back many times
+[14:01:57] [Async Chat Thread - #2/INFO]: <~wonder_woman> yeah XD
+[14:02:00] [Server thread/INFO]: WalshyXD issued server command: //brush
+[14:02:05] [Server thread/INFO]: WalshyXD issued server command: //brush raise 4
+[14:02:09] [Server thread/INFO]: WalshyXD issued server command: //brush raise sphere 3
+[14:02:10] [Server thread/INFO]: LAPSLIE was slain by Enderman
+[14:02:15] [Async Chat Thread - #2/INFO]: <~Harley> LOL
+[14:02:20] [Async Chat Thread - #2/INFO]: <~wonder_woman> why does that keep happening
+[14:02:20] [Server thread/INFO]: WalshyXD issued server command: /speed fly WalshyXD 1
+[14:02:21] [Async Chat Thread - #2/INFO]: <~Harley> dont look at them
+[14:02:23] [Server thread/INFO]: LAPSLIE issued server command: /back
+[14:02:25] [Server thread/INFO]: WalshyXD issued server command: /speed fly 1 WalshyXD
+[14:02:27] [Async Chat Thread - #2/INFO]: <~wonder_woman> i didnt
+[14:02:34] [Async Chat Thread - #2/INFO]: <WalshyXD> if you wear a pumpkin. You cant agro them
+[14:02:34] [Async Chat Thread - #2/INFO]: <~wonder_woman> i'm really anti social
+[14:02:36] [Server thread/INFO]: WalshyXD issued server command: /killall endermen
+[14:02:43] [Server thread/INFO]: WalshyXD issued server command: /killall enderman
+[14:02:45] [Server thread/INFO]: WalshyXD issued server command: /killall enderman
+[14:02:47] [Async Chat Thread - #2/INFO]: <~wonder_woman> never make eyes contract to anyone
+[14:02:50] [Server thread/INFO]: LAPSLIE issued server command: /back
+[14:03:00] [Server thread/INFO]: AlmostJesus issued server command: /tp egger49
+[14:03:00] [Server thread/INFO]: §cAlmostJesus §4was denied access to command.
+[14:03:04] [Async Chat Thread - #2/INFO]: <AlmostJesus> tpa egger49
+[14:03:09] [Server thread/INFO]: AlmostJesus issued server command: /tpa egger49
+[14:03:11] [Server thread/INFO]: egger49 issued server command: /TPACCEPT
+[14:03:16] [Async Chat Thread - #2/INFO]: <AlmostJesus> fuckin hell
+[14:03:27] [Async Chat Thread - #2/INFO]: <~Harley> this is boring
+[14:03:37] [Server thread/INFO]: WalshyXD issued server command: //brush
+[14:03:39] [Server thread/INFO]: WalshyXD issued server command: //brush smooth
+[14:03:39] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): smooth
+[14:03:45] [Async Chat Thread - #2/INFO]: <~wonder_woman> weres the nearest sky ship thing
+[14:03:58] [Async Chat Thread - #2/INFO]: <WalshyXD> any I explored at raided
+[14:04:06] [Async Chat Thread - #2/INFO]: <WalshyXD> im destroying any i've explored as we speak. nothing to raid
+[14:04:21] [Async Chat Thread - #2/INFO]: <~Harley> ugh
+[14:04:24] [Async Chat Thread - #2/INFO]: <~wonder_woman> oh
+[14:04:27] [Async Chat Thread - #2/INFO]: <~wonder_woman> thanks
+[14:04:33] [Async Chat Thread - #2/INFO]: <WalshyXD> saves you getting disappointed
+[14:04:46] [Server thread/INFO]: WalshyXD issued server command: /tp -279 62 -2212
+[14:05:22] [Server thread/INFO]: AlmostJesus issued server command: /tpa egger49
+[14:05:28] [Server thread/INFO]: egger49 issued server command: /tpaccept
+[14:05:35] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[14:05:35] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (-222.52861863622124, 59.5181250188435, -2128.16902829425)
+[14:05:44] [Async Chat Thread - #3/INFO]: <~Harley> i might go then lol
+[14:05:50] [Async Chat Thread - #3/INFO]: <~wonder_woman> same
+[14:05:53] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:05:54] [Server thread/INFO]: LAPSLIE issued server command: /home
+[14:05:55] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:05:55] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (-296.2342930842293, 112.76799764585853, -2276.3988111062454)
+[14:05:58] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:05:58] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (-297.0, 59.0, -2277.0) - (-223.0, 112.0, -2129.0)
+[14:06:06] [Server thread/INFO]: JeffTheThriller issued server command: /home
+[14:06:10] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:06:10] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (-308.0967977351562, 159.61108680339808, -2275.3986985494903)
+[14:06:12] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:06:12] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (-309.0, 59.0, -2276.0) - (-223.0, 159.0, -2129.0)
+[14:06:18] [Server thread/INFO]: JeffTheThriller lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[14:06:18] [Server thread/INFO]: JeffTheThriller left the game
+[14:06:22] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:06:30] [Async Chat Thread - #3/INFO]: <~wonder_woman> oh she meant leave the game
+[14:06:33] [Async Chat Thread - #3/INFO]: <~wonder_woman> oh well
+[14:07:11] [Server thread/INFO]: WalshyXD issued server command: /tp -279 62 -2212
+[14:07:21] [Server thread/INFO]: WalshyXD issued server command: /tp -838 63 -3438
+[14:07:38] [Server thread/INFO]: Hottub99 fell from a high place
+[14:07:43] [Server thread/INFO]: Hottub99 issued server command: /back
+[14:07:54] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[14:07:54] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (-810.6655318107917, 58.0, -3398.6079926606085)
+[14:08:19] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:08:19] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (-927.0392827831221, 199.9874719849394, -3536.065132541015)
+[14:08:21] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:08:21] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (-928.0, 58.0, -3537.0) - (-811.0, 199.0, -3399.0)
+[14:08:23] [Server thread/INFO]: AlmostJesus issued server command: /home
+[14:08:26] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:08:41] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:08:49] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:08:53] [Async Chat Thread - #4/INFO]: <WalshyXD> its alot easier to explore with an elytra :P
+[14:09:16] [Async Chat Thread - #4/INFO]: <~wonder_woman> yesh but they've all been raided
+[14:09:25] [Async Chat Thread - #4/INFO]: <WalshyXD> The end is infinate
+[14:09:35] [Async Chat Thread - #4/INFO]: <WalshyXD> if you go out far enough. you'll find it
+[14:09:45] [Async Chat Thread - #4/INFO]: <~wonder_woman> all the ones near by have been
+[14:09:55] [Async Chat Thread - #4/INFO]: <WalshyXD> you havent travelled that fat
+[14:09:57] [Async Chat Thread - #4/INFO]: <WalshyXD> far*
+[14:10:02] [Async Chat Thread - #4/INFO]: <WalshyXD> I got a few to delete
+[14:10:03] [Async Chat Thread - #4/INFO]: <WalshyXD> not many
+[14:10:16] [Async Chat Thread - #4/INFO]: <WalshyXD> 5 more
+[14:10:25] [Server thread/INFO]: AlmostJesus has just earned the achievement [We Need to Go Deeper]
+[14:10:33] [Server thread/WARN]: AlmostJesus moved too quickly! -6616.180023082975,-63.0,-8281.0
+[14:10:33] [Server thread/WARN]: Hottub99 moved too quickly! -1.3735019034756988,-5.0,-8.647252658447542
+[14:10:47] [Server thread/INFO]: WalshyXD issued server command: /tp -847 77 -4086
+[14:11:15] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[14:11:15] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (-900.0458292931486, 188.72176354124394, -4225.85562388553)
+[14:11:42] [Server thread/INFO]: egger49 issued server command: /home
+[14:11:46] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:11:46] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (-787.7238828045288, 64.0, -4066.4781002668306)
+[14:11:49] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:11:49] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (-901.0, 64.0, -4226.0) - (-788.0, 188.0, -4067.0)
+[14:12:01] [Server thread/INFO]: WalshyXD issued server command: //killall shulker
+[14:12:07] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:12:22] [Server thread/INFO]: Hottub99 fell from a high place
+[14:12:26] [Server thread/INFO]: Hottub99 issued server command: /back
+[14:12:36] [Server thread/INFO]: WalshyXD issued server command: /tp -557 96 -3818
+[14:12:50] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[14:12:50] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (-540.2824843296744, 59.0, -3839.9257741093747)
+[14:12:56] [Async Chat Thread - #5/INFO]: <WalshyXD> 3 left
+[14:13:01] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:13:15] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:13:15] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (-655.8172481364509, 186.35113399551423, -3722.560195125038)
+[14:13:17] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:13:17] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (-656.0, 59.0, -3840.0) - (-541.0, 186.0, -3723.0)
+[14:13:23] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:13:28] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:13:30] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:13:33] [Server thread/INFO]: Hottub99 issued server command: /homr
+[14:13:34] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:13:50] [Server thread/INFO]: WalshyXD issued server command: /tp 1685 78 -630
+[14:14:18] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[14:14:18] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (1661.9058059089284, 64.0, -643.6344929340348)
+[14:14:37] [Server thread/INFO]: Hottub99 issued server command: /tpa egger49
+[14:14:45] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:14:45] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (1767.7624828189867, 245.62606619575067, -522.1855566831648)
+[14:14:46] [Server thread/INFO]: egger49 issued server command: /tpaccept
+[14:14:47] [Server thread/WARN]: AlmostJesus moved too quickly! 6616.107954239154,63.0,8281.0
+[14:14:47] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:14:47] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (1661.0, 64.0, -644.0) - (1767.0, 245.0, -523.0)
+[14:15:00] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:15:00] [Server thread/INFO]: Saving...
+[14:15:00] [Server thread/INFO]: Saved the world
+[14:15:00] [Server thread/INFO]: [Server] Save Complete
+[14:15:03] [Server thread/WARN]: WalshyXD moved too quickly! -6.116867615274259,-5.999999662867637,-6.079844432555774
+[14:15:33] [Server thread/INFO]: WalshyXD issued server command: /tp 2286 186 591
+[14:15:54] [Server thread/WARN]: LAPSLIE moved too quickly! 4157.824490586267,-7.0,-9230.781122634646
+[14:15:55] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[14:15:55] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (2262.950421119417, 247.1087309856318, 572.0498408764602)
+[14:16:26] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:16:26] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (2344.9677103844842, 62.8072857312457, 724.295019169)
+[14:16:28] [Server thread/INFO]: WalshyXD issued server command: //set 0
+[14:16:43] [Server thread/WARN]: WalshyXD moved too quickly! -1.750968354489487,2.446947937232963,-9.902788621741365
+[14:16:43] [Server thread/WARN]: Hottub99 moved too quickly! -1.379092959737136,0.0,9.918452876439915
+[14:16:43] [Server thread/WARN]: LAPSLIE moved too quickly! 16.492387941059064,12.728775892307517,-15.595932276465874
+[14:16:43] [Server thread/WARN]: AlmostJesus moved too quickly! 9.975147088807717,0.0,-1.6521716434490372
+[14:16:50] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:17:04] [Server thread/WARN]: LAPSLIE moved too quickly! -13.631159487666082,-1.4524514780759716,-11.451954643450335
+[14:17:05] [Server thread/WARN]: AlmostJesus moved too quickly! -6616.199999988079,-63.0,-8281.0
+[14:17:06] [Server thread/INFO]: WalshyXD issued server command: /tp 3292 65 1349
+[14:17:34] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[14:17:34] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (3225.177920867083, 207.86366828500823, 1242.115717438704)
+[14:18:00] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:18:00] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (3335.025727875865, 57.0, 1367.8712756754878)
+[14:18:02] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[14:18:02] [Server thread/INFO]: WorldEdit: WalshyXD (in "world_the_end"): /replace 0 - Region: (3225.0, 57.0, 1242.0) - (3335.0, 207.0, 1367.0)
+[14:18:06] [Server thread/WARN]: LAPSLIE moved too quickly! 7.191353191833855,1.3331999936342243,-9.606540756149798
+[14:18:06] [Server thread/WARN]: AlmostJesus moved too quickly! -9.201309793000519,0.0,5.241547572890568
+[14:18:06] [Async Chat Thread - #6/INFO]: <WalshyXD> oh boy
+[14:18:13] [Async Chat Thread - #6/INFO]: <WalshyXD> thats the last one. lag should stop
+[14:18:25] [Async Chat Thread - #6/INFO]: <WalshyXD> deleting 36k blocks can do that.
+[14:18:31] [Server thread/INFO]: WalshyXD issued server command: /killall shulker
+[14:18:34] [Async Chat Thread - #6/INFO]: <~wonder_woman> the lag NEVER STOPS
+[14:18:35] [Async Chat Thread - #6/INFO]: <~deathriderr> lmao
+[14:19:12] [Server thread/INFO]: egger49 issued server command: /tpa j
+[14:19:17] [Server thread/INFO]: AlmostJesus issued server command: /tpaccept
+[14:19:33] [Async Chat Thread - #6/INFO]: <WalshyXD> you wont even be able to tell where they were
+[14:19:35] [Async Chat Thread - #6/INFO]: <WalshyXD> made it look natural
+[14:19:43] [Server thread/INFO]: egger49 issued server command: /home
+[14:19:59] [Server thread/INFO]: WalshyXD issued server command: /tp LAPSLIE
+[14:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[14:20:04] [Async Chat Thread - #6/INFO]: <~wonder_woman> wow
+[14:20:04] [Async Chat Thread - #6/INFO]: <WalshyXD> oh you're in the nether...
+[14:20:06] [Async Chat Thread - #6/INFO]: <WalshyXD> boring fuck
+[14:20:09] [Async Chat Thread - #6/INFO]: <~wonder_woman> that jump scare
+[14:20:15] [Async Chat Thread - #6/INFO]: <WalshyXD> watch this
+[14:20:19] [Async Chat Thread - #6/INFO]: <~wonder_woman> i'm getting the the end
+[14:20:35] [Server thread/INFO]: egger49 issued server command: /tpa k
+[14:20:37] [Server thread/INFO]: egger49 issued server command: /tpa hot
+[14:20:47] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[14:20:49] [Async Chat Thread - #6/INFO]: <~wonder_woman> screw you and your mc edit skills
+[14:20:57] [Async Chat Thread - #6/INFO]: <WalshyXD> hehe
+[14:21:00] [Async Chat Thread - #6/INFO]: <WalshyXD> Its a one time thing
+[14:21:06] [Async Chat Thread - #6/INFO]: <WalshyXD> I got an addiction to it on the old server
+[14:21:10] [Async Chat Thread - #6/INFO]: <WalshyXD> and it got out of hand
+[14:21:17] [Async Chat Thread - #6/INFO]: <WalshyXD> build a large city and enslaved everyone.
+[14:21:21] [Server thread/WARN]: AlmostJesus moved too quickly! 6615.756197534877,63.0,8281.0
+[14:21:28] [Async Chat Thread - #6/INFO]: <WalshyXD> built*
+[14:21:33] [Async Chat Thread - #6/INFO]: <~wonder_woman> sounds like something you'd do
+[14:21:38] [Async Chat Thread - #6/INFO]: <WalshyXD> nahh
+[14:21:42] [Async Chat Thread - #6/INFO]: <WalshyXD> I've changed my ways
+[14:21:55] [Async Chat Thread - #6/INFO]: <~wonder_woman> enslave me anyday
+[14:22:07] [Async Chat Thread - #6/INFO]: <WalshyXD> sure
+[14:22:21] [Async Chat Thread - #6/INFO]: <~wonder_woman> i hate you sometimes
+[14:22:25] [Async Chat Thread - #6/INFO]: <WalshyXD> you should see the end in this effect
+[14:22:27] [Async Chat Thread - #6/INFO]: <WalshyXD> look
+[14:22:28] [Async Chat Thread - #6/INFO]: <~wonder_woman> so much
+[14:22:29] [Server thread/INFO]: WalshyXD issued server command: /back
+[14:22:32] [Server thread/INFO]: WalshyXD issued server command: /tpahere LAPSLIE
+[14:22:35] [User Authenticator #8/INFO]: UUID of player I_R_TARD is f0ae569d-71cc-4784-9ed2-5c41e4904795
+[14:22:35] [Server thread/INFO]: I_R_TARD[/90.227.27.126:63711] logged in with entity id 54135 at ([world]-509.30000001192093, 64.0, 1987.5445600683058)
+[14:22:35] [Server thread/INFO]: [Server] Welcome back, I_R_TARD
+[14:22:35] [Server thread/INFO]: [CONSOLE->I_R_TARD] Hey there, I_R_TARD!
+[14:22:35] [Server thread/INFO]: [CONSOLE->I_R_TARD] Welcome to Mineapple
+[14:22:37] [Async Chat Thread - #6/INFO]: <WalshyXD> ill remove it if you lok
+[14:22:38] [Server thread/INFO]: LAPSLIE issued server command: /tpaccept
+[14:22:48] [Async Chat Thread - #6/INFO]: <~wonder_woman> thanks you
+[14:22:53] [Async Chat Thread - #6/INFO]: <~wonder_woman> the nether is too red
+[14:22:57] [Server thread/INFO]: WalshyXD issued server command: /heal LAPSLIE
+[14:23:34] [Server thread/INFO]: WalshyXD issued server command: /tp LAPSLIE
+[14:24:20] [Server thread/INFO]: WalshyXD issued server command: /killall endermen
+[14:24:23] [Server thread/INFO]: WalshyXD issued server command: /killall enderman
+[14:24:27] [Async Chat Thread - #7/INFO]: <WalshyXD> i got him
+[14:24:33] [Async Chat Thread - #7/INFO]: <WalshyXD> now im going back to spawn
+[14:24:39] [Server thread/INFO]: WalshyXD issued server command: /world 1
+[14:24:44] [Async Chat Thread - #7/INFO]: <~wonder_woman> okay have fun
+[14:24:44] [Server thread/INFO]: WalshyXD issued server command: /world 0
+[14:24:47] [Async Chat Thread - #7/INFO]: <WalshyXD> you too
+[14:24:48] [Async Chat Thread - #7/INFO]: <WalshyXD> slag
+[14:24:57] [Async Chat Thread - #7/INFO]: <~wonder_woman> XXX
+[14:25:00] [Server thread/INFO]: WalshyXD issued server command: /tp -40 68 256
+[14:25:13] [Server thread/INFO]: WalshyXD issued server command: //undo
+[14:25:13] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[14:25:20] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[14:25:20] [Server thread/INFO]: WalshyXD left the game
+[14:28:34] [Server thread/INFO]: egger49 lost connection: Disconnected
+[14:28:34] [Server thread/INFO]: egger49 left the game
+[14:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[14:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:30:00] [Server thread/INFO]: Saving...
+[14:30:00] [Server thread/INFO]: Saved the world
+[14:30:00] [Server thread/INFO]: [Server] Save Complete
+[14:34:40] [Server thread/INFO]: Hottub99 fell from a high place
+[14:34:43] [Server thread/INFO]: Hottub99 issued server command: /back
+[14:35:41] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[14:35:41] [Server thread/INFO]: AlmostJesus left the game
+[14:36:13] [User Authenticator #9/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[14:36:13] [Server thread/INFO]: egger49[/99.247.164.202:51436] logged in with entity id 59215 at ([world]7547.986486188556, 158.0, 9490.714413831858)
+[14:36:13] [Server thread/INFO]: [Server] Welcome back, egger49
+[14:36:13] [Server thread/INFO]: [CONSOLE->egger49] Hey there, egger49!
+[14:36:13] [Server thread/INFO]: [CONSOLE->egger49] Welcome to Mineapple
+[14:36:26] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:44:03] [Server thread/INFO]: LAPSLIE was slain by Enderman
+[14:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:45:00] [Server thread/INFO]: Saving...
+[14:45:04] [Server thread/INFO]: Saved the world
+[14:45:04] [Server thread/INFO]: [Server] Save Complete
+[14:45:04] [Server thread/WARN]: LAPSLIE moved too quickly! -14.232298956392697,-1.0244240882136921,-6.746732462601358
+[14:45:07] [Server thread/INFO]: egger49 lost connection: Disconnected
+[14:45:08] [Server thread/INFO]: egger49 left the game
+[14:45:11] [Server thread/INFO]: LAPSLIE issued server command: /back
+[14:46:23] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:50:57] [User Authenticator #10/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[14:50:58] [Server thread/INFO]: AlmostJesus[/174.117.23.186:53540] logged in with entity id 65601 at ([world]7559.188972631539, 168.0, 9478.076060466203)
+[14:50:58] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[14:50:58] [Server thread/INFO]: [CONSOLE->AlmostJesus] Hey there, AlmostJesus!
+[14:50:58] [Server thread/INFO]: [CONSOLE->AlmostJesus] Welcome to Mineapple
+[14:51:43] [Server thread/INFO]: LAPSLIE was slain by Enderman
+[14:51:53] [Server thread/INFO]: LAPSLIE issued server command: /back
+[14:52:23] [Server thread/INFO]: AlmostJesus issued server command: /home
+[14:54:57] [Server thread/INFO]: LAPSLIE was slain by Shulker
+[14:55:15] [Server thread/INFO]: LAPSLIE issued server command: /back
+[14:57:46] [Server thread/INFO]: Hottub99 issued server command: /home
+[14:59:32] [Server thread/INFO]: LAPSLIE fell from a high place
+[14:59:36] [Server thread/INFO]: LAPSLIE issued server command: /back
+[15:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[15:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:00:00] [Server thread/INFO]: Saving...
+[15:00:01] [Server thread/INFO]: Saved the world
+[15:00:01] [Server thread/INFO]: [Server] Save Complete
+[15:01:47] [Server thread/INFO]: LAPSLIE was slain by Shulker
+[15:01:57] [Server thread/INFO]: LAPSLIE issued server command: /back
+[15:07:45] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:08:12] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[15:08:12] [Server thread/INFO]: AlmostJesus left the game
+[15:10:34] [User Authenticator #11/INFO]: UUID of player I_R_TARD is f0ae569d-71cc-4784-9ed2-5c41e4904795
+[15:10:34] [Server thread/INFO]: I_R_TARD lost connection: user was kicked.
+[15:10:34] [Server thread/INFO]: I_R_TARD lost connection: You logged in from another location
+[15:10:34] [Server thread/INFO]: I_R_TARD left the game
+[15:10:34] [Server thread/INFO]: I_R_TARD[/90.227.27.126:51212] logged in with entity id 76292 at ([world]-526.6858323766894, 67.0, 2001.2827514752676)
+[15:10:34] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:34] [Server thread/INFO]: [Server] Welcome back, I_R_TARD
+[15:10:34] [Server thread/INFO]: [CONSOLE->I_R_TARD] Hey there, I_R_TARD!
+[15:10:34] [Server thread/INFO]: [CONSOLE->I_R_TARD] Welcome to Mineapple
+[15:10:36] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:10:53] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:12:03] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:12:27] [Server thread/INFO]: LAPSLIE fell from a high place
+[15:12:35] [Server thread/INFO]: LAPSLIE issued server command: /back
+[15:13:37] [User Authenticator #12/INFO]: UUID of player Skyking_Caton is 960738d5-ef2b-410b-a2bb-f4676c592de8
+[15:13:38] [Server thread/INFO]: Skyking_Caton[/78.73.231.113:57989] logged in with entity id 78234 at ([world]-267.660972903654, 80.0, 168.50696419108453)
+[15:13:38] [Server thread/INFO]: [Server] Welcome back, Skyking_Caton
+[15:13:38] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Hey there, Skyking_Caton!
+[15:13:38] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Welcome to Mineapple
+[15:13:42] [Async Chat Thread - #8/INFO]: <~deathriderr> wb
+[15:13:49] [Async Chat Thread - #8/INFO]: <Skyking_Caton> hi
+[15:13:49] [Async Chat Thread - #8/INFO]: <~wonder_woman> wb
+[15:14:50] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[15:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:15:00] [Server thread/INFO]: Saving...
+[15:15:01] [Server thread/INFO]: Saved the world
+[15:15:01] [Server thread/INFO]: [Server] Save Complete
+[15:18:21] [Server thread/WARN]: LAPSLIE moved wrongly!
+[15:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[15:21:55] [Server thread/INFO]: LAPSLIE fell from a high place
+[15:25:56] [User Authenticator #13/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
+[15:25:56] [Server thread/INFO]: DrizzlyOwl[/176.27.13.83:59275] logged in with entity id 87377 at ([world]-3.8324151199252565, 75.0, 299.00994512682075)
+[15:25:56] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
+[15:25:56] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Hey there, DrizzlyOwl!
+[15:25:56] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Welcome to Mineapple
+[15:26:01] [Async Chat Thread - #9/INFO]: <~deathriderr> wb
+[15:26:04] [Async Chat Thread - #9/INFO]: <Skyking_Caton> hello
+[15:26:05] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> hello all
+[15:26:15] [Async Chat Thread - #9/INFO]: <~wonder_woman> wb
+[15:26:31] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 1
+[15:26:33] [Server thread/INFO]: DrizzlyOwl issued server command: /cleat
+[15:26:40] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> How is everyone?
+[15:26:45] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[15:27:00] [Async Chat Thread - #9/INFO]: <~deathriderr> excellent
+[15:27:00] [Async Chat Thread - #9/INFO]: <~wonder_woman> great thanks for asking :D
+[15:27:06] [Async Chat Thread - #9/INFO]: <~deathriderr> how about yourselfÉ
+[15:27:17] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Yeah i'm doing good thank you.
+[15:27:17] [Async Chat Thread - #9/INFO]: <~deathriderr> ?*
+[15:27:29] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Enjoying yourselves?
+[15:27:56] [Async Chat Thread - #9/INFO]: <~deathriderr> kinda
+[15:28:13] [Async Chat Thread - #9/INFO]: <~deathriderr> filling in like 1000 blocks of stone which is boring but it will be worth it in the end
+[15:28:26] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Wow! Would you like a hand with that?
+[15:28:37] [Async Chat Thread - #9/INFO]: <~deathriderr> no need i'm almost finsihed
+[15:28:43] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Great
+[15:28:45] [Async Chat Thread - #9/INFO]: <~deathriderr> thanks for asking tho
+[15:28:51] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> No problem! Here to help :)
+[15:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[15:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:30:00] [Server thread/INFO]: Saving...
+[15:30:04] [Server thread/INFO]: Saved the world
+[15:30:04] [Server thread/INFO]: [Server] Save Complete
+[15:32:37] [Server thread/INFO]: Hottub99 issued server command: /HOME
+[15:34:30] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> Whilst i'm here does anyone want to chat about the server?
+[15:34:35] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> Any suggestions/comments/concerns?
+[15:35:00] [User Authenticator #14/INFO]: UUID of player Spinalcord10 is a8bbe8f8-88e9-4bf4-960d-8b22b4894a88
+[15:35:02] [Server thread/INFO]: Spinalcord10[/76.19.57.97:61328] logged in with entity id 95764 at ([world]-42.5, 68.0, 265.5)
+[15:35:02] [Server thread/INFO]: [Server] Spinalcord10 has just joined for the first time.
+[15:35:02] [Server thread/INFO]: [Server] 62 unique players have visited this server.
+[15:35:03] [Server thread/INFO]: [CONSOLE->Spinalcord10] Hey there, Spinalcord10!
+[15:35:03] [Server thread/INFO]: [CONSOLE->Spinalcord10] Welcome to Mineapple
+[15:35:03] [pool-5-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/a8bbe8f8-88e9-4bf4-960d-8b22b4894a88.yml
+[15:35:14] [Async Chat Thread - #10/INFO]: <~deathriderr> are you planning to implement anymore pluggins?
+[15:35:14] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> Welcome
+[15:35:17] [Server thread/INFO]: Hottub99 issued server command: /welcome
+[15:35:19] [Server thread/INFO]: LAPSLIE was slain by Enderman
+[15:35:20] [Async Chat Thread - #10/INFO]: <~deathriderr> welcome
+[15:35:21] [Async Chat Thread - #10/INFO]: <Spinalcord10> hi
+[15:35:27] [Server thread/INFO]: I_R_TARD lost connection: Disconnected
+[15:35:27] [Server thread/INFO]: I_R_TARD left the game
+[15:35:29] [Server thread/INFO]: LAPSLIE issued server command: /back
+[15:35:29] [User Authenticator #15/INFO]: UUID of player I_R_TARD is f0ae569d-71cc-4784-9ed2-5c41e4904795
+[15:35:29] [Server thread/INFO]: I_R_TARD[/90.227.27.126:54348] logged in with entity id 98047 at ([world]-502.5110733611753, 67.0, 2004.0362592241852)
+[15:35:29] [Server thread/INFO]: [Server] Welcome back, I_R_TARD
+[15:35:30] [Server thread/INFO]: [CONSOLE->I_R_TARD] Hey there, I_R_TARD!
+[15:35:30] [Server thread/INFO]: [CONSOLE->I_R_TARD] Welcome to Mineapple
+[15:35:38] [Async Chat Thread - #10/INFO]: <Skyking_Caton> Drizzly, maybe one more home..
+[15:35:47] [Async Chat Thread - #10/INFO]: <Skyking_Caton> idn
+[15:35:50] [Server thread/INFO]: Hottub99 issued server command: /that would be awesome
+[15:35:54] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> @deathriderr The plugins I will install will be primarily for moderation purposes
+[15:35:55] [Async Chat Thread - #10/INFO]: <Skyking_Caton> idk*
+[15:35:57] [Async Chat Thread - #10/INFO]: <~deathriderr> that would be awesome
+[15:36:08] [Async Chat Thread - #10/INFO]: <Skyking_Caton> okay
+[15:36:15] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> @Skyking I will take that onboard however I can't make any promises
+[15:36:17] [Async Chat Thread - #10/INFO]: <Spinalcord10> anyone want to skype
+[15:38:09] [Async Chat Thread - #11/INFO]: <Spinalcord10> dick
+[15:38:18] [Server thread/INFO]: Spinalcord10 has just earned the achievement [Taking Inventory]
+[15:38:57] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[15:39:02] [Server thread/WARN]: Spinalcord10 was kicked for floating too long!
+[15:39:02] [Server thread/INFO]: Spinalcord10 lost connection: user was kicked.
+[15:39:02] [Server thread/INFO]: Spinalcord10 lost connection: Flying is not enabled on this server
+[15:39:02] [Server thread/INFO]: Spinalcord10 left the game
+[15:39:02] [Server thread/WARN]: handleDisconnection() called twice
+[15:39:39] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> Does everyone like the Spawn?
+[15:39:43] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> Any recommendations?
+[15:39:54] [Async Chat Thread - #12/INFO]: <~wonder_woman> you need a ./spawn
+[15:40:01] [Async Chat Thread - #12/INFO]: <~wonder_woman> to easy teleport there
+[15:40:10] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> That's something we're actively working on. It's a permissions problem that I need to fix.
+[15:40:54] [Async Chat Thread - #12/INFO]: <~wonder_woman> honestly tho this server is really good and theres not much you could do better, keep it up
+[15:41:04] [Server thread/INFO]: DrizzlyOwl issued server command: /whois wonder_woman
+[15:41:04] [Server thread/INFO]: Command 'whois' conflicts with plugin 'Essentials v2.0.1-b424', McMyAdmin will not receive this command. Command will be sent to 'Essentials v2.0.1-b424' instead.
+[15:41:04] [Async Chat Thread - #12/INFO]: <~wonder_woman> :)
+[15:41:09] [Server thread/INFO]: DrizzlyOwl issued server command: /give LAPSLIE cookie 1
+[15:41:13] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> Thanks Lapslie!
+[15:41:18] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> I appreciate the comments :)
+[15:41:36] [Async Chat Thread - #12/INFO]: <~deathriderr> yeah you and Walshy are doing a great job
+[15:41:49] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> Great! Walshy is my little henchman
+[15:42:00] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> well maybe not little - but definitely a henchman!
+[15:42:06] [Async Chat Thread - #12/INFO]: <~deathriderr> haha
+[15:42:26] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> I'm looking to hire some additional staff soon. Would anyone be interested?
+[15:43:00] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> Haha that's a clear no!
+[15:43:05] [Async Chat Thread - #12/INFO]: <I_R_TARD> Maybe xD
+[15:43:06] [Async Chat Thread - #12/INFO]: <Skyking_Caton> maybe
+[15:43:08] [Async Chat Thread - #12/INFO]: <~wonder_woman> to do what exactly?
+[15:43:11] [Async Chat Thread - #12/INFO]: <~deathriderr> I would but with work and school and wouldn't have the time
+[15:43:18] [Async Chat Thread - #12/INFO]: <~deathriderr> I*
+[15:43:33] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> I need builders; plugin configurers; moderators
+[15:43:35] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> the works!
+[15:43:54] [Server thread/INFO]: DrizzlyOwl issued server command: /seen walshyxd
+[15:43:59] [Server thread/INFO]: DrizzlyOwl issued server command: /tp -17,74,260
+[15:44:07] [Server thread/INFO]: DrizzlyOwl issued server command: /tppos -17,74,260
+[15:44:13] [Server thread/INFO]: DrizzlyOwl issued server command: /tppos -17 74 260
+[15:44:19] [Async Chat Thread - #12/INFO]: <~wonder_woman> if you need a builder then i might be able to help out
+[15:44:33] [Async Chat Thread - #12/INFO]: <~wonder_woman> but for everything else i'm not useful at all
+[15:44:58] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> We're also looking for some badass screenshots to include on our Facebook page and website
+[15:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:45:00] [Server thread/INFO]: Saving...
+[15:45:04] [Server thread/INFO]: Saved the world
+[15:45:04] [Server thread/INFO]: [Server] Save Complete
+[15:45:14] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> I'm happy to put your IGN if your picture gets chosen
+[15:45:27] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> Has anyone got any cool screenshots?
+[15:45:42] [Async Chat Thread - #12/INFO]: <I_R_TARD> not yet but maybe soon xD
+[15:45:49] [Async Chat Thread - #12/INFO]: <~wonder_woman> i dont really take any :/
+[15:45:51] [Server thread/INFO]: DrizzlyOwl issued server command: /seen lreford
+[15:45:58] [Server thread/INFO]: DrizzlyOwl issued server command: /tppos 90076 47 92880
+[15:46:02] [Server thread/WARN]: LAPSLIE moved too quickly! -2.2803683040874603,-31.439200879270906,-3.8324794222808123
+[15:46:23] [Server thread/INFO]: DrizzlyOwl issued server command: /home DrizzlyOwl lreford
+[15:46:27] [Server thread/INFO]: DrizzlyOwl issued server command: /home lreford
+[15:46:31] [Server thread/INFO]: DrizzlyOwl issued server command: /home lreford:home
+[15:47:26] [Server thread/INFO]: DrizzlyOwl issued server command: /top
+[15:47:33] [Async Chat Thread - #13/INFO]: <I_R_TARD> Lag
+[15:47:36] [Async Chat Thread - #13/INFO]: <I_R_TARD> xD
+[15:47:52] [Async Chat Thread - #13/INFO]: <DrizzlyOwl> Do you folks get a lot of lag?
+[15:47:56] [Server thread/INFO]: DrizzlyOwl issued server command: /home lreford:home
+[15:48:00] [Server thread/INFO]: DrizzlyOwl issued server command: /item sign 1
+[15:48:15] [Server thread/INFO]: DrizzlyOwl issued server command: /home
+[15:48:17] [Async Chat Thread - #13/INFO]: <~deathriderr> surprisingly not
+[15:48:32] [Async Chat Thread - #13/INFO]: <~deathriderr> and i'm in canada
+[15:48:34] [Async Chat Thread - #13/INFO]: <I_R_TARD> Probably depends on where you live
+[15:48:36] [Async Chat Thread - #13/INFO]: <I_R_TARD> Oh xD
+[15:49:54] [Server thread/INFO]: DrizzlyOwl issued server command: /co inspect
+[15:50:02] [Server thread/INFO]: DrizzlyOwl issued server command: /co inspect
+[15:50:35] [Server thread/INFO]: DrizzlyOwl issued server command: /wg
+[15:50:37] [Server thread/INFO]: DrizzlyOwl issued server command: /rg
+[15:50:42] [Server thread/INFO]: DrizzlyOwl issued server command: /rg flag
+[15:51:05] [Server thread/INFO]: DrizzlyOwl issued server command: /rg flag spawn greeting ===== Welcome to Mineapple ======
+[15:51:17] [Timer-1/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[15:51:21] [Server thread/INFO]: DrizzlyOwl issued server command: /rg flag spawn greeting ====== Welcome to Mineapple ======
+[15:51:47] [Timer-1/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[15:51:57] [Server thread/INFO]: DrizzlyOwl issued server command: /rg flag spawn farewell ====== You have exited Spawn protection ======
+[15:52:14] [Server thread/INFO]: DrizzlyOwl issued server command: /rg flag spawn greeting ====== You have entered Spawn protection ======
+[15:52:17] [Timer-1/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[15:52:28] [User Authenticator #16/INFO]: UUID of player Piglygamer is 3a4723be-e9b0-48de-b6c4-c630a8f2ad0b
+[15:52:29] [Server thread/INFO]: Piglygamer[/86.136.11.153:53896] logged in with entity id 118268 at ([world]-38.5, 74.0, 255.5)
+[15:52:29] [Server thread/INFO]: [Server] Piglygamer has just joined for the first time.
+[15:52:29] [Server thread/INFO]: [Server] 63 unique players have visited this server.
+[15:52:29] [Server thread/INFO]: [CONSOLE->Piglygamer] Hey there, Piglygamer!
+[15:52:29] [Server thread/INFO]: [CONSOLE->Piglygamer] Welcome to Mineapple
+[15:52:29] [pool-5-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/3a4723be-e9b0-48de-b6c4-c630a8f2ad0b.yml
+[15:52:33] [Server thread/INFO]: DrizzlyOwl issued server command: /v
+[15:52:36] [Async Chat Thread - #14/INFO]: <~deathriderr> welcome!
+[15:52:38] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> Hello & Welcome
+[15:52:42] [Async Chat Thread - #14/INFO]: <Piglygamer> thx
+[15:52:46] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[15:52:51] [Async Chat Thread - #14/INFO]: <~wonder_woman> hello
+[15:53:03] [Async Chat Thread - #14/INFO]: <Piglygamer> what do i do on this game
+[15:53:11] [Async Chat Thread - #14/INFO]: <Piglygamer> and helo
+[15:53:12] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> It's survival - so head out into the wilderness
+[15:53:31] [Server thread/INFO]: Piglygamer issued server command: /tpa owl
+[15:53:36] [Async Chat Thread - #14/INFO]: <~wonder_woman> build stuff, kill monsters, win at life
+[15:53:42] [Server thread/INFO]: DrizzlyOwl issued server command: /setspawn
+[15:53:44] [Server thread/INFO]: DrizzlyOwl issued server command: /spawn
+[15:53:46] [Server thread/INFO]: DrizzlyOwl issued server command: /help spawn
+[15:53:48] [Server thread/INFO]: DrizzlyOwl issued server command: /
+[15:53:51] [Server thread/INFO]: Piglygamer issued server command: /tpaDrizzly
+[15:54:07] [Server thread/INFO]: DrizzlyOwl issued server command: /seed DrizzlyOwl
+[15:54:09] [Async Chat Thread - #14/INFO]: <Piglygamer> is their some sort of tp/tpa
+[15:54:14] [Server thread/INFO]: DrizzlyOwl issued server command: /seen DrizzlyOwl
+[15:54:17] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[15:54:23] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> Yes you can tp to each other
+[15:55:11] [Server thread/INFO]: Piglygamer issued server command: /tp DrizzlyOwl
+[15:55:11] [Server thread/INFO]: §cPiglygamer §4was denied access to command.
+[15:55:17] [Async Chat Thread - #14/INFO]: <Piglygamer> how
+[15:55:40] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> You can use /tpa <playername>
+[15:55:52] [User Authenticator #17/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[15:55:52] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49264] logged in with entity id 124719 at ([world]-97.07715937389442, 121.0, -122.99588681924581)
+[15:55:52] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[15:55:52] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
+[15:55:52] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
+[15:55:53] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[15:55:55] [Async Chat Thread - #14/INFO]: <~deathriderr> wb
+[15:55:57] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[15:55:58] [Async Chat Thread - #14/INFO]: <~wonder_woman> w
+[15:55:58] [Async Chat Thread - #14/INFO]: <I_R_TARD> Hi
+[15:55:59] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> If they are using a nickname you can use /realname <nickname> to find out their real name
+[15:56:00] [Async Chat Thread - #14/INFO]: <I_R_TARD> minecraft big spiral staircase
+[15:56:00] [Async Chat Thread - #14/INFO]: <~wonder_woman> wb
+[15:56:06] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[15:56:08] [Async Chat Thread - #14/INFO]: <BuuTheGreat> thanks
+[15:56:11] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[15:56:13] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[15:56:24] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:56:29] [Server thread/INFO]: BuuTheGreat fell from a high place
+[15:56:38] [Async Chat Thread - #14/INFO]: <BuuTheGreat> woa
+[15:56:39] [Server thread/INFO]: Piglygamer issued server command: /tpa Buuthegreat
+[15:56:40] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[15:56:44] [Async Chat Thread - #14/INFO]: <Piglygamer> lol
+[15:56:47] [Server thread/INFO]: Hottub99 issued server command: /home
+[15:56:53] [Async Chat Thread - #14/INFO]: <Piglygamer> how that happen
+[15:56:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c296a84[id=<null>,name=WalshyXD,properties={},legacy=false] (/86.3.13.214:58590) lost connection: Disconnected
+[15:57:03] [Async Chat Thread - #14/INFO]: <BuuTheGreat> just fell from the cliff
+[15:57:05] [Server thread/INFO]: DrizzlyOwl lost connection: Disconnected
+[15:57:05] [Server thread/INFO]: DrizzlyOwl left the game
+[15:57:09] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[15:57:17] [Async Chat Thread - #14/INFO]: <Piglygamer> wer ar u
+[15:57:23] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[15:57:29] [Async Chat Thread - #14/INFO]: <Piglygamer> im new
+[15:57:35] [User Authenticator #18/INFO]: UUID of player weme105 is 9e1958c3-77da-410b-94a7-80f57dce2ddb
+[15:57:35] [Server thread/INFO]: weme105[/50.137.116.59:61205] logged in with entity id 130005 at ([world]-44.5457632946005, 59.0, 539.4392681142507)
+[15:57:35] [Server thread/INFO]: [Server] Welcome back, weme105
+[15:57:35] [Server thread/INFO]: [CONSOLE->weme105] Hey there, weme105!
+[15:57:35] [Server thread/INFO]: [CONSOLE->weme105] Welcome to Mineapple
+[15:57:36] [Async Chat Thread - #14/INFO]: <BuuTheGreat> ok
+[15:57:38] [Async Chat Thread - #14/INFO]: <BuuTheGreat> wb
+[15:57:40] [Async Chat Thread - #14/INFO]: <~wonder_woman> wb
+[15:57:44] [Async Chat Thread - #14/INFO]: <~TheRealEllie> hi
+[15:57:45] [User Authenticator #19/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[15:57:45] [Server thread/INFO]: WalshyXD[/86.3.13.214:58678] logged in with entity id 130880 at ([world]-16.550121785623986, 74.74406280406035, 260.2326613037842)
+[15:57:45] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[15:57:45] [Server thread/INFO]: [CONSOLE->WalshyXD] Hey there, WalshyXD!
+[15:57:45] [Server thread/INFO]: [CONSOLE->WalshyXD] Welcome to Mineapple
+[15:57:51] [Async Chat Thread - #14/INFO]: <Piglygamer> wbwbwbwwbwbwbwbwbw
+[15:57:52] [Async Chat Thread - #14/INFO]: <~deathriderr> wb
+[15:57:54] [Async Chat Thread - #14/INFO]: <Piglygamer> bb
+[15:57:55] [Async Chat Thread - #14/INFO]: <~wonder_woman> wb
+[15:57:56] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[15:58:00] [Async Chat Thread - #14/INFO]: <WalshyXD> ty
+[15:58:05] [Async Chat Thread - #14/INFO]: <Piglygamer> lol
+[15:58:06] [Server thread/INFO]: weme105 issued server command: /nick rhino dude
+[15:58:06] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[15:58:08] [Async Chat Thread - #14/INFO]: <BuuTheGreat> oh man
+[15:58:09] [User Authenticator #20/INFO]: UUID of player Sammeh10 is 63f7b7ad-6b23-4815-ace7-4ffdee13e99c
+[15:58:09] [Server thread/INFO]: Sammeh10[/99.27.87.14:64021] logged in with entity id 132233 at ([world]-65.37988107783812, 41.0, 559.6999999880791)
+[15:58:09] [Server thread/INFO]: [Server] Welcome back, Sammeh10
+[15:58:09] [Server thread/INFO]: [CONSOLE->Sammeh10] Hey there, Sammeh10!
+[15:58:09] [Server thread/INFO]: [CONSOLE->Sammeh10] Welcome to Mineapple
+[15:58:11] [Async Chat Thread - #14/INFO]: <~wonder_woman> wb
+[15:58:13] [Async Chat Thread - #14/INFO]: <Piglygamer> how that happen.
+[15:58:16] [Server thread/INFO]: WalshyXD issued server command: /tp home:lreford
+[15:58:19] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[15:58:19] [Async Chat Thread - #14/INFO]: <~deathriderr> wb
+[15:58:24] [Server thread/INFO]: WalshyXD issued server command: /tp lreford:home
+[15:58:28] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[15:58:29] [Server thread/INFO]: Sammeh10 lost connection: Disconnected
+[15:58:29] [Server thread/INFO]: Sammeh10 left the game
+[15:58:31] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[15:58:31] [Async Chat Thread - #14/INFO]: <Piglygamer> how that happen
+[15:58:31] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[15:58:36] [Async Chat Thread - #14/INFO]: <I_R_TARD> minecraft big spiral staircase
+[15:58:44] [Async Chat Thread - #14/INFO]: <BuuTheGreat> skeles on skelehorses
+[15:58:49] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[15:58:55] [Server thread/INFO]: WalshyXD issued server command: /tp home home:lreford
+[15:59:03] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[15:59:11] [Async Chat Thread - #14/INFO]: <Piglygamer> can u do /tpaccept buu
+[15:59:13] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[15:59:19] [Server thread/INFO]: WalshyXD issued server command: /home lreford:home
+[15:59:21] [Async Chat Thread - #14/INFO]: <Piglygamer> plz
+[15:59:22] [Async Chat Thread - #14/INFO]: <BuuTheGreat> why
+[15:59:34] [Async Chat Thread - #14/INFO]: <Piglygamer> cause i wanna se ur skin
+[15:59:35] [Server thread/INFO]: WalshyXD issued server command: /spawn
+[15:59:40] [Async Chat Thread - #14/INFO]: <BuuTheGreat> lol
+[15:59:42] [Async Chat Thread - #14/INFO]: <~wonder_woman> whats not weird
+[15:59:48] [Async Chat Thread - #14/INFO]: <~wonder_woman> say that to anyone on the street
+[15:59:50] [Server thread/INFO]: WalshyXD issued server command: /back
+[16:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[16:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:00:00] [Server thread/INFO]: Saving...
+[16:00:01] [Server thread/INFO]: Saved the world
+[16:00:01] [Server thread/INFO]: [Server] Save Complete
+[16:00:15] [Async Chat Thread - #14/INFO]: <Piglygamer> plz buu
+[16:00:30] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[16:00:34] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[16:00:38] [Async Chat Thread - #14/INFO]: <BuuTheGreat> jesus
+[16:00:40] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[16:00:46] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[16:00:47] [Async Chat Thread - #14/INFO]: <Piglygamer> plz let me ii help with skeli
+[16:00:50] [Server thread/INFO]: WalshyXD issued server command: /brush
+[16:01:04] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat Do you need help????
+[16:01:05] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[16:01:05] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[16:01:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:01:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:01:05] [Server thread/INFO]: Debug logging is disabled
+[16:01:05] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.2;e38d98d
+[16:01:05] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[16:01:05] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b424
+[16:01:05] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[16:01:05] [Server thread/INFO]: [Slack] Disabling Slack v1.5.0
+[16:01:05] [Server thread/INFO]: [Slack] Slack has been disabled!
+[16:01:05] [Server thread/INFO]: [BukkitCompat] Disabling BukkitCompat vR22A
+[16:01:05] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.13.1
+[16:01:06] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[16:01:06] [Server thread/INFO]: [CoreProtect] Success! Resuming server shutdown.
+[16:01:06] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[16:01:06] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[16:01:06] [Server thread/INFO]: [Slack] Loading Slack v1.5.0
+[16:01:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[16:01:06] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[16:01:06] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[16:01:06] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[16:01:06] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[16:01:06] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[16:01:06] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[16:01:06] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[16:01:06] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[16:01:06] [Server thread/INFO]: [Slack] Enabling Slack v1.5.0
+[16:01:06] [Server thread/INFO]: [Slack] Slack has been enabled.
+[16:01:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[16:01:07] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:01:07] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
+[16:01:07] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
+[16:01:07] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[16:01:07] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsSpawn to the same version.
+[16:01:07] [Server thread/INFO]: Using locale en_US
+[16:01:07] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:01:07] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[16:01:07] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:01:07] [Server thread/INFO]: Using locale en_US
+[16:01:07] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[16:01:07] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[16:01:07] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[16:01:07] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[16:01:07] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[16:01:07] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:01:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:01:07] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:01:07] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/minecraft (MySQL 5.7)
+[16:01:08] [Server thread/INFO]: [WorldGuard] Current version of schema `minecraft`: 2
+[16:01:08] [Server thread/INFO]: [WorldGuard] Schema `minecraft` is up to date. No migration necessary.
+[16:01:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:01:08] [Server thread/INFO]: CONSOLE: Reload complete.
+[16:01:09] [Async Chat Thread - #14/INFO]: <Piglygamer> plz
+[16:01:11] [Async Chat Thread - #14/INFO]: <Piglygamer> plz
+[16:01:12] [Async Chat Thread - #14/INFO]: <Piglygamer> plz
+[16:01:15] [Async Chat Thread - #14/INFO]: <Piglygamer> plz
+[16:01:17] [Async Chat Thread - #14/INFO]: <Piglygamer> plzz
+[16:01:19] [Async Chat Thread - #14/INFO]: <Piglygamer> plz
+[16:01:21] [Async Chat Thread - #14/INFO]: <Piglygamer> plz
+[16:01:22] [Server thread/INFO]: BuuTheGreat issued server command: /r I lost some stuff just
+[16:01:23] [Async Chat Thread - #14/INFO]: <WalshyXD> OI. quit spamming
+[16:01:23] [Async Chat Thread - #14/INFO]: <Piglygamer> plz
+[16:01:34] [Server thread/INFO]: WalshyXD issued server command: /brush
+[16:01:40] [Async Chat Thread - #14/INFO]: <BuuTheGreat> rhino?
+[16:01:56] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[16:02:00] [Server thread/INFO]: WalshyXD issued server command: /brush sphere 3
+[16:02:00] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): sphere 3
+[16:02:00] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[16:02:07] [Server thread/INFO]: WalshyXD issued server command: /brush sphere 1
+[16:02:07] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): sphere 1
+[16:02:23] [Async Chat Thread - #14/INFO]: <Piglygamer> one of boats at spawn sunk
+[16:02:29] [Server thread/INFO]: WalshyXD issued server command: /brush smooth 1
+[16:02:29] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): smooth 1
+[16:02:31] [Async Chat Thread - #14/INFO]: <Piglygamer> wasnt me
+[16:02:37] [Async Chat Thread - #14/INFO]: <~wonder_woman> ;'(
+[16:02:44] [Async Chat Thread - #14/INFO]: <~wonder_woman> will be missed
+[16:02:44] [Server thread/INFO]: WalshyXD issued server command: /brush smooth water
+[16:02:53] [Server thread/INFO]: WalshyXD issued server command: /brush smooth 3 water
+[16:03:17] [Server thread/INFO]: WalshyXD issued server command: /brush smooth 3 8
+[16:03:17] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): smooth 3 8
+[16:03:32] [Async Chat Thread - #14/INFO]: <BuuTheGreat> walshy
+[16:03:37] [Server thread/INFO]: I_R_TARD has just earned the achievement [Acquire Hardware]
+[16:03:40] [Async Chat Thread - #14/INFO]: <WalshyXD> buu?
+[16:03:46] [Async Chat Thread - #14/INFO]: <BuuTheGreat> I have been stolen lol
+[16:03:50] [Server thread/INFO]: WalshyXD issued server command: /tp BuuTheGreat
+[16:03:59] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:04:06] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[16:04:11] [Async Chat Thread - #14/INFO]: <WalshyXD> weme. 2 and 1/2 days aho
+[16:04:15] [Async Chat Thread - #14/INFO]: <Piglygamer> bye
+[16:04:16] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:04:19] [Async Chat Thread - #14/INFO]: <~rhino> what
+[16:04:20] [Async Chat Thread - #14/INFO]: <BuuTheGreat> again weme
+[16:04:24] [Async Chat Thread - #14/INFO]: <BuuTheGreat> greifing
+[16:04:27] [Server thread/INFO]: Piglygamer lost connection: Disconnected
+[16:04:27] [Server thread/INFO]: Piglygamer left the game
+[16:04:36] [Async Chat Thread - #14/INFO]: <BuuTheGreat> not obeying rules man?
+[16:04:38] [Async Chat Thread - #14/INFO]: <WalshyXD> I was going to give him 2nd chance
+[16:04:39] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[16:04:39] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[16:04:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:04:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:04:39] [Server thread/INFO]: Debug logging is disabled
+[16:04:39] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.2;e38d98d
+[16:04:39] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[16:04:39] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[16:04:39] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b424
+[16:04:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[16:04:39] [Server thread/INFO]: [Slack] Disabling Slack v1.5.0
+[16:04:39] [Server thread/INFO]: [Slack] Slack has been disabled!
+[16:04:39] [Server thread/INFO]: [BukkitCompat] Disabling BukkitCompat vR22A
+[16:04:39] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.13.1
+[16:04:40] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[16:04:40] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[16:04:40] [Server thread/INFO]: [Slack] Loading Slack v1.5.0
+[16:04:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[16:04:40] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[16:04:40] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[16:04:40] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[16:04:40] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[16:04:40] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[16:04:40] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[16:04:40] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[16:04:40] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[16:04:40] [Server thread/INFO]: [Slack] Enabling Slack v1.5.0
+[16:04:40] [Server thread/INFO]: [Slack] Slack has been enabled.
+[16:04:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[16:04:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:04:40] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
+[16:04:40] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
+[16:04:40] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[16:04:40] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsSpawn to the same version.
+[16:04:40] [Server thread/INFO]: Using locale en_US
+[16:04:40] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:04:40] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[16:04:40] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:04:41] [Server thread/INFO]: Using locale en_US
+[16:04:41] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[16:04:41] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[16:04:41] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[16:04:41] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[16:04:41] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[16:04:41] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:04:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:04:41] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:04:41] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/minecraft (MySQL 5.7)
+[16:04:41] [Server thread/INFO]: [WorldGuard] Current version of schema `minecraft`: 2
+[16:04:41] [Server thread/INFO]: [WorldGuard] Schema `minecraft` is up to date. No migration necessary.
+[16:04:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:04:41] [Server thread/INFO]: CONSOLE: Reload complete.
+[16:04:42] [Async Chat Thread - #14/INFO]: <WalshyXD> was this chest hidden?
+[16:04:46] [Async Chat Thread - #14/INFO]: <BuuTheGreat> yes
+[16:04:49] [User Authenticator #21/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
+[16:04:49] [Server thread/INFO]: DrizzlyOwl[/176.27.13.83:60738] logged in with entity id 148732 at ([world]-35.769720262672166, 73.0, 250.42745876090112)
+[16:04:49] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
+[16:04:50] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Hey there, DrizzlyOwl!
+[16:04:50] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Welcome to Mineapple
+[16:04:55] [Async Chat Thread - #14/INFO]: <~rhino> I heard there was a raiding rule
+[16:04:56] [Server thread/INFO]: DrizzlyOwl issued server command: /spawn
+[16:05:01] [Server thread/INFO]: DrizzlyOwl issued server command: /up
+[16:05:02] [Server thread/INFO]: DrizzlyOwl issued server command: /ascend
+[16:05:02] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): ascend
+[16:05:07] [Server thread/INFO]: DrizzlyOwl issued server command: /setspawn
+[16:05:11] [Server thread/INFO]: DrizzlyOwl issued server command: /spawn
+[16:05:14] [Server thread/INFO]: WalshyXD issued server command: /ban weme105 Griefing/xraying
+[16:05:14] [Server thread/INFO]: weme105 lost connection: user was kicked.
+[16:05:14] [Server thread/INFO]: weme105 lost connection: §cYou have been banned:
+§rGriefing/xraying
+[16:05:14] [Server thread/INFO]: weme105 left the game
+[16:05:14] [Server thread/INFO]: §6Player§c WalshyXD §6banned§c weme105 §6for: §c§cYou have been banned:
+§rGriefing/xraying§6.
+[16:05:14] [Server thread/WARN]: handleDisconnection() called twice
+[16:05:17] [Server thread/INFO]: DrizzlyOwl issued server command: /shout /spawn is now enabled!
+[16:05:17] [Async Chat Thread - #14/INFO]: <BuuTheGreat> lol
+[16:05:24] [Async Chat Thread - #14/INFO]: <~wonder_woman> yeah
+[16:05:24] [Async Chat Thread - #14/INFO]: <BuuTheGreat> woa
+[16:05:28] [Async Chat Thread - #14/INFO]: <Skyking_Caton> nice
+[16:05:30] [Async Chat Thread - #14/INFO]: <WalshyXD> wait what
+[16:05:31] [Async Chat Thread - #14/INFO]: <~wonder_woman> go team
+[16:05:33] [Async Chat Thread - #14/INFO]: <WalshyXD> weem was online?
+[16:05:36] [Async Chat Thread - #14/INFO]: <BuuTheGreat> yes
+[16:05:39] [Async Chat Thread - #14/INFO]: <WalshyXD> rofl
+[16:05:39] [Async Chat Thread - #14/INFO]: <WalshyXD> rekt
+[16:05:49] [Server thread/INFO]: DrizzlyOwl issued server command: /msg WalshyXD xD
+[16:05:55] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:05:56] [Server thread/INFO]: DrizzlyOwl issued server command: /help spawn
+[16:05:57] [Server thread/INFO]: LAPSLIE issued server command: /spawn
+[16:05:58] [Async Chat Thread - #14/INFO]: <WalshyXD> ash
+[16:06:00] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> mhm
+[16:06:05] [Async Chat Thread - #14/INFO]: <WalshyXD> since you can apparently inspect a chest
+[16:06:08] [Server thread/INFO]: DrizzlyOwl issued server command: /spawn
+[16:06:08] [Async Chat Thread - #14/INFO]: <WalshyXD> can it be rolled back
+[16:06:17] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> haven't tested it
+[16:06:18] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> should do
+[16:06:20] [Async Chat Thread - #14/INFO]: <~wonder_woman> omg this place is so nice
+[16:06:23] [Async Chat Thread - #14/INFO]: <WalshyXD> how lol
+[16:06:32] [Server thread/INFO]: WalshyXD issued server command: /co rollback
+[16:06:38] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> come here lets try it
+[16:06:42] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 1
+[16:06:45] [Server thread/INFO]: Hottub99 fell from a high place
+[16:06:49] [Server thread/INFO]: WalshyXD issued server command: /co rollback r:1 t:67h
+[16:06:49] [Server thread/INFO]: Hottub99 issued server command: /back
+[16:06:57] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:06:58] [Server thread/INFO]: DrizzlyOwl issued server command: /spawn
+[16:07:03] [Server thread/INFO]: BuuTheGreat was slain by Zombie
+[16:07:03] [Server thread/INFO]: WalshyXD issued server command: /co rollback r:3 t:67h
+[16:07:11] [Server thread/INFO]: WalshyXD issued server command: /tp DrizzlyOwl
+[16:07:12] [Async Chat Thread - #14/INFO]: <BuuTheGreat> g
+[16:07:14] [Async Chat Thread - #14/INFO]: <BuuTheGreat> omg
+[16:07:15] [Async Chat Thread - #14/INFO]: <BuuTheGreat> lol
+[16:07:16] [Async Chat Thread - #14/INFO]: <BuuTheGreat> haha
+[16:07:18] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[16:07:24] [Async Chat Thread - #14/INFO]: <~wonder_woman> this is vewy nice
+[16:07:33] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat You ain't that great with mobs xD
+[16:07:43] [Server thread/INFO]: LAPSLIE issued server command: /spawn
+[16:07:48] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> chuck some shit in that bin walsh
+[16:07:56] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[16:07:57] [Server thread/INFO]: DrizzlyOwl issued server command: /co inspect
+[16:08:07] [Server thread/INFO]: WalshyXD issued server command: /give walshy dirt 1000
+[16:08:09] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> tard
+[16:08:10] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> come here
+[16:08:21] [Server thread/INFO]: DrizzlyOwl issued server command: /co inspect
+[16:08:23] [Server thread/INFO]: WalshyXD issued server command: /tp LAPSLIE BuuTheGreat
+[16:08:25] [Async Chat Thread - #14/INFO]: <WalshyXD> GTFO
+[16:08:25] [Async Chat Thread - #14/INFO]: <I_R_TARD> Huh???
+[16:08:32] [Async Chat Thread - #14/INFO]: <~wonder_woman> oh
+[16:08:34] [Async Chat Thread - #14/INFO]: <~wonder_woman> sorry
+[16:08:34] [Async Chat Thread - #14/INFO]: <BuuTheGreat> yo lapslie :D
+[16:08:38] [Async Chat Thread - #14/INFO]: <~wonder_woman> hi
+[16:08:42] [Server thread/INFO]: DrizzlyOwl issued server command: /co inspect
+[16:08:49] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> right walsh
+[16:08:51] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> remove a few things
+[16:08:56] [Async Chat Thread - #14/INFO]: <BuuTheGreat> I've been stolen laps :(
+[16:09:02] [Async Chat Thread - #14/INFO]: <WalshyXD> ok
+[16:09:06] [Async Chat Thread - #14/INFO]: <WalshyXD> whats my card?
+[16:09:07] [Server thread/INFO]: I_R_TARD issued server command: /sethome
+[16:09:09] [Async Chat Thread - #14/INFO]: <WalshyXD> hehe
+[16:09:16] [Server thread/INFO]: I_R_TARD issued server command: /tpa DrizzlyOwl
+[16:09:18] [Server thread/INFO]: DrizzlyOwl issued server command: /co rollback t:1m u:walshyxd r:5
+[16:09:20] [Async Chat Thread - #14/INFO]: <I_R_TARD> ????
+[16:09:20] [Async Chat Thread - #14/INFO]: <~wonder_woman> what?
+[16:09:24] [Async Chat Thread - #14/INFO]: <WalshyXD> whaaa
+[16:09:24] [Server thread/INFO]: DrizzlyOwl issued server command: /co inspect
+[16:09:26] [Async Chat Thread - #14/INFO]: <BuuTheGreat> they stole me
+[16:09:27] [Async Chat Thread - #14/INFO]: <WalshyXD> whats the command
+[16:09:30] [Async Chat Thread - #14/INFO]: <~wonder_woman> wow
+[16:09:32] [Async Chat Thread - #14/INFO]: <BuuTheGreat> that chest was hidden
+[16:09:33] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[16:09:34] [Async Chat Thread - #14/INFO]: <~wonder_woman> how hidden
+[16:09:39] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> sorry I don't need your help anymore :P
+[16:09:43] [Async Chat Thread - #14/INFO]: <~wonder_woman> very hidden indeed
+[16:09:43] [Server thread/INFO]: DrizzlyOwl issued server command: /msg walshy co inspect as usual
+[16:09:50] [Async Chat Thread - #14/INFO]: <BuuTheGreat> well quite
+[16:09:52] [Server thread/INFO]: DrizzlyOwl issued server command: /r right click the chest
+[16:09:57] [Server thread/INFO]: DrizzlyOwl issued server command: /r rollback the user and time like usual
+[16:10:02] [Async Chat Thread - #14/INFO]: <BuuTheGreat> someone has used xray to find it
+[16:10:03] [Server thread/INFO]: DrizzlyOwl issued server command: /r make sure the radius is low like 2 or 3
+[16:10:13] [Server thread/INFO]: WalshyXD issued server command: /r copy and paste what you used in skype.
+[16:10:14] [Server thread/INFO]: WalshyXD issued server command: /back
+[16:10:19] [Async Chat Thread - #14/INFO]: <DrizzlyOwl> k
+[16:10:20] [Async Chat Thread - #14/INFO]: <WalshyXD> oh lapslie
+[16:10:25] [Async Chat Thread - #14/INFO]: <WalshyXD> you found an elytra eh?
+[16:10:30] [Async Chat Thread - #14/INFO]: <~wonder_woman> just get really far away from spawn
+[16:10:33] [Async Chat Thread - #14/INFO]: <~wonder_woman> yass
+[16:10:36] [Async Chat Thread - #14/INFO]: <WalshyXD> nicee
+[16:10:38] [Async Chat Thread - #14/INFO]: <BuuTheGreat> nice
+[16:10:42] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:10:44] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[16:10:45] [Async Chat Thread - #14/INFO]: <~wonder_woman> dont know how to use it tho
+[16:10:47] [Async Chat Thread - #14/INFO]: <~wonder_woman> :/
+[16:10:50] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[16:10:51] [Async Chat Thread - #14/INFO]: <BuuTheGreat> lol
+[16:10:57] [Async Chat Thread - #14/INFO]: <WalshyXD> this will be sorted ina min
+[16:10:58] [Server thread/INFO]: I_R_TARD issued server command: /tpdeny
+[16:11:03] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[16:11:03] [Async Chat Thread - #14/INFO]: <BuuTheGreat> ok
+[16:11:12] [Async Chat Thread - #14/INFO]: <WalshyXD> I was going to give weme another chance
+[16:11:17] [Async Chat Thread - #14/INFO]: <WalshyXD> but xrayin to find this.
+[16:11:23] [Async Chat Thread - #14/INFO]: <BuuTheGreat> yes
+[16:11:27] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[16:11:32] [Async Chat Thread - #14/INFO]: <WalshyXD> this is well hidden too
+[16:11:36] [Server thread/INFO]: DrizzlyOwl issued server command: /tp WalshyXD
+[16:11:37] [Async Chat Thread - #14/INFO]: <WalshyXD> cant find it by accident
+[16:11:38] [Async Chat Thread - #14/INFO]: <BuuTheGreat> yea
+[16:11:40] [Async Chat Thread - #14/INFO]: <WalshyXD> oi
+[16:11:42] [Async Chat Thread - #14/INFO]: <WalshyXD> let me do it
+[16:11:44] [Async Chat Thread - #14/INFO]: <WalshyXD> assbutt
+[16:11:53] [Server thread/INFO]: DrizzlyOwl issued server command: /thor
+[16:11:54] [Async Chat Thread - #14/INFO]: <WalshyXD> copy the command in skype. ill understand it
+[16:11:56] [Async Chat Thread - #14/INFO]: <BuuTheGreat> :o
+[16:11:58] [Server thread/INFO]: WalshyXD issued server command: /kittycannon
+[16:12:03] [Server thread/INFO]: WalshyXD issued server command: /kittycannon
+[16:12:07] [Server thread/INFO]: WalshyXD issued server command: /kittycannon
+[16:12:14] [Async Chat Thread - #14/INFO]: <BuuTheGreat> woa
+[16:12:18] [Server thread/INFO]: WalshyXD issued server command: /kittycannon
+[16:12:25] [Server thread/INFO]: BuuTheGreat issued server command: /nick
+[16:12:48] [Server thread/INFO]: DrizzlyOwl issued server command: /co inspect
+[16:13:01] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[16:13:17] [Server thread/INFO]: DrizzlyOwl issued server command: /co inspect
+[16:13:24] [Server thread/INFO]: LAPSLIE issued server command: /home
+[16:13:42] [Server thread/INFO]: WalshyXD issued server command: /co rollback u:drizzlyowl t:2m
+[16:13:52] [Server thread/INFO]: WalshyXD issued server command: /co rollback u:drizzlyowl t:2m r:4
+[16:14:02] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[16:14:23] [Server thread/INFO]: WalshyXD issued server command: /co rollback u:weme105 t:68m r:5
+[16:14:28] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:14:36] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:14:40] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[16:14:42] [Server thread/INFO]: WalshyXD issued server command: /co rollback u:weme105 t:68h r:5
+[16:14:48] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[16:14:56] [Async Chat Thread - #15/INFO]: <DrizzlyOwl> buu
+[16:14:58] [Async Chat Thread - #15/INFO]: <WalshyXD> The chest is now restored
+[16:14:58] [Server thread/INFO]: LAPSLIE issued server command: /spawn
+[16:14:58] [Async Chat Thread - #15/INFO]: <DrizzlyOwl> do you want a duel?
+[16:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:15:00] [Server thread/INFO]: Saving...
+[16:15:03] [Server thread/INFO]: Saved the world
+[16:15:03] [Server thread/INFO]: [Server] Save Complete
+[16:15:04] [Server thread/WARN]: WalshyXD moved too quickly! 4.246504521212454,6.806647550726623,10.369019181049289
+[16:15:06] [Async Chat Thread - #15/INFO]: <BuuTheGreat> nah
+[16:15:11] [Server thread/WARN]: WalshyXD moved too quickly! 3.7033824815056064,-5.808904750811081,-7.326690854803294
+[16:15:13] [Async Chat Thread - #15/INFO]: <DrizzlyOwl> i'll reimburse you
+[16:15:17] [Async Chat Thread - #15/INFO]: <BuuTheGreat> my lap top is bad
+[16:15:17] [Async Chat Thread - #15/INFO]: <WalshyXD> so turns out you can reroll chests :P
+[16:15:41] [Async Chat Thread - #15/INFO]: <BuuTheGreat> always had the ability to do so, Walshy
+[16:15:48] [Async Chat Thread - #15/INFO]: <BuuTheGreat> I've been Mod :P
+[16:15:53] [Async Chat Thread - #15/INFO]: <BuuTheGreat> and am still, shh
+[16:15:55] [User Authenticator #22/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[16:15:55] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@186f277d[id=fe5a70ba-f915-4564-9a3d-61d757dbe2d5,name=LimpBiscuit,properties={textures=[com.mojang.authlib.properties.Property@522c602a]},legacy=false] (/72.197.213.159:53246): You are banned from this server!
+Reason: The Ban Hammer has spoken!
+[16:15:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@186f277d[id=fe5a70ba-f915-4564-9a3d-61d757dbe2d5,name=LimpBiscuit,properties={textures=[com.mojang.authlib.properties.Property@522c602a]},legacy=false] (/72.197.213.159:53246) lost connection: You are banned from this server!
+Reason: The Ban Hammer has spoken!
+[16:16:01] [Server thread/INFO]: DrizzlyOwl issued server command: /tp WalshyXD
+[16:16:16] [Async Chat Thread - #15/INFO]: <BuuTheGreat> shh because it's not important here :)
+[16:16:21] [Async Chat Thread - #15/INFO]: <I_R_TARD> Lag xD
+[16:16:33] [Async Chat Thread - #15/INFO]: <BuuTheGreat> but thanks Walshy and Drizzly :D
+[16:17:54] [Server thread/INFO]: WalshyXD issued server command: /tree
+[16:17:54] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree
+[16:17:57] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[16:18:12] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[16:18:28] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 20
+[16:18:28] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): forestgen 20 - Position: (70.52717178594558, 66.0, -42.92952776393747)
+[16:19:05] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[16:19:05] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (142.2852398070749, 60.0, -125.39817976535781)
+[16:19:36] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[16:19:40] [Server thread/INFO]: WalshyXD issued server command: /tp DrizzlyOwl
+[16:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[16:20:01] [Server thread/INFO]: WalshyXD issued server command: /back
+[16:20:13] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[16:20:13] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (254.67452132805673, 101.24360865321795, -5.310239449808526)
+[16:20:27] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[16:20:31] [Server thread/INFO]: I_R_TARD issued server command: /tpdeny
+[16:20:34] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[16:20:39] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[16:20:39] [Server thread/INFO]: WalshyXD issued server command: //replace log:dark_oak 0
+[16:20:47] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[16:20:49] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[16:20:54] [Server thread/INFO]: WalshyXD issued server command: //replace 162/1 0
+[16:20:54] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 162/1 0 - Region: (142.0, 60.0, -126.0) - (254.0, 101.0, -6.0)
+[16:20:57] [Server thread/WARN]: DrizzlyOwl moved too quickly! -36.904077328045645,-5.050260597650407,23.99702010960135
+[16:21:00] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[16:21:00] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (258.85875778749056, 71.0, -6.700116731135478)
+[16:21:02] [Server thread/INFO]: WalshyXD issued server command: //replace 162/1 0
+[16:21:02] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 162/1 0 - Region: (142.0, 60.0, -126.0) - (258.0, 71.0, -7.0)
+[16:21:13] [Server thread/INFO]: DrizzlyOwl issued server command: /tp WalshyXD
+[16:21:25] [Server thread/INFO]: DrizzlyOwl issued server command: //pos1
+[16:21:25] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (160.24016048956165, 72.26089916879273, -5.447485371924489)
+[16:21:35] [Server thread/INFO]: DrizzlyOwl issued server command: //pos2
+[16:21:35] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (254.7081356401175, 94.73777177882403, -154.05346166360988)
+[16:21:38] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log 0
+[16:21:38] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log 0 - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:21:39] [Async Chat Thread - #16/INFO]: <BuuTheGreat> you've not had many robbers here walshy?
+[16:21:44] [Server thread/INFO]: WalshyXD issued server command: /tp BuuTheGreat
+[16:21:45] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:2 0
+[16:21:45] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:2 0 - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:21:49] [Server thread/INFO]: DrizzlyOwl issued server command: //replace tree 0
+[16:21:49] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace tree 0 - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:21:52] [Async Chat Thread - #16/INFO]: <WalshyXD> where
+[16:21:52] [Server thread/INFO]: DrizzlyOwl issued server command: //replace tree:2
+[16:21:52] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace tree:2 - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:21:53] [Server thread/INFO]: WalshyXD issued server command: /back
+[16:21:55] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[16:21:57] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[16:21:58] [Async Chat Thread - #16/INFO]: <BuuTheGreat> on this server
+[16:21:58] [Server thread/INFO]: DrizzlyOwl issued server command: /undo
+[16:21:58] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /undo
+[16:22:02] [Server thread/WARN]: WalshyXD moved too quickly! -3.6972990180701686,-0.3899844408035307,-12.956514910569773
+[16:22:02] [Server thread/WARN]: BuuTheGreat moved too quickly! 6.791958876615254,0.49520087700592796,-9.948423659922334
+[16:22:10] [Async Chat Thread - #16/INFO]: <WalshyXD> not to my knowledge
+[16:22:16] [Server thread/INFO]: DrizzlyOwl issued server command: //replace jungle birch
+[16:22:16] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace jungle birch - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:22:28] [Async Chat Thread - #16/INFO]: <I_R_TARD> Lag xD
+[16:22:30] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> ooooops
+[16:22:33] [Async Chat Thread - #16/INFO]: <WalshyXD> yeah... blame ash
+[16:22:37] [Async Chat Thread - #16/INFO]: <BuuTheGreat> oh laps is in my house?
+[16:22:47] [Server thread/WARN]: LAPSLIE moved too quickly! 3.226051996327058,4.0,-23.939964575532315
+[16:22:47] [Server thread/WARN]: DrizzlyOwl moved too quickly! 12.920770576908268,0.0,-27.210599943716574
+[16:22:47] [Server thread/WARN]: BuuTheGreat moved too quickly! -2.071167760331079,19.92159999847412,-33.82058704664914
+[16:22:47] [Server thread/INFO]: DrizzlyOwl issued server command: /svping
+[16:22:50] [Async Chat Thread - #16/INFO]: <~wonder_woman> is yours the one on the hill
+[16:22:54] [Server thread/INFO]: DrizzlyOwl issued server command: //undo
+[16:22:54] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /undo
+[16:22:54] [Async Chat Thread - #16/INFO]: <BuuTheGreat> yes
+[16:23:01] [Async Chat Thread - #16/INFO]: <~wonder_woman> its nice
+[16:23:03] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> Sorry folks
+[16:23:05] [Async Chat Thread - #16/INFO]: <BuuTheGreat> thanks :)
+[16:23:05] [Async Chat Thread - #16/INFO]: <~wonder_woman> i like the sauna
+[16:23:10] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> I accidentlied WorldEdit :D
+[16:23:24] [Async Chat Thread - #16/INFO]: <~wonder_woman> do you want any paper?
+[16:23:35] [User Authenticator #23/INFO]: UUID of player I_R_TARD is f0ae569d-71cc-4784-9ed2-5c41e4904795
+[16:23:39] [Async Chat Thread - #16/INFO]: <BuuTheGreat> yea
+[16:23:40] [Async Chat Thread - #16/INFO]: <BuuTheGreat> sure
+[16:23:45] [Server thread/INFO]: I_R_TARD lost connection: Disconnected
+[16:23:45] [Server thread/INFO]: I_R_TARD left the game
+[16:23:45] [Server thread/INFO]: I_R_TARD[/90.227.27.126:54711] logged in with entity id 167773 at ([world]-523.8514124278059, 62.0, 2017.3075915194668)
+[16:23:46] [Server thread/WARN]: BuuTheGreat moved too quickly! -6.273869507816698,5.0,-6.108465345463259
+[16:23:46] [Server thread/WARN]: LAPSLIE moved too quickly! 1.6013618064647517,1.0244240882136921,10.10268310509315
+[16:23:46] [Server thread/WARN]: WalshyXD moved too quickly! -23.382027883891425,-0.919021413255976,-17.33298990812303
+[16:23:46] [Server thread/WARN]: DrizzlyOwl moved too quickly! -108.31964845764307,7.662422504797263,11.914109423089613
+[16:23:46] [Async Chat Thread - #16/INFO]: <BuuTheGreat> paper is nice
+[16:23:46] [Server thread/INFO]: [Server] Welcome back, I_R_TARD
+[16:23:46] [Server thread/INFO]: [CONSOLE->I_R_TARD] Hey there, I_R_TARD!
+[16:23:46] [Server thread/INFO]: [CONSOLE->I_R_TARD] Welcome to Mineapple
+[16:24:02] [Async Chat Thread - #16/INFO]: <BuuTheGreat> omg :D
+[16:24:05] [Server thread/INFO]: DrizzlyOwl issued server command: /svping
+[16:24:08] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> ok lag should be gone now
+[16:24:11] [Server thread/INFO]: DrizzlyOwl issued server command: /we
+[16:24:11] [Async Chat Thread - #16/INFO]: <~wonder_woman> merry chisrtmas
+[16:24:16] [Async Chat Thread - #16/INFO]: <BuuTheGreat> thanks :D
+[16:24:18] [Server thread/INFO]: DrizzlyOwl issued server command: /save
+[16:24:20] [Server thread/INFO]: DrizzlyOwl issued server command: /save-all
+[16:24:21] [Server thread/INFO]: [DrizzlyOwl: Saved the world]
+[16:24:33] [Async Chat Thread - #16/INFO]: <BuuTheGreat> that was lots
+[16:24:48] [Async Chat Thread - #16/INFO]: <~wonder_woman> you should see my sugar cane farm XD
+[16:24:55] [Async Chat Thread - #16/INFO]: <BuuTheGreat> oh omg
+[16:24:57] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[16:24:57] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (256.69999998807907, 63.0, -29.381631511333563)
+[16:25:10] [Async Chat Thread - #16/INFO]: <~wonder_woman> have you seen my area yet
+[16:25:14] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[16:25:14] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (148.01223020674627, 94.4064038445653, -123.81655885410358)
+[16:25:16] [Async Chat Thread - #16/INFO]: <I_R_TARD> mojot
+[16:25:24] [Server thread/INFO]: BuuTheGreat issued server command: /tell walshy is lapslie a girl or a boy? just want to know, it's awkward :P
+[16:25:24] [Server thread/INFO]: [BuuTheGreat->WalshyXD] is lapslie a girl or a boy? just want to know, it's awkward :P
+[16:25:39] [Server thread/INFO]: WalshyXD issued server command: //replace log:2 0
+[16:25:39] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:2 0 - Region: (148.0, 63.0, -124.0) - (256.0, 94.0, -30.0)
+[16:25:46] [Async Chat Thread - #16/INFO]: <BuuTheGreat> hmm the one Ellie lived in?
+[16:25:46] [Server thread/INFO]: WalshyXD issued server command: //replace log:3 0
+[16:25:46] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:3 0 - Region: (148.0, 63.0, -124.0) - (256.0, 94.0, -30.0)
+[16:25:49] [Server thread/INFO]: WalshyXD issued server command: //replace log:1 0
+[16:25:49] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:1 0 - Region: (148.0, 63.0, -124.0) - (256.0, 94.0, -30.0)
+[16:25:50] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:2 0
+[16:25:50] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:2 0 - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:25:52] [Async Chat Thread - #16/INFO]: <I_R_TARD> stövlaj
+[16:25:53] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:3 0
+[16:25:53] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:3 0 - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:25:57] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:4 0
+[16:25:57] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:4 0 - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:26:00] [Async Chat Thread - #16/INFO]: <~wonder_woman> yeap
+[16:26:01] [Async Chat Thread - #16/INFO]: <BuuTheGreat> Stövlar?
+[16:26:04] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[16:26:04] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (142.2515617796021, 100.7615152889604, -134.4478282762051)
+[16:26:05] [Server thread/INFO]: DrizzlyOwl issued server command: //replace dark_oak 0
+[16:26:05] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace dark_oak 0 - Region: (160.0, 72.0, -155.0) - (254.0, 94.0, -6.0)
+[16:26:11] [Async Chat Thread - #16/INFO]: <I_R_TARD> Yeah xD
+[16:26:15] [Async Chat Thread - #16/INFO]: <BuuTheGreat> Boots
+[16:26:18] [Async Chat Thread - #16/INFO]: <BuuTheGreat> in swedish
+[16:26:25] [Async Chat Thread - #16/INFO]: <I_R_TARD> Yeah xD
+[16:26:42] [Async Chat Thread - #16/INFO]: <Skyking_Caton> köttbullar, mums!
+[16:26:46] [Server thread/INFO]: Skyking_Caton issued server command: /tpa I_R_TARD
+[16:26:56] [Server thread/INFO]: I_R_TARD issued server command: /tpaccept
+[16:27:24] [Async Chat Thread - #16/INFO]: <I_R_TARD> Farmors hembakta bullar
+[16:28:10] [Async Chat Thread - #16/INFO]: <~wonder_woman> whos house has all the day light sensors and looks all mediaeval
+[16:28:11] [Async Chat Thread - #16/INFO]: <I_R_TARD> huuts
+[16:28:19] [Async Chat Thread - #16/INFO]: <~wonder_woman> it looks amazing
+[16:28:28] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> I think that was Rhino?
+[16:28:41] [Async Chat Thread - #16/INFO]: <BuuTheGreat> ja fan
+[16:28:44] [Async Chat Thread - #16/INFO]: <~wonder_woman> i love his house so much
+[16:28:57] [Async Chat Thread - #16/INFO]: <I_R_TARD> Nä men se på fan xD
+[16:28:59] [Async Chat Thread - #16/INFO]: <BuuTheGreat> svenska killar eh?
+[16:29:14] [Async Chat Thread - #16/INFO]: <Skyking_Caton> japp
+[16:29:17] [Async Chat Thread - #16/INFO]: <BuuTheGreat> najs
+[16:29:37] [Async Chat Thread - #16/INFO]: <BuuTheGreat> jag är finne
+[16:29:39] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :)
+[16:29:46] [Async Chat Thread - #16/INFO]: <I_R_TARD> Oh okay xD
+[16:29:51] [Async Chat Thread - #16/INFO]: <Skyking_Caton> perkelle
+[16:29:54] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :D
+[16:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.7.0.2
+[16:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:30:00] [Server thread/INFO]: Saving...
+[16:30:04] [Server thread/INFO]: Saved the world
+[16:30:04] [Server thread/INFO]: [Server] Save Complete
+[16:30:05] [Server thread/WARN]: LAPSLIE moved too quickly! 0.47099628546084205,13.0,-13.14643930998875
+[16:30:05] [Server thread/WARN]: DrizzlyOwl moved too quickly! 51.81347828094421,3.6168214417780575,47.5389517340048
+[16:30:11] [Async Chat Thread - #16/INFO]: <BuuTheGreat> djävul på dig med Caton
+[16:30:21] [Async Chat Thread - #16/INFO]: <Skyking_Caton> :)
+[16:30:26] [Server thread/INFO]: DrizzlyOwl issued server command: //forestgen dark_oak 80
+[16:30:30] [Async Chat Thread - #16/INFO]: <I_R_TARD> Saatana perkelle
+[16:30:34] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 80 dark_oak
+[16:30:40] [Async Chat Thread - #16/INFO]: <BuuTheGreat> perkele*
+[16:30:43] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :p
+[16:30:48] [Async Chat Thread - #16/INFO]: <I_R_TARD> Wooops xD
+[16:30:49] [Async Chat Thread - #16/INFO]: <Skyking_Caton> :P
+[16:30:51] [Async Chat Thread - #16/INFO]: <BuuTheGreat> sjuttons gubbar
+[16:30:52] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 80 DARK_OAK
+[16:30:58] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 80 DARK_OAK
+[16:31:06] [Async Chat Thread - #16/INFO]: <BuuTheGreat> fan anamma
+[16:31:11] [Async Chat Thread - #16/INFO]: <BuuTheGreat> jävlar
+[16:31:24] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen [80] [DARK_OAK]
+[16:31:31] [Async Chat Thread - #16/INFO]: <BuuTheGreat> men för helvette
+[16:31:32] [Async Chat Thread - #16/INFO]: <BuuTheGreat> XD
+[16:31:33] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 80 DARK_OAK 10
+[16:31:46] [Server thread/INFO]: WalshyXD issued server command: /tree
+[16:31:46] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree
+[16:31:59] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 10
+[16:31:59] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): forestgen 10 - Position: (160.3555743195061, 70.0, -13.109999056177607)
+[16:32:02] [Server thread/INFO]: DrizzlyOwl issued server command: /undo
+[16:32:02] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /undo
+[16:32:07] [Server thread/INFO]: BuuTheGreat issued server command: /tell laps are you girl or boy just want to know lol :D
+[16:32:07] [Server thread/INFO]: [BuuTheGreat->LAPSLIE] are you girl or boy just want to know lol :D
+[16:32:08] [Server thread/INFO]: WalshyXD issued server command: /tree dark_oak
+[16:32:08] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree dark_oak
+[16:32:12] [Server thread/INFO]: WalshyXD issued server command: /tree darkoak
+[16:32:12] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree darkoak
+[16:32:14] [Async Chat Thread - #16/INFO]: <I_R_TARD> paskiainen
+[16:32:18] [Async Chat Thread - #16/INFO]: <BuuTheGreat> haha
+[16:32:22] [Server thread/INFO]: Skyking_Caton issued server command: /sethome
+[16:32:31] [Async Chat Thread - #16/INFO]: <BuuTheGreat> huit stövel
+[16:32:32] [Async Chat Thread - #16/INFO]: <BuuTheGreat> XD
+[16:32:44] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 80 BIG_TREE
+[16:32:51] [Async Chat Thread - #16/INFO]: <I_R_TARD> I can only swear in finnish xD
+[16:32:58] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 80 log:4
+[16:33:02] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 80
+[16:33:02] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): forestgen 80 - Position: (160.41348917209564, 70.0, -14.77385820863048)
+[16:33:03] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :D
+[16:33:09] [Server thread/WARN]: DrizzlyOwl moved too quickly! 0.0,30.100771629146564,0.0
+[16:33:09] [Server thread/WARN]: WalshyXD moved too quickly! -23.24045168916936,0.14999401569366455,-17.225653822810273
+[16:33:09] [Server thread/WARN]: Skyking_Caton moved too quickly! 1.8018802794626936,5.619976197708681,9.221097840286347
+[16:33:09] [Server thread/WARN]: LAPSLIE moved too quickly! -3.7061409655113806,-19.20607683656639,-2.878107786443053
+[16:33:19] [Server thread/INFO]: WalshyXD issued server command: /tree
+[16:33:19] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree
+[16:33:23] [Async Chat Thread - #16/INFO]: <BuuTheGreat> I have swedish as my mother tongue :)
+[16:33:30] [Async Chat Thread - #16/INFO]: <BuuTheGreat> though I am not swedish :p
+[16:33:37] [Async Chat Thread - #16/INFO]: <I_R_TARD> Oh okay xD
+[16:33:42] [Server thread/INFO]: WalshyXD issued server command: /tree jungle
+[16:33:42] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree jungle
+[16:33:43] [Async Chat Thread - #16/INFO]: <BuuTheGreat> yep
+[16:33:46] [Server thread/INFO]: LAPSLIE issued server command: /spawn
+[16:33:46] [Async Chat Thread - #16/INFO]: <I_R_TARD> Jävla pitta lag
+[16:33:48] [Server thread/INFO]: WalshyXD issued server command: //undo
+[16:33:48] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[16:33:49] [Async Chat Thread - #16/INFO]: <I_R_TARD> Hahahahaha xD
+[16:33:52] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 80
+[16:33:52] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): forestgen 80 - Position: (225.86624903210154, 72.0, 0.8908935283265563)
+[16:33:53] [Async Chat Thread - #16/INFO]: <BuuTheGreat> kan snacka bättre svenska än ni
+[16:33:54] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :)
+[16:33:55] [Server thread/INFO]: WalshyXD issued server command: /tree darkoak
+[16:33:55] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree darkoak
+[16:33:56] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :p
+[16:34:07] [Async Chat Thread - #16/INFO]: <I_R_TARD> Tror jag inte xD
+[16:34:16] [Server thread/INFO]: DrizzlyOwl issued server command: //undo
+[16:34:16] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /undo
+[16:34:18] [Server thread/WARN]: LAPSLIE moved too quickly! 31.858885217529,9.0,-233.44030993252738
+[16:34:24] [Async Chat Thread - #16/INFO]: <I_R_TARD> Pitta
+[16:34:33] [Async Chat Thread - #16/INFO]: <BuuTheGreat> Pitabröd
+[16:34:47] [Async Chat Thread - #16/INFO]: <BuuTheGreat> kebab
+[16:34:54] [Async Chat Thread - #16/INFO]: <Skyking_Caton> im half finnish. but don't know the language. :P
+[16:35:05] [Async Chat Thread - #16/INFO]: <BuuTheGreat> oh really? :D
+[16:35:11] [Async Chat Thread - #16/INFO]: <Skyking_Caton> yeah
+[16:35:15] [Async Chat Thread - #16/INFO]: <BuuTheGreat> nice
+[16:35:20] [Async Chat Thread - #16/INFO]: <I_R_TARD> Well my grandma is finnish xD
+[16:35:23] [Async Chat Thread - #16/INFO]: <BuuTheGreat> lol
+[16:35:24] [Server thread/INFO]: DrizzlyOwl issued server command: /tp WalshyXD
+[16:35:28] [Server thread/INFO]: Hottub99 issued server command: /home
+[16:35:36] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[16:35:59] [Server thread/INFO]: DrizzlyOwl issued server command: //pos1
+[16:35:59] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (359.7498627136402, 73.0, 2.643826051004912)
+[16:36:08] [Async Chat Thread - #16/INFO]: <I_R_TARD> Och allt började med stövlar xD
+[16:36:14] [Server thread/INFO]: DrizzlyOwl issued server command: //pos2
+[16:36:14] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (231.04073764714903, 97.01249477155648, 67.37046288527245)
+[16:36:17] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log 0
+[16:36:17] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:36:21] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:2 0
+[16:36:21] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:2 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:36:23] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:4 0
+[16:36:23] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:4 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:36:27] [Async Chat Thread - #16/INFO]: <BuuTheGreat> som var fel stavat aj aj
+[16:36:28] [Server thread/INFO]: DrizzlyOwl issued server command: //replace DARK_OAK 0
+[16:36:28] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace DARK_OAK 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:36:29] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :P
+[16:36:32] [Server thread/INFO]: DrizzlyOwl issued server command: //replace BIRCH 0
+[16:36:32] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace BIRCH 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:36:40] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:1 0
+[16:36:40] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:1 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:36:41] [User Authenticator #24/INFO]: UUID of player Danomanic is 6364a333-8100-41bd-8777-d09f0ce79118
+[16:36:41] [Server thread/INFO]: Danomanic[/86.16.139.135:60436] logged in with entity id 181156 at ([world]399.21084824295, 66.0, 105.44110858573437)
+[16:36:41] [Server thread/INFO]: [Server] Welcome back, Danomanic
+[16:36:42] [Server thread/INFO]: [CONSOLE->Danomanic] Hey there, Danomanic!
+[16:36:42] [Server thread/INFO]: [CONSOLE->Danomanic] Welcome to Mineapple
+[16:36:44] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:5 0
+[16:36:44] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:5 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:36:49] [Server thread/INFO]: WalshyXD issued server command: //pos 1
+[16:36:49] [Async Chat Thread - #16/INFO]: <I_R_TARD> Ja jag stavade det som ett barn som inte kan säga R xD
+[16:36:53] [Server thread/INFO]: DrizzlyOwl issued server command: //replace BIRCH_LOG 0
+[16:36:53] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace BIRCH_LOG 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:37:09] [Async Chat Thread - #16/INFO]: <I_R_TARD> mojot xD
+[16:37:13] [Async Chat Thread - #16/INFO]: <BuuTheGreat> ja det är ju sant
+[16:37:16] [Async Chat Thread - #16/INFO]: <BuuTheGreat> lol
+[16:37:17] [Server thread/INFO]: DrizzlyOwl issued server command: //replace 17:2 0
+[16:37:17] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace 17:2 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:37:21] [Server thread/INFO]: DrizzlyOwl issued server command: //replace 0017:2 0
+[16:37:21] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace 0017:2 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:37:24] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> Hey Dano
+[16:37:25] [Async Chat Thread - #16/INFO]: <I_R_TARD> Jabajbej
+[16:37:30] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :)
+[16:37:36] [Server thread/INFO]: Hottub99 issued server command: /home
+[16:37:38] [Server thread/INFO]: WalshyXD issued server command: //replace 162:1 air
+[16:37:38] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 162:1 air - Region: (194.0, 63.0, -30.0) - (256.0, 65.0, 186.0)
+[16:37:40] [Server thread/INFO]: DrizzlyOwl issued server command: //replace wood 0
+[16:37:40] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace wood 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:37:41] [Async Chat Thread - #16/INFO]: <~Dano> Yo
+[16:37:43] [Server thread/INFO]: DrizzlyOwl issued server command: //replace tree 0
+[16:37:43] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace tree 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:37:45] [Async Chat Thread - #16/INFO]: <BuuTheGreat> yo dano
+[16:37:56] [Async Chat Thread - #16/INFO]: <BuuTheGreat> raparperi
+[16:37:57] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :D
+[16:38:04] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log:5 0
+[16:38:04] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log:5 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:38:07] [Server thread/INFO]: DrizzlyOwl issued server command: //replace log5 0
+[16:38:07] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace log5 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:38:09] [Server thread/INFO]: WalshyXD issued server command: //replace log:5 0
+[16:38:09] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:5 0 - Region: (194.0, 63.0, -30.0) - (256.0, 65.0, 186.0)
+[16:38:11] [Server thread/INFO]: WalshyXD issued server command: //replace log:5 0
+[16:38:11] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:5 0 - Region: (194.0, 63.0, -30.0) - (256.0, 65.0, 186.0)
+[16:38:17] [Async Chat Thread - #16/INFO]: <BuuTheGreat> morot är porkkana
+[16:38:17] [Async Chat Thread - #16/INFO]: <I_R_TARD> Rabarber xD
+[16:38:17] [Server thread/INFO]: WalshyXD issued server command: //replace log:4 0
+[16:38:17] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:4 0 - Region: (194.0, 63.0, -30.0) - (256.0, 65.0, 186.0)
+[16:38:18] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :)
+[16:38:19] [Server thread/INFO]: WalshyXD issued server command: //replace log:3 0
+[16:38:19] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:3 0 - Region: (194.0, 63.0, -30.0) - (256.0, 65.0, 186.0)
+[16:38:21] [Server thread/INFO]: WalshyXD issued server command: //replace log:2 0
+[16:38:21] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:2 0 - Region: (194.0, 63.0, -30.0) - (256.0, 65.0, 186.0)
+[16:38:24] [Server thread/INFO]: WalshyXD issued server command: //replace log 0
+[16:38:24] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log 0 - Region: (194.0, 63.0, -30.0) - (256.0, 65.0, 186.0)
+[16:38:25] [User Authenticator #25/INFO]: UUID of player SalmirAeon is bcecf376-5cd3-44f9-84e7-9c3a98201d46
+[16:38:25] [Server thread/INFO]: SalmirAeon[/86.188.92.48:54554] logged in with entity id 183290 at ([world]73.30000001192089, 61.0, 232.47700976465012)
+[16:38:25] [Server thread/INFO]: [Server] Welcome back, SalmirAeon
+[16:38:25] [Server thread/INFO]: [CONSOLE->SalmirAeon] Hey there, SalmirAeon!
+[16:38:25] [Server thread/INFO]: [CONSOLE->SalmirAeon] Welcome to Mineapple
+[16:38:34] [Async Chat Thread - #16/INFO]: <I_R_TARD> Oh xD
+[16:38:36] [Server thread/INFO]: DrizzlyOwl issued server command: //replace 17:2 0
+[16:38:36] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace 17:2 0 - Region: (231.0, 73.0, 2.0) - (359.0, 97.0, 67.0)
+[16:38:43] [Async Chat Thread - #16/INFO]: <BuuTheGreat> jopp
+[16:38:45] [Async Chat Thread - #16/INFO]: <~Dano> Can someone kindly TP SalmirAeon to Danomanic (me) location?
+[16:38:48] [Server thread/INFO]: WalshyXD issued server command: /speed fly WalshyXD 10
+[16:38:52] [Server thread/INFO]: WalshyXD issued server command: /speed fly 10 WalshyXD
+[16:38:59] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[16:38:59] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (366.61111434697784, 119.26412482418235, 67.59049082710631)
+[16:38:59] [Server thread/INFO]: DrizzlyOwl issued server command: /msg Danomanic use /tpahere SalmirAeon
+[16:39:00] [Async Chat Thread - #16/INFO]: <I_R_TARD> Use tpa
+[16:39:00] [Async Chat Thread - #16/INFO]: <BuuTheGreat> there is something as /tpa playername
+[16:39:05] [Async Chat Thread - #16/INFO]: <BuuTheGreat> and /tpahere playername
+[16:39:06] [Async Chat Thread - #16/INFO]: <~Dano> Cheers
+[16:39:07] [Server thread/INFO]: WalshyXD issued server command: //replace log 0
+[16:39:07] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:13] [Server thread/INFO]: WalshyXD issued server command: //replace log:5 0
+[16:39:13] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:5 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:14] [Server thread/INFO]: Danomanic issued server command: /tpahere SalmirAeon
+[16:39:17] [Server thread/INFO]: WalshyXD issued server command: //replace log:4 0
+[16:39:17] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:4 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:19] [Server thread/INFO]: WalshyXD issued server command: //replace log:6 0
+[16:39:19] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:6 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:21] [Server thread/INFO]: SalmirAeon issued server command: /tpaccept
+[16:39:23] [Server thread/INFO]: DrizzlyOwl issued server command: //pos1
+[16:39:23] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (224.41378984604137, 66.0, 15.678640612439656)
+[16:39:23] [Server thread/INFO]: WalshyXD issued server command: //replace log:4 0
+[16:39:23] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:4 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:24] [Server thread/INFO]: WalshyXD issued server command: //replace log:3 0
+[16:39:24] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:3 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:27] [Server thread/INFO]: WalshyXD issued server command: //replace log:2 0
+[16:39:27] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:2 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:29] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :)
+[16:39:31] [Server thread/INFO]: WalshyXD issued server command: //replace log:1 0
+[16:39:31] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:1 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:31] [Server thread/INFO]: DrizzlyOwl issued server command: //pos2
+[16:39:31] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (374.4257312011799, 96.65112924429255, 92.58742475708573)
+[16:39:33] [Server thread/INFO]: WalshyXD issued server command: //replace log 0
+[16:39:33] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:37] [Server thread/INFO]: DrizzlyOwl issued server command: //replace 17:2 0
+[16:39:37] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace 17:2 0 - Region: (224.0, 66.0, 15.0) - (374.0, 96.0, 92.0)
+[16:39:41] [Server thread/INFO]: DrizzlyOwl issued server command: //replace dark_oak 0
+[16:39:41] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace dark_oak 0 - Region: (224.0, 66.0, 15.0) - (374.0, 96.0, 92.0)
+[16:39:45] [Server thread/INFO]: DrizzlyOwl issued server command: //replace leave 0
+[16:39:45] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace leave 0 - Region: (224.0, 66.0, 15.0) - (374.0, 96.0, 92.0)
+[16:39:48] [Server thread/INFO]: WalshyXD issued server command: //replace log:6 0
+[16:39:48] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:6 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:52] [Server thread/INFO]: WalshyXD issued server command: //replace log:7 0
+[16:39:52] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:7 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:55] [Server thread/INFO]: WalshyXD issued server command: //replace log:1 0
+[16:39:55] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:1 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:39:59] [Async Chat Thread - #16/INFO]: <~Dano> I'm on Teamspeak sal
+[16:40:07] [Server thread/INFO]: WalshyXD issued server command: //replace log:1 0
+[16:40:07] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log:1 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:40:12] [Server thread/INFO]: WalshyXD issued server command: //replace dark_oak 0
+[16:40:12] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace dark_oak 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:40:12] [Async Chat Thread - #16/INFO]: <BuuTheGreat> gubbar av jord
+[16:40:15] [Server thread/INFO]: LAPSLIE was fireballed by Blaze
+[16:40:16] [Async Chat Thread - #16/INFO]: <BuuTheGreat> jordgubbar
+[16:40:20] [Server thread/INFO]: LAPSLIE issued server command: /back
+[16:40:20] [Server thread/INFO]: WalshyXD issued server command: //replace leaves 0
+[16:40:20] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace leaves 0 - Region: (197.0, 66.0, 67.0) - (366.0, 119.0, 193.0)
+[16:40:22] [Async Chat Thread - #16/INFO]: <I_R_TARD> Men du dricker koskenkorva då eller???? xD
+[16:40:36] [Server thread/INFO]: WalshyXD issued server command: /speed fly 5 WalshyXD
+[16:40:44] [Async Chat Thread - #16/INFO]: <BuuTheGreat> no totta vie sa finnen
+[16:40:52] [Async Chat Thread - #16/INFO]: <BuuTheGreat> naturligtvis
+[16:40:59] [Async Chat Thread - #16/INFO]: <WalshyXD> English only pls
+[16:41:01] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> english only please folks
+[16:41:05] [Async Chat Thread - #16/INFO]: <BuuTheGreat> sorry
+[16:41:06] [Async Chat Thread - #16/INFO]: <BuuTheGreat> :)
+[16:41:08] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> :)
+[16:41:23] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> feel free to /msg each other though!
+[16:41:36] [Server thread/INFO]: Hottub99 issued server command: /back
+[16:41:38] [Async Chat Thread - #16/INFO]: <BuuTheGreat> laps?
+[16:41:41] [Async Chat Thread - #16/INFO]: <~wonder_woman> yes
+[16:41:45] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[16:41:45] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (357.50678445612664, 122.90720845720524, 52.7294596459739)
+[16:41:48] [Server thread/INFO]: WalshyXD issued server command: //naturalize
+[16:41:48] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /naturalize - Region: (216.0, 68.0, 52.0) - (357.0, 122.0, 197.0)
+[16:41:50] [Server thread/WARN]: LAPSLIE moved too quickly! -10.85476419015339,-0.6319031399820076,-0.2187273099466438
+[16:41:50] [Async Chat Thread - #16/INFO]: <BuuTheGreat> you have blaze rod?
+[16:41:58] [Server thread/INFO]: Hottub99 issued server command: /back
+[16:41:59] [Async Chat Thread - #16/INFO]: <~wonder_woman> i have literally one on me
+[16:42:04] [Async Chat Thread - #16/INFO]: <BuuTheGreat> lol
+[16:42:13] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD hej
+[16:42:13] [Async Chat Thread - #16/INFO]: <~wonder_woman> do you want it
+[16:42:24] [Async Chat Thread - #16/INFO]: <BuuTheGreat> well if you don't use it :D
+[16:42:29] [Async Chat Thread - #16/INFO]: <~wonder_woman> sure
+[16:42:31] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Aaa din mamma
+[16:42:32] [Server thread/INFO]: WalshyXD issued server command: //flora range 100
+[16:42:34] [Async Chat Thread - #16/INFO]: <~wonder_woman> ...
+[16:42:35] [Server thread/INFO]: WalshyXD issued server command: //flora 100
+[16:42:35] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /flora 100 - Region: (216.0, 68.0, 52.0) - (357.0, 122.0, 197.0)
+[16:42:39] [Async Chat Thread - #16/INFO]: <~wonder_woman> how do i teleport to you
+[16:42:42] [Async Chat Thread - #16/INFO]: <~deathriderr> t
+[16:42:45] [Server thread/INFO]: Hottub99 issued server command: /back
+[16:42:49] [Async Chat Thread - #16/INFO]: <BuuTheGreat> ./tpa buu
+[16:42:52] [Server thread/INFO]: WalshyXD issued server command: //biome plains
+[16:42:55] [Server thread/INFO]: LAPSLIE issued server command: /tpa buu
+[16:42:57] [Server thread/INFO]: WalshyXD issued server command: //setbiome plains
+[16:42:57] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /setbiome plains - Region: (216.0, 68.0, 52.0) - (357.0, 122.0, 197.0)
+[16:42:59] [Server thread/INFO]: BuuTheGreat issued server command: /tpaccept
+[16:43:01] [Server thread/INFO]: WalshyXD issued server command: //naturalize
+[16:43:01] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /naturalize - Region: (216.0, 68.0, 52.0) - (357.0, 122.0, 197.0)
+[16:43:06] [Server thread/INFO]: SalmirAeon has just earned the achievement [Time to Farm!]
+[16:43:12] [Server thread/INFO]: BuuTheGreat has just earned the achievement [Into Fire]
+[16:43:16] [Async Chat Thread - #16/INFO]: <~wonder_woman> also have that
+[16:43:23] [Async Chat Thread - #16/INFO]: <BuuTheGreat> really?
+[16:43:26] [Async Chat Thread - #16/INFO]: <~wonder_woman> sure
+[16:43:28] [User Authenticator #26/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[16:43:28] [Server thread/INFO]: AlmostJesus[/174.117.23.186:51719] logged in with entity id 190374 at ([world]7538.9272543656425, 158.0, 9482.815468233039)
+[16:43:28] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[16:43:28] [Server thread/INFO]: [CONSOLE->AlmostJesus] Hey there, AlmostJesus!
+[16:43:28] [Server thread/INFO]: [CONSOLE->AlmostJesus] Welcome to Mineapple
+[16:43:34] [Async Chat Thread - #16/INFO]: <BuuTheGreat> you're so kind :)
+[16:43:39] [Async Chat Thread - #16/INFO]: <~wonder_woman> its nothing
+[16:43:43] [Async Chat Thread - #16/INFO]: <~wonder_woman> have a nice day
+[16:43:45] [Server thread/INFO]: DrizzlyOwl issued server command: /svping
+[16:43:52] [Async Chat Thread - #16/INFO]: <BuuTheGreat> I wish the same to you :)
+[16:44:18] [Server thread/INFO]: DrizzlyOwl issued server command: /tree
+[16:44:18] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): tree
+[16:44:21] [Server thread/INFO]: LAPSLIE issued server command: /back
+[16:44:21] [Async Chat Thread - #16/INFO]: <~deathriderr> boss
+[16:44:27] [Async Chat Thread - #16/INFO]: <AlmostJesus> ey boss
+[16:44:38] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat Men vänta varför hade du lärt dig svenska???
+[16:44:47] [Async Chat Thread - #16/INFO]: <AlmostJesus> Nice work
+[16:44:48] [Server thread/INFO]: DrizzlyOwl issued server command: /top
+[16:44:50] [Async Chat Thread - #16/INFO]: <~deathriderr> thanks
+[16:44:54] [Server thread/INFO]: WalshyXD issued server command: //replace grass 0
+[16:44:54] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace grass 0 - Region: (216.0, 68.0, 52.0) - (357.0, 122.0, 197.0)
+[16:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:45:00] [Server thread/INFO]: Saving...
+[16:45:05] [Server thread/INFO]: Saved the world
+[16:45:05] [Server thread/INFO]: [Server] Save Complete
+[16:45:06] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen
+[16:45:06] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): forestgen - Position: (281.50776083771285, 71.0, 116.0998884724374)
+[16:45:11] [Server thread/INFO]: BuuTheGreat issued server command: /r svenska är mitt modersmål, mamma talar svenska
+[16:45:11] [Async Chat Thread - #16/INFO]: <I_R_TARD> Pitta
+[16:45:12] [Async Chat Thread - #16/INFO]: <~deathriderr> well i gtg to wok o cya
+[16:45:14] [Server thread/INFO]: WalshyXD issued server command: //naturalize
+[16:45:14] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /naturalize - Region: (216.0, 68.0, 52.0) - (357.0, 122.0, 197.0)
+[16:45:16] [Server thread/INFO]: Hottub99 lost connection: Disconnected
+[16:45:16] [Server thread/INFO]: Hottub99 left the game
+[16:45:21] [Server thread/INFO]: DrizzlyOwl issued server command: /forestgen 100 TREE 20
+[16:45:21] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): forestgen 100 TREE 20 - Position: (281.50776083771285, 71.0, 116.0998884724374)
+[16:45:38] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat Aha okej
+[16:45:39] [Server thread/INFO]: DrizzlyOwl issued server command: /undo
+[16:45:39] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /undo
+[16:45:51] [Async Chat Thread - #16/INFO]: <Skyking_Caton> lag?
+[16:45:52] [Server thread/INFO]: BuuTheGreat issued server command: /r hon talar också finska flytande såsom jag gör
+[16:45:54] [Server thread/INFO]: DrizzlyOwl issued server command: /top
+[16:45:54] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> yeah sorry
+[16:45:54] [Server thread/INFO]: WalshyXD issued server command: /tphere d
+[16:46:00] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> i'm being an idiot ;)
+[16:46:20] [Server thread/WARN]: DrizzlyOwl moved too quickly! -40.69409118575362,0.0,-9.67962354011911
+[16:46:20] [Server thread/INFO]: Danomanic issued server command: /tpt SalmirAeon
+[16:46:22] [Server thread/INFO]: Danomanic issued server command: /helpo
+[16:46:25] [Server thread/INFO]: Danomanic issued server command: /help
+[16:46:26] [Server thread/INFO]: DrizzlyOwl issued server command: //clear
+[16:46:28] [Server thread/INFO]: Danomanic issued server command: /help 2
+[16:46:30] [Server thread/INFO]: Danomanic issued server command: /help 3
+[16:46:30] [Server thread/INFO]: DrizzlyOwl issued server command: //cl
+[16:46:32] [Server thread/INFO]: Danomanic issued server command: /help 4
+[16:46:37] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat Att du inte sa något det hade ju vart mycket enklare xD
+[16:46:40] [Async Chat Thread - #16/INFO]: <DrizzlyOwl> Nearly max slots folks!
+[16:46:51] [Server thread/INFO]: Danomanic issued server command: /tpa salmiraeon
+[16:46:54] [Server thread/INFO]: BuuTheGreat issued server command: /r jag trodde ni var britter :P
+[16:46:55] [Server thread/INFO]: SalmirAeon has just earned the achievement [Time to Mine!]
+[16:46:55] [Server thread/INFO]: SalmirAeon has just earned the achievement [Getting an Upgrade]
+[16:47:11] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat Aha xD
+[16:47:17] [Server thread/INFO]: Danomanic issued server command: /home
+[16:47:19] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD nej
+[16:48:17] [Async Chat Thread - #17/INFO]: <I_R_TARD> https://www.youtube.com/watch?v=QiqqC_fbP1c
+[16:48:26] [Server thread/INFO]: BuuTheGreat starved to death
+[16:48:30] [Async Chat Thread - #17/INFO]: <Skyking_Caton> ?
+[16:48:37] [Async Chat Thread - #17/INFO]: <BuuTheGreat> oh you could starve to death?
+[16:48:39] [Async Chat Thread - #17/INFO]: <BuuTheGreat> lol
+[16:48:41] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[16:48:45] [Async Chat Thread - #17/INFO]: <AlmostJesus> rekt
+[16:48:55] [Async Chat Thread - #17/INFO]: <BuuTheGreat> I am used to that you canät
+[16:48:58] [Async Chat Thread - #17/INFO]: <BuuTheGreat> can't
+[16:49:10] [Server thread/INFO]: DrizzlyOwl issued server command: /afk
+[16:49:11] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat https://www.youtube.com/watch?v=QiqqC_fbP1c
+[16:49:25] [Async Chat Thread - #17/INFO]: <AlmostJesus> Wasn't it that you could only drop to half a heart before?
+[16:49:33] [Async Chat Thread - #17/INFO]: <BuuTheGreat> yes
+[16:49:39] [Async Chat Thread - #17/INFO]: <I_R_TARD> https://www.youtube.com/watch?v=QiqqC_fbP1c
+[16:49:47] [Async Chat Thread - #17/INFO]: <I_R_TARD> Spread the word everyone
+[16:50:59] [Async Chat Thread - #18/INFO]: <BuuTheGreat> potatoman
+[16:51:01] [Async Chat Thread - #18/INFO]: <AlmostJesus> What do you want to be when you grow up son? A potato
+[16:51:07] [Async Chat Thread - #18/INFO]: <BuuTheGreat> :D
+[16:51:11] [Async Chat Thread - #18/INFO]: <Skyking_Caton> XD
+[16:51:21] [Server thread/INFO]: LAPSLIE issued server command: /home
+[16:51:26] [User Authenticator #27/INFO]: UUID of player LimpBiscuit is fe5a70ba-f915-4564-9a3d-61d757dbe2d5
+[16:51:26] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@306dd910[id=fe5a70ba-f915-4564-9a3d-61d757dbe2d5,name=LimpBiscuit,properties={textures=[com.mojang.authlib.properties.Property@6344af44]},legacy=false] (/72.197.213.159:53443): You are banned from this server!
+Reason: The Ban Hammer has spoken!
+[16:51:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@306dd910[id=fe5a70ba-f915-4564-9a3d-61d757dbe2d5,name=LimpBiscuit,properties={textures=[com.mojang.authlib.properties.Property@6344af44]},legacy=false] (/72.197.213.159:53443) lost connection: You are banned from this server!
+Reason: The Ban Hammer has spoken!
+[16:51:34] [Async Chat Thread - #18/INFO]: <I_R_TARD> I have potato blood in my veins
+[16:51:39] [Async Chat Thread - #18/INFO]: <BuuTheGreat> :D
+[16:51:46] [Async Chat Thread - #18/INFO]: <I_R_TARD> My life is potato
+[16:51:50] [Server thread/INFO]: DrizzlyOwl issued server command: /reload
+[16:51:50] [Server thread/INFO]: DrizzlyOwl: Please note that this command is not supported and may cause issues when using some plugins.
+[16:51:50] [Server thread/INFO]: DrizzlyOwl: If you encounter any issues please use the /stop command to restart your server.
+[16:51:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:51:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:51:50] [Server thread/INFO]: Debug logging is disabled
+[16:51:50] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.2;e38d98d
+[16:51:50] [Async Chat Thread - #18/INFO]: <AlmostJesus> INJECT THAT SHIT!!!
+[16:51:50] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[16:51:50] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[16:51:50] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b424
+[16:51:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[16:51:50] [Server thread/INFO]: [Slack] Disabling Slack v1.5.0
+[16:51:50] [Server thread/INFO]: [Slack] Slack has been disabled!
+[16:51:50] [Server thread/INFO]: [BukkitCompat] Disabling BukkitCompat vR22A
+[16:51:50] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.13.1
+[16:51:51] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[16:51:51] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[16:51:51] [Server thread/INFO]: [Slack] Loading Slack v1.5.0
+[16:51:51] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[16:51:51] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[16:51:51] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[16:51:51] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[16:51:51] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[16:51:51] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[16:51:51] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[16:51:51] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[16:51:51] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[16:51:51] [Server thread/INFO]: [Slack] Enabling Slack v1.5.0
+[16:51:51] [Server thread/INFO]: [Slack] Slack has been enabled.
+[16:51:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[16:51:51] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:51:51] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
+[16:51:51] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
+[16:51:51] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[16:51:51] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsSpawn to the same version.
+[16:51:51] [Server thread/INFO]: Using locale en_US
+[16:51:51] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:51:51] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[16:51:51] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:51:51] [Server thread/INFO]: Using locale en_US
+[16:51:51] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[16:51:51] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[16:51:51] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[16:51:51] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[16:51:51] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[16:51:51] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:51:51] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:51:51] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:51:51] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/minecraft (MySQL 5.7)
+[16:51:52] [Server thread/INFO]: [WorldGuard] Current version of schema `minecraft`: 2
+[16:51:52] [Server thread/INFO]: [WorldGuard] Schema `minecraft` is up to date. No migration necessary.
+[16:51:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:51:52] [Server thread/INFO]: DrizzlyOwl: Reload complete.
+[16:51:58] [Server thread/INFO]: DrizzlyOwl lost connection: Disconnected
+[16:51:58] [Server thread/INFO]: DrizzlyOwl left the game
+[16:51:59] [Async Chat Thread - #18/INFO]: <AlmostJesus> Sorry too intense?
+[16:52:02] [User Authenticator #28/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
+[16:52:03] [Server thread/INFO]: DrizzlyOwl[/176.27.13.83:62478] logged in with entity id 203898 at ([world]53.8522216804413, 125.48776556265757, 22.530935518052875)
+[16:52:03] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
+[16:52:03] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Hey there, DrizzlyOwl!
+[16:52:03] [Server thread/INFO]: [CONSOLE->DrizzlyOwl] Welcome to Mineapple
+[16:52:20] [Async Chat Thread - #18/INFO]: <DrizzlyOwl> Just need one more player to hit the slot cap! :D
+[16:52:25] [Server thread/INFO]: DrizzlyOwl issued server command: /home
+[16:52:34] [Async Chat Thread - #18/INFO]: <AlmostJesus> We had it when i joined, then Josh left
+[16:52:39] [Server thread/INFO]: WalshyXD issued server command: /tp Danomanic
+[16:52:42] [Server thread/INFO]: WalshyXD issued server command: /tp DrizzlyOwl
+[16:52:44] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[16:52:44] [Server thread/INFO]: BuuTheGreat left the game
+[16:52:48] [Server thread/INFO]: WalshyXD issued server command: /speed fly 10 WalshyXD
+[16:52:51] [Server thread/INFO]: DrizzlyOwl issued server command: /v
+[16:52:52] [Server thread/INFO]: WalshyXD issued server command: /speed fly 1
+[16:52:55] [Server thread/INFO]: WalshyXD issued server command: /v
+[16:52:57] [Server thread/INFO]: DrizzlyOwl issued server command: /socialspy
+[16:52:58] [Async Chat Thread - #18/INFO]: <~Dano> Damn hackers
+[16:52:58] [Server thread/INFO]: WalshyXD issued server command: /tp AlmostJesus
+[16:53:04] [Server thread/INFO]: DrizzlyOwl issued server command: /tp Danomanic
+[16:53:06] [Server thread/WARN]: LAPSLIE moved too quickly! 6.597591917765385,0.12129684053920187,9.612538919969666
+[16:53:07] [Server thread/INFO]: WalshyXD issued server command: /tp Skyking_Caton
+[16:53:09] [Async Chat Thread - #18/INFO]: <DrizzlyOwl> sup Dan
+[16:53:13] [Server thread/INFO]: WalshyXD issued server command: /tp I_R_TARD
+[16:53:25] [Server thread/INFO]: WalshyXD issued server command: /tp LAPSLIE
+[16:53:37] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 1
+[16:53:40] [Server thread/INFO]: WalshyXD issued server command: /tphere Danomanic
+[16:53:42] [Async Chat Thread - #18/INFO]: <WalshyXD> SORRY
+[16:53:42] [Async Chat Thread - #18/INFO]: <~Dano> Admin TP'd to me
+[16:53:46] [Async Chat Thread - #18/INFO]: <WalshyXD> wrong person dan
+[16:53:48] [Async Chat Thread - #18/INFO]: <WalshyXD> tp back lol
+[16:53:53] [Server thread/INFO]: WalshyXD issued server command: /tphere DrizzlyOwl
+[16:53:54] [Async Chat Thread - #18/INFO]: <~Dano> Damn hackers :)
+[16:54:00] [Server thread/INFO]: Danomanic issued server command: /home
+[16:54:09] [Server thread/INFO]: WalshyXD issued server command: /suedo
+[16:54:12] [Server thread/INFO]: WalshyXD issued server command: /sudo
+[16:54:18] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[16:54:18] [Server thread/INFO]: AlmostJesus left the game
+[16:54:46] [Async Chat Thread - #18/INFO]: <DrizzlyOwl> nice place Lapslie
+[16:54:53] [Async Chat Thread - #18/INFO]: <~wonder_woman> thank you
+[16:54:55] [Server thread/INFO]: WalshyXD issued server command: /sudo LAPSLIE /say I like dick
+[16:55:04] [Server thread/INFO]: WalshyXD issued server command: /sudo LAPSLIE say I like dick
+[16:55:23] [Server thread/INFO]: DrizzlyOwl issued server command: /sudo LAPSLIE say hello
+[16:55:23] [Server thread/INFO]: WalshyXD issued server command: /sudo LAPSLIE talk I like dick
+[16:55:27] [Server thread/INFO]: DrizzlyOwl issued server command: /say lol
+[16:55:27] [Server thread/INFO]: [DrizzlyOwl] lol
+[16:55:33] [Async Chat Thread - #18/INFO]: <~wonder_woman> what?
+[16:55:35] [Server thread/INFO]: WalshyXD issued server command: /sudo LAPSLIE /w drizz I like dick
+[16:55:36] [Async Chat Thread - #18/INFO]: <~wonder_woman> um
+[16:55:40] [Async Chat Thread - #18/INFO]: <DrizzlyOwl> not you sorry
+[16:55:44] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD lo lol lo ol ol
+[16:55:56] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton olo
+[16:55:59] [Server thread/INFO]: WalshyXD issued server command: /talk :)
+[16:56:03] [Server thread/INFO]: WalshyXD issued server command: /say :)
+[16:56:03] [Server thread/INFO]: [WalshyXD] :)
+[16:56:12] [Server thread/INFO]: WalshyXD issued server command: /tp SalmirAeon
+[16:56:28] [User Authenticator #29/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[16:56:28] [Server thread/INFO]: egger49[/99.247.164.202:51604] logged in with entity id 207153 at ([world]7555.9438166071795, 173.0, 9480.179660478383)
+[16:56:28] [Server thread/INFO]: [Server] Welcome back, egger49
+[16:56:28] [Server thread/INFO]: [CONSOLE->egger49] Hey there, egger49!
+[16:56:28] [Server thread/INFO]: [CONSOLE->egger49] Welcome to Mineapple
+[16:56:32] [Async Chat Thread - #18/INFO]: <~wonder_woman> wb
+[16:56:40] [Async Chat Thread - #18/INFO]: <~Jesus> ty
+[16:56:54] [Server thread/INFO]: DrizzlyOwl issued server command: /tp SalmirAeon
+[16:57:42] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD iti
+[16:57:52] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD ayetiie
+[16:57:59] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton äiti
+[16:58:00] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD äayetiie
+[16:58:04] [Server thread/INFO]: WalshyXD issued server command: /tp LAPSLIE
+[16:58:13] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD äiti
+[16:58:17] [Async Chat Thread - #19/INFO]: <~wonder_woman> ...
+[16:58:32] [Async Chat Thread - #19/INFO]: <~wonder_woman> um
+[16:58:35] [Server thread/INFO]: DrizzlyOwl issued server command: /mob cow:chicken
+[16:58:38] [Async Chat Thread - #19/INFO]: <~wonder_woman> could you fix it please
+[16:58:42] [Async Chat Thread - #19/INFO]: <~wonder_woman> thx
+[16:58:43] [Async Chat Thread - #19/INFO]: <WalshyXD> wheres ellie :/
+[16:58:49] [Server thread/INFO]: DrizzlyOwl issued server command: /mob
+[16:58:49] [Async Chat Thread - #19/INFO]: <~wonder_woman> she went off line
+[16:58:53] [Async Chat Thread - #19/INFO]: <WalshyXD> noshit
+[16:58:54] [Async Chat Thread - #19/INFO]: <~wonder_woman> hasnt been on for hours
+[16:58:55] [Server thread/INFO]: WalshyXD issued server command: /back
+[16:58:59] [Server thread/INFO]: DrizzlyOwl issued server command: /mob cow,chicken
+[16:59:12] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton tu madre
+[16:59:17] [Server thread/INFO]: DrizzlyOwl issued server command: /v
+[16:59:22] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD hi Walshy
+[16:59:22] [Server thread/INFO]: WalshyXD issued server command: /v
+[16:59:25] [Async Chat Thread - #19/INFO]: <~wonder_woman> probably watching a shark movie
+[16:59:36] [Server thread/INFO]: DrizzlyOwl issued server command: /msg Danomanic you guys on TS?
+[16:59:36] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD hi Drizzly
+[16:59:39] [Async Chat Thread - #19/INFO]: <~Dano> Yeah
+[16:59:43] [Async Chat Thread - #19/INFO]: <~Dano> ts.zurk.uk
+[16:59:45] [Server thread/INFO]: WalshyXD issued server command: /tp a
+[16:59:49] [Server thread/INFO]: WalshyXD issued server command: /v
+[16:59:52] [Server thread/INFO]: WalshyXD issued server command: /tp alm
+[16:59:57] [Server thread/INFO]: WalshyXD issued server command: /tp bath
+[17:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:00:00] [Server thread/INFO]: Saving...
+[17:00:07] [Server thread/INFO]: Saved the world
+[17:00:07] [Server thread/INFO]: [Server] Save Complete
+[17:00:07] [Server thread/WARN]: Skyking_Caton moved too quickly! 0.1922269428614527,-0.057157787393911974,10.558860216822723
+[17:00:07] [Server thread/INFO]: egger49 lost connection: Disconnected
+[17:00:08] [Server thread/INFO]: egger49 left the game
+[17:00:18] [Server thread/INFO]: DrizzlyOwl issued server command: /mob cow,minecart
+[17:00:20] [Async Chat Thread - #19/INFO]: <~Dano> woops no whisper :)
+[17:00:58] [Server thread/INFO]: DrizzlyOwl issued server command: /mob horse,skeleton,chicken
+[17:01:23] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD just testing :)
+[17:01:28] [Server thread/INFO]: WalshyXD issued server command: /mob chicken:chicken:chicken
+[17:01:36] [Server thread/INFO]: DrizzlyOwl issued server command: /mob cow,sheep
+[17:01:42] [Server thread/INFO]: WalshyXD issued server command: /mob chicken,chicken,chicken
+[17:02:08] [Server thread/INFO]: Danomanic was slain by Zombie
+[17:02:11] [Server thread/INFO]: WalshyXD issued server command: /mob chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken
+[17:02:15] [Server thread/INFO]: Danomanic issued server command: /back
+[17:02:21] [Server thread/INFO]: WalshyXD issued server command: /tp LAPSLIE
+[17:02:27] [Server thread/INFO]: WalshyXD issued server command: /mob chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken
+[17:02:31] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> dan
+[17:02:37] [Async Chat Thread - #20/INFO]: <DrizzlyOwl> want to play chicken jenga?
+[17:03:01] [Server thread/INFO]: DrizzlyOwl issued server command: /tp WalshyXD
+[17:03:08] [Server thread/INFO]: DrizzlyOwl issued server command: /v
+[17:03:10] [Async Chat Thread - #20/INFO]: <~Dano> I win?
+[17:03:33] [Async Chat Thread - #20/INFO]: <~wonder_woman> what
+[17:03:39] [Server thread/INFO]: Danomanic has just earned the achievement [Cow Tipper]
+[17:03:57] [Server thread/INFO]: DrizzlyOwl issued server command: /mob cow,creeper 1
+[17:04:16] [Server thread/INFO]: Danomanic issued server command: /r You invisible?
+[17:04:19] [Server thread/INFO]: DrizzlyOwl issued server command: /r mhm
+[17:05:14] [Server thread/INFO]: WalshyXD issued server command: /tp Skyking_Caton
+[17:05:16] [Server thread/INFO]: DrizzlyOwl issued server command: /home
+[17:05:17] [Server thread/INFO]: DrizzlyOwl lost connection: Disconnected
+[17:05:17] [Server thread/INFO]: DrizzlyOwl left the game
+[17:05:32] [Server thread/INFO]: WalshyXD issued server command: /mob silverfish,silverfish,silverfish
+[17:05:52] [Server thread/INFO]: WalshyXD issued server command: /tp dan
+[17:06:04] [Server thread/INFO]: WalshyXD issued server command: /mob endermite,endermite,endermite,endermite,endermite,endermite,endermite,endermite,endermite,ender
+[17:06:08] [Server thread/INFO]: WalshyXD issued server command: /mob
+[17:06:22] [Server thread/INFO]: WalshyXD issued server command: /mob endermite,endermite,endermite,endermite,endermite,endermite,endermite,endermite,endermite,ender
+[17:06:27] [Server thread/INFO]: WalshyXD issued server command: /mob endermite,endermite
+[17:06:33] [Server thread/INFO]: WalshyXD issued server command: /mob endermite,endermiteendermite,endermiteendermite,endermiteendermite,endermiteendermite,endermite
+[17:06:43] [Async Chat Thread - #21/INFO]: <WalshyXD> endermite,endermite,endermite,endermiteendermite,endermiteendermite,endermiteendermite,endermite
+[17:06:46] [Async Chat Thread - #21/INFO]: <WalshyXD> oops
+[17:06:57] [Async Chat Thread - #21/INFO]: <~wonder_woman> what the hell are yuo doing
+[17:07:01] [Server thread/INFO]: WalshyXD issued server command: /mob endermite,endermite,endermiteendermite,endermiteendermite,endermiteendermite,endermite
+[17:07:08] [Async Chat Thread - #21/INFO]: <I_R_TARD> Trolling us
+[17:07:18] [Server thread/INFO]: WalshyXD issued server command: /mob endermite,endermite,endermite,endermite,endermite,endermite,
+[17:07:27] [Async Chat Thread - #21/INFO]: <~wonder_woman> D:
+[17:07:28] [Server thread/INFO]: WalshyXD issued server command: /TP SalmirAeon
+[17:07:33] [Server thread/INFO]: WalshyXD issued server command: /TP I_R_TARD
+[17:07:39] [Server thread/INFO]: WalshyXD issued server command: /mob endermite,endermite,endermite,endermite,endermite,endermite,
+[17:08:00] [Server thread/INFO]: WalshyXD issued server command: /KILLALL ENDERMITE
+[17:08:08] [Server thread/INFO]: WalshyXD issued server command: /GM 3
+[17:08:10] [Server thread/INFO]: WalshyXD issued server command: /GM 1
+[17:08:16] [Server thread/INFO]: WalshyXD issued server command: /MOB ENDERMAN,CHICKEN
+[17:08:29] [Server thread/INFO]: WalshyXD issued server command: /TP Skyking_Caton
+[17:08:38] [Server thread/INFO]: WalshyXD issued server command: /TP Danomanic
+[17:08:43] [Server thread/INFO]: WalshyXD issued server command: /MOB ENDERMAN,CHICKEN
+[17:08:58] [Server thread/INFO]: WalshyXD issued server command: /TP LAP
+[17:09:04] [Server thread/INFO]: WalshyXD issued server command: /MOB ENDERMAN,CHICKEN
+[17:09:52] [Server thread/INFO]: Danomanic was slain by Enderman
+[17:09:57] [Server thread/INFO]: SalmirAeon was slain by Enderman
+[17:09:58] [Server thread/INFO]: Danomanic issued server command: /home
+[17:10:05] [Server thread/WARN]: I_R_TARD moved too quickly! 5.714016816762637,-8.0,5.873152376705775
+[17:10:05] [Server thread/WARN]: WalshyXD moved too quickly! -20.145264477143428,0.0,-17.61383368587667
+[17:10:07] [Async Chat Thread - #22/INFO]: <~Dano> Damn he own'd us
+[17:10:08] [Server thread/INFO]: SalmirAeon issued server command: /back
+[17:10:17] [Async Chat Thread - #22/INFO]: <WalshyXD> Yeah they hit alot harder since 1.9
+[17:10:21] [Server thread/INFO]: WalshyXD issued server command: /spawn
+[17:10:23] [Async Chat Thread - #22/INFO]: <WalshyXD> btw
+[17:10:28] [Async Chat Thread - #22/INFO]: <~Dano> Damn
+[17:10:29] [Async Chat Thread - #22/INFO]: <WalshyXD> ./Spawn now works
+[17:10:46] [Async Chat Thread - #22/INFO]: <Skyking_Caton> nice
+[17:10:56] [Server thread/INFO]: WalshyXD issued server command: /mob
+[17:12:31] [Server thread/INFO]: WalshyXD issued server command: /tp dan
+[17:13:24] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[17:13:24] [Server thread/INFO]: WalshyXD left the game
+[17:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:15:00] [Server thread/INFO]: Saving...
+[17:15:00] [Server thread/INFO]: Saved the world
+[17:15:00] [Server thread/INFO]: [Server] Save Complete
+[17:19:55] [Server thread/INFO]: Skyking_Caton issued server command: /spawn
+[17:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[17:20:54] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[17:20:58] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[17:21:00] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[17:24:41] [Server thread/INFO]: LAPSLIE lost connection: Disconnected
+[17:24:41] [Server thread/INFO]: LAPSLIE left the game
+[17:25:22] [Server thread/INFO]: SalmirAeon has just earned the achievement [Bake Bread]
+[17:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:30:00] [Server thread/INFO]: Saving...
+[17:30:01] [Server thread/INFO]: Saved the world
+[17:30:01] [Server thread/INFO]: [Server] Save Complete
+[17:30:34] [Server thread/INFO]: I_R_TARD issued server command: /tpa Skyking_Caton
+[17:30:42] [Server thread/INFO]: Skyking_Caton issued server command: /tpaccept
+[17:32:03] [Server thread/WARN]: Boat moved wrongly!
+[17:32:47] [Server thread/INFO]: Danomanic tried to swim in lava
+[17:32:57] [Server thread/INFO]: Danomanic issued server command: /home
+[17:41:56] [Server thread/INFO]: Danomanic has just earned the achievement [Monster Hunter]
+[17:44:05] [Server thread/INFO]: Danomanic issued server command: /home
+[17:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:45:00] [Server thread/INFO]: Saving...
+[17:45:02] [Server thread/INFO]: Saved the world
+[17:45:02] [Server thread/INFO]: [Server] Save Complete
+[17:48:13] [User Authenticator #30/INFO]: UUID of player Purplewalrus101 is f2d8c726-a972-40d0-b62d-8fe961a60a99
+[17:48:13] [Server thread/INFO]: Purplewalrus101[/45.26.163.130:53731] logged in with entity id 233619 at ([world]-32.5, 68.0, 252.5)
+[17:48:13] [Server thread/INFO]: [Server] Purplewalrus101 has just joined for the first time.
+[17:48:13] [Server thread/INFO]: [Server] 64 unique players have visited this server.
+[17:48:13] [pool-50-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/f2d8c726-a972-40d0-b62d-8fe961a60a99.yml
+[17:48:13] [Server thread/INFO]: [CONSOLE->Purplewalrus101] Hey there, Purplewalrus101!
+[17:48:13] [Server thread/INFO]: [CONSOLE->Purplewalrus101] Welcome to Mineapple
+[17:48:23] [Async Chat Thread - #23/INFO]: <~Dano> Welcome
+[17:49:03] [Async Chat Thread - #23/INFO]: <Purplewalrus101> hello
+[17:49:29] [Server thread/INFO]: Purplewalrus101 issued server command: /ping
+[17:49:43] [Server thread/INFO]: Danomanic issued server command: /home
+[17:49:58] [Server thread/INFO]: Danomanic issued server command: /tpa sal
+[17:50:07] [Server thread/INFO]: SalmirAeon issued server command: /tpaccept
+[17:51:18] [Server thread/INFO]: Purplewalrus101 lost connection: Disconnected
+[17:51:18] [Server thread/INFO]: Purplewalrus101 left the game
+[17:51:21] [Server thread/INFO]: Danomanic issued server command: /tpahere Salmiraeon
+[17:51:27] [Server thread/INFO]: SalmirAeon issued server command: /tpaccept
+[17:51:35] [Server thread/INFO]: SalmirAeon issued server command: /sethome
+[17:55:00] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD god natt
+[17:55:26] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD dra åt perkele
+[17:58:02] [User Authenticator #31/INFO]: UUID of player AWildRegice is 4dab5a80-57cf-4de2-8923-11a9033a2fd9
+[17:58:02] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7dedf5bc[id=4dab5a80-57cf-4de2-8923-11a9033a2fd9,name=AWildRegice,properties={textures=[com.mojang.authlib.properties.Property@73b5628f]},legacy=false] (/76.189.199.222:54155): Your IP address is banned from this server!
+Reason: Spam
+[17:58:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@7dedf5bc[id=4dab5a80-57cf-4de2-8923-11a9033a2fd9,name=AWildRegice,properties={textures=[com.mojang.authlib.properties.Property@73b5628f]},legacy=false] (/76.189.199.222:54155) lost connection: Your IP address is banned from this server!
+Reason: Spam
+[17:59:22] [Server thread/INFO]: Danomanic tried to swim in lava
+[17:59:32] [Server thread/INFO]: Danomanic issued server command: /home
+[18:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:00:00] [Server thread/INFO]: Saving...
+[18:00:04] [Server thread/INFO]: Saved the world
+[18:00:04] [Server thread/INFO]: [Server] Save Complete
+[18:01:03] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD extremt HD
+[18:01:07] [Server thread/INFO]: Skyking_Caton lost connection: Disconnected
+[18:01:07] [Server thread/INFO]: Skyking_Caton left the game
+[18:02:11] [Server thread/INFO]: I_R_TARD lost connection: Disconnected
+[18:02:11] [Server thread/INFO]: I_R_TARD left the game
+[18:04:04] [Server thread/INFO]: Danomanic lost connection: Disconnected
+[18:04:04] [Server thread/INFO]: Danomanic left the game
+[18:04:09] [User Authenticator #32/INFO]: UUID of player Danomanic is 6364a333-8100-41bd-8777-d09f0ce79118
+[18:04:09] [Server thread/INFO]: Danomanic[/86.16.139.135:61032] logged in with entity id 239517 at ([world]399.2176081481047, 66.0, 103.67153237728539)
+[18:04:09] [Server thread/INFO]: [Server] Welcome back, Danomanic
+[18:04:09] [Server thread/INFO]: [CONSOLE->Danomanic] Hey there, Danomanic!
+[18:04:09] [Server thread/INFO]: [CONSOLE->Danomanic] Welcome to Mineapple
+[18:04:43] [Server thread/INFO]: Danomanic lost connection: Timed out
+[18:04:43] [Server thread/INFO]: Danomanic left the game
+[18:05:20] [Server thread/INFO]: SalmirAeon lost connection: Disconnected
+[18:05:20] [Server thread/INFO]: SalmirAeon left the game
+[18:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:15:00] [Server thread/INFO]: Saving...
+[18:15:00] [Server thread/INFO]: Saved the world
+[18:15:00] [Server thread/INFO]: [Server] Save Complete
+[18:24:39] [User Authenticator #33/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[18:24:39] [Server thread/INFO]: WalshyXD[/86.3.13.214:52282] logged in with entity id 239691 at ([world]412.20676018006606, 36.78294050467686, 93.68105724794017)
+[18:24:39] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[18:24:39] [Server thread/INFO]: [CONSOLE->WalshyXD] Hey there, WalshyXD!
+[18:24:39] [Server thread/INFO]: [CONSOLE->WalshyXD] Welcome to Mineapple
+[18:24:43] [Server thread/INFO]: WalshyXD issued server command: /spawn
+[18:24:45] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[18:24:55] [Server thread/INFO]: WalshyXD issued server command: /give walshy 373 1 16 {CustomPotionEffects:[1:{Id:5,Amplifier:100,Duration:99999}]}
+[18:25:17] [Server thread/INFO]: WalshyXD issued server command: /give walshy 373 1 441 {CustomPotionEffects:[1:{Id:5,Amplifier:100,Duration:99999}]}
+[18:25:47] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:5,Amplifier:100,Duration:99999}]}
+[18:28:57] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:29:14] [Server thread/INFO]: WalshyXD issued server command: /mob sheep 5
+[18:29:19] [Server thread/INFO]: WalshyXD issued server command: /mob sheep 5
+[18:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:30:00] [Server thread/INFO]: Saving...
+[18:30:00] [Server thread/INFO]: Saved the world
+[18:30:00] [Server thread/INFO]: [Server] Save Complete
+[18:30:07] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:07] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:08] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:08] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:09] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:09] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:09] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:09] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:09] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:7,Amplifier:100,Duration:99999}]}
+[18:30:10] [Server thread/INFO]: WalshyXD issued server command: /mob sheep 5
+[18:31:06] [Server thread/INFO]: WalshyXD issued server command: /mob irongolem
+[18:31:54] [Server thread/INFO]: WalshyXD issued server command: /mob wither
+[18:32:04] [Server thread/INFO]: WalshyXD issued server command: /killall wither
+[18:32:56] [Server thread/INFO]: WalshyXD issued server command: /mob
+[18:33:06] [Server thread/INFO]: WalshyXD issued server command: /world 2
+[18:33:19] [Server thread/INFO]: WalshyXD issued server command: /tp -1328 30 -1730
+[18:33:22] [Server thread/WARN]: WalshyXD moved too quickly! 1427.2372964806052,19.0,1729.4161765845795
+[18:33:35] [Server thread/INFO]: WalshyXD issued server command: /mob enderdragon
+[18:34:19] [Server thread/INFO]: WalshyXD issued server command: /killall enderdragon
+[18:35:49] [Server thread/INFO]: WalshyXD issued server command: /spawn
+[18:36:05] [Server thread/INFO]: WalshyXD issued server command: /give walshy arrow 100
+[18:36:21] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:8,Amplifier:100,Duration:99999}]}
+[18:36:27] [Server thread/WARN]: WalshyXD moved too quickly! -0.0031041133450671055,10.520000368356705,0.0
+[18:36:28] [Server thread/WARN]: WalshyXD moved too quickly! -0.06381633739187009,10.520000368356705,-0.005187474872514031
+[18:36:29] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.0
+[18:36:29] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.0
+[18:36:30] [Server thread/WARN]: WalshyXD moved too quickly! -0.0700770379776543,10.520000368356705,0.20345261273962478
+[18:36:31] [Server thread/WARN]: WalshyXD moved too quickly! -0.07037458529181606,10.520000368356705,0.2038646705869951
+[18:36:32] [Server thread/WARN]: WalshyXD moved too quickly! -0.3769582523898478,10.520000368356705,-0.29230780452917315
+[18:36:34] [Server thread/WARN]: WalshyXD moved too quickly! -0.4756752246125373,10.520000368356705,-0.06728172338489458
+[18:36:36] [Server thread/WARN]: WalshyXD moved too quickly! -0.24494040697456398,10.520000368356705,-0.40749778721050234
+[18:36:48] [Server thread/WARN]: WalshyXD moved too quickly! -0.07772956828937083,10.520000368356705,0.473428128745212
+[18:36:49] [Server thread/WARN]: WalshyXD moved too quickly! -0.04674363169491613,10.520000368356705,0.4781152724596609
+[18:36:51] [Server thread/WARN]: WalshyXD moved too quickly! -0.4784965037978708,10.520000368356705,-0.039653794531318454
+[18:36:55] [Server thread/WARN]: WalshyXD moved too quickly! -0.08013730255376572,10.520000368356705,-0.5141934486915432
+[18:36:56] [Server thread/WARN]: WalshyXD moved too quickly! 0.026187346946784373,10.520000368356705,-0.4795812025607802
+[18:37:06] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,-0.00308572518724759
+[18:37:08] [Server thread/WARN]: WalshyXD moved too quickly! -0.0043643382377922535,10.520000368356705,-0.21380077142265463
+[18:37:10] [Server thread/WARN]: WalshyXD moved too quickly! 0.20456254959448472,10.520000368356705,-0.06856724573648876
+[18:37:11] [Server thread/WARN]: WalshyXD moved too quickly! 0.032310886841585784,10.520000368356705,-0.009223312914741655
+[18:37:13] [Server thread/WARN]: WalshyXD moved too quickly! -0.2473867702041872,10.520000368356705,-0.43139488714814433
+[18:37:15] [Server thread/WARN]: WalshyXD moved too quickly! -0.049416203051805496,10.520000368356705,-0.18885592848448596
+[18:37:15] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,-0.003403353748723248
+[18:37:15] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.0
+[18:37:16] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.03503410568018239
+[18:37:17] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.0
+[18:37:17] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.0
+[18:37:18] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.0
+[18:37:18] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.0
+[18:37:19] [Server thread/WARN]: WalshyXD moved too quickly! 0.0,10.520000368356705,0.0
+[18:37:25] [Server thread/WARN]: WalshyXD moved too quickly! 0.4716175112690877,10.520000368356705,0.07931567928946492
+[18:37:25] [Server thread/WARN]: WalshyXD moved too quickly! 0.44714712119277067,10.520000368356705,0.01436407776645865
+[18:37:34] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:8,Amplifier:500,Duration:99999}]}
+[18:37:40] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:8,Amplifier:50,Duration:99999}]}
+[18:37:42] [Server thread/INFO]: WalshyXD issued server command: /clear
+[18:37:44] [Server thread/INFO]: WalshyXD issued server command: /give walshy 441 1 16 {CustomPotionEffects:[1:{Id:8,Amplifier:50,Duration:99999}]}
+[18:37:46] [Server thread/INFO]: WalshyXD issued server command: /heal
+[18:38:50] [Server thread/INFO]: WalshyXD issued server command: /gm 0
+[18:38:56] [Server thread/INFO]: WalshyXD fell from a high place
+[18:39:02] [Server thread/INFO]: WalshyXD issued server command: /back
+[18:39:10] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[18:39:52] [Server thread/INFO]: WalshyXD issued server command: /effect walshyxd blindness 3
+[18:39:52] [Server thread/INFO]: [WalshyXD: Given Blindness (ID 15) * 0 to WalshyXD for 3 seconds]
+[18:39:57] [Server thread/INFO]: WalshyXD issued server command: /effect walshyxd blindness 10
+[18:39:57] [Server thread/INFO]: [WalshyXD: Given Blindness (ID 15) * 0 to WalshyXD for 10 seconds]
+[18:40:33] [Server thread/INFO]: WalshyXD lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:40:33] [Server thread/INFO]: WalshyXD left the game
+[18:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:45:00] [Server thread/INFO]: Saving...
+[18:45:00] [Server thread/INFO]: Saved the world
+[18:45:00] [Server thread/INFO]: [Server] Save Complete
+[19:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[19:00:00] [Server thread/INFO]: Saving...
+[19:00:00] [Server thread/INFO]: Saved the world
+[19:00:00] [Server thread/INFO]: [Server] Save Complete

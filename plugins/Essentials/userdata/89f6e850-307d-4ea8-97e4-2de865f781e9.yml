@@ -1,13 +1,13 @@
 lastAccountName: PTCamera
 timestamps:
-  login: 1471381245382
-  logout: 1471382159504
+  login: 1471540800389
+  logout: 1471540828543
 ipAddress: 86.16.139.135
 afk: false
 logoutlocation:
   world: world
-  x: -38.30000001192093
-  y: 67.0
-  z: 234.5940237940422
-  yaw: 162.14995
-  pitch: -0.29999906
+  x: -38.149153533906215
+  y: 68.0
+  z: 222.7362588654639
+  yaw: 2.099884
+  pitch: 12.000003

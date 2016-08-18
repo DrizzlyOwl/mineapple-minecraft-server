@@ -1,18 +1,18 @@
 lastAccountName: weme105
 timestamps:
-  login: 1471479177516
-  logout: 1471479879343
+  login: 1471550255417
+  logout: 1471550714217
   kits:
     tools: 1470785789495
   lastteleport: 1471479519293
 ipAddress: 50.137.116.59
 logoutlocation:
   world: world
-  x: -44.5457632946005
-  y: 59.0
-  z: 539.4392681142507
-  yaw: 147.29272
-  pitch: 38.13647
+  x: -67.24346091692446
+  y: 62.0
+  z: 512.7841277699747
+  yaw: 20.173706
+  pitch: 59.45824
 lastlocation:
   world: world
   x: -441.96917080238995
@@ -29,4 +29,4 @@ homes:
     yaw: 7.494615
     pitch: 17.987663
 afk: false
-nickname: TheRealEllie
+nickname: rhino

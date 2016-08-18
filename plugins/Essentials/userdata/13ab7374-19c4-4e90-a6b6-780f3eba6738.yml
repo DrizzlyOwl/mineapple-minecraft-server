@@ -1,23 +1,23 @@
 lastAccountName: LAPSLIE
 timestamps:
-  login: 1471487189016
-  logout: 1471488743378
-  lastteleport: 1471488708794
+  login: 1471541954264
+  logout: 1471555481806
+  lastteleport: 1471553486247
 ipAddress: 86.150.151.18
 lastlocation:
-  world: world
-  x: -4740.531441623671
-  y: 63.0
-  z: 10519.540298414464
-  yaw: 197.99994
-  pitch: 12.150105
+  world: world_nether
+  x: 221.14933886012733
+  y: 42.0
+  z: 336.00303921012375
+  yaw: 176.85248
+  pitch: 1.3498122
 logoutlocation:
   world: world
-  x: -4742.5
-  y: 93.0
-  z: 10533.5
-  yaw: -183.82043
-  pitch: 38.400055
+  x: -4742.047706254281
+  y: 95.0
+  z: 10544.29865440199
+  yaw: 0.033325195
+  pitch: 5.100061
 afk: false
 homes:
   home:
@@ -27,4 +27,4 @@ homes:
     z: 10543.490415540968
     yaw: -357.9702
     pitch: 9.450049
-nickname: wounder_woman
+nickname: wonder_woman

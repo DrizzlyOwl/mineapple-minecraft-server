@@ -1,24 +1,24 @@
 lastAccountName: Chico121212
 timestamps:
-  login: 1471341244836
-  logout: 1471342888899
-  lastteleport: 1471342499459
-  jail: 1471483078206
+  login: 1471519096249
+  logout: 1471519155732
+  lastteleport: 1471519112531
+  jail: 0
 ipAddress: 179.218.69.229
 lastlocation:
   world: world
-  x: -112.70100174494797
+  x: -112.5
   y: 74.0
-  z: 119.4409358960875
+  z: 119.5
   yaw: -135.87143
   pitch: 73.050064
 logoutlocation:
   world: world
-  x: -95.70923590956629
-  y: 86.0
-  z: -80.92831825590737
-  yaw: -7.320923
-  pitch: 28.79996
+  x: -153.4605603855759
+  y: 63.9375
+  z: -27.550380230255037
+  yaw: 79.37919
+  pitch: 33.150017
 homes:
   home:
     world: world
@@ -30,5 +30,4 @@ homes:
 afk: false
 mail:
 - §6[§rServer§6] §rleave the griefed house untouched and I'll inspect tonight
-jailed: true
-jail: cell1
+jailed: false

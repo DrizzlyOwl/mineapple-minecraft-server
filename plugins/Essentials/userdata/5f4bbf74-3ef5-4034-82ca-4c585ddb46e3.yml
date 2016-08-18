@@ -1,12 +1,19 @@
 lastAccountName: _GuyTheKiller_
 timestamps:
-  login: 1471459759222
-  logout: 1471460070127
+  login: 1471532916291
+  logout: 1471533068752
 ipAddress: 5.29.177.100
 logoutlocation:
   world: world
-  x: -168.4042019114267
-  y: 69.0
-  z: 24.319592083906052
-  yaw: -21.14969
-  pitch: 22.949945
+  x: -52.1230346993799
+  y: 68.0
+  z: 251.59856280513696
+  yaw: -208.7998
+  pitch: 18.300007
+lastlocation:
+  world: world_nether
+  x: -22.59170504965998
+  y: 67.0
+  z: 26.321659678740986
+  yaw: 215.85075
+  pitch: 10.800043
