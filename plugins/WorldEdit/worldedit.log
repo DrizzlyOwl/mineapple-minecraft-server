@@ -295,3 +295,8 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /naturalize - Region: (216.0, 68.0, 52.0) - (357.0, 122.0, 197.0)
 [INFO] WorldEdit: DrizzlyOwl (in "world"): forestgen 100 TREE 20 - Position: (281.50776083771285, 71.0, 116.0998884724374)
 [INFO] WorldEdit: DrizzlyOwl (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): load ellie
+[INFO] WorldEdit: WalshyXD (in "world"): load ellie.schematic
+[INFO] WorldEdit: WalshyXD (in "world"): /copy
+[INFO] WorldEdit: WalshyXD (in "world"): save mcedit cactus
+[INFO] WorldEdit: WalshyXD (in "world"): list

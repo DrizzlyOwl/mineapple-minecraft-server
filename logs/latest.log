@@ -890,3 +890,61 @@
 [12:00:00] [Server thread/INFO]: Saving...
 [12:00:00] [Server thread/INFO]: Saved the world
 [12:00:00] [Server thread/INFO]: [Server] Save Complete
+[12:02:27] [User Authenticator #16/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[12:02:27] [Server thread/INFO]: BuuTheGreat[/85.76.16.150:54502] logged in with entity id 145675 at ([world]-178.73921003244288, 65.0, -21.58646785826115)
+[12:02:27] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[12:02:27] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
+[12:02:27] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
+[12:02:31] [Async Chat Thread - #39/INFO]: <BuuTheGreat> connected with an iPhone using MineChat
+[12:02:35] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[12:02:58] [Async Chat Thread - #39/INFO]: <BuuTheGreat> walshy?
+[12:08:30] [Server thread/INFO]: BuuTheGreat lost connection: Timed out
+[12:08:30] [Server thread/INFO]: BuuTheGreat left the game
+[12:12:06] [User Authenticator #17/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[12:12:06] [Server thread/INFO]: BuuTheGreat[/85.76.16.150:40894] logged in with entity id 146489 at ([world]-94.5, 118.0, -121.5)
+[12:12:06] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[12:12:06] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
+[12:12:06] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
+[12:12:10] [Async Chat Thread - #40/INFO]: <BuuTheGreat> connected with an iPhone using MineChat
+[12:12:14] [Server thread/INFO]: BuuTheGreat issued server command: /spawn
+[12:14:33] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[12:14:33] [Server thread/INFO]: BuuTheGreat left the game
+[12:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:15:00] [Server thread/INFO]: Saving...
+[12:15:00] [Server thread/INFO]: Saved the world
+[12:15:00] [Server thread/INFO]: [Server] Save Complete
+[12:17:43] [User Authenticator #18/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[12:17:43] [Server thread/INFO]: WalshyXD[/86.3.13.214:55773] logged in with entity id 146716 at ([world]-20.67042315112997, 170.0296970744927, 253.72007821157317)
+[12:17:43] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[12:17:43] [Server thread/INFO]: [CONSOLE->WalshyXD] Hey there, WalshyXD!
+[12:17:43] [Server thread/INFO]: [CONSOLE->WalshyXD] Welcome to Mineapple
+[12:17:50] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[12:17:59] [Server thread/INFO]: WalshyXD issued server command: /tp 10000 70 10000
+[12:18:30] [Server thread/INFO]: WalshyXD issued server command: //schem ellie
+[12:18:36] [Server thread/INFO]: WalshyXD issued server command: //schem load ellie
+[12:18:36] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): load ellie
+[12:19:02] [Server thread/INFO]: WalshyXD issued server command: //schem load ellie.schematic
+[12:19:02] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): load ellie.schematic
+[12:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[12:21:01] [Server thread/INFO]: WalshyXD issued server command: //copy
+[12:21:01] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /copy
+[12:21:10] [Server thread/INFO]: WalshyXD issued server command: //scheme save mcedit cactus
+[12:21:15] [Server thread/INFO]: WalshyXD issued server command: //schem save mcedit cactus
+[12:21:15] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): save mcedit cactus
+[12:21:15] [Server thread/INFO]: [WorldEdit] WalshyXD saved /home/mcma/Minecraft/plugins/WorldEdit/schematics/cactus.schematic
+[12:21:38] [Server thread/INFO]: WalshyXD issued server command: //schem list
+[12:21:38] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): list
+[12:24:08] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[12:24:08] [Server thread/INFO]: WalshyXD left the game
+[12:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:30:00] [Server thread/INFO]: Saving...
+[12:30:00] [Server thread/INFO]: Saved the world
+[12:30:00] [Server thread/INFO]: [Server] Save Complete
+[12:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:45:00] [Server thread/INFO]: Saving...
+[12:45:00] [Server thread/INFO]: Saved the world
+[12:45:00] [Server thread/INFO]: [Server] Save Complete
+[13:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:00:00] [Server thread/INFO]: Saving...
+[13:00:00] [Server thread/INFO]: Saved the world
+[13:00:00] [Server thread/INFO]: [Server] Save Complete
