@@ -73,3 +73,30 @@
 [03:00:00] [Server thread/INFO]: Saving...
 [03:00:00] [Server thread/INFO]: Saved the world
 [03:00:00] [Server thread/INFO]: [Server] Save Complete
+[03:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[03:15:00] [Server thread/INFO]: Saving...
+[03:15:00] [Server thread/INFO]: Saved the world
+[03:15:00] [Server thread/INFO]: [Server] Save Complete
+[03:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[03:30:00] [Server thread/INFO]: Saving...
+[03:30:00] [Server thread/INFO]: Saved the world
+[03:30:00] [Server thread/INFO]: [Server] Save Complete
+[03:38:38] [User Authenticator #42/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[03:38:41] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:49818] logged in with entity id 488081 at ([world]-1048.6609422393958, 6.0, 82.30000001192093)
+[03:38:41] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[03:38:41] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
+[03:38:41] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
+[03:39:29] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[03:39:32] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[03:39:34] [Server thread/INFO]: KevinDaBaws issued server command: /homes
+[03:40:06] [Server thread/INFO]: KevinDaBaws issued server command: /sethome
+[03:40:07] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
+[03:40:07] [Server thread/INFO]: KevinDaBaws left the game
+[03:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[03:45:00] [Server thread/INFO]: Saving...
+[03:45:00] [Server thread/INFO]: Saved the world
+[03:45:00] [Server thread/INFO]: [Server] Save Complete
+[04:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[04:00:00] [Server thread/INFO]: Saving...
+[04:00:00] [Server thread/INFO]: Saved the world
+[04:00:00] [Server thread/INFO]: [Server] Save Complete
