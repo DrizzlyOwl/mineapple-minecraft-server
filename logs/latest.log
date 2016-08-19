@@ -77,3 +77,816 @@
 [06:18:14] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
 [06:18:39] [Server thread/INFO]: BuuTheGreat issued server command: /home
 [06:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[06:27:27] [Server thread/WARN]: Horse moved wrongly!
+[06:27:27] [Server thread/WARN]: Horse moved wrongly!
+[06:27:27] [Server thread/WARN]: Horse moved wrongly!
+[06:27:50] [Server thread/WARN]: Horse moved wrongly!
+[06:27:50] [Server thread/WARN]: Horse moved wrongly!
+[06:27:51] [Server thread/WARN]: Horse moved wrongly!
+[06:27:51] [Server thread/WARN]: Horse moved wrongly!
+[06:27:53] [Server thread/WARN]: Horse moved wrongly!
+[06:27:53] [Server thread/WARN]: Horse moved wrongly!
+[06:27:53] [Server thread/WARN]: Horse moved wrongly!
+[06:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[06:30:00] [Server thread/INFO]: Saving...
+[06:30:00] [Server thread/INFO]: Saved the world
+[06:30:00] [Server thread/INFO]: [Server] Save Complete
+[06:32:27] [Server thread/WARN]: BuuTheGreat moved wrongly!
+[06:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[06:45:00] [Server thread/INFO]: Saving...
+[06:45:00] [Server thread/INFO]: Saved the world
+[06:45:00] [Server thread/INFO]: [Server] Save Complete
+[07:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:00:00] [Server thread/INFO]: Saving...
+[07:00:00] [Server thread/INFO]: Saved the world
+[07:00:00] [Server thread/INFO]: [Server] Save Complete
+[07:14:04] [Server thread/INFO]: BuuTheGreat issued server command: /spawn
+[07:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:15:00] [Server thread/INFO]: Saving...
+[07:15:00] [Server thread/INFO]: Saved the world
+[07:15:00] [Server thread/INFO]: [Server] Save Complete
+[07:15:13] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:16:02] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:16:53] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:18:51] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[07:21:02] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:22:45] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:24:38] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:27:58] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:28:10] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[07:29:20] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[07:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:30:00] [Server thread/INFO]: Saving...
+[07:30:00] [Server thread/INFO]: Saved the world
+[07:30:00] [Server thread/INFO]: [Server] Save Complete
+[07:34:51] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[07:36:16] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:38:13] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[07:38:21] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:38:54] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[07:39:04] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:39:19] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:39:22] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:39:24] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:39:26] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:39:30] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:39:57] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[07:40:08] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:40:32] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:40:35] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:40:37] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:40:56] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[07:41:15] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:41:26] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:41:31] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:41:39] [Server thread/INFO]: BuuTheGreat issued server command: /kit start
+[07:41:42] [Server thread/INFO]: BuuTheGreat issued server command: /kit
+[07:41:45] [Server thread/INFO]: BuuTheGreat issued server command: /kit tools
+[07:41:52] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:42:45] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
+[07:43:01] [Server thread/INFO]: BuuTheGreat issued server command: /baclo
+[07:43:03] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[07:43:50] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[07:44:47] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[07:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:45:00] [Server thread/INFO]: Saving...
+[07:45:00] [Server thread/INFO]: Saved the world
+[07:45:00] [Server thread/INFO]: [Server] Save Complete
+[07:49:35] [Server thread/INFO]: CONSOLE issued server command: /world buu
+[07:49:35] [Server thread/INFO]: Error: Only in-game players can use world.
+[07:51:18] [Server thread/INFO]: CONSOLE issued server command: /kittycannon buu
+[07:51:18] [Server thread/INFO]: Error: Only in-game players can use kittycannon.
+[07:52:10] [Server thread/INFO]: CONSOLE issued server command: /time day
+[07:52:10] [Server thread/INFO]: The time was set to 06:00 or 6:00 AM or 0ticks in: world, world_nether, world_the_end.
+[07:55:54] [User Authenticator #2/INFO]: UUID of player Danomanic is 6364a333-8100-41bd-8777-d09f0ce79118
+[07:55:54] [Server thread/INFO]: Danomanic[/86.16.139.135:61820] logged in with entity id 45473 at ([world]399.25265476388796, 66.0, 103.21741618173702)
+[07:55:54] [Server thread/INFO]: [Server] Welcome back, Danomanic
+[07:55:54] [Server thread/INFO]: [CONSOLE->Danomanic] Hey there, Danomanic!
+[07:55:54] [Server thread/INFO]: [CONSOLE->Danomanic] Welcome to Mineapple
+[07:55:57] [Async Chat Thread - #0/INFO]: <BuuTheGreat> wb
+[07:56:01] [Async Chat Thread - #0/INFO]: <~Dano> Hey
+[07:56:07] [Async Chat Thread - #0/INFO]: <BuuTheGreat> hi
+[07:59:47] [Server thread/INFO]: Danomanic lost connection: Disconnected
+[07:59:48] [Server thread/INFO]: Danomanic left the game
+[08:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:00:00] [Server thread/INFO]: Saving...
+[08:00:00] [Server thread/INFO]: Saved the world
+[08:00:00] [Server thread/INFO]: [Server] Save Complete
+[08:00:09] [User Authenticator #3/INFO]: UUID of player Danomanic is 6364a333-8100-41bd-8777-d09f0ce79118
+[08:00:09] [Server thread/INFO]: Danomanic[/86.16.139.135:62235] logged in with entity id 46757 at ([world]461.30000001192093, 11.0, 150.48670435376138)
+[08:00:09] [Server thread/INFO]: [Server] Welcome back, Danomanic
+[08:00:09] [Server thread/INFO]: [CONSOLE->Danomanic] Hey there, Danomanic!
+[08:00:09] [Server thread/INFO]: [CONSOLE->Danomanic] Welcome to Mineapple
+[08:00:13] [Async Chat Thread - #1/INFO]: <BuuTheGreat> wb
+[08:00:17] [Async Chat Thread - #1/INFO]: <~Dano> Thanks
+[08:00:23] [Async Chat Thread - #1/INFO]: <BuuTheGreat> yw
+[08:01:40] [Server thread/INFO]: Danomanic issued server command: /home
+[08:02:29] [Async Chat Thread - #2/INFO]: <BuuTheGreat> I don't like it that here's like no players when i can play :P
+[08:04:48] [Server thread/INFO]: Danomanic lost connection: Timed out
+[08:04:48] [Server thread/INFO]: Danomanic left the game
+[08:06:49] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[08:07:35] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[08:07:47] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[08:08:03] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[08:09:45] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[08:11:47] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[08:12:13] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[08:14:58] [Server thread/INFO]: [Server] it's a British server. most likely going to be quiet at this time
+[08:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:15:00] [Server thread/INFO]: Saving...
+[08:15:00] [Server thread/INFO]: Saved the world
+[08:15:00] [Server thread/INFO]: [Server] Save Complete
+[08:15:26] [Async Chat Thread - #3/INFO]: <BuuTheGreat> but you don't have school do you?
+[08:15:42] [Async Chat Thread - #3/INFO]: <BuuTheGreat> like at this time
+[08:15:45] [Server thread/INFO]: [Server] no but i work
+[08:15:52] [Async Chat Thread - #3/INFO]: <BuuTheGreat> ok
+[08:16:24] [Server thread/INFO]: [Server] my contract ends in 2 weeks so i can put more time in if i can't find another job soon
+[08:16:48] [Async Chat Thread - #3/INFO]: <BuuTheGreat> may I ask what kind of job you have?
+[08:17:27] [Server thread/INFO]: [Server] credit control clerk. basically i get paperwork and type it up on the PC
+[08:17:32] [Server thread/INFO]: [Server] nothing special
+[08:18:08] [Async Chat Thread - #4/INFO]: <BuuTheGreat> okay
+[08:18:31] [Async Chat Thread - #4/INFO]: <BuuTheGreat> is it like a summer job?
+[08:18:56] [Server thread/INFO]: [Server] it's a temporary job originally a 3 month contract
+[08:19:06] [Server thread/INFO]: [Server] then extended to 9
+[08:19:12] [Async Chat Thread - #4/INFO]: <BuuTheGreat> nice :D
+[08:19:21] [Async Chat Thread - #4/INFO]: <BuuTheGreat> but what about school?
+[08:19:35] [Server thread/INFO]: [Server] I'm 23
+[08:19:53] [Async Chat Thread - #4/INFO]: <BuuTheGreat> so you're done?
+[08:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[08:20:33] [Server thread/INFO]: [Server] yep, been to college (where i met ash) and spent some time at university
+[08:21:07] [Async Chat Thread - #5/INFO]: <BuuTheGreat> did you complete studies in uni?
+[08:21:50] [Server thread/INFO]: [Server] nah, i lost interest. may study something else in the future
+[08:22:01] [Async Chat Thread - #5/INFO]: <BuuTheGreat> all right
+[08:22:35] [Async Chat Thread - #5/INFO]: <BuuTheGreat> ah so you're real friends with ash
+[08:23:57] [Server thread/INFO]: [Server] yeah
+[08:24:16] [Async Chat Thread - #6/INFO]: <BuuTheGreat> nice
+[08:24:30] [Server thread/INFO]: [Server] starting Another mc server started as a joke when he was at my house sorting my PC
+[08:24:52] [Server thread/INFO]: [Server] and here we are
+[08:25:07] [Async Chat Thread - #6/INFO]: <BuuTheGreat> so many idea start
+[08:25:13] [Async Chat Thread - #6/INFO]: <BuuTheGreat> ideas*
+[08:25:27] [Async Chat Thread - #6/INFO]: <BuuTheGreat> also most big companies
+[08:25:29] [Async Chat Thread - #6/INFO]: <BuuTheGreat> :P
+[08:25:33] [Server thread/INFO]: [Server] jokes make the world go round
+[08:25:42] [Async Chat Thread - #6/INFO]: <BuuTheGreat> yep
+[08:26:19] [Server thread/INFO]: [Server] there inventors of the spork thought of that as a joke. now they are millionaires
+[08:26:40] [Async Chat Thread - #6/INFO]: <BuuTheGreat> nice
+[08:27:09] [Async Chat Thread - #6/INFO]: <BuuTheGreat> well by doing things, you'll get
+[08:27:24] [Server thread/INFO]: [Server] once spawn is built gonna work on some minigames and activities
+[08:27:52] [Async Chat Thread - #6/INFO]: <BuuTheGreat> I don't like minigames :P why not make it only vanilla?
+[08:28:09] [Server thread/INFO]: [Server] it will be vanilla
+[08:28:15] [User Authenticator #4/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[08:28:16] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:60830] logged in with entity id 51738 at ([world]-1045.4521149053453, 11.0, 135.90412409937687)
+[08:28:16] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[08:28:16] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
+[08:28:16] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
+[08:28:20] [Async Chat Thread - #6/INFO]: <BuuTheGreat> wb kev
+[08:28:22] [Async Chat Thread - #6/INFO]: <KevinDaBaws> thanks
+[08:28:35] [Async Chat Thread - #6/INFO]: <KevinDaBaws> Dammit the owner msged me on skype yesterday and I was an hour late
+[08:28:41] [Server thread/INFO]: [Server] gotta get back to work. cya tonight
+[08:28:46] [Async Chat Thread - #6/INFO]: <BuuTheGreat> cya
+[08:28:49] [Async Chat Thread - #6/INFO]: <KevinDaBaws> cya
+[08:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:30:00] [Server thread/INFO]: Saving...
+[08:30:00] [Server thread/INFO]: Saved the world
+[08:30:00] [Server thread/INFO]: [Server] Save Complete
+[08:30:57] [Async Chat Thread - #7/INFO]: <BuuTheGreat> meh
+[08:31:42] [Async Chat Thread - #7/INFO]: <KevinDaBaws> bored
+[08:31:52] [Async Chat Thread - #7/INFO]: <BuuTheGreat> me too, I'm just fishing
+[08:32:12] [Async Chat Thread - #7/INFO]: <KevinDaBaws> I have 22 diamonds yay]
+[08:32:15] [Async Chat Thread - #7/INFO]: <KevinDaBaws> *yay
+[08:32:19] [Async Chat Thread - #7/INFO]: <KevinDaBaws> I'm gonna brb cya
+[08:32:21] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
+[08:32:21] [Server thread/INFO]: KevinDaBaws left the game
+[08:32:22] [Async Chat Thread - #7/INFO]: <BuuTheGreat> cya
+[08:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:45:00] [Server thread/INFO]: Saving...
+[08:45:00] [Server thread/INFO]: Saved the world
+[08:45:00] [Server thread/INFO]: [Server] Save Complete
+[08:45:58] [User Authenticator #5/INFO]: UUID of player Skyking_Caton is 960738d5-ef2b-410b-a2bb-f4676c592de8
+[08:45:58] [Server thread/INFO]: Skyking_Caton[/78.73.231.113:49867] logged in with entity id 55338 at ([world]-515.7566456310528, 63.0, 1924.4724284775864)
+[08:45:58] [Server thread/INFO]: [Server] Welcome back, Skyking_Caton
+[08:45:58] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Hey there, Skyking_Caton!
+[08:45:58] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Welcome to Mineapple
+[08:46:04] [Async Chat Thread - #8/INFO]: <BuuTheGreat> hej
+[08:46:09] [Async Chat Thread - #8/INFO]: <Skyking_Caton> hej
+[08:47:26] [Async Chat Thread - #9/INFO]: <BuuTheGreat> läget
+[08:47:51] [Async Chat Thread - #9/INFO]: <Skyking_Caton> det är bra, själv
+[08:48:01] [Async Chat Thread - #9/INFO]: <BuuTheGreat> bra bra
+[08:49:44] [Server thread/INFO]: CONSOLE issued server command: /mob chicken,chicken,chicken,chicken,chicken, buu
+[08:49:44] [Server thread/INFO]: Spawns a mob.
+[08:49:44] [Server thread/INFO]: /mob <mob>[:data][,<mount>[:data]] [amount] [player]
+[08:49:44] [Server thread/INFO]: Mobs: magmacube, chicken, snowman, hopperminecart, cow, furnaceminecart, pig, slime, spawnerminecart, skeleton, bat, blaze, endermite, rabbit, pigzombie, zombie, silverfish, giant, mushroomcow, irongolem, guardian, polarbear, ghast, sheep, tntminecart, enderdragon, armorstand, shulker, wolf, villager, chestminecart, ocelot, boat, endercrystal, horse, minecart, experienceorb, witch, squid, spider, wither, creeper, cavespider, enderman
+[08:50:13] [Server thread/INFO]: CONSOLE issued server command: /mob chicken,chicken,chicken, 1 buu
+[08:50:13] [Server thread/INFO]: 3 chickens spawned
+[08:50:22] [Async Chat Thread - #10/INFO]: <BuuTheGreat> whaat
+[08:50:31] [Async Chat Thread - #10/INFO]: <Skyking_Caton> ?
+[08:50:35] [Async Chat Thread - #10/INFO]: <BuuTheGreat> 3 höns på varandra
+[08:50:37] [Async Chat Thread - #10/INFO]: <BuuTheGreat> XD
+[08:50:42] [Async Chat Thread - #10/INFO]: <Skyking_Caton> lol
+[08:50:46] [Async Chat Thread - #10/INFO]: <BuuTheGreat> ser roligt ut
+[08:50:58] [Async Chat Thread - #10/INFO]: <Skyking_Caton> måste varit Walshy
+[08:51:10] [Async Chat Thread - #10/INFO]: <BuuTheGreat> kan hända
+[08:51:20] [Server thread/INFO]: CONSOLE issued server command: /mob enderman,chicken 1 buu
+[08:51:20] [Server thread/INFO]: 2 enderman spawned
+[08:51:38] [Async Chat Thread - #10/INFO]: <BuuTheGreat> nu har jag en ender här som har ett höns på sig
+[08:51:52] [Async Chat Thread - #10/INFO]: <BuuTheGreat> en höna*
+[08:51:59] [Async Chat Thread - #10/INFO]: <Skyking_Caton> XD
+[08:52:21] [Server thread/INFO]: [Server] pls tell me that is dutch for"enderman with chicken on head"
+[08:52:32] [Async Chat Thread - #10/INFO]: <BuuTheGreat> it's swedish
+[08:52:44] [Server thread/INFO]: [Server] skoll!
+[08:52:52] [Async Chat Thread - #10/INFO]: <BuuTheGreat> skål :D
+[08:52:59] [Async Chat Thread - #10/INFO]: <Skyking_Caton> skål
+[08:53:22] [Server thread/INFO]: [Server] fuck
+[08:53:25] [Async Chat Thread - #10/INFO]: <BuuTheGreat> :P
+[08:53:49] [Server thread/INFO]: [Server] i don't even know what it means
+[08:53:55] [Async Chat Thread - #10/INFO]: <BuuTheGreat> cheers
+[08:54:01] [Server thread/INFO]: [Server] ah
+[08:54:50] [Async Chat Thread - #10/INFO]: <BuuTheGreat> it comes from the vikings, they drank from skulls
+[08:55:32] [Server thread/INFO]: CONSOLE issued server command: /mob creeper,tntminecart 1 sky
+[08:55:32] [Server thread/INFO]: 2 creepers spawned
+[08:55:39] [Async Chat Thread - #10/INFO]: <Skyking_Caton> wtf
+[08:55:50] [Async Chat Thread - #10/INFO]: <BuuTheGreat> så gick det till
+[08:55:51] [Async Chat Thread - #10/INFO]: <BuuTheGreat> :P
+[08:56:10] [Async Chat Thread - #10/INFO]: <BuuTheGreat> de drack från britternas skallar
+[08:56:23] [Async Chat Thread - #10/INFO]: <BuuTheGreat> they drunk from the brittish skulls
+[08:56:31] [Server thread/INFO]: [Server] English pls.
+[08:56:41] [Async Chat Thread - #10/INFO]: <BuuTheGreat> i translated
+[08:56:47] [Server thread/INFO]: [Server] ha
+[08:56:52] [Async Chat Thread - #10/INFO]: <BuuTheGreat> :)
+[08:57:09] [Async Chat Thread - #10/INFO]: <BuuTheGreat> we were ye enemy
+[08:57:55] [Server thread/INFO]: CONSOLE issued server command: /mob creeper,tntminecart 1 buu
+[08:57:55] [Server thread/INFO]: 2 creepers spawned
+[08:57:58] [Server thread/INFO]: BuuTheGreat was blown up by Creeper
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/INFO]: BuuTheGreat lost connection: user was kicked.
+[08:58:03] [Server thread/INFO]: BuuTheGreat lost connection: Flying is not enabled on this server
+[08:58:03] [Server thread/INFO]: BuuTheGreat left the game
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:03] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:04] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:05] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:06] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:07] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:08] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:09] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:09] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:09] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:09] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:09] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:09] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[08:58:11] [Server thread/INFO]: [Server] about that
+[08:58:15] [User Authenticator #6/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[08:58:15] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49730] logged in with entity id 59731 at ([world]-39.76115443283748, 68.0, 259.8532276205475)
+[08:58:15] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[08:58:15] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
+[08:58:15] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
+[08:58:20] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[08:58:37] [Async Chat Thread - #11/INFO]: <BuuTheGreat> and you had to do that right
+[08:58:44] [Async Chat Thread - #11/INFO]: <BuuTheGreat> I was collecting levels
+[08:58:48] [Server thread/INFO]: [Server] do what
+[08:59:09] [Async Chat Thread - #11/INFO]: <BuuTheGreat> putting an tnt next to me and make it explode
+[08:59:11] [Server thread/INFO]: [Server] sorry lol i expected you to movr
+[08:59:22] [Async Chat Thread - #11/INFO]: <BuuTheGreat> I hadn't time to move
+[08:59:40] [Async Chat Thread - #11/INFO]: <BuuTheGreat> and you fix this land as well afterwards :p
+[08:59:53] [Async Chat Thread - #11/INFO]: <BuuTheGreat> give me my levels back, I had 18
+[08:59:55] [Server thread/INFO]: [Server] you can use my xp grinder tonight if you want. fast lvls
+[09:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:00:00] [Server thread/INFO]: Saving...
+[09:00:00] [Server thread/INFO]: Saved the world
+[09:00:00] [Server thread/INFO]: [Server] Save Complete
+[09:00:23] [Async Chat Thread - #11/INFO]: <BuuTheGreat> I'm unsure if I will play later
+[09:00:54] [Async Chat Thread - #11/INFO]: <BuuTheGreat> could you give my levels back please
+[09:01:15] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[09:01:17] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[09:01:53] [Async Chat Thread - #11/INFO]: <BuuTheGreat> I had collected them for 1 hour
+[09:02:33] [User Authenticator #7/INFO]: UUID of player I_R_TARD is f0ae569d-71cc-4784-9ed2-5c41e4904795
+[09:02:33] [Server thread/INFO]: I_R_TARD[/90.227.27.126:63594] logged in with entity id 62115 at ([world]-514.2193890113297, 64.0, 1994.510288087039)
+[09:02:33] [Server thread/INFO]: [Server] Welcome back, I_R_TARD
+[09:02:33] [Server thread/INFO]: [CONSOLE->I_R_TARD] Hey there, I_R_TARD!
+[09:02:33] [Server thread/INFO]: [CONSOLE->I_R_TARD] Welcome to Mineapple
+[09:02:37] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[09:02:37] [Async Chat Thread - #11/INFO]: <BuuTheGreat> tja
+[09:02:42] [Async Chat Thread - #11/INFO]: <I_R_TARD> Tjenare xD
+[09:02:47] [Server thread/INFO]: [Server] let me find the command
+[09:02:51] [Server thread/INFO]: CONSOLE issued server command: /xp 
+[09:02:51] [Server thread/INFO]: Give, set or look at a players exp.
+[09:02:51] [Server thread/INFO]: /xp [show|set|give] [playername [amount]]
+[09:03:06] [Server thread/INFO]: CONSOLE issued server command: /xp give buu 20
+[09:03:06] [Server thread/INFO]: BuuTheGreat now has 120 exp.
+[09:03:13] [Server thread/INFO]: [Server] did that do jt
+[09:03:22] [Async Chat Thread - #11/INFO]: <BuuTheGreat> it gave me one level
+[09:03:31] [Async Chat Thread - #11/INFO]: <BuuTheGreat> i've now 8
+[09:03:36] [Async Chat Thread - #11/INFO]: <I_R_TARD> Bebbe
+[09:03:40] [Async Chat Thread - #11/INFO]: <Skyking_Caton> nää
+[09:03:46] [Server thread/INFO]: CONSOLE issued server command: /xp give buu 5000
+[09:03:46] [Server thread/INFO]: BuuTheGreat now has 5,121 exp.
+[09:03:47] [Async Chat Thread - #11/INFO]: <I_R_TARD> Du är en apa
+[09:03:52] [Server thread/INFO]: [Server] now?
+[09:03:52] [Async Chat Thread - #11/INFO]: <BuuTheGreat> blev du pappa?
+[09:03:58] [Async Chat Thread - #11/INFO]: <BuuTheGreat> that's good
+[09:04:01] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD inte prata svenska
+[09:04:10] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Okej xD
+[09:04:16] [Async Chat Thread - #11/INFO]: <Skyking_Caton> nope XD
+[09:04:19] [Server thread/INFO]: I_R_TARD issued server command: /r
+[09:04:25] [Server thread/INFO]: I_R_TARD issued server command: /r Det är jaja xD
+[09:04:37] [Async Chat Thread - #11/INFO]: <BuuTheGreat> thanks walshy
+[09:04:39] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD apa
+[09:06:03] [Server thread/INFO]: I_R_TARD issued server command: /r A jag går och fortsätter på mitt hål xD
+[09:06:14] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD okej
+[09:07:01] [Server thread/INFO]: [Server] what level did i give you lol
+[09:09:18] [Server thread/INFO]: [Server] i gave you 50 didn't i...
+[09:09:30] [Server thread/INFO]: [Server] think of it as compensation
+[09:09:53] [Async Chat Thread - #12/INFO]: <BuuTheGreat> yep
+[09:09:55] [Async Chat Thread - #12/INFO]: <BuuTheGreat> thanks
+[09:10:54] [Server thread/WARN]: Skyking_Caton moved wrongly!
+[09:10:54] [Server thread/WARN]: Skyking_Caton moved too quickly! 0.0,52.0,0.0
+[09:11:07] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[09:14:47] [User Authenticator #8/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[09:14:47] [Server thread/INFO]: egger49[/99.247.164.202:52142] logged in with entity id 65555 at ([world]7544.421355292101, 158.0, 9483.23603149667)
+[09:14:48] [Server thread/INFO]: [Server] Welcome back, egger49
+[09:14:48] [Server thread/INFO]: [CONSOLE->egger49] Hey there, egger49!
+[09:14:48] [Server thread/INFO]: [CONSOLE->egger49] Welcome to Mineapple
+[09:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:15:00] [Server thread/INFO]: Saving...
+[09:15:00] [Server thread/INFO]: Saved the world
+[09:15:00] [Server thread/INFO]: [Server] Save Complete
+[09:17:50] [Server thread/INFO]: egger49 issued server command: /back
+[09:18:12] [Async Chat Thread - #13/INFO]: <BuuTheGreat> hi egger
+[09:18:22] [Async Chat Thread - #13/INFO]: <BuuTheGreat> jesus right?
+[09:18:23] [Async Chat Thread - #13/INFO]: <~Jesus> hii
+[09:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[09:20:41] [Async Chat Thread - #14/INFO]: <BuuTheGreat> va görs?
+[09:21:12] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat Hugger ett hål xD
+[09:21:39] [Server thread/INFO]: BuuTheGreat issued server command: /r men det var ju trevligt
+[09:21:51] [Server thread/INFO]: I_R_TARD issued server command: /r Aaa xD
+[09:21:58] [Server thread/INFO]: Skyking_Caton issued server command: /msg BuuTheGreat hål och gångar
+[09:22:05] [Server thread/INFO]: BuuTheGreat issued server command: /r najs
+[09:22:21] [Server thread/INFO]: BuuTheGreat issued server command: /tel sky najs
+[09:22:28] [Server thread/INFO]: BuuTheGreat issued server command: /tell Skyking_Caton najs
+[09:22:28] [Server thread/INFO]: [BuuTheGreat->Skyking_Caton] najs
+[09:23:17] [Server thread/INFO]: egger49 lost connection: Timed out
+[09:23:18] [Server thread/INFO]: egger49 left the game
+[09:25:36] [User Authenticator #9/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[09:25:37] [Server thread/INFO]: egger49[/99.247.164.202:52211] logged in with entity id 71993 at ([world]-104.94463769870606, 79.0, -46.699999988079085)
+[09:25:37] [Server thread/INFO]: [Server] Welcome back, egger49
+[09:25:37] [Server thread/INFO]: [CONSOLE->egger49] Hey there, egger49!
+[09:25:37] [Server thread/INFO]: [CONSOLE->egger49] Welcome to Mineapple
+[09:25:39] [Server thread/INFO]: BuuTheGreat issued server command: /r det kommer fisk som aldrig förr med lure 3
+[09:25:43] [Async Chat Thread - #15/INFO]: <I_R_TARD> hahah xD
+[09:25:43] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD lol
+[09:25:52] [Async Chat Thread - #15/INFO]: <BuuTheGreat> wb jesus
+[09:25:59] [Async Chat Thread - #15/INFO]: <~Jesus> ty
+[09:26:01] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat Aa lure är rätt bra
+[09:26:10] [Server thread/INFO]: egger49 issued server command: /nick KillerKeeeeeeemstar
+[09:26:12] [Server thread/INFO]: BuuTheGreat issued server command: /r ja man
+[09:26:18] [Server thread/INFO]: egger49 issued server command: /nick KIlllerkeemstar
+[09:26:33] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD vad är crikeln till
+[09:26:48] [Server thread/INFO]: I_R_TARD issued server command: /r Ska ha min bas här
+[09:26:56] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD cirkeln*
+[09:26:58] [Server thread/INFO]: BuuTheGreat issued server command: /r fiskar luras med lure
+[09:27:02] [Server thread/INFO]: BuuTheGreat issued server command: /r varå? :P
+[09:27:33] [Server thread/INFO]: I_R_TARD issued server command: /msg BuuTheGreat Oj det skulle vara till Skyking xD
+[09:27:42] [Server thread/INFO]: BuuTheGreat issued server command: /r jaha ok :P
+[09:27:47] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Jag ska ha en rund bas xD
+[09:27:47] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD k-bry
+[09:27:55] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD aa
+[09:28:38] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[09:29:51] [Server thread/WARN]: Skyking_Caton moved wrongly!
+[09:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:30:00] [Server thread/INFO]: Saving...
+[09:30:00] [Server thread/INFO]: Saved the world
+[09:30:00] [Server thread/INFO]: [Server] Save Complete
+[09:30:47] [Async Chat Thread - #16/INFO]: <BuuTheGreat> killedille
+[09:32:36] [Async Chat Thread - #17/INFO]: <BuuTheGreat> hej på dig med häxa
+[09:35:46] [Server thread/WARN]: egger49 moved wrongly!
+[09:37:02] [Server thread/INFO]: BuuTheGreat issued server command: /r jag vill ha medalj jag dödade en häxa :O
+[09:39:42] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[09:39:42] [Server thread/INFO]: BuuTheGreat left the game
+[09:41:52] [User Authenticator #10/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[09:41:52] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49878] logged in with entity id 81122 at ([world]-98.42497997102151, 121.0, -124.69999998807907)
+[09:41:52] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[09:41:52] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
+[09:41:52] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
+[09:42:31] [Server thread/INFO]: egger49 issued server command: /home
+[09:42:42] [Server thread/INFO]: egger49 issued server command: /home
+[09:43:01] [Server thread/INFO]: egger49 issued server command: /home
+[09:44:34] [Async Chat Thread - #18/INFO]: <BuuTheGreat> skandinaver gör basar inte hus :P
+[09:44:48] [Async Chat Thread - #18/INFO]: <I_R_TARD> Hahahah aaa xD
+[09:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:45:00] [Server thread/INFO]: Saving...
+[09:45:00] [Server thread/INFO]: Saved the world
+[09:45:00] [Server thread/INFO]: [Server] Save Complete
+[09:45:14] [Async Chat Thread - #18/INFO]: <BuuTheGreat> fast jag försökte vaara ikke skandinav denna gång :P
+[09:45:32] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Bebbe??? xD
+[09:45:33] [Async Chat Thread - #18/INFO]: <BuuTheGreat> med mitt hus här på kullen
+[09:45:42] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD nää
+[09:45:55] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Får jag låna lite järn??? xD
+[09:46:06] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD hur mycket?
+[09:46:24] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Halv stack???
+[09:46:39] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Eller behöver du det???
+[09:46:55] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD va ska du ha det till
+[09:47:06] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Pickaxes xD
+[09:47:16] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Dom går sönder hela tiden xD
+[09:47:29] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD jag använder sten
+[09:47:39] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Elller har du hittat något gruva än så kan jag hämta själv???
+[09:47:52] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[09:47:52] [Server thread/INFO]: BuuTheGreat left the game
+[09:47:56] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD nä
+[09:57:19] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[09:57:32] [Server thread/INFO]: I_R_TARD issued server command: /home
+[09:59:05] [Server thread/INFO]: I_R_TARD lost connection: Disconnected
+[09:59:05] [Server thread/INFO]: I_R_TARD left the game
+[09:59:09] [User Authenticator #11/INFO]: UUID of player I_R_TARD is f0ae569d-71cc-4784-9ed2-5c41e4904795
+[09:59:09] [Server thread/INFO]: I_R_TARD[/90.227.27.126:61328] logged in with entity id 90408 at ([world]-514.5056342691413, 64.0, 1993.1513824391777)
+[09:59:09] [Server thread/INFO]: [Server] Welcome back, I_R_TARD
+[09:59:09] [Server thread/INFO]: [CONSOLE->I_R_TARD] Hey there, I_R_TARD!
+[09:59:09] [Server thread/INFO]: [CONSOLE->I_R_TARD] Welcome to Mineapple
+[10:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:00:00] [Server thread/INFO]: Saving...
+[10:00:00] [Server thread/INFO]: Saved the world
+[10:00:00] [Server thread/INFO]: [Server] Save Complete
+[10:00:33] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton mitt hål är en mobspawner xD
+[10:00:42] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD lol
+[10:02:29] [Server thread/INFO]: egger49 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[10:02:29] [Server thread/INFO]: egger49 left the game
+[10:07:04] [User Authenticator #12/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[10:07:04] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49906] logged in with entity id 92797 at ([world]-107.100341875764, 126.0, -122.97203837305398)
+[10:07:04] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[10:07:04] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Hey there, BuuTheGreat!
+[10:07:04] [Server thread/INFO]: [CONSOLE->BuuTheGreat] Welcome to Mineapple
+[10:07:19] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD ja ska äta lite
+[10:07:26] [Async Chat Thread - #19/INFO]: <I_R_TARD> Okej
+[10:07:46] [Async Chat Thread - #19/INFO]: <BuuTheGreat> håller med
+[10:07:52] [Async Chat Thread - #19/INFO]: <I_R_TARD> hahahah xD
+[10:08:25] [Async Chat Thread - #19/INFO]: <I_R_TARD> Ingen annan är ine så jag antar att svenska går bra i chatten nu xD
+[10:08:45] [Async Chat Thread - #19/INFO]: <BuuTheGreat> trots att walshy kan se från konsolen :P
+[10:09:07] [Async Chat Thread - #19/INFO]: <I_R_TARD> Men han säger nog till i så fall
+[10:09:31] [Async Chat Thread - #19/INFO]: <BuuTheGreat> han sa till då när jag och skyking talade här ensamma :P
+[10:09:41] [Async Chat Thread - #19/INFO]: <I_R_TARD> Okej
+[10:09:46] [Async Chat Thread - #19/INFO]: <BuuTheGreat> men joo
+[10:09:53] [Async Chat Thread - #19/INFO]: <BuuTheGreat> vi kan nog snacka
+[10:11:36] [Async Chat Thread - #20/INFO]: <BuuTheGreat> hur gåre i sverige nurå?
+[10:11:58] [Async Chat Thread - #20/INFO]: <I_R_TARD> De går bra xD Vi har fint väder för en gång skull xD
+[10:12:00] [Async Chat Thread - #20/INFO]: <BuuTheGreat> har inte varit där sen påsk
+[10:12:19] [Async Chat Thread - #20/INFO]: <BuuTheGreat> med det låter ju bra :D
+[10:12:40] [Async Chat Thread - #20/INFO]: <BuuTheGreat> är ni riktiga stadsgossar? stockholmare
+[10:12:49] [Async Chat Thread - #20/INFO]: <I_R_TARD> Näää xD
+[10:12:58] [Async Chat Thread - #20/INFO]: <BuuTheGreat> jaha ni bor på prärien
+[10:13:10] [Async Chat Thread - #20/INFO]: <BuuTheGreat> bönder
+[10:13:18] [Async Chat Thread - #20/INFO]: <I_R_TARD> Nja xD
+[10:13:22] [Async Chat Thread - #20/INFO]: <BuuTheGreat> :P
+[10:13:44] [Async Chat Thread - #20/INFO]: <I_R_TARD> Bor i en mindre stad några mil utanför Göteborg
+[10:14:54] [Async Chat Thread - #21/INFO]: <BuuTheGreat> jahaja
+[10:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:15:00] [Server thread/INFO]: Saving...
+[10:15:00] [Server thread/INFO]: Saved the world
+[10:15:00] [Server thread/INFO]: [Server] Save Complete
+[10:15:05] [Async Chat Thread - #21/INFO]: <BuuTheGreat> där har jag inte varit
+[10:15:37] [Async Chat Thread - #21/INFO]: <BuuTheGreat> stockholm, åre, jönköping, gottland
+[10:15:47] [Async Chat Thread - #21/INFO]: <I_R_TARD> Okej
+[10:16:26] [Async Chat Thread - #21/INFO]: <BuuTheGreat> det är ju det att jag varit i stockholm säkert 30 gånger
+[10:16:32] [Async Chat Thread - #21/INFO]: <BuuTheGreat> :P
+[10:16:41] [Async Chat Thread - #21/INFO]: <I_R_TARD> Jag har bara vart där 2 xD
+[10:16:44] [Async Chat Thread - #21/INFO]: <BuuTheGreat> oj
+[10:16:47] [Async Chat Thread - #21/INFO]: <BuuTheGreat> :P
+[10:17:04] [Async Chat Thread - #21/INFO]: <BuuTheGreat> gröna lund
+[10:17:06] [Async Chat Thread - #21/INFO]: <BuuTheGreat> :P
+[10:17:27] [Server thread/INFO]: BuuTheGreat issued server command: /spawn
+[10:18:37] [Async Chat Thread - #22/INFO]: <BuuTheGreat> ett år var jag 6 gånger till stockholm
+[10:18:40] [Async Chat Thread - #22/INFO]: <BuuTheGreat> :D
+[10:18:46] [Async Chat Thread - #22/INFO]: <I_R_TARD> Okej xD
+[10:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[10:20:09] [Async Chat Thread - #23/INFO]: <BuuTheGreat> min kusins mamma kan skaffa sig gratis biljetter
+[10:20:26] [Async Chat Thread - #23/INFO]: <I_R_TARD> Till grönalund???
+[10:20:40] [Async Chat Thread - #23/INFO]: <BuuTheGreat> nej till stockholm från helsingfors
+[10:20:54] [Async Chat Thread - #23/INFO]: <I_R_TARD> Aha xD
+[10:20:57] [Async Chat Thread - #23/INFO]: <BuuTheGreat> ja :D
+[10:21:04] [Async Chat Thread - #23/INFO]: <BuuTheGreat> så därför var jag 6 gånger där ett år
+[10:21:06] [Async Chat Thread - #23/INFO]: <BuuTheGreat> :P
+[10:21:25] [Async Chat Thread - #23/INFO]: <BuuTheGreat> 2 gånger betalade och 4 gratis XD
+[10:21:45] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:22:17] [Async Chat Thread - #23/INFO]: <BuuTheGreat> har ni varit utomlands alls då?
+[10:22:31] [Server thread/INFO]: Skyking_Caton lost connection: user was kicked.
+[10:22:31] [Server thread/INFO]: Skyking_Caton lost connection: You have been idle for too long!
+[10:22:31] [Server thread/INFO]: Skyking_Caton left the game
+[10:22:31] [Server thread/WARN]: handleDisconnection() called twice
+[10:22:45] [Async Chat Thread - #23/INFO]: <I_R_TARD> Aaa men då åker vi oftast till grekland eller spanien
+[10:22:59] [Async Chat Thread - #23/INFO]: <BuuTheGreat> okej najs :D
+[10:23:39] [Async Chat Thread - #23/INFO]: <BuuTheGreat> har ni släkt där?
+[10:23:47] [Async Chat Thread - #23/INFO]: <I_R_TARD> näää xD
+[10:23:52] [Async Chat Thread - #23/INFO]: <BuuTheGreat> okej
+[10:23:56] [Async Chat Thread - #23/INFO]: <I_R_TARD> Vi vill bara komma till solen xD
+[10:24:15] [Async Chat Thread - #23/INFO]: <BuuTheGreat> klart det
+[10:24:30] [Async Chat Thread - #23/INFO]: <BuuTheGreat> denna sommar har varit rätt dålig
+[10:25:02] [Async Chat Thread - #23/INFO]: <BuuTheGreat> men här är det bättre än i västnorge :P
+[10:25:07] [Async Chat Thread - #23/INFO]: <BuuTheGreat> där regnar det varenda dag
+[10:25:26] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:25:28] [Async Chat Thread - #23/INFO]: <I_R_TARD> Aaaa
+[10:26:11] [Async Chat Thread - #23/INFO]: <BuuTheGreat> nåja norrmän har fyrk så de far utomlands för hela sommarn
+[10:26:20] [Async Chat Thread - #23/INFO]: <BuuTheGreat> :P
+[10:26:24] [Async Chat Thread - #23/INFO]: <I_R_TARD> xD
+[10:26:29] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:26:34] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:27:32] [Async Chat Thread - #24/INFO]: <BuuTheGreat> har ni kossor och får där?
+[10:27:51] [User Authenticator #13/INFO]: UUID of player Skyking_Caton is 960738d5-ef2b-410b-a2bb-f4676c592de8
+[10:27:51] [Server thread/INFO]: Skyking_Caton[/78.73.231.113:50053] logged in with entity id 101715 at ([world]-514.456736939431, 64.0, 1990.4334363149303)
+[10:27:51] [Server thread/INFO]: [Server] Welcome back, Skyking_Caton
+[10:27:51] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Hey there, Skyking_Caton!
+[10:27:51] [Server thread/INFO]: [CONSOLE->Skyking_Caton] Welcome to Mineapple
+[10:27:51] [Async Chat Thread - #24/INFO]: <I_R_TARD> Vart???
+[10:27:57] [Async Chat Thread - #24/INFO]: <BuuTheGreat> där var ni bor
+[10:28:06] [Async Chat Thread - #24/INFO]: <I_R_TARD> Nä inte direkt xD
+[10:28:10] [Async Chat Thread - #24/INFO]: <BuuTheGreat> jaha
+[10:28:15] [Async Chat Thread - #24/INFO]: <Skyking_Caton> ?
+[10:28:40] [Async Chat Thread - #24/INFO]: <BuuTheGreat> trodde det fann inget mer än det utanför stockholm
+[10:29:30] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD vad snakar han om?
+[10:29:53] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Allt möjligt xD
+[10:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:30:00] [Server thread/INFO]: Saving...
+[10:30:00] [Server thread/INFO]: Saved the world
+[10:30:00] [Server thread/INFO]: [Server] Save Complete
+[10:30:06] [Async Chat Thread - #25/INFO]: <BuuTheGreat> citybons uppgift är att se till att vildmarken är utanför cityn
+[10:30:38] [Async Chat Thread - #25/INFO]: <BuuTheGreat> noja men nog om det
+[10:30:39] [Async Chat Thread - #25/INFO]: <BuuTheGreat> lol
+[10:31:58] [Async Chat Thread - #26/INFO]: <BuuTheGreat> landetjejer är ändå vackrast
+[10:32:12] [Async Chat Thread - #26/INFO]: <I_R_TARD> Jasså du xD
+[10:32:13] [Async Chat Thread - #26/INFO]: <BuuTheGreat> jag vet inte varför det är så
+[10:32:19] [Async Chat Thread - #26/INFO]: <BuuTheGreat> men så är det
+[10:33:06] [Async Chat Thread - #26/INFO]: <BuuTheGreat> kanske det är för att de måste dagligen sköta om farmen
+[10:33:07] [Async Chat Thread - #26/INFO]: <BuuTheGreat> :P
+[10:33:18] [Async Chat Thread - #26/INFO]: <Skyking_Caton> lol
+[10:33:56] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:34:41] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:35:00] [Server thread/INFO]: CONSOLE issued server command: /mob chicken,chicken,chicken,chicken,chicken 1 i
+[10:35:00] [Server thread/INFO]: 5 chickens spawned
+[10:35:09] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:35:32] [User Authenticator #14/INFO]: UUID of player Beethos is 9f332a62-4071-4931-9d8b-d4b912e4fc16
+[10:35:32] [Server thread/INFO]: Beethos[/109.145.33.87:62086] logged in with entity id 106000 at ([world]-4745.7030620815885, 72.0, 10488.185182804471)
+[10:35:32] [Server thread/INFO]: [Server] Welcome back, Beethos
+[10:35:32] [Server thread/INFO]: [CONSOLE->Beethos] Hey there, Beethos!
+[10:35:32] [Server thread/INFO]: [CONSOLE->Beethos] Welcome to Mineapple
+[10:35:34] [Async Chat Thread - #27/INFO]: <BuuTheGreat> wb
+[10:35:39] [Async Chat Thread - #27/INFO]: <~Joker> thanks
+[10:36:28] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:37:04] [Server thread/INFO]: CONSOLE issued server command: /mob enderman,chicken 1 bee
+[10:37:04] [Server thread/INFO]: 2 enderman spawned
+[10:37:15] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:37:31] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:37:33] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[10:39:42] [Server thread/INFO]: CONSOLE issued server command: /mob enderman,tntminecart sky
+[10:39:42] [Server thread/INFO]: Spawns a mob.
+[10:39:42] [Server thread/INFO]: /mob <mob>[:data][,<mount>[:data]] [amount] [player]
+[10:39:42] [Server thread/INFO]: Mobs: magmacube, chicken, snowman, hopperminecart, cow, furnaceminecart, pig, slime, spawnerminecart, skeleton, bat, blaze, endermite, rabbit, pigzombie, zombie, silverfish, giant, mushroomcow, irongolem, guardian, polarbear, ghast, sheep, tntminecart, enderdragon, armorstand, shulker, wolf, villager, chestminecart, ocelot, boat, endercrystal, horse, minecart, experienceorb, witch, squid, spider, wither, creeper, cavespider, enderman
+[10:39:56] [Async Chat Thread - #28/INFO]: <BuuTheGreat> jöns
+[10:40:12] [Async Chat Thread - #28/INFO]: <BuuTheGreat> jönsson
+[10:40:18] [Server thread/INFO]: CONSOLE issued server command: /mob enderman,tntminecart 1 sky
+[10:40:18] [Server thread/INFO]: 2 enderman spawned
+[10:40:23] [Async Chat Thread - #28/INFO]: <BuuTheGreat> Jöns son o.o
+[10:40:31] [Async Chat Thread - #28/INFO]: <Skyking_Caton> ?
+[10:40:43] [Server thread/INFO]: Skyking_Caton blew up
+[10:40:45] [Async Chat Thread - #28/INFO]: <BuuTheGreat> kan man heta jöns?
+[10:40:57] [Server thread/INFO]: Skyking_Caton issued server command: /back
+[10:41:18] [Async Chat Thread - #28/INFO]: <Skyking_Caton> fuuuuuuuuuuuuuu
+[10:41:28] [Async Chat Thread - #28/INFO]: <I_R_TARD> Pitta xD
+[10:41:34] [Async Chat Thread - #28/INFO]: <BuuTheGreat> pitabröd
+[10:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:45:00] [Server thread/INFO]: Saving...
+[10:45:00] [Server thread/INFO]: Saved the world
+[10:45:00] [Server thread/INFO]: [Server] Save Complete
+[10:46:13] [Async Chat Thread - #29/INFO]: <BuuTheGreat> jag tror rhinodude slutade spela :P då han av någon anläning inte kunde logga in :P
+[10:47:08] [Async Chat Thread - #29/INFO]: <BuuTheGreat> han kom hit med sin alt men kom inte in till sina saker i endkistan
+[10:47:30] [Async Chat Thread - #29/INFO]: <Skyking_Caton> okej
+[10:51:03] [Server thread/INFO]: Beethos lost connection: user was kicked.
+[10:51:03] [Server thread/INFO]: Beethos lost connection: You have been idle for too long!
+[10:51:03] [Server thread/INFO]: Beethos left the game
+[10:51:03] [Server thread/WARN]: handleDisconnection() called twice
+[10:59:06] [Async Chat Thread - #30/INFO]: <BuuTheGreat> somnade ni?
+[10:59:18] [Async Chat Thread - #30/INFO]: <Skyking_Caton> zzZZ
+[10:59:53] [Async Chat Thread - #30/INFO]: <BuuTheGreat> för varmt att man måste ta sin siesta`?
+[11:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:00:00] [Server thread/INFO]: Saving...
+[11:00:00] [Server thread/INFO]: Saved the world
+[11:00:00] [Server thread/INFO]: [Server] Save Complete
+[11:00:23] [User Authenticator #15/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
+[11:00:23] [Server thread/INFO]: Hottub99[/173.33.145.241:52075] logged in with entity id 117860 at ([world]7557.031966406336, 163.0, 9486.270464804657)
+[11:00:23] [Server thread/INFO]: [Server] Welcome back, Hottub99
+[11:00:23] [Server thread/INFO]: [CONSOLE->Hottub99] Hey there, Hottub99!
+[11:00:23] [Server thread/INFO]: [CONSOLE->Hottub99] Welcome to Mineapple
+[11:00:28] [Async Chat Thread - #30/INFO]: <BuuTheGreat> wb :)
+[11:00:44] [Server thread/INFO]: Hottub99 issued server command: /players
+[11:00:44] [Server thread/INFO]: Hottub99 tried command: players
+[11:00:50] [Async Chat Thread - #30/INFO]: <~deathriderr> thank
+[11:01:06] [Async Chat Thread - #30/INFO]: <BuuTheGreat> yw :D
+[11:01:40] [Server thread/INFO]: Hottub99 issued server command: /spawn
+[11:05:03] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARDmm du gräver du
+[11:05:10] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD mm du gräver du
+[11:05:17] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[11:05:25] [Server thread/INFO]: I_R_TARD issued server command: /r Aaa xD
+[11:05:31] [Server thread/INFO]: Hottub99 issued server command: /home
+[11:06:22] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD wille kom
+[11:06:39] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD ops
+[11:07:32] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Mmm vad fult du gör =)
+[11:07:39] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD yep
+[11:08:27] [Server thread/INFO]: I_R_TARD issued server command: /r Jag hjälper till att hugga
+[11:08:35] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD nä
+[11:08:56] [Async Chat Thread - #31/INFO]: <BuuTheGreat> what's up deathriderr?
+[11:09:07] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD aj
+[11:09:16] [Async Chat Thread - #31/INFO]: <~deathriderr> nm just hallowing out a mountain
+[11:09:22] [Async Chat Thread - #31/INFO]: <~deathriderr> hbu?\
+[11:09:23] [Async Chat Thread - #31/INFO]: <BuuTheGreat> nice
+[11:09:37] [Async Chat Thread - #31/INFO]: <BuuTheGreat> not much either
+[11:09:48] [Async Chat Thread - #31/INFO]: <BuuTheGreat> I was just fishing
+[11:10:01] [Server thread/INFO]: Skyking_Caton issued server command: /msg I_R_TARD ?
+[11:10:05] [Async Chat Thread - #31/INFO]: <BuuTheGreat> and fixed a pickaxe
+[11:10:13] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[11:10:51] [Async Chat Thread - #31/INFO]: <~deathriderr> do you even get a lot from fishing? or is it easier just to kill cows and shit
+[11:10:57] [Server thread/INFO]: I_R_TARD issued server command: /msg Skyking_Caton Jag måste dra en stund men jag är tillbaka senare
+[11:11:08] [Server thread/INFO]: I_R_TARD lost connection: Disconnected
+[11:11:08] [Server thread/INFO]: I_R_TARD left the game
+[11:11:22] [Async Chat Thread - #31/INFO]: <BuuTheGreat> well I got the best bow by fishing and all kind of nice books
+[11:12:26] [Async Chat Thread - #32/INFO]: <~deathriderr> oh damn i might have to start fishing now
+[11:12:41] [Async Chat Thread - #32/INFO]: <BuuTheGreat> I recommend :D
+[11:12:58] [Server thread/INFO]: Skyking_Caton issued server command: /spawn
+[11:14:40] [Async Chat Thread - #33/INFO]: <BuuTheGreat> want an enchanted rod?
+[11:14:58] [Server thread/INFO]: Hottub99 issued server command: /home
+[11:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:15:00] [Server thread/INFO]: Saving...
+[11:15:00] [Server thread/INFO]: Saved the world
+[11:15:00] [Server thread/INFO]: [Server] Save Complete
+[11:15:11] [Async Chat Thread - #33/INFO]: <~deathriderr> sure
+[11:15:19] [Server thread/INFO]: BuuTheGreat issued server command: /tpa death
+[11:15:22] [Async Chat Thread - #33/INFO]: <~deathriderr> you need any matrials in return?
+[11:15:40] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[11:15:40] [Async Chat Thread - #33/INFO]: <BuuTheGreat> nah :) I get these from fishing XD
+[11:15:54] [Async Chat Thread - #33/INFO]: <BuuTheGreat> it looks destroyed
+[11:15:57] [Async Chat Thread - #33/INFO]: <BuuTheGreat> but it has medning
+[11:15:59] [Async Chat Thread - #33/INFO]: <~deathriderr> i can repair it
+[11:16:06] [Async Chat Thread - #33/INFO]: <BuuTheGreat> you don't need to
+[11:16:12] [Async Chat Thread - #33/INFO]: <BuuTheGreat> fish and it heels
+[11:16:17] [Async Chat Thread - #33/INFO]: <~deathriderr> damn
+[11:16:22] [Async Chat Thread - #33/INFO]: <~deathriderr> wel thanks a ton
+[11:16:28] [Async Chat Thread - #33/INFO]: <BuuTheGreat> no prob mate :)
+[11:16:41] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[11:16:42] [Server thread/INFO]: Hottub99 issued server command: /home
+[11:16:50] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[11:16:55] [Server thread/INFO]: Hottub99 issued server command: /home
+[11:18:33] [Async Chat Thread - #34/INFO]: <BuuTheGreat> men hej :D
+[11:18:38] [Async Chat Thread - #34/INFO]: <Skyking_Caton> hej
+[11:19:54] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[11:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[11:20:04] [Server thread/INFO]: Skyking_Caton lost connection: Disconnected
+[11:20:04] [Server thread/INFO]: Skyking_Caton left the game
+[11:20:19] [Async Chat Thread - #35/INFO]: <BuuTheGreat> had any luck yet?
+[11:20:31] [Async Chat Thread - #35/INFO]: <~deathriderr> nope
+[11:20:40] [Async Chat Thread - #35/INFO]: <~deathriderr> got a stick
+[11:20:47] [Async Chat Thread - #35/INFO]: <BuuTheGreat> oh lol
+[11:20:54] [Async Chat Thread - #35/INFO]: <BuuTheGreat> well wait for it
+[11:21:28] [Async Chat Thread - #35/INFO]: <~deathriderr> lol i will
+[11:24:36] [Server thread/INFO]: CONSOLE issued server command: /mob enderman,chicken 1 hott
+[11:24:36] [Server thread/INFO]: 2 enderman spawned
+[11:27:54] [Server thread/INFO]: Hottub99 issued server command: /home
+[11:28:00] [Server thread/INFO]: BuuTheGreat was blown up by Creeper
+[11:28:08] [Async Chat Thread - #36/INFO]: <BuuTheGreat> woa
+[11:28:09] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[11:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:30:00] [Server thread/INFO]: Saving...
+[11:30:00] [Server thread/INFO]: Saved the world
+[11:30:00] [Server thread/INFO]: [Server] Save Complete
+[11:32:26] [Async Chat Thread - #37/INFO]: <BuuTheGreat> now then?:P
+[11:32:31] [Async Chat Thread - #37/INFO]: <~deathriderr> nope
+[11:32:45] [Async Chat Thread - #37/INFO]: <BuuTheGreat> that's odd
+[11:32:49] [Async Chat Thread - #37/INFO]: <~deathriderr> got a bottle of water tho
+[11:32:56] [Async Chat Thread - #37/INFO]: <BuuTheGreat> nice:P
+[11:32:58] [Async Chat Thread - #37/INFO]: <~deathriderr> maybe i'm not lucky
+[11:34:01] [Async Chat Thread - #38/INFO]: <BuuTheGreat> I got good things already without enchantments:p
+[11:34:15] [Async Chat Thread - #38/INFO]: <~deathriderr> damn
+[11:34:26] [Async Chat Thread - #38/INFO]: <~deathriderr> well at least i'm getting lots of fish
+[11:34:34] [Async Chat Thread - #38/INFO]: <BuuTheGreat> true that
+[11:34:41] [Async Chat Thread - #38/INFO]: <BuuTheGreat> food for days
+[11:34:45] [Async Chat Thread - #38/INFO]: <BuuTheGreat> maybe weeks
+[11:34:57] [Async Chat Thread - #38/INFO]: <~deathriderr> haha yeah
+[11:36:38] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[11:36:38] [Server thread/INFO]: BuuTheGreat left the game
+[11:41:23] [Server thread/INFO]: Hottub99 issued server command: /homw
+[11:41:26] [Server thread/INFO]: Hottub99 issued server command: /home
+[11:41:58] [Server thread/INFO]: Hottub99 lost connection: Disconnected
+[11:41:58] [Server thread/INFO]: Hottub99 left the game
+[11:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:45:00] [Server thread/INFO]: Saving...
+[11:45:00] [Server thread/INFO]: Saved the world
+[11:45:00] [Server thread/INFO]: [Server] Save Complete
+[12:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:00:00] [Server thread/INFO]: Saving...
+[12:00:00] [Server thread/INFO]: Saved the world
+[12:00:00] [Server thread/INFO]: [Server] Save Complete
