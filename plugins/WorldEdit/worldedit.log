@@ -300,3 +300,23 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /copy
 [INFO] WorldEdit: WalshyXD (in "world"): save mcedit cactus
 [INFO] WorldEdit: WalshyXD (in "world"): list
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-30.252671141477947, 77.28067430098567, 269.35458432041713)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-49.40159162097842, 88.52478152323363, 300.70995760452166)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace nether_brick_stairs Quartz_Stairs - Region: (-50.0, 77.0, 269.0) - (-31.0, 88.0, 300.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (28.15439021191283, 89.23707215716426, 257.08411926536485)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace log coal_block - Region: (-5.0, 67.0, 239.0) - (28.0, 89.0, 257.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 5:1 5:2 - Region: (-5.0, 67.0, 239.0) - (28.0, 89.0, 257.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace planks 0 - Region: (-5.0, 67.0, 239.0) - (28.0, 89.0, 257.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 5:2 0 - Region: (-5.0, 67.0, 239.0) - (28.0, 89.0, 257.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 5:1 0 - Region: (-5.0, 67.0, 239.0) - (28.0, 89.0, 257.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (27.625432666401682, 91.86271862200891, 264.4227123400853)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 5 159:7 - Region: (-8.0, 67.0, 239.0) - (27.0, 91.0, 264.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 5:2 159:7 - Region: (-8.0, 67.0, 239.0) - (27.0, 91.0, 264.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 5 159:7 - Region: (-8.0, 67.0, 239.0) - (27.0, 91.0, 264.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-16.032027096763674, 77.61772403849292, 111.31269377925058)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-15.948157601380426, 77.61772403849292, 111.31269377925058)
+[INFO] WorldEdit: WalshyXD (in "world"): /ex - Position: (-124.0, 79.0, 246.0)

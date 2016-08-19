@@ -1,16 +1,16 @@
 lastAccountName: Ahri_Le_Fox
 timestamps:
-  login: 1471398831554
-  logout: 1471400891375
+  login: 1471632061943
+  logout: 1471632121155
   lastteleport: 1471400840116
 ipAddress: 108.90.227.154
 logoutlocation:
   world: world
-  x: -45.17110060382585
-  y: 59.0
-  z: 540.6629900254976
-  yaw: 354.44742
-  pitch: 11.814815
+  x: -43.412074982535266
+  y: 60.0
+  z: 543.4774039470856
+  yaw: 151.45575
+  pitch: 17.139177
 lastlocation:
   world: world
   x: -139.85970930393472
