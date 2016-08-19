@@ -1,102 +1,78 @@
-[00:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:00:00] [Server thread/INFO]: Saving...
-[00:00:00] [Server thread/INFO]: Saved the world
-[00:00:00] [Server thread/INFO]: [Server] Save Complete
-[00:00:20] [Server thread/WARN]: AlmostJesus moved wrongly!
-[00:00:44] [Server thread/INFO]: egger49 issued server command: /home
-[00:00:54] [Server thread/INFO]: AlmostJesus issued server command: /home
-[00:02:52] [Server thread/INFO]: egger49 lost connection: Disconnected
-[00:02:52] [Server thread/INFO]: egger49 left the game
-[00:03:54] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
-[00:03:54] [Server thread/INFO]: AlmostJesus left the game
-[00:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:15:00] [Server thread/INFO]: Saving...
-[00:15:00] [Server thread/INFO]: Saved the world
-[00:15:00] [Server thread/INFO]: [Server] Save Complete
-[00:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:30:00] [Server thread/INFO]: Saving...
-[00:30:00] [Server thread/INFO]: Saved the world
-[00:30:00] [Server thread/INFO]: [Server] Save Complete
-[00:34:24] [User Authenticator #41/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
-[00:34:24] [Server thread/INFO]: Hottub99[/173.33.145.241:62955] logged in with entity id 404972 at ([world]7556.725677370151, 163.0, 9485.539321378286)
-[00:34:24] [Server thread/INFO]: [Server] Welcome back, Hottub99
-[00:34:24] [Server thread/INFO]: [CONSOLE->Hottub99] Hey there, Hottub99!
-[00:34:24] [Server thread/INFO]: [CONSOLE->Hottub99] Welcome to Mineapple
-[00:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:45:00] [Server thread/INFO]: Saving...
-[00:45:00] [Server thread/INFO]: Saved the world
-[00:45:00] [Server thread/INFO]: [Server] Save Complete
-[01:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:00:00] [Server thread/INFO]: Saving...
-[01:00:01] [Server thread/INFO]: Saved the world
-[01:00:01] [Server thread/INFO]: [Server] Save Complete
-[01:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:15:00] [Server thread/INFO]: Saving...
-[01:15:00] [Server thread/INFO]: Saved the world
-[01:15:00] [Server thread/INFO]: [Server] Save Complete
-[01:16:21] [Server thread/INFO]: Hottub99 issued server command: /home
-[01:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[01:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:30:00] [Server thread/INFO]: Saving...
-[01:30:00] [Server thread/INFO]: Saved the world
-[01:30:00] [Server thread/INFO]: [Server] Save Complete
-[01:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:45:00] [Server thread/INFO]: Saving...
-[01:45:00] [Server thread/INFO]: Saved the world
-[01:45:00] [Server thread/INFO]: [Server] Save Complete
-[01:49:20] [Server thread/INFO]: Hottub99 issued server command: /home
-[02:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:00:00] [Server thread/INFO]: Saving...
-[02:00:00] [Server thread/INFO]: Saved the world
-[02:00:00] [Server thread/INFO]: [Server] Save Complete
-[02:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:15:00] [Server thread/INFO]: Saving...
-[02:15:00] [Server thread/INFO]: Saved the world
-[02:15:00] [Server thread/INFO]: [Server] Save Complete
-[02:15:50] [Server thread/INFO]: Hottub99 issued server command: /home
-[02:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[02:22:34] [Server thread/INFO]: Hottub99 issued server command: /home
-[02:23:51] [Server thread/INFO]: Hottub99 has just earned the achievement [We Need to Go Deeper]
-[02:23:54] [Server thread/WARN]: Hottub99 moved too quickly! -6614.146071667476,-62.0,-8273.173757525397
-[02:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:30:00] [Server thread/INFO]: Saving...
-[02:30:00] [Server thread/INFO]: Saved the world
-[02:30:00] [Server thread/INFO]: [Server] Save Complete
-[02:40:18] [Server thread/INFO]: Hottub99 issued server command: /home
-[02:43:52] [Server thread/INFO]: Hottub99 lost connection: Disconnected
-[02:43:52] [Server thread/INFO]: Hottub99 left the game
-[02:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[02:45:00] [Server thread/INFO]: Saving...
-[02:45:00] [Server thread/INFO]: Saved the world
-[02:45:00] [Server thread/INFO]: [Server] Save Complete
-[03:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[03:00:00] [Server thread/INFO]: Saving...
-[03:00:00] [Server thread/INFO]: Saved the world
-[03:00:00] [Server thread/INFO]: [Server] Save Complete
-[03:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[03:15:00] [Server thread/INFO]: Saving...
-[03:15:00] [Server thread/INFO]: Saved the world
-[03:15:00] [Server thread/INFO]: [Server] Save Complete
-[03:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[03:30:00] [Server thread/INFO]: Saving...
-[03:30:00] [Server thread/INFO]: Saved the world
-[03:30:00] [Server thread/INFO]: [Server] Save Complete
-[03:38:38] [User Authenticator #42/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
-[03:38:41] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:49818] logged in with entity id 488081 at ([world]-1048.6609422393958, 6.0, 82.30000001192093)
-[03:38:41] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
-[03:38:41] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Hey there, KevinDaBaws!
-[03:38:41] [Server thread/INFO]: [CONSOLE->KevinDaBaws] Welcome to Mineapple
-[03:39:29] [Server thread/INFO]: KevinDaBaws issued server command: /home
-[03:39:32] [Server thread/INFO]: KevinDaBaws issued server command: /home
-[03:39:34] [Server thread/INFO]: KevinDaBaws issued server command: /homes
-[03:40:06] [Server thread/INFO]: KevinDaBaws issued server command: /sethome
-[03:40:07] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
-[03:40:07] [Server thread/INFO]: KevinDaBaws left the game
-[03:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[03:45:00] [Server thread/INFO]: Saving...
-[03:45:00] [Server thread/INFO]: Saved the world
-[03:45:00] [Server thread/INFO]: [Server] Save Complete
-[04:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[04:00:00] [Server thread/INFO]: Saving...
-[04:00:00] [Server thread/INFO]: Saved the world
-[04:00:00] [Server thread/INFO]: [Server] Save Complete
+[04:45:19] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[04:45:19] [Server thread/INFO]: Loading properties
+[04:45:19] [Server thread/INFO]: Default game type: SURVIVAL
+[04:45:20] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-078e2f8-9ff3d7f (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[04:45:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:45:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:45:20] [Server thread/INFO]: Debug logging is disabled
+[04:45:20] [Server thread/INFO]: Generating keypair
+[04:45:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:45:21] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[04:45:21] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[04:45:21] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[04:45:21] [Server thread/INFO]: [Slack] Loading Slack v1.5.0
+[04:45:21] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[04:45:21] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[04:45:21] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[04:45:21] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[04:45:21] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[04:45:21] [Server thread/INFO]: Preparing level "world"
+[04:45:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3820634467636136119)
+[04:45:22] [Server thread/INFO]: Preparing spawn area: 2%
+[04:45:23] [Server thread/INFO]: Preparing spawn area: 47%
+[04:45:24] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3488346064576240778)
+[04:45:25] [Server thread/INFO]: Preparing spawn area: 18%
+[04:45:26] [Server thread/INFO]: Preparing spawn area: 50%
+[04:45:27] [Server thread/INFO]: Preparing spawn area: 70%
+[04:45:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
+[04:45:29] [Server thread/INFO]: Preparing spawn area: 52%
+[04:45:30] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[04:45:31] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[04:45:31] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[04:45:31] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[04:45:31] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[04:45:31] [Server thread/INFO]: [Slack] Enabling Slack v1.5.0
+[04:45:31] [Server thread/INFO]: [Slack] Slack has been enabled.
+[04:45:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[04:45:32] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[04:45:32] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
+[04:45:33] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
+[04:45:33] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[04:45:33] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsSpawn to the same version.
+[04:45:33] [Server thread/INFO]: Using locale en_US
+[04:45:34] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[04:45:34] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[04:45:34] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[04:45:34] [Server thread/INFO]: Using locale en_US
+[04:45:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[04:45:34] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[04:45:34] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[04:45:34] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[04:45:34] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[04:45:34] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[04:45:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[04:45:35] [Server thread/INFO]: [WorldGuard] Loading region data...
+[04:45:35] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/minecraft (MySQL 5.7)
+[04:45:36] [Server thread/INFO]: [WorldGuard] Current version of schema `minecraft`: 2
+[04:45:36] [Server thread/INFO]: [WorldGuard] Schema `minecraft` is up to date. No migration necessary.
+[04:45:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:45:37] [Server thread/INFO]: Done (16.223s)! For help, type "help" or "?"
+[04:45:37] [Server thread/INFO]: Using epoll channel type
+[05:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[05:00:00] [Server thread/INFO]: Saving...
+[05:00:00] [Server thread/INFO]: Saved the world
+[05:00:00] [Server thread/INFO]: [Server] Save Complete
