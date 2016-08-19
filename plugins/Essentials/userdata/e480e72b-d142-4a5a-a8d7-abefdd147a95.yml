@@ -1,16 +1,16 @@
 lastAccountName: egger49
 timestamps:
-  login: 1471553788162
-  lastteleport: 1471544452705
-  logout: 1471554008003
+  login: 1471574907563
+  lastteleport: 1471579249954
+  logout: 1471579372952
 ipAddress: 99.247.164.202
 lastlocation:
-  world: world_nether
-  x: 1058.7588928008809
-  y: 67.0
-  z: 1153.78522963507
-  yaw: 95.787315
-  pitch: 28.649933
+  world: world
+  x: -93.80839154425982
+  y: 121.5
+  z: -123.27191656182698
+  yaw: -207.90051
+  pitch: 38.399906
 homes:
   home:
     world: world
@@ -22,9 +22,9 @@ homes:
 nickname: Jesus
 logoutlocation:
   world: world
-  x: 7542.69905919993
+  x: 7544.421355292101
   y: 158.0
-  z: 9480.534230062476
-  yaw: -183.19212
-  pitch: 0.7500057
+  z: 9483.23603149667
+  yaw: 245.50836
+  pitch: -25.350063
 afk: false

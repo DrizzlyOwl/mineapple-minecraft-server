@@ -1,10 +1,10 @@
 lastAccountName: JeffTheThriller
 timestamps:
-  login: 1471541942295
+  login: 1471563838027
   kits:
     tools: 1470775828075
   lastteleport: 1471543571737
-  logout: 1471543578855
+  logout: 1471568361146
   mute: 0
 ipAddress: 5.71.243.173
 lastlocation:
@@ -17,11 +17,11 @@ lastlocation:
 afk: false
 logoutlocation:
   world: world
-  x: -4715.5
+  x: -4717.817679728566
   y: 45.0
-  z: 10493.5
-  yaw: 59.912632
-  pitch: 32.25
+  z: 10494.276008050114
+  yaw: 274.1128
+  pitch: 14.250061
 homes:
   home:
     world: world
@@ -32,4 +32,4 @@ homes:
     pitch: 4.8
 nickname: Harley
 muted: false
-godmode: true
+godmode: false
