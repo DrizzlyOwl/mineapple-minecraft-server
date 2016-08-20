@@ -482,3 +482,98 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /drain 30 - Position: (-16.0, 61.0, 200.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /drain 30 - Position: (-5.0, 61.0, 194.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /drain 30 - Position: (-5.0, 61.0, 191.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-10.304631255394021, 56.0, 211.68622216302902)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-41.26800266363676, 64.28453508982865, 202.4551029540495)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace sand 0 - Region: (-42.0, 56.0, 202.0) - (-11.0, 64.0, 211.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace stone 0 - Region: (-42.0, 56.0, 202.0) - (-11.0, 64.0, 211.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace iron_ore 0 - Region: (-42.0, 56.0, 202.0) - (-11.0, 64.0, 211.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 3 0 - Region: (-42.0, 56.0, 202.0) - (-11.0, 64.0, 211.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (23.598210079142522, 68.0, 240.69999998807907)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (-0.33426229252119194, 85.11705457612635, 257.5420515322325)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace plank 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace glass 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace stairs 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace coalblock 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace cake 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace clay 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-36.644905571533236, 59.0, 189.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (10.89178592720838, 80.64858738286995, 170.29539999154346)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 2 - Region: (-37.0, 59.0, 170.0) - (10.0, 80.0, 189.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace stone 2 - Region: (-37.0, 59.0, 170.0) - (10.0, 80.0, 189.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /help floor
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /help shape
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /undo 5
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): sphere dirt
+[INFO] WorldEdit: DrizzlyOwl (in "world"): smooth
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /naturalize - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /flora - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-12.450571622549788, 57.0, 199.9097735222965)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-50.36447785220924, 74.90592441073154, 166.8222478669135)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace grass 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace dirt 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace leaves 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace log 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace sand 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace stone 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace gravel 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace iron_ore 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-49.30000001192093, 60.521121216221, 156.07931293018032)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-48.876224391595294, 56.0, 205.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (15.19724929008853, 79.45274853028751, 164.00230452162168)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 2 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 3 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /replace stone 3 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace iron_ore 3 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace stone 0 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (6.083774239864354, 75.69784675504613, 155.9849731381952)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (4.353522759598053, 65.0, 253.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace stone 3 - Region: (-49.0, 56.0, 155.0) - (6.0, 75.0, 205.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (15.625520200802422, 68.0, 242.3101305501021)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace 0 - Region: (4.0, 65.0, 242.0) - (15.0, 68.0, 253.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-49.69999998807907, 62.0, 211.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (13.699999988079071, 53.0, 160.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-50.0, 53.0, 160.0) - (13.0, 62.0, 211.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (27.69999998807907, 59.0, 211.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (13.678773055814851, 63.0, 186.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air water - Region: (13.0, 59.0, 186.0) - (27.0, 63.0, 211.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (13.699999988079071, 62.0, 186.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air water - Region: (13.0, 59.0, 186.0) - (27.0, 62.0, 211.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (9.255035906855406, 63.0, 181.34960395047372)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-37.12051670505248, 79.76867289316542, 148.04261855273865)
+[INFO] WorldEdit: WalshyXD (in "world"): /naturalize - Region: (-38.0, 63.0, 148.0) - (9.0, 79.0, 181.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /naturalize - Region: (-38.0, 63.0, 148.0) - (9.0, 79.0, 181.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): none
+[INFO] WorldEdit: WalshyXD (in "world"): none
+[INFO] WorldEdit: WalshyXD (in "world"): none
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace 0 dirt - Region: (4.0, 65.0, 242.0) - (15.0, 68.0, 253.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /walls stonebrick - Region: (4.0, 65.0, 242.0) - (15.0, 68.0, 253.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (5.537034718739568, 64.0, 243.55969795562083)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (14.699999988079071, 57.0, 251.64727652286186)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /replace 0 - Region: (5.0, 57.0, 243.0) - (14.0, 64.0, 251.0)

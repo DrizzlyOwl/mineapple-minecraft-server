@@ -1,7 +1,7 @@
 lastAccountName: DrizzlyOwl
 timestamps:
-  login: 1471699940933
-  logout: 1471699950620
+  login: 1471719846368
+  logout: 1471723091353
   lastteleport: 1471642760831
   kits:
     color: 1470953260568
@@ -10,11 +10,11 @@ timestamps:
 ipAddress: 176.27.13.83
 logoutlocation:
   world: world
-  x: -4.448577747086
-  y: 74.88178979525807
-  z: 255.35657330310272
-  yaw: -272.40057
-  pitch: 16.799747
+  x: -18.62908641791419
+  y: 94.3679447297489
+  z: 126.78157894964895
+  yaw: 2.8464355
+  pitch: 32.39996
 lastlocation:
   world: world
   x: -2.565011394982359
@@ -34,3 +34,4 @@ homes:
     z: 219.79907195739824
     yaw: -193.04996
     pitch: 12.599992
+teleportenabled: false

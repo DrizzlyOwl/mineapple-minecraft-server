@@ -611,3 +611,714 @@
 [20:00:00] [Server thread/INFO]: Saving...
 [20:00:00] [Server thread/INFO]: Saved the world
 [20:00:00] [Server thread/INFO]: [Server] Save Complete
+[20:01:00] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:01:00] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:01:01] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:01:01] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:01:02] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:01:02] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:02:13] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:02:13] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:02:14] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:02:14] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:02:15] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:02:15] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:02:38] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:02:38] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:02:39] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:02:39] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:02:40] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:02:40] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:02:54] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:02:54] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:03:03] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:03:03] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:03:32] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:03:32] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-10.304631255394021, 56.0, 211.68622216302902)
+[20:03:40] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:03:40] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-41.26800266363676, 64.28453508982865, 202.4551029540495)
+[20:03:43] [Server thread/INFO]: WalshyXD issued server command: //replace sand 0
+[20:03:43] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace sand 0 - Region: (-42.0, 56.0, 202.0) - (-11.0, 64.0, 211.0)
+[20:03:46] [Server thread/INFO]: WalshyXD issued server command: //replace stone 0
+[20:03:46] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace stone 0 - Region: (-42.0, 56.0, 202.0) - (-11.0, 64.0, 211.0)
+[20:03:52] [Server thread/INFO]: WalshyXD issued server command: //replace iron_ore 0
+[20:03:52] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace iron_ore 0 - Region: (-42.0, 56.0, 202.0) - (-11.0, 64.0, 211.0)
+[20:03:56] [Server thread/INFO]: WalshyXD issued server command: //replace iron_ore 3 0
+[20:04:02] [Server thread/INFO]: WalshyXD issued server command: //replace 3 0
+[20:04:02] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 3 0 - Region: (-42.0, 56.0, 202.0) - (-11.0, 64.0, 211.0)
+[20:04:06] [User Authenticator #14/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
+[20:04:06] [Server thread/INFO]: DrizzlyOwl[/176.27.13.83:59026] logged in with entity id 137388 at ([world]-4.448577747086, 74.88178979525807, 255.35657330310272)
+[20:04:06] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
+[20:04:11] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> Hey
+[20:04:16] [Async Chat Thread - #5/INFO]: <WalshyXD> hey
+[20:04:22] [Async Chat Thread - #5/INFO]: <WalshyXD> dont look
+[20:04:22] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> wow you been busy
+[20:04:22] [User Authenticator #15/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[20:04:22] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:55427] logged in with entity id 137904 at ([world]-1038.3373606116238, 11.875, 137.4644375925088)
+[20:04:22] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[20:04:25] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Hallo
+[20:04:30] [Async Chat Thread - #5/INFO]: <WalshyXD> I SAID DONT LOOK
+[20:04:31] [Async Chat Thread - #5/INFO]: <WalshyXD> hi kevin
+[20:04:35] [Server thread/INFO]: KevinDaBaws issued server command: /tpa DrizzlyOwl
+[20:04:38] [Server thread/INFO]: DrizzlyOwl issued server command: /tpdeny
+[20:04:40] [Async Chat Thread - #5/INFO]: <KevinDaBaws> :o
+[20:04:43] [Async Chat Thread - #5/INFO]: <KevinDaBaws> type /tptoggle
+[20:04:43] [Server thread/INFO]: DrizzlyOwl issued server command: /tptoggle
+[20:04:49] [Async Chat Thread - #5/INFO]: <KevinDaBaws> bye
+[20:04:50] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
+[20:04:50] [Server thread/INFO]: KevinDaBaws left the game
+[20:04:52] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> :|
+[20:04:56] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> dafuq
+[20:04:58] [Async Chat Thread - #5/INFO]: <WalshyXD> Idk
+[20:05:03] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> he tried tping to me
+[20:05:33] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> what biome is teh spawn
+[20:05:35] [Async Chat Thread - #5/INFO]: <WalshyXD> had to drain it to do this
+[20:05:40] [Async Chat Thread - #5/INFO]: <WalshyXD> im experimenting
+[20:05:50] [Async Chat Thread - #5/INFO]: <WalshyXD> tried jungle but the grass is too bright
+[20:05:55] [Async Chat Thread - #5/INFO]: <WalshyXD> its roofed forest now. too dark
+[20:06:06] [Async Chat Thread - #5/INFO]: <WalshyXD> made the path look at bit less... 2d
+[20:06:14] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> Do you agree that the church doesn't really suit the spawn anymore?
+[20:06:16] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:06:16] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:06:17] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:06:17] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:06:22] [Async Chat Thread - #5/INFO]: <WalshyXD> 110% agree
+[20:06:27] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> alright im getting rid ok?
+[20:06:28] [Async Chat Thread - #5/INFO]: <WalshyXD> been trying to look at a more superior design
+[20:06:38] [Async Chat Thread - #5/INFO]: <WalshyXD> keep it there until we get an idea of replacement
+[20:06:38] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 1
+[20:06:42] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> I'll build something :)
+[20:06:47] [Async Chat Thread - #5/INFO]: <WalshyXD> ok
+[20:06:51] [Async Chat Thread - #5/INFO]: <WalshyXD> BURN THE CHURCH
+[20:07:01] [Async Chat Thread - #5/INFO]: <WalshyXD> oh
+[20:07:02] [Async Chat Thread - #5/INFO]: <WalshyXD> cant
+[20:07:04] [Server thread/INFO]: DrizzlyOwl issued server command: //pos1
+[20:07:04] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (23.598210079142522, 68.0, 240.69999998807907)
+[20:07:04] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> ;)
+[20:07:08] [Async Chat Thread - #5/INFO]: <WalshyXD> ...I put a forest behind it
+[20:07:10] [Async Chat Thread - #5/INFO]: <WalshyXD> think fast
+[20:07:11] [Server thread/INFO]: DrizzlyOwl issued server command: //pos2
+[20:07:11] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (-0.33426229252119194, 85.11705457612635, 257.5420515322325)
+[20:07:14] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> lol
+[20:07:20] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[20:07:22] [Async Chat Thread - #5/INFO]: <WalshyXD> ...
+[20:07:26] [Async Chat Thread - #5/INFO]: <DrizzlyOwl> ;)
+[20:07:33] [Server thread/INFO]: DrizzlyOwl issued server command: //replace plank 0
+[20:07:33] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace plank 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:07:35] [Server thread/INFO]: DrizzlyOwl issued server command: //replace glass 0
+[20:07:35] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace glass 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:07:38] [Server thread/INFO]: DrizzlyOwl issued server command: //replace stairs 0
+[20:07:38] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace stairs 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:07:40] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:07:40] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:07:41] [Server thread/INFO]: DrizzlyOwl issued server command: //replace coalblock 0
+[20:07:41] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace coalblock 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:07:45] [Server thread/INFO]: DrizzlyOwl issued server command: //replace cake 0
+[20:07:45] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace cake 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:07:47] [Server thread/INFO]: DrizzlyOwl issued server command: //replace clay 0
+[20:07:47] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace clay 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:07:51] [Server thread/INFO]: DrizzlyOwl issued server command: //replace 0
+[20:07:51] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace 0 - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:08:14] [Server thread/INFO]: WalshyXD issued server command: /time day
+[20:08:27] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:08:27] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-36.644905571533236, 59.0, 189.30000001192093)
+[20:08:36] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:08:36] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (10.89178592720838, 80.64858738286995, 170.29539999154346)
+[20:08:40] [Server thread/INFO]: WalshyXD issued server command: //replace 2
+[20:08:40] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 2 - Region: (-37.0, 59.0, 170.0) - (10.0, 80.0, 189.0)
+[20:08:47] [Server thread/INFO]: WalshyXD issued server command: //replace stone 2
+[20:08:47] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace stone 2 - Region: (-37.0, 59.0, 170.0) - (10.0, 80.0, 189.0)
+[20:09:33] [Async Chat Thread - #6/INFO]: <DrizzlyOwl> just got back from Sams
+[20:09:42] [Async Chat Thread - #6/INFO]: <WalshyXD> figured :)
+[20:09:58] [Server thread/INFO]: DrizzlyOwl issued server command: //floor dirt
+[20:10:00] [Server thread/INFO]: DrizzlyOwl issued server command: //help floor
+[20:10:00] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /help floor
+[20:10:02] [Server thread/INFO]: DrizzlyOwl issued server command: //help shape
+[20:10:02] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /help shape
+[20:10:05] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:10:19] [Server thread/INFO]: DrizzlyOwl issued server command: //brush
+[20:10:28] [Server thread/INFO]: DrizzlyOwl issued server command: /brush raise 3
+[20:10:32] [Server thread/INFO]: DrizzlyOwl issued server command: /brush raise cuboid
+[20:10:35] [Server thread/INFO]: DrizzlyOwl issued server command: /brush raise cuboid 5
+[20:10:44] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:10:44] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:10:46] [Server thread/INFO]: DrizzlyOwl issued server command: //undo 5
+[20:10:46] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /undo 5
+[20:10:54] [Server thread/INFO]: WalshyXD issued server command: //indo
+[20:10:57] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:10:57] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:10:59] [Server thread/INFO]: DrizzlyOwl issued server command: /brush sphere
+[20:11:05] [Server thread/INFO]: DrizzlyOwl issued server command: /brush sphere dirt
+[20:11:05] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): sphere dirt
+[20:11:39] [Server thread/INFO]: DrizzlyOwl issued server command: /brush smooth
+[20:11:39] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): smooth
+[20:11:43] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:11:43] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:11:53] [Server thread/INFO]: DrizzlyOwl issued server command: //naturalize
+[20:11:53] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /naturalize - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:11:55] [Server thread/INFO]: DrizzlyOwl issued server command: //flora
+[20:11:55] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /flora - Region: (-1.0, 68.0, 240.0) - (23.0, 85.0, 257.0)
+[20:11:57] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:12:12] [Async Chat Thread - #7/INFO]: <DrizzlyOwl> have you noticed how much faster WE is?
+[20:12:32] [Async Chat Thread - #7/INFO]: <WalshyXD> explains why I felt unaffected when encasing the spawn in stone earlier..
+[20:12:36] [Async Chat Thread - #7/INFO]: <DrizzlyOwl> q_q
+[20:12:45] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:12:45] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-12.450571622549788, 57.0, 199.9097735222965)
+[20:12:56] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:12:56] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-50.36447785220924, 74.90592441073154, 166.8222478669135)
+[20:13:00] [Server thread/INFO]: WalshyXD issued server command: //replace grass 0
+[20:13:00] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace grass 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[20:13:04] [Server thread/INFO]: WalshyXD issued server command: //replace dirt 0
+[20:13:04] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace dirt 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[20:13:11] [Server thread/INFO]: WalshyXD issued server command: //replace leaves 0
+[20:13:11] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace leaves 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[20:13:14] [Server thread/INFO]: WalshyXD issued server command: //replace log 0
+[20:13:14] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace log 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[20:13:14] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:13:24] [Server thread/INFO]: WalshyXD issued server command: //replace sand 0
+[20:13:24] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace sand 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[20:13:31] [Server thread/INFO]: WalshyXD issued server command: //replace stone 0
+[20:13:31] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace stone 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[20:13:42] [Server thread/INFO]: WalshyXD issued server command: //replace gravel 0
+[20:13:42] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace gravel 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[20:13:47] [Server thread/INFO]: WalshyXD issued server command: //replace iron_ore 0
+[20:13:47] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace iron_ore 0 - Region: (-51.0, 57.0, 166.0) - (-13.0, 74.0, 199.0)
+[20:14:04] [Async Chat Thread - #8/INFO]: <WalshyXD> Dont ask any questions. just trust me
+[20:14:18] [Async Chat Thread - #8/INFO]: <WalshyXD> dont touch them yet mate
+[20:14:22] [Async Chat Thread - #8/INFO]: <WalshyXD> messed with my smooth brush
+[20:14:24] [Async Chat Thread - #8/INFO]: <DrizzlyOwl> you sure?
+[20:14:31] [Async Chat Thread - #8/INFO]: <DrizzlyOwl> ok
+[20:14:34] [Async Chat Thread - #8/INFO]: <WalshyXD> you can add them in after :P
+[20:14:46] [Async Chat Thread - #8/INFO]: <DrizzlyOwl> dis best be good sun
+[20:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:15:00] [Server thread/INFO]: Saving...
+[20:15:00] [Async Chat Thread - #8/INFO]: <WalshyXD> just focus on the church :P
+[20:15:00] [Server thread/INFO]: Saved the world
+[20:15:00] [Server thread/INFO]: [Server] Save Complete
+[20:15:28] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:15:29] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:15:29] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:15:41] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:15:41] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-49.30000001192093, 60.521121216221, 156.07931293018032)
+[20:17:27] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:17:27] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:18:55] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:18:55] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-48.876224391595294, 56.0, 205.69999998807907)
+[20:19:04] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:19:04] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (15.19724929008853, 79.45274853028751, 164.00230452162168)
+[20:19:06] [Server thread/INFO]: WalshyXD issued server command: //replace 2
+[20:19:06] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 2 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[20:19:08] [Server thread/INFO]: DrizzlyOwl issued server command: /day
+[20:19:08] [Server thread/INFO]: Command 'day' conflicts with plugin 'Essentials v2.0.1-b424', McMyAdmin will not receive this command. Command will be sent to 'Essentials v2.0.1-b424' instead.
+[20:19:11] [Server thread/INFO]: WalshyXD issued server command: //replace 3
+[20:19:11] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 3 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[20:19:16] [Async Chat Thread - #9/INFO]: <WalshyXD> buggar
+[20:19:21] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:19:21] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:19:24] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:19:24] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:19:30] [Server thread/INFO]: WalshyXD issued server command: //replace stone 3
+[20:19:30] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace stone 3 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[20:19:37] [Server thread/INFO]: WalshyXD issued server command: //replace iron_ore 3
+[20:19:37] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace iron_ore 3 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[20:19:43] [Server thread/INFO]: WalshyXD issued server command: //replace stone 0
+[20:19:43] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace stone 0 - Region: (-49.0, 56.0, 164.0) - (15.0, 79.0, 205.0)
+[20:19:55] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:19:55] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (6.083774239864354, 75.69784675504613, 155.9849731381952)
+[20:19:55] [Server thread/INFO]: DrizzlyOwl issued server command: //pos1
+[20:19:55] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (4.353522759598053, 65.0, 253.69999998807907)
+[20:19:58] [Server thread/INFO]: WalshyXD issued server command: //replace stone 3
+[20:19:58] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace stone 3 - Region: (-49.0, 56.0, 155.0) - (6.0, 75.0, 205.0)
+[20:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[20:20:00] [Server thread/INFO]: DrizzlyOwl issued server command: //pos2
+[20:20:00] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (15.625520200802422, 68.0, 242.3101305501021)
+[20:20:01] [Server thread/INFO]: DrizzlyOwl issued server command: //replace 0
+[20:20:01] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace 0 - Region: (4.0, 65.0, 242.0) - (15.0, 68.0, 253.0)
+[20:20:04] [User Authenticator #16/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[20:20:04] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:55975] logged in with entity id 146511 at ([world]-1042.267155676115, 11.0, 135.61120006331035)
+[20:20:04] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[20:20:07] [Async Chat Thread - #9/INFO]: <WalshyXD> wb
+[20:20:09] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> wb
+[20:20:10] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Thanks
+[20:20:13] [Server thread/INFO]: WalshyXD issued server command: /replace grass dirt
+[20:20:13] [Async Chat Thread - #9/INFO]: <KevinDaBaws> My friends are coming on
+[20:20:17] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Cool
+[20:20:38] [Async Chat Thread - #9/INFO]: <WalshyXD> Good. Its dead today :/
+[20:21:00] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Yeah i've seen
+[20:21:09] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Also DrizzlyOwl you messaged me a few days ago on skype asking how i was
+[20:21:28] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Yup. Wanted to catch up
+[20:21:36] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Yeah I'm doing good, thanks
+[20:21:37] [Async Chat Thread - #9/INFO]: <KevinDaBaws> you?
+[20:21:41] [User Authenticator #17/INFO]: UUID of player Skyking_Caton is 960738d5-ef2b-410b-a2bb-f4676c592de8
+[20:21:41] [Server thread/INFO]: Skyking_Caton[/78.73.231.113:53254] logged in with entity id 147560 at ([world]-513.7864836741651, 63.0, 1922.5563375864272)
+[20:21:41] [Server thread/INFO]: [Server] Welcome back, Skyking_Caton
+[20:21:42] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> yeah good thank you :)
+[20:21:43] [User Authenticator #18/INFO]: UUID of player Ultimateblock189 is 25f5f2d7-ecf9-4ee6-81d4-a89feb23285a
+[20:21:43] [Server thread/INFO]: Ultimateblock189[/79.68.166.92:49748] logged in with entity id 147935 at ([world]-35.5, 73.0, 258.5)
+[20:21:43] [Server thread/INFO]: [Server] Ultimateblock189 has just joined for the first time.
+[20:21:43] [Server thread/INFO]: [Server] 65 unique players have visited this server.
+[20:21:43] [pool-5-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/25f5f2d7-ecf9-4ee6-81d4-a89feb23285a.yml
+[20:21:50] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Hello :)
+[20:21:52] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Hey Ultimate
+[20:21:54] [Async Chat Thread - #9/INFO]: <Ultimateblock189> hi
+[20:22:05] [Server thread/INFO]: Ultimateblock189 issued server command: /warp
+[20:22:05] [Server thread/INFO]: §cUltimateblock189 §4was denied access to command.
+[20:22:09] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:22:09] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-49.69999998807907, 62.0, 211.69999998807907)
+[20:22:20] [Server thread/INFO]: KevinDaBaws issued server command: /tpahere Ultimateblock189
+[20:22:27] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:22:27] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (13.699999988079071, 53.0, 160.30000001192093)
+[20:22:30] [Server thread/INFO]: Ultimateblock189 issued server command: /tpaccept
+[20:22:31] [Server thread/INFO]: WalshyXD issued server command: //replace air water
+[20:22:31] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-50.0, 53.0, 160.0) - (13.0, 62.0, 211.0)
+[20:22:34] [Server thread/INFO]: DrizzlyOwl issued server command: /msg WalshyXD did you disable piston events?
+[20:22:36] [Server thread/INFO]: DrizzlyOwl issued server command: /stoplag
+[20:22:36] [Server thread/INFO]: ALL intensive server activity halted by DrizzlyOwl.
+[20:22:38] [Server thread/INFO]: WalshyXD issued server command: /r no
+[20:22:51] [Async Chat Thread - #9/INFO]: <KevinDaBaws> DrizzlyOwl so are you going to make a forums?
+[20:23:00] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> No not right now Kevin - there's not enough players online.
+[20:23:03] [Server thread/INFO]: KevinDaBaws was slain by Ultimateblock189
+[20:23:06] [Server thread/INFO]: Ultimateblock189 has just earned the achievement [Taking Inventory]
+[20:23:09] [Server thread/INFO]: KevinDaBaws issued server command: /back
+[20:23:11] [Server thread/INFO]: KevinDaBaws issued server command: /home home
+[20:23:16] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:23:16] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:23:16] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:23:16] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:23:17] [Async Chat Thread - #9/INFO]: <KevinDaBaws> That's true
+[20:23:24] [Async Chat Thread - #9/INFO]: <KevinDaBaws> How will you advertise the server?
+[20:23:29] [Async Chat Thread - #9/INFO]: <Ultimateblock189> :P
+[20:23:36] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> I advertise it on Facebook & Planet Minecraft
+[20:23:39] [Async Chat Thread - #9/INFO]: <WalshyXD> pornhub are sponsoring us
+[20:23:43] [Async Chat Thread - #9/INFO]: <KevinDaBaws> I told two friends and they'll tell two friends
+[20:23:44] [Server thread/INFO]: DrizzlyOwl issued server command: /r you wish
+[20:23:46] [Async Chat Thread - #9/INFO]: <KevinDaBaws> xD
+[20:23:49] [Server thread/INFO]: KevinDaBaws issued server command: /back
+[20:23:50] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:23:50] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (27.69999998807907, 59.0, 211.69999998807907)
+[20:23:54] [Server thread/INFO]: KevinDaBaws issued server command: /back
+[20:24:03] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:24:03] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (13.678773055814851, 63.0, 186.30000001192093)
+[20:24:06] [Server thread/INFO]: WalshyXD issued server command: //replace air water
+[20:24:06] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace air water - Region: (13.0, 59.0, 186.0) - (27.0, 63.0, 211.0)
+[20:24:07] [Server thread/INFO]: KevinDaBaws issued server command: /back
+[20:24:08] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:24:08] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:24:12] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:24:12] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (13.699999988079071, 62.0, 186.30000001192093)
+[20:24:14] [Server thread/INFO]: WalshyXD issued server command: //replace air water
+[20:24:14] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace air water - Region: (13.0, 59.0, 186.0) - (27.0, 62.0, 211.0)
+[20:24:16] [Async Chat Thread - #9/INFO]: <KevinDaBaws> My friend is advertising
+[20:24:19] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Great to hear
+[20:24:20] [Async Chat Thread - #9/INFO]: <Ultimateblock189> I will
+[20:24:23] [Async Chat Thread - #9/INFO]: <Ultimateblock189> :D
+[20:24:41] [Async Chat Thread - #9/INFO]: <KevinDaBaws> What should he say to capture people's attention
+[20:24:56] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:24:56] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (9.255035906855406, 63.0, 181.34960395047372)
+[20:25:04] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:25:04] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-37.12051670505248, 79.76867289316542, 148.04261855273865)
+[20:25:07] [Server thread/INFO]: WalshyXD issued server command: //naturalize
+[20:25:07] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /naturalize - Region: (-38.0, 63.0, 148.0) - (9.0, 79.0, 181.0)
+[20:25:09] [Server thread/INFO]: WalshyXD issued server command: //naturalize
+[20:25:09] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /naturalize - Region: (-38.0, 63.0, 148.0) - (9.0, 79.0, 181.0)
+[20:25:14] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Probably:
+[20:25:19] [Server thread/INFO]: WalshyXD issued server command: /r this look better?
+[20:25:22] [Server thread/INFO]: DrizzlyOwl issued server command: /r sec
+[20:25:23] [Async Chat Thread - #9/INFO]: <Ultimateblock189> spam?
+[20:25:25] [Server thread/INFO]: DrizzlyOwl issued server command: /rg flag
+[20:25:29] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:25:29] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:25:33] [User Authenticator #19/INFO]: UUID of player Mega_Stue192 is b650c937-6a01-4669-b627-199119312e34
+[20:25:34] [Server thread/INFO]: Mega_Stue192[/79.68.166.92:5667] logged in with entity id 207587 at ([world]-39.5, 73.0, 251.5)
+[20:25:34] [Server thread/INFO]: [Server] Mega_Stue192 has just joined for the first time.
+[20:25:34] [Server thread/INFO]: [Server] 66 unique players have visited this server.
+[20:25:34] [pool-5-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/b650c937-6a01-4669-b627-199119312e34.yml
+[20:25:37] [Server thread/INFO]: DrizzlyOwl issued server command: /rg spawn flag invincible allow
+[20:25:45] [Server thread/INFO]: DrizzlyOwl issued server command: /region flag spawn invincible true
+[20:25:48] [Server thread/INFO]: DrizzlyOwl issued server command: /region flag spawn invincible allow
+[20:25:48] [Async Chat Thread - #9/INFO]: <Ultimateblock189> thats my nephew
+[20:25:52] [Async Chat Thread - #9/INFO]: <KevinDaBaws> ==Join Now==Amazing Community==Semi-Vanilla Server==(IP)
+[20:25:52] [Async Chat Thread - #9/INFO]: <WalshyXD> welcome
+[20:25:52] [Timer-1/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[20:26:04] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Five players oh my god
+[20:26:10] [Async Chat Thread - #9/INFO]: <Ultimateblock189> xD
+[20:26:11] [Async Chat Thread - #9/INFO]: <WalshyXD> Semi vanilla? ;/
+[20:26:18] [Async Chat Thread - #9/INFO]: <WalshyXD> it's 100% to non mods :P
+[20:26:19] [Async Chat Thread - #9/INFO]: <KevinDaBaws> *Vanilla
+[20:26:25] [Server thread/INFO]: Ultimateblock189 issued server command: /
+[20:26:29] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Yeah I was thinking about the plugins but they change nothing at all
+[20:26:29] [Server thread/INFO]: Ultimateblock189 issued server command: /plugins
+[20:26:41] [Server thread/INFO]: WalshyXD issued server command: /toggledownfall
+[20:26:41] [Server thread/INFO]: [WalshyXD: Toggled downfall]
+[20:26:58] [Async Chat Thread - #9/INFO]: <Ultimateblock189> whos the the owner?
+[20:27:00] [Async Chat Thread - #9/INFO]: <WalshyXD> driz
+[20:27:06] [Async Chat Thread - #9/INFO]: <Ultimateblock189> kk DrizzlyOwl
+[20:27:25] [Server thread/INFO]: DrizzlyOwl issued server command: /region flag spawn build
+[20:27:33] [Async Chat Thread - #9/INFO]: <KevinDaBaws> I'm going to advertise too k?
+[20:27:34] [Async Chat Thread - #9/INFO]: <KevinDaBaws> i'll brb
+[20:27:36] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
+[20:27:36] [Server thread/INFO]: KevinDaBaws left the game
+[20:27:48] [Async Chat Thread - #9/INFO]: <Ultimateblock189> WalshyXD are u the second one?
+[20:27:52] [Timer-1/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[20:27:59] [Async Chat Thread - #9/INFO]: <WalshyXD> I'm the moderator
+[20:28:00] [Server thread/INFO]: DrizzlyOwl issued server command: /r I fixed pistons and clocks
+[20:28:01] [Async Chat Thread - #9/INFO]: <Ultimateblock189> oh
+[20:28:09] [Server thread/INFO]: WalshyXD issued server command: /r sweet! now fill that hole
+[20:28:16] [Async Chat Thread - #9/INFO]: <Ultimateblock189> couse if u need a builder then I can always help
+[20:28:22] [Async Chat Thread - #9/INFO]: <Ultimateblock189> if u want to see me building then
+[20:28:29] [Async Chat Thread - #9/INFO]: <Ultimateblock189> I can show u on my realms
+[20:28:38] [Async Chat Thread - #9/INFO]: <WalshyXD> We're ok for now. spawn is almost done
+[20:28:43] [Async Chat Thread - #9/INFO]: <Ultimateblock189> kk
+[20:28:50] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Show me some badass buildings in Survival on this server then we'll talk ;)
+[20:28:58] [Async Chat Thread - #9/INFO]: <Ultimateblock189> umm
+[20:29:04] [Async Chat Thread - #9/INFO]: <Ultimateblock189> I can show u on my realm
+[20:29:15] [User Authenticator #20/INFO]: UUID of player ItzAdam14 is 5b97bd2d-9b5c-4d75-9a11-418894ceed4b
+[20:29:16] [Server thread/INFO]: ItzAdam14[/86.160.105.21:55625] logged in with entity id 281462 at ([world]-42.5, 67.0, 249.5)
+[20:29:16] [Server thread/INFO]: [Server] ItzAdam14 has just joined for the first time.
+[20:29:16] [Server thread/INFO]: [Server] 67 unique players have visited this server.
+[20:29:16] [pool-5-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/5b97bd2d-9b5c-4d75-9a11-418894ceed4b.yml
+[20:29:22] [Async Chat Thread - #9/INFO]: <Ultimateblock189> welcome!
+[20:29:23] [Server thread/INFO]: ItzAdam14 has just earned the achievement [Taking Inventory]
+[20:29:28] [User Authenticator #21/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[20:29:28] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:56152] logged in with entity id 285630 at ([world]-1037.6411313112978, 11.0, 136.56656686557116)
+[20:29:28] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[20:29:31] [Async Chat Thread - #9/INFO]: <ItzAdam14> !Hello
+[20:29:32] [Async Chat Thread - #9/INFO]: <Ultimateblock189> wb
+[20:29:35] [Async Chat Thread - #9/INFO]: <ItzAdam14> hey
+[20:29:38] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Hey
+[20:29:53] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Adam you're the guy I brought here right?
+[20:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:30:00] [Server thread/INFO]: Saving...
+[20:30:00] [Server thread/INFO]: Saved the world
+[20:30:00] [Server thread/INFO]: [Server] Save Complete
+[20:30:04] [Async Chat Thread - #9/INFO]: <WalshyXD> whaaa
+[20:30:06] [Async Chat Thread - #9/INFO]: <ItzAdam14> Yes KevinDaBaws
+[20:30:09] [Server thread/INFO]: Ultimateblock189 issued server command: /m DrizzlyOwl I can show u builds on my realm
+[20:30:18] [Async Chat Thread - #9/INFO]: <WalshyXD> I swear I was alone a few moments ago
+[20:30:23] [Server thread/INFO]: WalshyXD issued server command: /none
+[20:30:23] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): none
+[20:30:24] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Well, welcome to MineApple, the greatest Vanilla server I've been on
+[20:30:26] [Server thread/INFO]: WalshyXD issued server command: /none
+[20:30:26] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): none
+[20:30:28] [Async Chat Thread - #9/INFO]: <ItzAdam14> Uk server?
+[20:30:29] [Server thread/INFO]: WalshyXD issued server command: /none
+[20:30:29] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): none
+[20:30:32] [Async Chat Thread - #9/INFO]: <WalshyXD> yep
+[20:30:32] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Correct
+[20:30:33] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Yup
+[20:30:35] [Async Chat Thread - #9/INFO]: <ItzAdam14> GG
+[20:30:38] [Async Chat Thread - #9/INFO]: <KevinDaBaws> Brb
+[20:30:38] [Async Chat Thread - #9/INFO]: <WalshyXD> we put some brit flags around the spawn
+[20:30:38] [Server thread/INFO]: Ultimateblock189 issued server command: /why?
+[20:30:40] [Async Chat Thread - #9/INFO]: <Ultimateblock189> why?
+[20:30:40] [Async Chat Thread - #9/INFO]: <ItzAdam14> I'm scottish
+[20:30:42] [Async Chat Thread - #9/INFO]: <KevinDaBaws> xD
+[20:30:42] [Server thread/INFO]: DrizzlyOwl issued server command: //replace 0 dirt
+[20:30:42] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace 0 dirt - Region: (4.0, 65.0, 242.0) - (15.0, 68.0, 253.0)
+[20:30:44] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
+[20:30:44] [Server thread/INFO]: KevinDaBaws left the game
+[20:30:49] [Async Chat Thread - #9/INFO]: <Ultimateblock189> oh
+[20:30:50] [Server thread/INFO]: DrizzlyOwl issued server command: //undo
+[20:30:50] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /undo
+[20:30:53] [Async Chat Thread - #9/INFO]: <ItzAdam14> no ranks?
+[20:30:54] [Server thread/INFO]: DrizzlyOwl issued server command: //walls stonebrick
+[20:30:54] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /walls stonebrick - Region: (4.0, 65.0, 242.0) - (15.0, 68.0, 253.0)
+[20:30:56] [Async Chat Thread - #9/INFO]: <Ultimateblock189> not yet
+[20:30:58] [Async Chat Thread - #9/INFO]: <Ultimateblock189> I think
+[20:30:59] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> No ranks
+[20:31:04] [Async Chat Thread - #9/INFO]: <Ultimateblock189> kk
+[20:31:05] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:31:10] [Async Chat Thread - #9/INFO]: <Ultimateblock189> DrizzlyOwl u wanna se my builds?
+[20:31:16] [Async Chat Thread - #9/INFO]: <Ultimateblock189> on my realm?
+[20:31:20] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> I don't want to join your realm thanks.
+[20:31:22] [Async Chat Thread - #9/INFO]: <ItzAdam14> if i was a staff member i could help it become great :) i have experience being staff on 4 other
+[20:31:24] [Async Chat Thread - #9/INFO]: <ItzAdam14> !servers
+[20:31:24] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Show me your skills on the server though :)
+[20:31:30] [Async Chat Thread - #9/INFO]: <Ultimateblock189> :/
+[20:31:37] [Async Chat Thread - #9/INFO]: <Ultimateblock189> it might take foreer tho
+[20:31:40] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> .d
+[20:31:42] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> :D*
+[20:31:44] [Async Chat Thread - #9/INFO]: <ItzAdam14> if i was a staff member i could help it become great :) i have experience being staff on 4 other
+[20:31:46] [Async Chat Thread - #9/INFO]: <ItzAdam14> servers
+[20:31:47] [Server thread/INFO]: Ultimateblock189 issued server command: /m DrizzlyOwl u think Ill dedos u right?
+[20:31:57] [Server thread/INFO]: DrizzlyOwl issued server command: /r not at all. I'm just busy playing MC :)
+[20:32:08] [Server thread/INFO]: Ultimateblock189 issued server command: /m DrizzlyOwl just saying I dont even know how to do that
+[20:32:09] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Thanks Adam but we're not interested thanks
+[20:32:11] [Server thread/INFO]: WalshyXD issued server command: /r what the hell is happening..
+[20:32:13] [Async Chat Thread - #9/INFO]: <ItzAdam14> k
+[20:32:14] [Async Chat Thread - #9/INFO]: <ItzAdam14> cya
+[20:32:22] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Goodbye
+[20:32:27] [Async Chat Thread - #9/INFO]: <Ultimateblock189> cya
+[20:32:28] [Server thread/INFO]: Ultimateblock189 issued server command: /
+[20:32:35] [Async Chat Thread - #9/INFO]: <ItzAdam14> crap server
+[20:32:38] [Async Chat Thread - #9/INFO]: <ItzAdam14> peace
+[20:32:39] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> ok
+[20:32:40] [Async Chat Thread - #9/INFO]: <Ultimateblock189> not*
+[20:32:47] [Async Chat Thread - #9/INFO]: <WalshyXD> We can't just give staff away like that
+[20:32:48] [Server thread/INFO]: DrizzlyOwl issued server command: /kick ItzAdam14
+[20:32:48] [Server thread/INFO]: ItzAdam14 lost connection: user was kicked.
+[20:32:48] [Server thread/INFO]: ItzAdam14 lost connection: Kicked from server.
+[20:32:48] [Server thread/INFO]: ItzAdam14 left the game
+[20:32:48] [Server thread/INFO]: §6Player§c DrizzlyOwl §6kicked ItzAdam14 for Kicked from server..
+[20:32:49] [Server thread/WARN]: handleDisconnection() called twice
+[20:32:52] [Async Chat Thread - #9/INFO]: <WalshyXD> tou gotta build trust..
+[20:32:54] [Server thread/INFO]: DrizzlyOwl issued server command: /r :)
+[20:32:54] [User Authenticator #22/INFO]: UUID of player ItzAdam14 is 5b97bd2d-9b5c-4d75-9a11-418894ceed4b
+[20:32:54] [Server thread/INFO]: ItzAdam14[/86.160.105.21:55631] logged in with entity id 356212 at ([world]6.644918189980094, 68.0, 225.58097694314944)
+[20:32:54] [Server thread/INFO]: [Server] Welcome back, ItzAdam14
+[20:32:55] [Async Chat Thread - #9/INFO]: <WalshyXD> you*
+[20:33:02] [Async Chat Thread - #9/INFO]: <Ultimateblock189> yea
+[20:33:06] [Async Chat Thread - #9/INFO]: <ItzAdam14> Kick me?
+[20:33:08] [Async Chat Thread - #9/INFO]: <ItzAdam14> Kick me?
+[20:33:08] [Async Chat Thread - #9/INFO]: <ItzAdam14> Kick me?
+[20:33:09] [Async Chat Thread - #9/INFO]: <ItzAdam14> Kick me?
+[20:33:10] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Sure why not
+[20:33:12] [Server thread/INFO]: DrizzlyOwl issued server command: /mute ItzAdam14
+[20:33:12] [Server thread/INFO]: §cDrizzlyOwl §6has muted player §cItzAdam14§6.
+[20:33:15] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:15] [Async Chat Thread - #9/INFO]: <WalshyXD> hehe
+[20:33:16] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:16] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:16] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:17] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:18] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:18] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:19] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:19] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:20] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:20] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:20] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Well muted definitely.
+[20:33:20] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:21] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:21] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:22] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:22] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:23] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:23] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:23] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:23] [Server thread/INFO]: ItzAdam14 lost connection: user was kicked.
+[20:33:23] [Server thread/INFO]: ItzAdam14 lost connection: disconnect.spam
+[20:33:23] [Server thread/INFO]: ItzAdam14 left the game
+[20:33:24] [Server thread/WARN]: handleDisconnection() called twice
+[20:33:29] [User Authenticator #23/INFO]: UUID of player ItzAdam14 is 5b97bd2d-9b5c-4d75-9a11-418894ceed4b
+[20:33:29] [Server thread/INFO]: ItzAdam14[/86.160.105.21:55633] logged in with entity id 367621 at ([world]-9.975552143824292, 68.0, 242.12134559542437)
+[20:33:29] [Server thread/INFO]: [Server] Welcome back, ItzAdam14
+[20:33:36] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> Not going to change anything Adam.
+[20:33:38] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:42] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:44] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:44] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:45] [Server thread/INFO]: WalshyXD issued server command: /v
+[20:33:46] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:47] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:47] [Server thread/INFO]: WalshyXD issued server command: /tp ItzAdam14
+[20:33:48] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:50] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:50] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:51] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:52] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:53] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:53] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:54] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:55] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:55] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:56] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:57] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:58] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:58] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:33:59] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:00] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:00] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:01] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:02] [Server thread/INFO]: Ultimateblock189 issued server command: /m WalshyXD can I at least show u my builds on my realm? just for a sec
+[20:34:02] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:02] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:02] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:04] [Server thread/INFO]: Ultimateblock189 issued server command: /m WalshyXD can I at least show u my builds on my realm? just for a sec
+[20:34:04] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:05] [Async Chat Thread - #9/INFO]: <WalshyXD> where did he even come from?
+[20:34:09] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:09] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:10] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:11] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:11] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:11] [Server thread/INFO]: Ultimateblock189 issued server command: /m WalshyXD can I at least show u my builds on my realm? just for a sec
+[20:34:12] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:12] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:13] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:13] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:14] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:16] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:16] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:17] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:17] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:18] [Server thread/INFO]: Ultimateblock189 issued server command: /m WalshyXD can I at least show u my builds on my realm? just for a sec
+[20:34:18] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:18] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:18] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:19] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:19] [Async Chat Thread - #9/INFO]: ItzAdam14 tried to speak, but is muted.
+[20:34:19] [Server thread/INFO]: ItzAdam14 lost connection: user was kicked.
+[20:34:19] [Server thread/INFO]: ItzAdam14 lost connection: disconnect.spam
+[20:34:19] [Server thread/INFO]: ItzAdam14 left the game
+[20:34:19] [Server thread/WARN]: handleDisconnection() called twice
+[20:34:26] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> lol
+[20:34:31] [Async Chat Thread - #9/INFO]: <DrizzlyOwl> That's what happens when people spam
+[20:34:37] [Server thread/INFO]: Ultimateblock189 issued server command: /m Skyking_Caton can I at least show u my builds on my realm? just for a sec
+[20:34:39] [Async Chat Thread - #9/INFO]: <Ultimateblock189> yea
+[20:34:56] [Server thread/INFO]: Ultimateblock189 issued server command: /feed
+[20:34:56] [Server thread/INFO]: §cUltimateblock189 §4was denied access to command.
+[20:35:03] [Server thread/INFO]: DrizzlyOwl issued server command: /r not now sorry I'm busy playing
+[20:35:10] [Server thread/INFO]: WalshyXD issued server command: /r tf are you on about
+[20:35:14] [Server thread/INFO]: DrizzlyOwl issued server command: /r sorry wp
+[20:35:34] [Server thread/INFO]: WalshyXD issued server command: /r ash he's pming skyking about the realm
+[20:35:39] [Server thread/INFO]: DrizzlyOwl issued server command: /r I see
+[20:35:45] [Server thread/INFO]: Mega_Stue192 lost connection: Disconnected
+[20:35:45] [Server thread/INFO]: Mega_Stue192 left the game
+[20:35:50] [Server thread/INFO]: Skyking_Caton issued server command: /msg Ultimateblock189 me? why
+[20:36:09] [Server thread/INFO]: Ultimateblock189 issued server command: /m Skyking_Caton couse DrizzlyOwl doesnt want to see :/
+[20:36:11] [Server thread/INFO]: WalshyXD issued server command: /r Skyking_Caton Sky.. I don't know what he wants. But he's keen to get us on that realm
+[20:36:18] [Server thread/INFO]: WalshyXD issued server command: /r oops
+[20:36:21] [Server thread/INFO]: DrizzlyOwl issued server command: /r :D
+[20:36:25] [Server thread/INFO]: WalshyXD issued server command: /w Skyking_Caton Sky.. I don't know what he wants. But he's keen to get us on that realm
+[20:36:29] [Server thread/INFO]: Ultimateblock189 issued server command: /m Skyking_Caton and I need to see what is my rating
+[20:36:31] [Server thread/INFO]: WalshyXD issued server command: /w Skyking_Caton Be weary
+[20:36:45] [Server thread/INFO]: Ultimateblock189 issued server command: /m Skyking_Caton plz .-. if not then that okey
+[20:36:53] [Server thread/INFO]: WalshyXD issued server command: /tp Ultimateblock189
+[20:36:59] [Server thread/INFO]: Skyking_Caton issued server command: /msg Ultimateblock189 no thanks :)
+[20:37:06] [Server thread/INFO]: WalshyXD issued server command: /bacl
+[20:37:08] [Server thread/INFO]: WalshyXD issued server command: /back
+[20:37:10] [Server thread/INFO]: WalshyXD issued server command: /v
+[20:37:25] [User Authenticator #24/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[20:37:25] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:56844] logged in with entity id 439146 at ([world]-1036.27826412036, 11.0, 136.2151415262705)
+[20:37:25] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[20:37:25] [Server thread/INFO]: Ultimateblock189 issued server command: /m Skyking_Caton u think Im gunna dedos u? or somthing like that?
+[20:37:27] [Async Chat Thread - #10/INFO]: <Ultimateblock189> wb
+[20:37:36] [Async Chat Thread - #10/INFO]: <KevinDaBaws> ==Join Now==Amazing Community==Vanilla Server==mc.mineapple.co.uk
+[20:37:46] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> :)
+[20:37:49] [Async Chat Thread - #10/INFO]: <KevinDaBaws> xD
+[20:37:56] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Yay for players
+[20:37:59] [Async Chat Thread - #10/INFO]: <Ultimateblock189> lel
+[20:38:04] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Oh and I suggest you get group manager DrizzlyOwl
+[20:38:09] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> No thanks we don't have ranks
+[20:38:12] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Ah ok
+[20:38:21] [Server thread/INFO]: DrizzlyOwl issued server command: /msg WalshyXD wish people would stop telling me how to run a fucking server
+[20:38:27] [Server thread/INFO]: DrizzlyOwl issued server command: /msg WalshyXD been doing this since 2012 :D
+[20:38:32] [Async Chat Thread - #10/INFO]: <WalshyXD> The server is a week old. We're not doing any of that yet..
+[20:38:34] [Server thread/INFO]: Skyking_Caton issued server command: /msg Ultimateblock189 no thanks :)
+[20:38:37] [Async Chat Thread - #10/INFO]: <KevinDaBaws> A week old?
+[20:38:42] [Async Chat Thread - #10/INFO]: <KevinDaBaws> I started when it started then yay
+[20:38:43] [Async Chat Thread - #10/INFO]: <WalshyXD> or is it 2 weeks?
+[20:38:44] [Server thread/INFO]: Ultimateblock189 issued server command: /m Skyking_Caton wait u not WalshyXD?
+[20:38:51] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Happy
+[20:38:53] [Server thread/INFO]: Skyking_Caton issued server command: /msg Ultimateblock189 nope
+[20:38:57] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> Lol it's a bit more than that mate
+[20:38:58] [Async Chat Thread - #10/INFO]: <WalshyXD> its been on forums for 2 weeks anywhoo
+[20:39:04] [Server thread/INFO]: Ultimateblock189 issued server command: /m Skyking_Caton oh sorry wrong person then :P
+[20:39:06] [Async Chat Thread - #10/INFO]: <KevinDaBaws> WElp
+[20:39:07] [Server thread/INFO]: Skyking_Caton issued server command: /msg Ultimateblock189 nop
+[20:39:08] [Async Chat Thread - #10/INFO]: <KevinDaBaws> *Welp
+[20:39:13] [Server thread/INFO]: DrizzlyOwl issued server command: /msg Ultimateblock189 please stop asking people to join your realm.
+[20:39:14] [Server thread/INFO]: Skyking_Caton issued server command: /msg Ultimateblock189 lol*
+[20:39:36] [Server thread/INFO]: Ultimateblock189 issued server command: /m DrizzlyOwl I just need to see my rating thats all .-. couse my friend says Im crap
+[20:39:38] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Can someone heal me plez
+[20:39:45] [Server thread/INFO]: WalshyXD issued server command: /heal KevinDaBaws
+[20:39:46] [Server thread/INFO]: Ultimateblock189 issued server command: /r oh well Ill stop
+[20:39:47] [Server thread/INFO]: DrizzlyOwl issued server command: /heal KevinDaBaws
+[20:39:48] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Thanks
+[20:39:55] [Async Chat Thread - #10/INFO]: <WalshyXD> You only get one of those :P
+[20:39:59] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Only one?
+[20:40:07] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Damn DrizzlyOwl's been giving me loads
+[20:40:15] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> I've given you 2
+[20:40:22] [Async Chat Thread - #10/INFO]: <KevinDaBaws> Still more than one
+[20:40:24] [Server thread/INFO]: DrizzlyOwl issued server command: /invsee KevinDaBaws
+[20:40:26] [Async Chat Thread - #10/INFO]: <WalshyXD> It's time to survive in the wild son
+[20:40:32] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> be free my child
+[20:40:35] [Async Chat Thread - #10/INFO]: <Ultimateblock189> xD
+[20:40:42] [Async Chat Thread - #10/INFO]: <KevinDaBaws> i am free
+[20:40:49] [Async Chat Thread - #10/INFO]: <WalshyXD> You have no right to call him child. Not after what you did to that baby drizzly :/
+[20:40:49] [Server thread/INFO]: Ultimateblock189 tried to swim in lava
+[20:41:07] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> :P
+[20:41:28] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
+[20:41:28] [Server thread/INFO]: KevinDaBaws left the game
+[20:41:45] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:41:50] [Server thread/INFO]: Ultimateblock189 lost connection: Disconnected
+[20:41:50] [Server thread/INFO]: Ultimateblock189 left the game
+[20:42:05] [Async Chat Thread - #10/INFO]: <WalshyXD> why do I feel like that was some form of group attack
+[20:42:18] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> I think it was definitely a bit cheeky
+[20:42:26] [Async Chat Thread - #10/INFO]: <WalshyXD> I hate elitists.
+[20:43:16] [Async Chat Thread - #10/INFO]: <WalshyXD> why were they so keen to get us on that realm..
+[20:43:21] [Server thread/INFO]: DrizzlyOwl issued server command: //pos1
+[20:43:21] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos1 - Position: (5.537034718739568, 64.0, 243.55969795562083)
+[20:43:29] [Server thread/INFO]: DrizzlyOwl issued server command: //pos2/
+[20:43:30] [Server thread/INFO]: DrizzlyOwl issued server command: //pos2
+[20:43:30] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /pos2 - Position: (14.699999988079071, 57.0, 251.64727652286186)
+[20:43:31] [Server thread/INFO]: DrizzlyOwl issued server command: //replace 0
+[20:43:31] [Server thread/INFO]: WorldEdit: DrizzlyOwl (in "world"): /replace 0 - Region: (5.0, 57.0, 243.0) - (14.0, 64.0, 251.0)
+[20:43:41] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> their words were "i wont dedos you i swear"
+[20:43:48] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> mhm. more like IP jack me and spoof my user
+[20:43:55] [Async Chat Thread - #10/INFO]: <Skyking_Caton> lol
+[20:44:06] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> we aint kiddies br0
+[20:44:16] [Async Chat Thread - #10/INFO]: <WalshyXD> Had a look into what happened to your old account?
+[20:44:22] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> Nah not even bothered
+[20:44:41] [Async Chat Thread - #10/INFO]: <WalshyXD> whatcha building driz?
+[20:44:54] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> secret dungeon
+[20:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:45:00] [Server thread/INFO]: Saving...
+[20:45:00] [Server thread/INFO]: Saved the world
+[20:45:00] [Server thread/INFO]: [Server] Save Complete
+[20:45:08] [Async Chat Thread - #10/INFO]: <WalshyXD> make it a red room
+[20:45:11] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> will do
+[20:45:13] [Async Chat Thread - #10/INFO]: <WalshyXD> can be walshys red room of pain
+[20:45:18] [Async Chat Thread - #10/INFO]: <WalshyXD> inspired by 50 shades of grey
+[20:46:11] [Async Chat Thread - #10/INFO]: <WalshyXD> This schematics site man
+[20:46:20] [Async Chat Thread - #10/INFO]: <WalshyXD> Looks like I'm not the only one with a thing for quartz.
+[20:46:37] [Async Chat Thread - #10/INFO]: <WalshyXD> 9/10 on the designs are quartz based
+[20:46:40] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> lol
+[20:46:48] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:46:52] [Async Chat Thread - #10/INFO]: <WalshyXD> what do the think to the new paths?
+[20:47:03] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> bit unusual imo
+[20:47:06] [Async Chat Thread - #10/INFO]: <WalshyXD> mm
+[20:47:07] [Async Chat Thread - #10/INFO]: <DrizzlyOwl> but i'm liking them
+[20:47:15] [Async Chat Thread - #10/INFO]: <WalshyXD> I've been looking at the spawn from the sky
+[20:47:17] [Async Chat Thread - #10/INFO]: <WalshyXD> landed earlier..
+[20:47:21] [Async Chat Thread - #10/INFO]: <WalshyXD> it felt very 2d
+[20:48:25] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[20:49:13] [Server thread/INFO]: Skyking_Caton issued server command: /back
+[20:49:25] [Async Chat Thread - #11/INFO]: <WalshyXD> hopefully nobody notices the non vanilla blocks in the fountain.
+[20:49:40] [Async Chat Thread - #11/INFO]: <DrizzlyOwl> what blocks would those be
+[20:49:46] [Async Chat Thread - #11/INFO]: <WalshyXD> the double slab block
+[20:49:49] [Async Chat Thread - #11/INFO]: <DrizzlyOwl> yeah thought so
+[20:49:49] [Async Chat Thread - #11/INFO]: <WalshyXD> cant be spawned in
+[20:52:34] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:54:55] [Server thread/INFO]: DrizzlyOwl issued server command: /msg WalshyXD ffs redstone just doesn't work
+[20:55:28] [Server thread/INFO]: DrizzlyOwl issued server command: /r this is going to be a one way journey
+[20:55:48] [Server thread/INFO]: WalshyXD issued server command: /r you're cutting into my underground plans :P
+[20:56:10] [Server thread/INFO]: DrizzlyOwl issued server command: /cler
+[20:56:12] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:56:42] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 0
+[20:56:51] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:56:53] [Server thread/INFO]: DrizzlyOwl issued server command: /gm 1
+[20:56:58] [Async Chat Thread - #12/INFO]: <Skyking_Caton> are mobs of?
+[20:57:04] [Async Chat Thread - #12/INFO]: <WalshyXD> no
+[20:57:33] [Async Chat Thread - #12/INFO]: <WalshyXD> oh god
+[20:57:34] [Async Chat Thread - #12/INFO]: <WalshyXD> ash
+[20:57:36] [Async Chat Thread - #12/INFO]: <WalshyXD> he's right
+[20:57:36] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> what
+[20:57:40] [Server thread/INFO]: DrizzlyOwl issued server command: /clear
+[20:57:42] [Async Chat Thread - #12/INFO]: <WalshyXD> cant spawn a zombie outside spawn
+[20:57:47] [Server thread/INFO]: DrizzlyOwl issued server command: /mob
+[20:57:50] [Server thread/INFO]: DrizzlyOwl issued server command: /mob creeper 1
+[20:57:55] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> ffs
+[20:57:56] [Async Chat Thread - #12/INFO]: <DrizzlyOwl> what happened
+[20:58:02] [Server thread/INFO]: DrizzlyOwl issued server command: /startlag
+[20:58:04] [Async Chat Thread - #12/INFO]: <WalshyXD> dont look at me lol
+[20:58:05] [Server thread/INFO]: DrizzlyOwl issued server command: /help stoplag
+[20:58:11] [Server thread/INFO]: DrizzlyOwl lost connection: Disconnected
+[20:58:11] [Server thread/INFO]: DrizzlyOwl left the game
+[20:58:59] [Server thread/INFO]: Please specify the world with -w world_name.
+[20:59:26] [Server thread/INFO]: No region could be found with the name of '__global'.
+[21:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:00:00] [Server thread/INFO]: Saving...
+[21:00:00] [Server thread/INFO]: Saved the world
+[21:00:00] [Server thread/INFO]: [Server] Save Complete
