@@ -104,3 +104,113 @@
 [13:00:00] [Server thread/INFO]: Saving...
 [13:00:00] [Server thread/INFO]: Saved the world
 [13:00:00] [Server thread/INFO]: [Server] Save Complete
+[13:04:43] [User Authenticator #2/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[13:04:43] [Server thread/INFO]: WalshyXD[/86.3.13.214:63503] logged in with entity id 4877 at ([world_nether]-8.455009937731834, 84.0, 24.025240038992916)
+[13:04:43] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[13:04:54] [Server thread/WARN]: WalshyXD moved too quickly! -30.548852615349183,-9.0,233.05607823234465
+[13:05:20] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[13:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:15:00] [Server thread/INFO]: Saving...
+[13:15:00] [Server thread/INFO]: Saved the world
+[13:15:00] [Server thread/INFO]: [Server] Save Complete
+[13:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[13:20:16] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[13:25:00] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[13:25:00] [Server thread/INFO]: WalshyXD left the game
+[13:27:03] [User Authenticator #3/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[13:27:03] [Server thread/INFO]: WalshyXD[/86.3.13.214:49452] logged in with entity id 28400 at ([world]-21.11576021787474, 87.6223181013781, 233.67819297434596)
+[13:27:03] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[13:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:30:00] [Server thread/INFO]: Saving...
+[13:30:00] [Server thread/INFO]: Saved the world
+[13:30:00] [Server thread/INFO]: [Server] Save Complete
+[13:30:00] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[13:30:06] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[13:33:08] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:33:13] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:33:20] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:33:21] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:33:21] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:33:34] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:34:59] [Server thread/INFO]: WalshyXD issued server command: /tree
+[13:34:59] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree
+[13:39:56] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[13:39:56] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (22.69999998807907, 68.0, 263.8683949096728)
+[13:40:03] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[13:40:03] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (18.438903554737365, 77.28126481860451, 285.9464416324953)
+[13:40:04] [Server thread/INFO]: WalshyXD issued server command: //clear
+[13:40:08] [Server thread/INFO]: WalshyXD issued server command: //delete
+[13:40:12] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[13:40:12] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 0 - Region: (18.0, 68.0, 263.0) - (22.0, 77.0, 285.0)
+[13:40:25] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[13:40:25] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (23.3245372510171, 69.0, 283.30000001192093)
+[13:40:36] [Server thread/INFO]: WalshyXD issued server command: //pos
+[13:40:38] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[13:40:38] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (49.216521001238256, 79.03163379090618, 232.09438164681194)
+[13:40:40] [Server thread/INFO]: WalshyXD issued server command: //replace 0
+[13:40:40] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 0 - Region: (23.0, 69.0, 232.0) - (49.0, 79.0, 283.0)
+[13:41:07] [Server thread/INFO]: WalshyXD issued server command: //extinguish
+[13:41:07] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /ex - Position: (-3.0, 83.0, 101.0)
+[13:41:26] [Server thread/INFO]: WalshyXD issued server command: //co rollback t:10m r:10
+[13:41:37] [Server thread/INFO]: WalshyXD issued server command: //corollback t:10m r:10
+[13:41:41] [Server thread/INFO]: WalshyXD issued server command: //rollback t:10m r:10
+[13:41:42] [Server thread/INFO]: WalshyXD issued server command: //co
+[13:41:47] [Server thread/INFO]: WalshyXD issued server command: ///c
+[13:41:56] [Server thread/INFO]: WalshyXD issued server command: /co rollback t:10m r:10
+[13:42:53] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[13:42:53] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (23.69999998807907, 68.0, 232.30000001192093)
+[13:43:04] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[13:43:04] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (48.85101010801381, 69.0, 279.3103114068382)
+[13:43:12] [Server thread/INFO]: WalshyXD issued server command: //replace 2
+[13:43:12] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 2 - Region: (23.0, 68.0, 232.0) - (48.0, 69.0, 279.0)
+[13:43:23] [Server thread/INFO]: WalshyXD issued server command: //fireball
+[13:43:26] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:43:31] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:43:34] [Server thread/INFO]: WalshyXD issued server command: /fireball
+[13:44:10] [Server thread/INFO]: WalshyXD issued server command: //brush
+[13:44:16] [Server thread/INFO]: WalshyXD issued server command: //brush cyclinder 3
+[13:44:32] [Server thread/INFO]: WalshyXD issued server command: //brush cyclinder 3
+[13:44:38] [Server thread/INFO]: WalshyXD issued server command: //brush cyclinder
+[13:44:42] [Server thread/INFO]: WalshyXD issued server command: /brush cyclinder
+[13:44:51] [Server thread/INFO]: WalshyXD issued server command: /brush cyclinder 1
+[13:44:58] [Server thread/INFO]: WalshyXD issued server command: /brush
+[13:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:45:00] [Server thread/INFO]: Saving...
+[13:45:00] [Server thread/INFO]: Saved the world
+[13:45:00] [Server thread/INFO]: [Server] Save Complete
+[13:45:13] [Server thread/INFO]: WalshyXD issued server command: /brush cylinder
+[13:45:17] [Server thread/INFO]: WalshyXD issued server command: /brush cylinder 3
+[13:45:17] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): cylinder 3
+[13:45:24] [Server thread/INFO]: WalshyXD issued server command: /brush smooth
+[13:45:24] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): smooth
+[13:45:44] [Server thread/INFO]: WalshyXD issued server command: /brush cylinder 5
+[13:45:44] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): cylinder 5
+[13:45:48] [Server thread/INFO]: WalshyXD issued server command: /brush cylinder 2
+[13:45:48] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): cylinder 2
+[13:45:58] [Server thread/INFO]: WalshyXD issued server command: /brush cylinder 2 3 1
+[13:45:58] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): cylinder 2 3 1
+[13:46:09] [Server thread/INFO]: WalshyXD issued server command: /brush cylinder 2 3 2
+[13:46:09] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): cylinder 2 3 2
+[13:48:50] [Server thread/INFO]: WalshyXD issued server command: /time day
+[13:49:46] [Server thread/INFO]: WalshyXD issued server command: //undo
+[13:49:46] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[13:50:31] [Server thread/INFO]: WalshyXD issued server command: /tree birch
+[13:50:31] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree birch
+[13:52:54] [Server thread/INFO]: WalshyXD issued server command: /tree bigtree
+[13:52:54] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree bigtree
+[13:56:23] [Server thread/INFO]: WalshyXD issued server command: /brush smooth 3
+[13:56:23] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): smooth 3
+[13:56:31] [Server thread/INFO]: WalshyXD issued server command: /brush smooth 3 2
+[13:56:31] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): smooth 3 2
+[13:58:09] [Server thread/INFO]: WalshyXD issued server command: //undo
+[13:58:09] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[13:58:49] [Server thread/INFO]: WalshyXD issued server command: /brush deform
+[13:58:55] [Server thread/INFO]: WalshyXD issued server command: /brush deform sphere
+[13:58:57] [Server thread/INFO]: WalshyXD issued server command: /brush deform sphere 3
+[13:59:00] [Server thread/INFO]: WalshyXD issued server command: /brush deform sphere 3 1
+[13:59:04] [Server thread/INFO]: WalshyXD issued server command: /brush deform sphere 3 3
+[13:59:18] [Server thread/INFO]: WalshyXD issued server command: //brush
+[14:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:00:00] [Server thread/INFO]: Saving...
+[14:00:00] [Server thread/INFO]: Saved the world
+[14:00:00] [Server thread/INFO]: [Server] Save Complete

@@ -379,3 +379,26 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-33.71132747491194, 83.39609371864815, 254.23645343738923)
 [INFO] WorldEdit: WalshyXD (in "world"): /replace obsidian glowstone - Region: (-43.0, 73.0, 254.0) - (-34.0, 83.0, 258.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): tree
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (22.69999998807907, 68.0, 263.8683949096728)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (18.438903554737365, 77.28126481860451, 285.9464416324953)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 0 - Region: (18.0, 68.0, 263.0) - (22.0, 77.0, 285.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (23.3245372510171, 69.0, 283.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (49.216521001238256, 79.03163379090618, 232.09438164681194)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 0 - Region: (23.0, 69.0, 232.0) - (49.0, 79.0, 283.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /ex - Position: (-3.0, 83.0, 101.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (23.69999998807907, 68.0, 232.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (48.85101010801381, 69.0, 279.3103114068382)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 2 - Region: (23.0, 68.0, 232.0) - (48.0, 69.0, 279.0)
+[INFO] WorldEdit: WalshyXD (in "world"): cylinder 3
+[INFO] WorldEdit: WalshyXD (in "world"): smooth
+[INFO] WorldEdit: WalshyXD (in "world"): cylinder 5
+[INFO] WorldEdit: WalshyXD (in "world"): cylinder 2
+[INFO] WorldEdit: WalshyXD (in "world"): cylinder 2 3 1
+[INFO] WorldEdit: WalshyXD (in "world"): cylinder 2 3 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): tree birch
+[INFO] WorldEdit: WalshyXD (in "world"): tree bigtree
+[INFO] WorldEdit: WalshyXD (in "world"): smooth 3
+[INFO] WorldEdit: WalshyXD (in "world"): smooth 3 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
