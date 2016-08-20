@@ -1,3 +1,13 @@
-[1] Be respectful
-[2] Be ethical
-[3] Use common sense
+&61. &cBe respectful to each other
+&62. &cBe ethical and keep opinions to yourself
+&63. &cUse common sense
+&64. &cX-Raying and Flying are strictly forbidden
+&65. &cSpeak English in public chat
+&66. &cGriefing will not be tolerated 
+&67. &cNo stealing
+
+#warnings
+If you break the rules once you will receive a
+written warning. If you break the rules again you 
+may be jailed or kicked. If you break the rules a
+3rd time you will be banned.

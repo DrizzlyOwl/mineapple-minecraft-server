@@ -87,7 +87,7 @@ near-radius: 200
 
 # What to prevent from /item and /give.
 # e.g item-spawn-blacklist: 10,11,46
-item-spawn-blacklist:
+item-spawn-blacklist: 46,407,19:1,19,8,9,10,11,51,52,122,137,209,255,422,443
 
 # Set this to true if you want permission based item spawn rules.
 # Note: The blacklist above will be ignored then.
@@ -173,9 +173,7 @@ socialspy-commands:
 # Essentials already disabled Essentials messaging commands by default.
 # It only cares about the root command, not args after that (it sees /f chat the same as /f)
 mute-commands:
-  - f
-  - kittycannon
- # - '*'
+  - '*'
 
 # If you do not wish to use a permission system, you can define a list of 'player perms' below.
 # This list has no effect if you are using a supported permissions system.
@@ -187,29 +185,17 @@ player-commands:
   - afk.auto
   - back
   - back.ondeath
-  - balance
-  - balance.others
-  - balancetop
-  - build
-  - chat.color
-  - chat.format
-  - chat.shout
-  - chat.question
   - clearinventory
   - compass
   - depth
   - delhome
   - getpos
-  - geoip.show
   - help
   - helpop
   - home
-  - home.others
   - ignore
   - info
   - itemdb
-  - kit
-  - kits.tools
   - list
   - mail
   - mail.send
@@ -219,37 +205,12 @@ player-commands:
   - msg.color
   - nick
   - near
-  - pay
   - ping
-  - protect
   - r
   - rules
   - realname
   - seen
-  - sell
   - sethome
-  - setxmpp
-  - signs.create.protection
-  - signs.create.trade
-  - signs.break.protection
-  - signs.break.trade
-  - signs.use.balance
-  - signs.use.buy
-  - signs.use.disposal
-  - signs.use.enchant
-  - signs.use.free
-  - signs.use.gamemode
-  - signs.use.heal
-  - signs.use.info
-  - signs.use.kit
-  - signs.use.mail
-  - signs.use.protection
-  - signs.use.repair
-  - signs.use.sell
-  - signs.use.time
-  - signs.use.trade
-  - signs.use.warp
-  - signs.use.weather
   - spawn
   - suicide
   - time
@@ -257,11 +218,6 @@ player-commands:
   - tpaccept
   - tpahere
   - tpdeny
-  - warp
-  - warp.list
-  - world
-  - worth
-  - xmpp
 
 # When this option is enabled, one-time use kits (ie. delay < 0) will be
 # removed from the /kit list when a player can no longer use it
@@ -276,34 +232,13 @@ skip-used-one-time-kits-from-kit-list: false
 # For more information, visit http://wiki.ess3.net/wiki/Kits
 kits:
   tools:
-    delay: 10
+    delay: -1
     items:
       - 272 1
       - 273 1
       - 274 1
       - 275 1
-  dtools:
-    delay: 600
-    items:
-      - 278 1 efficiency:1 durability:1 fortune:1 name:&4Gigadrill lore:The_drill_that_&npierces|the_heavens
-      - 277 1 digspeed:3 name:Dwarf lore:Diggy|Diggy|Hole
-      - 298 1 color:255,255,255 name:Top_Hat lore:Good_day,_Good_day
-      - 279:780 1
-  notch:
-    delay: 6000
-    items:
-      - 397:3 1 player:Notch
-  color:
-    delay: 6000
-    items:
-      - 387 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes book:Colors
-  firework:
-    delay: 6000
-    items:
-      - 401 1 name:Angry_Creeper color:red fade:green type:creeper power:1
-      - 401 1 name:Starry_Night color:yellow,orange fade:blue type:star effect:trail,twinkle power:1
-      - 401 2 name:Solar_Wind color:yellow,orange fade:red shape:large effect:twinkle color:yellow,orange fade:red shape:ball effect:trail color:red,purple fade:pink shape:star effect:trail power:1
-
+  
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
 # To enable signs, remove # symbol. To disable all signs, comment/remove each sign.
@@ -361,13 +296,13 @@ per-warp-permission: false
 list:
     # To merge groups, list the groups you wish to merge
     #Staff: owner admin moderator
-    Admins: owner admin
+    # Admins: owner admin
     # To limit groups, set a max user limit
     #builder: 20
     # To hide groups, set the group as hidden
     #default: hidden
     # Uncomment the line below to simply list all players with no grouping
-    #Players: '*'
+    Players: '*'
 
 # More output to the console.
 debug: false
@@ -377,7 +312,7 @@ debug: false
 # For example, to set language to English, set locale to en, to use the file "messages_en.properties".
 # Don't forget to remove the # in front of the line.
 # For more information, visit http://wiki.ess3.net/wiki/Locale
-#locale: en
+locale: en
 
 # Turn off god mode when people leave the server.
 remove-god-on-disconnect: true
@@ -398,11 +333,11 @@ auto-afk-kick: -1
 # Other players or monsters can't push the player out of AFK mode then.
 # This will also enable temporary god mode for the AFK player.
 # The player has to use the command /afk to leave the AFK mode.
-freeze-afk-players: false
+freeze-afk-players: true
 
 # When the player is AFK, should he be able to pickup items?
 # Enable this, when you don't want people idling in mob traps.
-disable-item-pickup-while-afk: false
+disable-item-pickup-while-afk: true
 
 # This setting controls if a player is marked as active on interaction.
 # When this setting is false, the player would need to manually un-AFK using the /afk command.
@@ -416,7 +351,7 @@ cancel-afk-on-move: true
 # Set the player's list name when they are AFK. This is none by default which specifies that Essentials 
 # should not interfere with the AFK player's list name.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
-afk-list-name: none
+afk-list-name: '{PLAYER} - Away'
 
 # You can disable the death messages of Minecraft here.
 death-messages: true
@@ -436,7 +371,8 @@ custom-quit-message: "none"
 
 # Add worlds to this list, if you want to automatically disable god mode there.
 no-god-in-worlds:
-#  - world_nether
+  - world_nether
+  - world_the_end
 
 # Set to true to enable per-world permissions for teleporting between worlds with essentials commands.
 # This applies to /world, /back, /tp[a|o][here|all], but not warps.
@@ -447,7 +383,7 @@ world-teleport-permissions: false
 # The number of items given if the quantity parameter is left out in /item or /give.
 # If this number is below 1, the maximum stack size size is given. If over-sized stacks.
 # are not enabled, any number higher than the maximum stack size results in more than one stack.
-default-stack-size: -1
+default-stack-size: 64
 
 # Over-sized stacks are stacks that ignore the normal max stack size.
 # They can be obtained using /give and /item, if the player has essentials.oversizedstacks permission.
@@ -465,7 +401,7 @@ unsafe-enchantments: false
 
 #Do you want Essentials to keep track of previous location for /back in the teleport listener?
 #If you set this to true any plugin that uses teleport will have the previous location registered.
-register-back-in-listener: false
+register-back-in-listener: true
 
 #Delay to wait before people can cause attack damage after logging in.
 login-attack-delay: 5
@@ -474,10 +410,10 @@ login-attack-delay: 5
 max-fly-speed: 0.8
 
 #Set the max walk speed, values range from 0.1 to 1.0
-max-walk-speed: 0.8
+max-walk-speed: 1
 
 #Set the maximum amount of mail that can be sent within a minute.
-mails-per-minute: 1000
+mails-per-minute: 10
 
 # Set the maximum time /tempban can be used for in seconds.
 # Set to -1 to disable, and essentials.tempban.unlimited can be used to override.
@@ -493,7 +429,7 @@ last-message-reply-recipient: true
 last-message-reply-recipient-timeout: 180
 
 # Toggles whether or not right clicking mobs with a milk bucket turns them into a baby.
-milk-bucket-easter-egg: true
+milk-bucket-easter-egg: false
 
 # Toggles whether or not the fly status message should be sent to players on join
 send-fly-enable-on-join: true
@@ -515,8 +451,11 @@ world-time-permissions: false
 #  '^ban([^ip])( .*)?': 60 # 60 seconds /ban cooldown.
 # Note: If you have a command that starts with ^, then you can escape it using backslash (\). e.g. \^command: 123
 command-cooldowns:
-#  feed: 100 # 100 second cooldown on /feed command
-#  '*': 5 # 5 Second cooldown on all commands
+  feed: 60 # 60 second cooldown on /feed command
+  heal: 60 # 60 second cooldown on /heal command
+  nuke: 300 # 5 minute cooldown on /nuke command
+  world: 30 # 30 second cooldown on /world command
+
 
 # Whether command cooldowns should be persistent past server shutdowns
 command-cooldown-persistence: true
@@ -558,9 +497,9 @@ world-home-permissions: false
 # Create the 'home-rank' below, and give the matching permission: essentials.sethome.multiple.<home-rank>
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
-  default: 3
-  vip: 5
-  staff: 10
+  default: 1
+  vip: 1
+  staff: 1
 
 # In this example someone with 'essentials.sethome.multiple' and 'essentials.sethome.multiple.vip' will have 5 homes.
 # Remember, they MUST have both permission nodes in order to be able to set multiple homes.
@@ -849,8 +788,8 @@ newbies:
   # Should we announce to the server when someone logs in for the first time?
   # If so, use this format, replacing {DISPLAYNAME} with the player name.
   # If not, set to ''
-  #announce-format: ''
-  announce-format: '&dWelcome {DISPLAYNAME}&d to the server!'
+  announce-format: ''
+  # announce-format: '&dWelcome {DISPLAYNAME}&d to the server!'
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.
@@ -858,7 +797,7 @@ newbies:
 
   # Do we want to give users anything on first join? Set to '' to disable
   # This kit will be given regardless of cost and permissions, and will not trigger the kit delay.
-  kit: ''
+  kit: 'tools'
 
 # Set this to lowest, if you want Multiverse to handle the respawning.
 # Set this to high, if you want EssentialsSpawn to handle the respawning.

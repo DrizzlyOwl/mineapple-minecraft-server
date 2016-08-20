@@ -2,7 +2,7 @@ lastAccountName: I_R_TARD
 timestamps:
   login: 1471635726279
   lastteleport: 1471615057855
-  logout: 1471628394262
+  logout: 1471644008715
 ipAddress: 90.227.27.126
 lastlocation:
   world: world
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 42.019245
 logoutlocation:
   world: world
-  x: -514.4461924111652
+  x: -514.436765746058
   y: 64.0
-  z: 1990.5509550714255
-  yaw: 352.6294
-  pitch: 7.89869
+  z: 1995.692836885825
+  yaw: 336.9256
+  pitch: 48.67802
 afk: false
 homes:
   home:
@@ -27,3 +27,4 @@ homes:
     z: 1986.3186544715322
     yaw: 214.70935
     pitch: 25.791357
+money: '0'
