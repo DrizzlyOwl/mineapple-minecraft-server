@@ -3239,3 +3239,52 @@ Reason: Griefing/xraying
 [21:00:00] [Server thread/INFO]: Saving...
 [21:00:00] [Server thread/INFO]: Saved the world
 [21:00:00] [Server thread/INFO]: [Server] Save Complete
+[21:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:15:00] [Server thread/INFO]: Saving...
+[21:15:00] [Server thread/INFO]: Saved the world
+[21:15:00] [Server thread/INFO]: [Server] Save Complete
+[21:24:39] [User Authenticator #47/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[21:24:39] [Server thread/INFO]: AlmostJesus[/174.117.23.186:58233] logged in with entity id 345498 at ([world]7559.699999988079, 158.0, 9490.643692742615)
+[21:24:39] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[21:25:07] [User Authenticator #48/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[21:25:07] [Server thread/INFO]: egger49[/99.247.164.202:52663] logged in with entity id 345590 at ([world_the_end]-17.572169791132417, 47.5, 473.6665586297126)
+[21:25:07] [Server thread/INFO]: [Server] Welcome back, egger49
+[21:25:14] [Async Chat Thread - #109/INFO]: <~hotub99> answer the call fgt
+[21:25:32] [Async Chat Thread - #109/INFO]: <AlmostJesus> Literally only on for like 5 minutes
+[21:25:40] [Async Chat Thread - #109/INFO]: <~hotub99> where u going
+[21:25:48] [Async Chat Thread - #109/INFO]: <AlmostJesus> to sleep
+[21:25:56] [Async Chat Thread - #109/INFO]: <~hotub99> oh yeah u work
+[21:26:04] [Async Chat Thread - #109/INFO]: <~hotub99> Did you talk to your dad about the party?
+[21:26:13] [Async Chat Thread - #109/INFO]: <~hotub99> cause if you need boooooze i need to know
+[21:27:13] [Async Chat Thread - #109/INFO]: <AlmostJesus> Didn'ttalk to him yet
+[21:29:36] [Server thread/INFO]: egger49 issued server command: /home
+[21:29:50] [Async Chat Thread - #110/INFO]: <~hotub99> tdid you want any enchantments for your stoof
+[21:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:30:00] [Server thread/INFO]: Saving...
+[21:30:00] [Server thread/INFO]: Saved the world
+[21:30:00] [Server thread/INFO]: [Server] Save Complete
+[21:30:34] [Server thread/INFO]: AlmostJesus issued server command: /home
+[21:30:54] [Async Chat Thread - #111/INFO]: <AlmostJesus> I'll figure out my own shit
+[21:31:08] [Async Chat Thread - #111/INFO]: <~hotub99> I have some books that i dont need if you want to look at them
+[21:31:19] [Async Chat Thread - #111/INFO]: <~hotub99> tryin g to mac my pick out
+[21:31:33] [Async Chat Thread - #111/INFO]: <~hotub99> heyre
+[21:31:57] [Async Chat Thread - #111/INFO]: <AlmostJesus> Sharpness is the only one I want
+[21:32:01] [Async Chat Thread - #111/INFO]: <~hotub99> ok
+[21:33:23] [Async Chat Thread - #112/INFO]: <AlmostJesus> Well Im going to bed, just text me if you need to know anything
+[21:33:28] [Async Chat Thread - #112/INFO]: <~hotub99> ok
+[21:33:35] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[21:33:35] [Server thread/INFO]: AlmostJesus left the game
+[21:35:40] [Server thread/INFO]: egger49 has just earned the achievement [We Need to Go Deeper]
+[21:35:42] [Server thread/WARN]: egger49 moved too quickly! -6613.495396982539,-63.0,-8274.011587626464
+[21:36:02] [Server thread/WARN]: egger49 moved too quickly! 6614.017661377463,63.0,8273.150585285292
+[21:36:17] [Server thread/INFO]: egger49 issued server command: /back
+[21:36:26] [Server thread/INFO]: egger49 issued server command: /home
+[21:38:11] [Server thread/INFO]: egger49 issued server command: /home
+[21:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:45:00] [Server thread/INFO]: Saving...
+[21:45:00] [Server thread/INFO]: Saved the world
+[21:45:00] [Server thread/INFO]: [Server] Save Complete
+[22:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[22:00:00] [Server thread/INFO]: Saving...
+[22:00:00] [Server thread/INFO]: Saved the world
+[22:00:00] [Server thread/INFO]: [Server] Save Complete

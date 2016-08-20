@@ -1,16 +1,16 @@
 lastAccountName: egger49
 timestamps:
-  login: 1471626827025
-  lastteleport: 1471632491557
+  login: 1471656307744
+  lastteleport: 1471657096567
   logout: 1471632737269
 ipAddress: 99.247.164.202
 lastlocation:
-  world: world
-  x: 7558.295755330803
-  y: 158.0
-  z: 9486.160188883221
-  yaw: 269.6582
-  pitch: 25.649918
+  world: world_the_end
+  x: -19.5
+  y: 47.5
+  z: 478.5
+  yaw: -174.29956
+  pitch: 7.6500134
 homes:
   home:
     world: world
