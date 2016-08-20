@@ -1322,3 +1322,201 @@
 [21:00:00] [Server thread/INFO]: Saving...
 [21:00:00] [Server thread/INFO]: Saved the world
 [21:00:00] [Server thread/INFO]: [Server] Save Complete
+[21:00:08] [Server thread/INFO]: ALL intensive server activity is now allowed.
+[21:00:08] [Server thread/INFO]: ALL intensive server activity is now allowed.
+[21:00:25] [Async Chat Thread - #13/INFO]: <WalshyXD> back in business
+[21:00:47] [Server thread/INFO]: CONSOLE issued server command: /msg walshyxd it was the /stoplag -c command
+[21:00:47] [Server thread/INFO]: [me -> WalshyXD] it was the /stoplag -c command
+[21:01:00] [Server thread/INFO]: WalshyXD issued server command: /r -C resumes it right?
+[21:01:00] [Server thread/INFO]: [WalshyXD -> me] -C resumes it right?
+[21:01:05] [Server thread/INFO]: CONSOLE issued server command: /r yeah
+[21:01:05] [Server thread/INFO]: [me -> WalshyXD] yeah
+[21:01:11] [Server thread/INFO]: WalshyXD issued server command: /r I'm sure I resumed it.
+[21:01:11] [Server thread/INFO]: [WalshyXD -> me] I'm sure I resumed it.
+[21:01:19] [Server thread/INFO]: WalshyXD issued server command: /r explains your restone fiasco
+[21:01:19] [Server thread/INFO]: [WalshyXD -> me] explains your restone fiasco
+[21:01:19] [Server thread/INFO]: CONSOLE issued server command: /r my fault
+[21:01:19] [Server thread/INFO]: [me -> WalshyXD] my fault
+[21:01:22] [Server thread/INFO]: WalshyXD issued server command: /r jew
+[21:01:22] [Server thread/INFO]: [WalshyXD -> me] jew
+[21:02:46] [Server thread/INFO]: Skyking_Caton has just earned the achievement [Delicious Fish]
+[21:03:47] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[21:03:47] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-64.01249998807907, 85.09489094694398, 215.32249401861876)
+[21:04:08] [Server thread/INFO]: WalshyXD issued server command: //pos
+[21:04:09] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[21:04:09] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-42.3960775907473, 86.40454622696821, 226.58317567962425)
+[21:04:18] [Server thread/INFO]: WalshyXD issued server command: //poos2
+[21:04:21] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[21:04:21] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-64.0114392352989, 68.0, 215.43899651153845)
+[21:04:22] [Server thread/INFO]: WalshyXD issued server command: //cut
+[21:04:22] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /cut - Region: (-65.0, 68.0, 215.0) - (-43.0, 86.0, 226.0)
+[21:04:26] [Server thread/INFO]: WalshyXD issued server command: //undo
+[21:04:26] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[21:04:35] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[21:04:35] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-63.52057479984377, 67.0, 215.5088354825057)
+[21:04:36] [Server thread/INFO]: WalshyXD issued server command: //cut
+[21:04:36] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /cut - Region: (-64.0, 67.0, 215.0) - (-43.0, 86.0, 226.0)
+[21:04:46] [Server thread/INFO]: WalshyXD issued server command: //paste
+[21:04:46] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /paste - Position: (-64.0, 67.0, 213.0)
+[21:05:03] [Server thread/INFO]: WalshyXD issued server command: //undo
+[21:05:03] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[21:05:08] [Server thread/INFO]: WalshyXD issued server command: //paste
+[21:05:08] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /paste - Position: (-64.0, 67.0, 212.0)
+[21:07:09] [User Authenticator #25/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[21:07:10] [Server thread/INFO]: BuuTheGreat[/85.76.16.150:41008] logged in with entity id 802920 at ([world]-96.19833609358965, 118.0, -118.28818438588361)
+[21:07:10] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[21:07:12] [Async Chat Thread - #14/INFO]: <WalshyXD> wb
+[21:07:14] [Async Chat Thread - #14/INFO]: <BuuTheGreat> connected with an iPhone using MineChat
+[21:07:14] [Async Chat Thread - #14/INFO]: <Skyking_Caton> wb
+[21:07:22] [Server thread/INFO]: BuuTheGreat issued server command: /spawn
+[21:07:24] [Async Chat Thread - #14/INFO]: <BuuTheGreat> thanks
+[21:07:26] [Async Chat Thread - #14/INFO]: <WalshyXD> Gtfo your phone and come online
+[21:07:40] [Async Chat Thread - #14/INFO]: <BuuTheGreat> is spawn enough safe?
+[21:07:51] [Async Chat Thread - #14/INFO]: <WalshyXD> spawn is 100% safe..
+[21:07:51] [Async Chat Thread - #14/INFO]: <BuuTheGreat> or will I die there :P
+[21:08:10] [Async Chat Thread - #14/INFO]: <BuuTheGreat> do zombies kill me?
+[21:08:26] [Async Chat Thread - #14/INFO]: <WalshyXD> mobs can't spawn in the spawn region
+[21:08:34] [Async Chat Thread - #14/INFO]: <BuuTheGreat> nice
+[21:08:44] [Async Chat Thread - #14/INFO]: <BuuTheGreat> but they can come there?
+[21:09:06] [Async Chat Thread - #14/INFO]: <WalshyXD> you'd have to drag them from outside the regions.
+[21:09:44] [Async Chat Thread - #14/INFO]: <BuuTheGreat> okay
+[21:10:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c43b1c5[id=<null>,name=ItzAdam14,properties={},legacy=false] (/86.160.105.21:55916) lost connection: Disconnected
+[21:11:44] [Async Chat Thread - #15/INFO]: <BuuTheGreat> meh just us online
+[21:11:50] [Async Chat Thread - #15/INFO]: <BuuTheGreat> could be more lol
+[21:11:54] [Async Chat Thread - #15/INFO]: <WalshyXD> been very quiet today.
+[21:12:03] [Server thread/INFO]: BuuTheGreat issued server command: /seen rhinodude980
+[21:12:09] [Async Chat Thread - #15/INFO]: <BuuTheGreat> Rhino left
+[21:12:13] [Async Chat Thread - #15/INFO]: <WalshyXD> why?
+[21:12:19] [Async Chat Thread - #15/INFO]: <BuuTheGreat> as I told you he will
+[21:12:37] [Server thread/INFO]: Skyking_Caton was shot by Skeleton
+[21:12:45] [Server thread/INFO]: Skyking_Caton issued server command: /back
+[21:12:49] [Async Chat Thread - #15/INFO]: <BuuTheGreat> because he couldn't log in to his account an he had all his valuables in his end chest..
+[21:13:00] [Server thread/INFO]: WalshyXD issued server command: /enderchest BuuTheGreat
+[21:13:08] [Async Chat Thread - #15/INFO]: <WalshyXD> I can access his chest...
+[21:13:12] [Server thread/INFO]: WalshyXD issued server command: /enderchest BuuTheGreat
+[21:13:19] [Server thread/INFO]: WalshyXD issued server command: /enderchest rhinodude
+[21:13:19] [Async Chat Thread - #15/INFO]: <BuuTheGreat> oh
+[21:13:24] [Async Chat Thread - #15/INFO]: <WalshyXD> if he's online anyway
+[21:13:31] [Async Chat Thread - #15/INFO]: <WalshyXD> just tested it
+[21:13:34] [Server thread/INFO]: WalshyXD issued server command: /enderchest rhinodude98
+[21:13:40] [Async Chat Thread - #15/INFO]: <WalshyXD> whats his full minecraft name?
+[21:13:52] [Async Chat Thread - #15/INFO]: <BuuTheGreat> RhinoDude980
+[21:13:54] [Server thread/INFO]: Skyking_Caton was shot by Skeleton
+[21:13:57] [Server thread/INFO]: WalshyXD issued server command: /enderchest drizzlyowl
+[21:13:58] [Server thread/INFO]: WalshyXD issued server command: /enderchest drizzlyowl
+[21:14:00] [Server thread/INFO]: Skyking_Caton issued server command: /back
+[21:14:05] [Server thread/INFO]: WalshyXD issued server command: /enderchest BuuTheGreat
+[21:14:52] [Async Chat Thread - #16/INFO]: <WalshyXD> you got alot of shit in yours. damn
+[21:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:15:00] [Server thread/INFO]: Saving...
+[21:15:00] [Server thread/INFO]: Saved the world
+[21:15:00] [Server thread/INFO]: [Server] Save Complete
+[21:15:06] [Async Chat Thread - #16/INFO]: <BuuTheGreat> shit?
+[21:15:08] [Async Chat Thread - #16/INFO]: <WalshyXD> stuff
+[21:15:10] [Async Chat Thread - #16/INFO]: <WalshyXD> hehe
+[21:15:17] [Async Chat Thread - #16/INFO]: <BuuTheGreat> good stuff?
+[21:15:21] [Async Chat Thread - #16/INFO]: <WalshyXD> enough for a beacon
+[21:15:23] [Async Chat Thread - #16/INFO]: <WalshyXD> full one
+[21:15:44] [Server thread/INFO]: Skyking_Caton issued server command: /home
+[21:15:50] [Async Chat Thread - #16/INFO]: <BuuTheGreat> what are the ingredients for one? the monster?
+[21:15:54] [Async Chat Thread - #16/INFO]: <BuuTheGreat> lol
+[21:15:59] [Async Chat Thread - #16/INFO]: <WalshyXD> yeh.. need a nether star
+[21:16:19] [Async Chat Thread - #16/INFO]: <BuuTheGreat> from black skeles?
+[21:16:22] [Async Chat Thread - #16/INFO]: <WalshyXD> yh
+[21:16:29] [Async Chat Thread - #16/INFO]: <WalshyXD> with a fortune sword it doesnt take long
+[21:16:32] [Async Chat Thread - #16/INFO]: <WalshyXD> I got 3 of my own
+[21:16:38] [Async Chat Thread - #16/INFO]: <BuuTheGreat> wow
+[21:16:54] [Async Chat Thread - #16/INFO]: <BuuTheGreat> fortune or looting?
+[21:16:59] [Async Chat Thread - #16/INFO]: <WalshyXD> looting sorry
+[21:17:15] [Async Chat Thread - #16/INFO]: <BuuTheGreat> oh okay
+[21:17:21] [Async Chat Thread - #16/INFO]: <BuuTheGreat> I can make one lol
+[21:17:31] [Server thread/INFO]: Skyking_Caton lost connection: Disconnected
+[21:17:31] [Server thread/INFO]: Skyking_Caton left the game
+[21:17:34] [Server thread/INFO]: WalshyXD issued server command: /tp BuuTheGreat
+[21:17:42] [Server thread/INFO]: WalshyXD issued server command: /back
+[21:17:43] [Async Chat Thread - #16/INFO]: <BuuTheGreat> but I don't like nether
+[21:17:54] [Async Chat Thread - #16/INFO]: <WalshyXD> thats why you do it with a buddy...
+[21:18:01] [Async Chat Thread - #16/INFO]: <WalshyXD> The wither boss itself is pretty hardcore
+[21:18:18] [Async Chat Thread - #16/INFO]: <BuuTheGreat> How about gapple?
+[21:18:36] [Async Chat Thread - #16/INFO]: <WalshyXD> Good luck finding a notch apple
+[21:18:42] [Async Chat Thread - #16/INFO]: <WalshyXD> you can't make them anymore
+[21:18:45] [Async Chat Thread - #16/INFO]: <BuuTheGreat> Finding?
+[21:18:52] [Async Chat Thread - #16/INFO]: <BuuTheGreat> can't I?
+[21:18:57] [Async Chat Thread - #16/INFO]: <WalshyXD> its a treasure only item now
+[21:19:03] [Async Chat Thread - #16/INFO]: <BuuTheGreat> oh lol
+[21:19:04] [Async Chat Thread - #16/INFO]: <WalshyXD> you can make the inferior version
+[21:19:15] [Async Chat Thread - #16/INFO]: <BuuTheGreat> with nuggets?
+[21:19:19] [Async Chat Thread - #16/INFO]: <WalshyXD> gold bars
+[21:19:27] [Async Chat Thread - #16/INFO]: <BuuTheGreat> wow
+[21:19:33] [Async Chat Thread - #16/INFO]: <BuuTheGreat> lot has changed
+[21:19:36] [Async Chat Thread - #16/INFO]: <WalshyXD> yep
+[21:19:44] [Async Chat Thread - #16/INFO]: <WalshyXD> They are overpowered afterall
+[21:19:51] [Async Chat Thread - #16/INFO]: <BuuTheGreat> it's not good
+[21:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[21:21:10] [Async Chat Thread - #17/INFO]: <BuuTheGreat> I know protection 4 is not good enough
+[21:21:39] [Async Chat Thread - #17/INFO]: <BuuTheGreat> Or healing potions?
+[21:21:45] [Async Chat Thread - #17/INFO]: <WalshyXD> potions are your best bet
+[21:22:10] [Async Chat Thread - #17/INFO]: <BuuTheGreat> if you get ghast tire?
+[21:22:10] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[21:22:10] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-27.30000001192093, 66.0, 253.69999998807907)
+[21:22:18] [Async Chat Thread - #17/INFO]: <BuuTheGreat> you can make the heeling potion
+[21:22:23] [Async Chat Thread - #17/INFO]: <WalshyXD> thats for regeneration potions
+[21:22:26] [Async Chat Thread - #17/INFO]: <WalshyXD> which are shit
+[21:22:31] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[21:22:31] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-36.69999998807907, 66.0, 228.30000001192093)
+[21:22:32] [Async Chat Thread - #17/INFO]: <BuuTheGreat> oh
+[21:22:39] [Server thread/INFO]: WalshyXD issued server command: //replace grass water
+[21:22:39] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace grass water - Region: (-37.0, 66.0, 228.0) - (-28.0, 66.0, 253.0)
+[21:22:56] [Async Chat Thread - #17/INFO]: <BuuTheGreat> So healing potion 2?
+[21:22:59] [Async Chat Thread - #17/INFO]: <WalshyXD> yep
+[21:23:17] [Async Chat Thread - #17/INFO]: <WalshyXD> maybe a lingering potion of healing
+[21:24:02] [Async Chat Thread - #17/INFO]: <BuuTheGreat> well I've never understood the point with beacons anyways
+[21:24:19] [Async Chat Thread - #17/INFO]: <WalshyXD> you should see the mining speed combined with efficiency 5
+[21:24:46] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[21:24:46] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-36.69275334663689, 67.0, 228.30000001192093)
+[21:24:51] [Server thread/INFO]: WalshyXD issued server command: //replace grass water
+[21:24:51] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace grass water - Region: (-37.0, 66.0, 228.0) - (-28.0, 67.0, 253.0)
+[21:24:53] [Async Chat Thread - #17/INFO]: <BuuTheGreat> I lag already with eff 5 so :P
+[21:24:56] [Server thread/INFO]: WalshyXD issued server command: //replace air water
+[21:24:56] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-37.0, 66.0, 228.0) - (-28.0, 67.0, 253.0)
+[21:25:50] [Async Chat Thread - #17/INFO]: <BuuTheGreat> I think eff 4 is good enough
+[21:26:15] [Async Chat Thread - #17/INFO]: <WalshyXD> you get 3 second obsidian with EF5
+[21:26:39] [Async Chat Thread - #17/INFO]: <BuuTheGreat> ye but I don't need obsidian
+[21:26:50] [Async Chat Thread - #17/INFO]: <WalshyXD> >.<
+[21:27:41] [Async Chat Thread - #17/INFO]: <BuuTheGreat> Obsidian is quite useless
+[21:27:52] [Async Chat Thread - #17/INFO]: <WalshyXD> its good for enderchests :/
+[21:28:02] [Async Chat Thread - #17/INFO]: <BuuTheGreat> and portals
+[21:28:07] [Async Chat Thread - #17/INFO]: <WalshyXD> in case you're building in multiple places
+[21:28:10] [Async Chat Thread - #17/INFO]: <BuuTheGreat> but that's about it
+[21:28:16] [Async Chat Thread - #17/INFO]: <WalshyXD> true
+[21:28:57] [Async Chat Thread - #17/INFO]: <BuuTheGreat> anyways, power of phone is almost dead :p
+[21:29:04] [Async Chat Thread - #17/INFO]: <WalshyXD> damn
+[21:29:11] [Async Chat Thread - #17/INFO]: <BuuTheGreat> I'll maybe come back on phone later
+[21:29:16] [Async Chat Thread - #17/INFO]: <WalshyXD> alright. cya later
+[21:29:21] [Async Chat Thread - #17/INFO]: <BuuTheGreat> cya
+[21:29:25] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[21:29:25] [Server thread/INFO]: BuuTheGreat left the game
+[21:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:30:00] [Server thread/INFO]: Saving...
+[21:30:00] [Server thread/INFO]: Saved the world
+[21:30:00] [Server thread/INFO]: [Server] Save Complete
+[21:36:24] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[21:36:24] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-42.30000001192093, 66.0, 228.30000001192093)
+[21:36:35] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[21:36:35] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-51.69999998807907, 66.0, 253.69999998807907)
+[21:36:38] [Server thread/INFO]: WalshyXD issued server command: //replace air water
+[21:36:38] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-52.0, 66.0, 228.0) - (-43.0, 66.0, 253.0)
+[21:36:43] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[21:36:43] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-51.69999998807907, 67.0, 253.69999998807907)
+[21:36:45] [Server thread/INFO]: WalshyXD issued server command: //replace air water
+[21:36:45] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-52.0, 66.0, 228.0) - (-43.0, 67.0, 253.0)
+[21:44:25] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[21:44:25] [Server thread/INFO]: WalshyXD left the game
+[21:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:45:00] [Server thread/INFO]: Saving...
+[21:45:00] [Server thread/INFO]: Saved the world
+[21:45:00] [Server thread/INFO]: [Server] Save Complete
+[22:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[22:00:00] [Server thread/INFO]: Saving...
+[22:00:00] [Server thread/INFO]: Saved the world
+[22:00:00] [Server thread/INFO]: [Server] Save Complete
