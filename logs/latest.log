@@ -3194,3 +3194,48 @@ Reason: Griefing/xraying
 [20:00:00] [Server thread/INFO]: Saving...
 [20:00:00] [Server thread/INFO]: Saved the world
 [20:00:00] [Server thread/INFO]: [Server] Save Complete
+[20:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:15:00] [Server thread/INFO]: Saving...
+[20:15:00] [Server thread/INFO]: Saved the world
+[20:15:00] [Server thread/INFO]: [Server] Save Complete
+[20:23:15] [User Authenticator #46/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[20:23:15] [Server thread/INFO]: WalshyXD[/86.3.13.214:58490] logged in with entity id 345311 at ([world]-29.414958808422703, 94.68941649987839, 226.15939209534656)
+[20:23:15] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[20:23:52] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[20:28:50] [Server thread/INFO]: WalshyXD issued server command: /stoplag
+[20:28:54] [Server thread/INFO]: WalshyXD issued server command: /stoplag -c
+[20:29:12] [Server thread/INFO]: WalshyXD issued server command: /stoplag
+[20:29:14] [Server thread/INFO]: WalshyXD issued server command: /stoplag -c
+[20:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:30:00] [Server thread/INFO]: Saving...
+[20:30:00] [Server thread/INFO]: Saved the world
+[20:30:00] [Server thread/INFO]: [Server] Save Complete
+[20:31:39] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[20:31:41] [Server thread/INFO]: WalshyXD issued server command: /co inspect radius
+[20:31:43] [Server thread/INFO]: WalshyXD issued server command: /co inspect radius
+[20:31:45] [Server thread/INFO]: WalshyXD issued server command: /co
+[20:31:54] [Server thread/INFO]: WalshyXD issued server command: /co lookup
+[20:31:59] [Server thread/INFO]: WalshyXD issued server command: /co lookup r:5
+[20:32:23] [Server thread/INFO]: WalshyXD issued server command: /co lookup r:5
+[20:32:33] [Server thread/INFO]: WalshyXD issued server command: /co l 2
+[20:32:37] [Server thread/INFO]: WalshyXD issued server command: /co l 3
+[20:32:41] [Server thread/INFO]: WalshyXD issued server command: /co inspect
+[20:35:33] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[20:35:33] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-42.45242858053188, 73.0, 258.3956321997019)
+[20:35:38] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[20:35:38] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-33.71132747491194, 83.39609371864815, 254.23645343738923)
+[20:35:43] [Server thread/INFO]: WalshyXD issued server command: //replace obsidian glowstone
+[20:35:43] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace obsidian glowstone - Region: (-43.0, 73.0, 254.0) - (-34.0, 83.0, 258.0)
+[20:35:47] [Server thread/INFO]: WalshyXD issued server command: //undo
+[20:35:47] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[20:36:00] [Server thread/WARN]: WalshyXD moved too quickly! 32.12936819901593,8.78882365546501,-233.0775854624646
+[20:36:09] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[20:36:09] [Server thread/INFO]: WalshyXD left the game
+[20:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[20:45:00] [Server thread/INFO]: Saving...
+[20:45:00] [Server thread/INFO]: Saved the world
+[20:45:00] [Server thread/INFO]: [Server] Save Complete
+[21:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[21:00:00] [Server thread/INFO]: Saving...
+[21:00:00] [Server thread/INFO]: Saved the world
+[21:00:00] [Server thread/INFO]: [Server] Save Complete

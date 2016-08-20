@@ -375,3 +375,7 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-14.277097264841094, 76.60290925894236, 227.33360159346043)
 [INFO] WorldEdit: WalshyXD (in "world"): /cut - Region: (-29.0, 76.0, 213.0) - (-15.0, 93.0, 227.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (-15.0, 88.0, 227.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-42.45242858053188, 73.0, 258.3956321997019)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-33.71132747491194, 83.39609371864815, 254.23645343738923)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace obsidian glowstone - Region: (-43.0, 73.0, 254.0) - (-34.0, 83.0, 258.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
