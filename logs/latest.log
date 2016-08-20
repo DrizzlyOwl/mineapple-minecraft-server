@@ -160,3 +160,28 @@
 [10:00:00] [Server thread/INFO]: Saving...
 [10:00:00] [Server thread/INFO]: Saved the world
 [10:00:00] [Server thread/INFO]: [Server] Save Complete
+[10:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:15:00] [Server thread/INFO]: Saving...
+[10:15:01] [Server thread/INFO]: Saved the world
+[10:15:01] [Server thread/INFO]: [Server] Save Complete
+[10:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:30:00] [Server thread/INFO]: Saving...
+[10:30:00] [Server thread/INFO]: Saved the world
+[10:30:00] [Server thread/INFO]: [Server] Save Complete
+[10:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:45:00] [Server thread/INFO]: Saving...
+[10:45:00] [Server thread/INFO]: Saved the world
+[10:45:00] [Server thread/INFO]: [Server] Save Complete
+[10:54:03] [Server thread/INFO]: CONSOLE issued server command: /motd 
+[10:54:03] [Server thread/INFO]:  ---- Motd -- Page 1/1 ----
+[10:54:03] [Server thread/INFO]: ======================================
+[10:54:03] [Server thread/INFO]: Welcome, 
+[10:54:03] [Server thread/INFO]: Players online: 0
+[10:54:03] [Server thread/INFO]: Current World time: 
+[10:54:03] [Server thread/INFO]: Unread mails: 
+[10:54:03] [Server thread/INFO]: Your IP: 
+[10:54:03] [Server thread/INFO]: ======================================
+[11:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:00:00] [Server thread/INFO]: Saving...
+[11:00:00] [Server thread/INFO]: Saved the world
+[11:00:00] [Server thread/INFO]: [Server] Save Complete
