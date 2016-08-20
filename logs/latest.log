@@ -214,3 +214,92 @@
 [14:00:00] [Server thread/INFO]: Saving...
 [14:00:00] [Server thread/INFO]: Saved the world
 [14:00:00] [Server thread/INFO]: [Server] Save Complete
+[14:00:03] [Server thread/INFO]: WalshyXD issued server command: /time day
+[14:01:34] [Server thread/INFO]: WalshyXD issued server command: //undo
+[14:01:34] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[14:06:58] [Server thread/INFO]: WalshyXD issued server command: //undo
+[14:06:58] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[14:07:05] [Server thread/INFO]: WalshyXD issued server command: //undo
+[14:07:05] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[14:07:09] [Server thread/INFO]: WalshyXD issued server command: //undo
+[14:07:09] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[14:07:12] [Server thread/INFO]: WalshyXD issued server command: //undo
+[14:07:12] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
+[14:07:25] [Server thread/INFO]: WalshyXD issued server command: /butcher
+[14:07:25] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): butcher - Position: (65.0, 84.0, 273.0)
+[14:07:34] [Server thread/INFO]: WalshyXD issued server command: /brush butcher
+[14:07:34] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): butcher
+[14:08:35] [Server thread/INFO]: WalshyXD issued server command: /brush cylinder 2 3 1
+[14:08:35] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): cylinder 2 3 1
+[14:10:09] [Server thread/INFO]: WalshyXD issued server command: //killall skeleton_horse
+[14:10:13] [Server thread/INFO]: WalshyXD issued server command: /killall skeleton_horse
+[14:10:20] [Server thread/INFO]: WalshyXD issued server command: /killall horse
+[14:10:53] [Server thread/INFO]: WalshyXD issued server command: /killall horse:1
+[14:10:54] [Server thread/INFO]: WalshyXD issued server command: /killall horse:3
+[14:11:00] [Server thread/INFO]: WalshyXD issued server command: /killall skeletonhorse
+[14:11:25] [Server thread/INFO]: WalshyXD issued server command: /killall 28
+[14:11:32] [Server thread/INFO]: WalshyXD issued server command: /mob
+[14:12:16] [Server thread/INFO]: WalshyXD issued server command: //killall skeletontrap
+[14:12:22] [Server thread/INFO]: WalshyXD issued server command: /killall skeleton trap
+[14:12:28] [Server thread/INFO]: WalshyXD issued server command: /killall skeletontrap
+[14:13:03] [Server thread/INFO]: WalshyXD issued server command: /killall horse:3
+[14:13:11] [Server thread/INFO]: WalshyXD issued server command: /killall horse:3:1
+[14:13:41] [Server thread/INFO]: WalshyXD issued server command: /killall EntityHorse ~ ~ ~ {Type:3,Tame:1
+[14:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:15:00] [Server thread/INFO]: Saving...
+[14:15:00] [Server thread/INFO]: Saved the world
+[14:15:00] [Server thread/INFO]: [Server] Save Complete
+[14:15:29] [Server thread/INFO]: WalshyXD issued server command: /gm 3
+[14:17:01] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[14:17:32] [Server thread/INFO]: WalshyXD issued server command: /tp -6267 68 7158
+[14:18:01] [Server thread/INFO]: WalshyXD issued server command: //pos1
+[14:18:01] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-6281.395354711494, 68.0, 7170.2307749550155)
+[14:18:10] [Server thread/INFO]: WalshyXD issued server command: //pos2
+[14:18:10] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-6256.503628733053, 76.0, 7178.6230851035825)
+[14:18:14] [Server thread/INFO]: WalshyXD issued server command: //replace dirt 0
+[14:18:14] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace dirt 0 - Region: (-6282.0, 68.0, 7170.0) - (-6257.0, 76.0, 7178.0)
+[14:18:24] [Server thread/INFO]: WalshyXD issued server command: //replace 2 0
+[14:18:24] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace 2 0 - Region: (-6282.0, 68.0, 7170.0) - (-6257.0, 76.0, 7178.0)
+[14:18:28] [Server thread/INFO]: WalshyXD issued server command: /time day
+[14:19:57] [Server thread/INFO]: WalshyXD issued server command: /clearhand
+[14:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[14:20:02] [Server thread/INFO]: WalshyXD issued server command: /gm 0
+[14:20:07] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[14:20:07] [Server thread/INFO]: WalshyXD left the game
+[14:20:14] [User Authenticator #4/INFO]: UUID of player WalshyXD is 4497b600-ae1e-4c4a-a331-f2e6a18feb2b
+[14:20:14] [Server thread/INFO]: WalshyXD[/86.3.13.214:53026] logged in with entity id 74274 at ([world]-6276.8862335928225, 68.0, 7167.14157727423)
+[14:20:14] [Server thread/INFO]: [Server] Welcome back, WalshyXD
+[14:20:25] [Server thread/INFO]: WalshyXD issued server command: /tree
+[14:20:25] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree
+[14:20:26] [Server thread/INFO]: WalshyXD issued server command: /tree
+[14:20:26] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree
+[14:20:36] [Server thread/INFO]: WalshyXD issued server command: /brush
+[14:20:59] [Server thread/INFO]: WalshyXD issued server command: /gm 1
+[14:21:04] [Server thread/INFO]: WalshyXD issued server command: /brush
+[14:21:07] [Server thread/INFO]: WalshyXD issued server command: /tree
+[14:21:07] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): tree
+[14:21:12] [Server thread/INFO]: WalshyXD issued server command: /clear
+[14:21:13] [Server thread/INFO]: WalshyXD issued server command: /gm 0
+[14:21:24] [Server thread/INFO]: WalshyXD issued server command: //brush clear
+[14:21:38] [Server thread/INFO]: WalshyXD issued server command: /brush help
+[14:22:05] [Server thread/INFO]: WalshyXD issued server command: /none
+[14:22:05] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): none
+[14:24:29] [Server thread/INFO]: WalshyXD lost connection: Disconnected
+[14:24:29] [Server thread/INFO]: WalshyXD left the game
+[14:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:30:00] [Server thread/INFO]: Saving...
+[14:30:00] [Server thread/INFO]: Saved the world
+[14:30:00] [Server thread/INFO]: [Server] Save Complete
+[14:32:20] [User Authenticator #5/INFO]: UUID of player DrizzlyOwl is 806fd64c-8d2f-45d9-b36a-7d83aa2ba140
+[14:32:20] [Server thread/INFO]: DrizzlyOwl[/176.27.13.83:55540] logged in with entity id 75493 at ([world]-4.448577747086, 74.88178979525807, 255.35657330310272)
+[14:32:20] [Server thread/INFO]: [Server] Welcome back, DrizzlyOwl
+[14:32:30] [Server thread/INFO]: DrizzlyOwl lost connection: Disconnected
+[14:32:30] [Server thread/INFO]: DrizzlyOwl left the game
+[14:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:45:00] [Server thread/INFO]: Saving...
+[14:45:00] [Server thread/INFO]: Saved the world
+[14:45:00] [Server thread/INFO]: [Server] Save Complete
+[15:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:00:00] [Server thread/INFO]: Saving...
+[15:00:00] [Server thread/INFO]: Saved the world
+[15:00:00] [Server thread/INFO]: [Server] Save Complete
