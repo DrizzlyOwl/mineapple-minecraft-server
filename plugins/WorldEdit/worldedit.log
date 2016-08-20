@@ -418,3 +418,26 @@
 [INFO] WorldEdit: WalshyXD (in "world"): tree
 [INFO] WorldEdit: WalshyXD (in "world"): tree
 [INFO] WorldEdit: WalshyXD (in "world"): none
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-9.300000011920929, 67.0, 250.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-25.08673419712367, 68.0, 225.04539605315964)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 2 0 - Region: (-26.0, 67.0, 225.0) - (-10.0, 68.0, 250.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (0.7581215850807491, 68.0, 212.98750001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-51.50993724622928, 67.0, 253.33901347957257)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 2 0 - Region: (-52.0, 67.0, 212.0) - (0.0, 68.0, 253.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-51.69999998807907, 66.0, 253.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 3 2 - Region: (-52.0, 66.0, 212.0) - (0.0, 68.0, 253.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-27.55637127092382, 67.0, 253.0422125262056)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-33.427357783013626, 71.77706541324896, 232.48278378327157)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 103 43 - Region: (-34.0, 67.0, 232.0) - (-28.0, 71.0, 253.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (23.51772168466112, 68.0, 214.43917127377162)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-73.18395204860917, 78.0, 312.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /setbiome jungle - Region: (-74.0, 68.0, 214.0) - (23.0, 78.0, 312.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-17.580157995883027, 70.40754336659671, 262.4511613755)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-20.548305792974233, 70.40754336659671, 267.441097706629)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 2 48 - Region: (-21.0, 70.0, 262.0) - (-18.0, 70.0, 267.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-16.609994801205648, 69.29014016684783, 263.2378450279935)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-21.402751006822296, 72.65895669000935, 269.9809024850705)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 2 48 - Region: (-22.0, 69.0, 263.0) - (-17.0, 72.0, 269.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 48 43:8 - Region: (-22.0, 69.0, 263.0) - (-17.0, 72.0, 269.0)
+[INFO] WorldEdit: WalshyXD (in "world"): tree bigree
+[INFO] WorldEdit: WalshyXD (in "world"): tree bigtree
