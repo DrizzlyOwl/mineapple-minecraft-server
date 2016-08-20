@@ -1,16 +1,16 @@
 lastAccountName: egger49
 timestamps:
-  login: 1471656307744
-  lastteleport: 1471657096567
-  logout: 1471632737269
+  login: 1471659192651
+  lastteleport: 1471661339262
+  logout: 1471659025291
 ipAddress: 99.247.164.202
 lastlocation:
-  world: world_the_end
-  x: -19.5
-  y: 47.5
-  z: 478.5
-  yaw: -174.29956
-  pitch: 7.6500134
+  world: world
+  x: 7708.699999988079
+  y: 12.0
+  z: 9708.44842790455
+  yaw: -355.84164
+  pitch: 41.999958
 homes:
   home:
     world: world
@@ -21,10 +21,11 @@ homes:
     pitch: 1.7999308
 nickname: hotub99
 logoutlocation:
-  world: world_the_end
-  x: -17.572169791132417
-  y: 47.5
-  z: 473.6665586297126
-  yaw: -30.59971
-  pitch: 11.849993
+  world: world
+  x: 7551.124928948748
+  y: 173.0
+  z: 9491.689770210534
+  yaw: 88.00876
+  pitch: 19.94999
 afk: false
+godmode: false
