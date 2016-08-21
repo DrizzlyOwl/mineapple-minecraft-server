@@ -629,3 +629,6 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /sphere 35:6 10,10,10 no - Position: (7631.0, 144.0, 9467.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /undo
 [INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (23.45257492395375, 101.73824076230972, 325.32384785625084)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-0.3927801811973108, 68.0, 253.33751810474575)
+[INFO] WorldEdit: WalshyXD (in "world"): /setbiome forest - Region: (-1.0, 68.0, 253.0) - (23.0, 101.0, 325.0)

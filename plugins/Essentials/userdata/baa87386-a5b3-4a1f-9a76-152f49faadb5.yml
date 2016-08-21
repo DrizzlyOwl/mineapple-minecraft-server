@@ -1,20 +1,20 @@
 lastAccountName: Pingas
 timestamps:
-  login: 1471646363508
-  logout: 1471650343474
+  login: 1471746565831
+  logout: 1471748484665
 ipAddress: 50.188.50.129
 afk: false
 logoutlocation:
   world: world
-  x: -33.97198064673482
-  y: 68.0
-  z: 230.93048387020826
-  yaw: 47.141895
-  pitch: 4.654988
+  x: -27.1847261903881
+  y: 67.5
+  z: 270.6963639904333
+  yaw: -241.80046
+  pitch: 18.399855
 lastlocation:
   world: world
-  x: 60.31419236487765
-  y: 80.0
-  z: 153.20901797343987
-  yaw: 214.96114
-  pitch: 60.046185
+  x: -24.530762382087488
+  y: 67.5
+  z: 236.58920991486738
+  yaw: -134.76114
+  pitch: 11.794983
