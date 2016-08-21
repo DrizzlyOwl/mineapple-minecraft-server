@@ -1,375 +1,85 @@
-[00:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:00:00] [Server thread/INFO]: Saving...
-[00:00:00] [Server thread/INFO]: Saved the world
-[00:00:00] [Server thread/INFO]: [Server] Save Complete
-[00:00:05] [Server thread/INFO]: WalshyXD issued server command: /toggledownfall
-[00:00:05] [Server thread/INFO]: [WalshyXD: Toggled downfall]
-[00:00:09] [Async Chat Thread - #21/INFO]: <AlmostJesus> Haha has he seen it?
-[00:00:15] [Async Chat Thread - #21/INFO]: <WalshyXD> yeh
-[00:00:22] [Async Chat Thread - #21/INFO]: <AlmostJesus> What did he say
-[00:00:22] [Async Chat Thread - #21/INFO]: <WalshyXD> was trolling her the other day
-[00:00:27] [Async Chat Thread - #21/INFO]: <AlmostJesus> she*
-[00:00:31] [Async Chat Thread - #21/INFO]: <WalshyXD> yep
-[00:00:36] [Async Chat Thread - #21/INFO]: <WalshyXD> didnt believe that myself.
-[00:00:44] [Async Chat Thread - #21/INFO]: <WalshyXD> till I spoke to her on skype
-[00:00:59] [Async Chat Thread - #21/INFO]: <AlmostJesus> lol Walshy and the ladies
-[00:01:04] [Async Chat Thread - #21/INFO]: <WalshyXD> Dude she's 16 lol
-[00:01:14] [Async Chat Thread - #21/INFO]: <WalshyXD> thats legal age in the uk. But still too young for me
-[00:01:54] [Async Chat Thread - #21/INFO]: <AlmostJesus> Its age of consent in Canada but there are so many technicalities it's best not to go for it
-[00:02:06] [Async Chat Thread - #21/INFO]: <WalshyXD> gotten to know her a bit
-[00:02:11] [Async Chat Thread - #21/INFO]: <WalshyXD> its a nono
-[00:02:17] [Async Chat Thread - #21/INFO]: <AlmostJesus> Im 17 though so Im safe from all that shit for another couple months
-[00:02:41] [Async Chat Thread - #21/INFO]: <WalshyXD> haha
-[00:03:14] [Async Chat Thread - #21/INFO]: <WalshyXD> age of consent can be like 7 in some countries
-[00:03:21] [Async Chat Thread - #21/INFO]: <WalshyXD> legal or not. Still wrong
-[00:03:53] [Async Chat Thread - #21/INFO]: <AlmostJesus> Or in some religious states you can legally marry a newborn if the parents give consent
-[00:03:59] [Async Chat Thread - #21/INFO]: <AlmostJesus> Its disgusting
-[00:04:00] [Server thread/INFO]: WalshyXD issued server command: //undo
-[00:04:00] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
-[00:04:06] [Async Chat Thread - #21/INFO]: <WalshyXD> ...
-[00:04:08] [Async Chat Thread - #21/INFO]: <WalshyXD> thats wrong
-[00:04:39] [Async Chat Thread - #21/INFO]: <AlmostJesus> Stay within your age group, I don't know how people can be into that stuff
-[00:04:46] [Async Chat Thread - #21/INFO]: <WalshyXD> ikr
-[00:04:52] [Async Chat Thread - #21/INFO]: <WalshyXD> I'm into a girl 7 years older than me
-[00:04:59] [Async Chat Thread - #21/INFO]: <WalshyXD> it can be complicated. but it aint wrong
-[00:06:06] [Async Chat Thread - #22/INFO]: <AlmostJesus> yeah but both of you are adults and the gap gets wider as you get older
-[00:06:29] [Async Chat Thread - #22/INFO]: <WalshyXD> she has her own kids lol..
-[00:06:42] [Async Chat Thread - #22/INFO]: <WalshyXD> I'm 23 she's about be turn 30
-[00:06:57] [Async Chat Thread - #22/INFO]: <AlmostJesus> Okay thats complicated
-[00:07:06] [Async Chat Thread - #22/INFO]: <WalshyXD> that's not the biggest complication lol
-[00:07:12] [Async Chat Thread - #22/INFO]: <WalshyXD> surprisingly
-[00:07:27] [Async Chat Thread - #22/INFO]: <AlmostJesus> Dont tell me shes married Walshy ;P
-[00:07:30] [Async Chat Thread - #22/INFO]: <WalshyXD> She's an alcoholic. Amazing who you meet eh?
-[00:07:39] [Async Chat Thread - #22/INFO]: <AlmostJesus> Oh shit okay
-[00:07:44] [Async Chat Thread - #22/INFO]: <WalshyXD> I found that out AFTER I bought her a bottle of wine for her birthday
-[00:07:57] [Async Chat Thread - #22/INFO]: <AlmostJesus> Of course
-[00:08:20] [Async Chat Thread - #22/INFO]: <WalshyXD> hehe
-[00:08:25] [Async Chat Thread - #22/INFO]: <WalshyXD> Life is fun and complicated
-[00:08:41] [Async Chat Thread - #22/INFO]: <AlmostJesus> I have this group of grade 9 girls obsessed with me for whatever reason...
-[00:09:06] [Async Chat Thread - #22/INFO]: <AlmostJesus> And Im like I am only here for the extra year to figure shit out
-[00:09:11] [Async Chat Thread - #22/INFO]: <AlmostJesus> please go away
-[00:09:32] [Async Chat Thread - #22/INFO]: <WalshyXD> I remember one girl 3 years above me who was into me
-[00:09:33] [Async Chat Thread - #22/INFO]: <WalshyXD> for years
-[00:09:37] [Async Chat Thread - #22/INFO]: <WalshyXD> couldnt work out why
-[00:09:42] [Async Chat Thread - #22/INFO]: <WalshyXD> wish I'd asked her out
-[00:09:55] [Async Chat Thread - #22/INFO]: <WalshyXD> No idea where she is now. last I heard she had a boyfriend
-[00:10:04] [Async Chat Thread - #22/INFO]: <WalshyXD> Hoping to see her again one day
-[00:10:18] [Server thread/INFO]: WalshyXD issued server command: /brush raise 1 1
-[00:10:22] [Server thread/INFO]: WalshyXD issued server command: /brush raise sphere 1
-[00:10:36] [Async Chat Thread - #22/INFO]: <AlmostJesus> That would be neat
-[00:10:47] [Async Chat Thread - #22/INFO]: <WalshyXD> doubt she'd feel the same now
-[00:11:06] [Async Chat Thread - #22/INFO]: <WalshyXD> hopefully theres at least an ember
-[00:11:42] [Async Chat Thread - #22/INFO]: <AlmostJesus> Grade 8 there was this girl who had a huge thing for me, I wasn't interested.
-[00:12:00] [Async Chat Thread - #22/INFO]: <AlmostJesus> She is now one of the hottest girls in my city of our age
-[00:12:02] [Async Chat Thread - #22/INFO]: <WalshyXD> then she grew "huge things" ?
-[00:12:43] [Async Chat Thread - #22/INFO]: <AlmostJesus> Shot my self in the foot tried talking to her again, she was always nice and we got along but..
-[00:13:17] [Server thread/INFO]: WalshyXD issued server command: //undo
-[00:13:17] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
-[00:13:53] [Server thread/INFO]: AlmostJesus issued server command: /home
-[00:14:06] [Server thread/INFO]: AlmostJesus issued server command: /spawn
-[00:14:13] [Server thread/INFO]: WalshyXD issued server command: /brush sphere water 1 1
-[00:14:18] [Server thread/INFO]: WalshyXD issued server command: /brush sphere 8 1
-[00:14:18] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): sphere 8 1
-[00:14:25] [Async Chat Thread - #23/INFO]: <AlmostJesus> Walshy do you have a slenderman skin on?
-[00:14:36] [Async Chat Thread - #23/INFO]: <WalshyXD> how tf did you know that...
-[00:14:42] [Async Chat Thread - #23/INFO]: <WalshyXD> i just changed it.
-[00:14:43] [Async Chat Thread - #23/INFO]: <AlmostJesus> TAB
-[00:14:47] [Async Chat Thread - #23/INFO]: <WalshyXD> fuc
-[00:14:50] [Async Chat Thread - #23/INFO]: <WalshyXD> damn
-[00:14:55] [Async Chat Thread - #23/INFO]: <AlmostJesus> JK Im God
-[00:14:56] [Async Chat Thread - #23/INFO]: <WalshyXD> got bored of my old skin
-[00:14:59] [Async Chat Thread - #23/INFO]: <WalshyXD> hehe
-[00:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:15:00] [Server thread/INFO]: Saving...
-[00:15:00] [Server thread/INFO]: Saved the world
-[00:15:00] [Server thread/INFO]: [Server] Save Complete
-[00:15:11] [Server thread/INFO]: AlmostJesus issued server command: /spawn
-[00:15:20] [Server thread/INFO]: WalshyXD issued server command: //pos1
-[00:15:20] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-143.86025328206742, 62.0, 50.30000001192093)
-[00:15:30] [Server thread/INFO]: WalshyXD issued server command: //pos2
-[00:15:30] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-119.69999998807907, 61.58891464895466, 90.69999998807907)
-[00:15:32] [Server thread/INFO]: WalshyXD issued server command: //replace air water
-[00:15:32] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-144.0, 61.0, 50.0) - (-120.0, 62.0, 90.0)
-[00:16:39] [Async Chat Thread - #24/INFO]: <AlmostJesus> So have you figured out everything you are adding to spawn?
-[00:16:52] [Async Chat Thread - #24/INFO]: <WalshyXD> nah. we're improvising
-[00:16:57] [Async Chat Thread - #24/INFO]: <WalshyXD> we've just deleted the church
-[00:17:03] [Async Chat Thread - #24/INFO]: <WalshyXD> no idea what ash is doing with it
-[00:17:06] [Async Chat Thread - #24/INFO]: <WalshyXD> but I dont like it..
-[00:17:19] [Server thread/INFO]: WalshyXD issued server command: //water
-[00:17:24] [Server thread/INFO]: WalshyXD issued server command: //level
-[00:17:24] [Async Chat Thread - #24/INFO]: <AlmostJesus> Is it this giant hole in the ground
-[00:17:29] [Async Chat Thread - #24/INFO]: <WalshyXD> yes
-[00:17:39] [Server thread/INFO]: WalshyXD issued server command: /tp AlmostJesus
-[00:17:54] [Async Chat Thread - #24/INFO]: <WalshyXD> ruins my plan a little
-[00:18:00] [Async Chat Thread - #24/INFO]: <AlmostJesus> Dont push me in
-[00:18:01] [Async Chat Thread - #24/INFO]: <WalshyXD> wanted some form of agility course underground
-[00:18:11] [Async Chat Thread - #24/INFO]: <WalshyXD> maybe even a "limbo" version of the spawn
-[00:18:23] [Async Chat Thread - #24/INFO]: <AlmostJesus> That would be interesting
-[00:18:35] [Async Chat Thread - #24/INFO]: <WalshyXD> doubt i have the space
-[00:18:45] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:18:49] [Async Chat Thread - #24/INFO]: <WalshyXD> like the fountain?
-[00:18:58] [Async Chat Thread - #24/INFO]: <AlmostJesus> Like the dark version of the shrine in Dark souls 3
-[00:19:02] [Async Chat Thread - #24/INFO]: <AlmostJesus> Yeah dude
-[00:19:15] [Async Chat Thread - #24/INFO]: <WalshyXD> I was referencing devil may cry 3 :P
-[00:19:26] [Async Chat Thread - #24/INFO]: <WalshyXD> basically the spawn upside down
-[00:19:32] [Async Chat Thread - #24/INFO]: <WalshyXD> maybe a more hellish theme
-[00:19:44] [Async Chat Thread - #24/INFO]: <WalshyXD> lava instead of water... cracked bricks
-[00:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[00:20:05] [Async Chat Thread - #24/INFO]: <AlmostJesus> you probably have the space
-[00:20:19] [Async Chat Thread - #24/INFO]: <WalshyXD> y 67 here
-[00:20:33] [Async Chat Thread - #24/INFO]: <WalshyXD> y 100 here
-[00:20:35] [Async Chat Thread - #24/INFO]: <WalshyXD> could do..
-[00:20:43] [Async Chat Thread - #24/INFO]: <WalshyXD> 33 heigh max?
-[00:20:50] [Async Chat Thread - #24/INFO]: <AlmostJesus> It'll be close
-[00:20:51] [Async Chat Thread - #24/INFO]: <WalshyXD> could do it
-[00:20:55] [Async Chat Thread - #24/INFO]: <WalshyXD> depends what happens
-[00:20:58] [Async Chat Thread - #24/INFO]: <WalshyXD> just an idea for now
-[00:21:06] [Async Chat Thread - #24/INFO]: <WalshyXD> hopefully server lifts off more
-[00:21:09] [Async Chat Thread - #24/INFO]: <WalshyXD> been dead today
-[00:21:24] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:21:30] [Async Chat Thread - #24/INFO]: <AlmostJesus> Hopefully, it should
-[00:21:32] [Async Chat Thread - #24/INFO]: <WalshyXD> you deserve an assassins view
-[00:21:37] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:21:45] [Async Chat Thread - #24/INFO]: <AlmostJesus> Haha
-[00:21:48] [Async Chat Thread - #24/INFO]: <WalshyXD> look behind
-[00:21:51] [Async Chat Thread - #24/INFO]: <WalshyXD> extended the lake
-[00:21:54] [Async Chat Thread - #24/INFO]: <WalshyXD> looks natural eh?
-[00:22:03] [Async Chat Thread - #24/INFO]: <AlmostJesus> yeah
-[00:22:28] [Async Chat Thread - #24/INFO]: <WalshyXD> I was going to go with a naked skin.
-[00:22:35] [Async Chat Thread - #24/INFO]: <WalshyXD> but not everyone is of 18+ age
-[00:22:52] [Async Chat Thread - #24/INFO]: <AlmostJesus> May scare the children
-[00:22:56] [Async Chat Thread - #24/INFO]: <WalshyXD> hehe
-[00:23:09] [Async Chat Thread - #24/INFO]: <WalshyXD> I was trying to troll you by your window
-[00:23:16] [Async Chat Thread - #24/INFO]: <WalshyXD> but you were afk :.
-[00:23:19] [Async Chat Thread - #24/INFO]: <AlmostJesus> When I was AFK?
-[00:23:21] [Async Chat Thread - #24/INFO]: <WalshyXD> nearly got you killed by zombie
-[00:23:22] [Async Chat Thread - #24/INFO]: <WalshyXD> yeh
-[00:23:32] [Async Chat Thread - #24/INFO]: <AlmostJesus> rekt
-[00:23:38] [Async Chat Thread - #24/INFO]: <WalshyXD> I like your place
-[00:23:46] [Async Chat Thread - #24/INFO]: <WalshyXD> not sure why
-[00:23:52] [Async Chat Thread - #24/INFO]: <WalshyXD> exiled in the mountain kind of place
-[00:23:58] [Async Chat Thread - #24/INFO]: <WalshyXD> peacegul
-[00:23:59] [Async Chat Thread - #24/INFO]: <AlmostJesus> Yeah i don't really know why either
-[00:24:00] [Async Chat Thread - #24/INFO]: <WalshyXD> peaceful
-[00:24:11] [Server thread/INFO]: WalshyXD issued server command: /tp home:almostjesus
-[00:24:14] [Async Chat Thread - #24/INFO]: <AlmostJesus> Things are never peaceful with Josh around
-[00:24:20] [Server thread/INFO]: WalshyXD issued server command: /tp almostjesus:home
-[00:24:27] [Server thread/INFO]: WalshyXD issued server command: /tp almostjesus;home
-[00:24:33] [Async Chat Thread - #24/INFO]: <WalshyXD> haha
-[00:24:38] [Server thread/INFO]: WalshyXD issued server command: /home AlmostJesus;home
-[00:24:45] [Server thread/INFO]: WalshyXD issued server command: /home AlmostJesus:home
-[00:25:07] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:25:11] [Async Chat Thread - #24/INFO]: <WalshyXD> you havent seen it from my view
-[00:25:13] [Server thread/INFO]: WalshyXD issued server command: /fly AlmostJesus
-[00:25:26] [Async Chat Thread - #24/INFO]: <AlmostJesus> Oh shit
-[00:25:40] [Async Chat Thread - #24/INFO]: <AlmostJesus> i ve just been jumping off the edge to seethe outside
-[00:25:42] [Async Chat Thread - #24/INFO]: <WalshyXD> them clouds passing through it
-[00:26:16] [Async Chat Thread - #24/INFO]: <AlmostJesus> Trump tower bitches
-[00:26:22] [Async Chat Thread - #24/INFO]: <WalshyXD> haha
-[00:26:29] [Async Chat Thread - #24/INFO]: <WalshyXD> building one hell of a wall
-[00:26:33] [Async Chat Thread - #24/INFO]: <WalshyXD> the mexicans will never get in
-[00:26:53] [Async Chat Thread - #24/INFO]: <AlmostJesus> The canadians either if Trump gets his way
-[00:27:07] [Async Chat Thread - #24/INFO]: <WalshyXD> I'm british, And I dont like the guy
-[00:27:14] [Async Chat Thread - #24/INFO]: <WalshyXD> we all know he will be the start of ww3
-[00:27:19] [Async Chat Thread - #24/INFO]: <WalshyXD> and people still support
-[00:27:32] [Async Chat Thread - #24/INFO]: <AlmostJesus> A meme that went too far
-[00:27:58] [Async Chat Thread - #24/INFO]: <AlmostJesus> Dick and balls?
-[00:28:02] [Async Chat Thread - #24/INFO]: <AlmostJesus> yep
-[00:28:13] [Async Chat Thread - #24/INFO]: <WalshyXD> I swear i'm 23..
-[00:28:30] [Async Chat Thread - #24/INFO]: <AlmostJesus> Add web at the end
-[00:28:41] [Async Chat Thread - #24/INFO]: <AlmostJesus> perfect
-[00:28:51] [Async Chat Thread - #24/INFO]: <WalshyXD> really want a dick in the side of your house..?
-[00:28:58] [Async Chat Thread - #24/INFO]: <AlmostJesus> nope
-[00:28:59] [Server thread/INFO]: WalshyXD issued server command: //undo
-[00:28:59] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
-[00:29:31] [Async Chat Thread - #24/INFO]: <AlmostJesus> Enjoying world edit?
-[00:29:41] [Async Chat Thread - #24/INFO]: <WalshyXD> hehe
-[00:29:52] [Async Chat Thread - #24/INFO]: <WalshyXD> I'll leave it alone now
-[00:29:53] [Server thread/INFO]: WalshyXD issued server command: /bakc
-[00:29:55] [Server thread/INFO]: WalshyXD issued server command: /spawn
-[00:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:30:00] [Server thread/INFO]: Saving...
-[00:30:00] [Server thread/INFO]: Saved the world
-[00:30:00] [Server thread/INFO]: [Server] Save Complete
-[00:30:07] [Async Chat Thread - #24/INFO]: <WalshyXD> hmmm
-[00:30:09] [Async Chat Thread - #24/INFO]: <WalshyXD> i wonder.
-[00:30:11] [Server thread/INFO]: WalshyXD issued server command: /tp AlmostJesus
-[00:30:18] [Async Chat Thread - #24/INFO]: <AlmostJesus> Kinda feel like the pimps of the server up here
-[00:30:28] [Async Chat Thread - #24/INFO]: <WalshyXD> you are
-[00:30:33] [Async Chat Thread - #24/INFO]: <WalshyXD> theres a guy called "skyking"
-[00:30:38] [Async Chat Thread - #24/INFO]: <WalshyXD> ...not anymore
-[00:30:54] [Async Chat Thread - #24/INFO]: <AlmostJesus> Bow down bitches Im the sky god
-[00:30:54] [Server thread/INFO]: WalshyXD issued server command: /sphere 33
-[00:31:02] [Server thread/INFO]: WalshyXD issued server command: /sphere
-[00:31:04] [Server thread/INFO]: WalshyXD issued server command: //sphere
-[00:31:17] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 20 20 n
-[00:31:18] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 20 20 no
-[00:31:24] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 20 20 no
-[00:31:28] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 20 20 raised
-[00:31:31] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 20 20 null
-[00:31:37] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 20 20
-[00:31:44] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 20 20 r
-[00:32:09] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 20 20 yes
-[00:32:14] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 20 yes
-[00:32:14] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /sphere 35:6 20 yes - Position: (7617.0, 133.0, 9466.0)
-[00:32:22] [Async Chat Thread - #25/INFO]: <WalshyXD> uh oh
-[00:32:23] [Server thread/INFO]: WalshyXD issued server command: /gm 3
-[00:32:32] [Async Chat Thread - #25/INFO]: <AlmostJesus> wtf XD
-[00:32:39] [Server thread/INFO]: WalshyXD issued server command: //undo
-[00:32:39] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
-[00:32:47] [Server thread/INFO]: WalshyXD issued server command: //sphere 10 10 10 no
-[00:32:52] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 10 10 10 no
-[00:33:00] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 10,10,10 no
-[00:33:00] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /sphere 35:6 10,10,10 no - Position: (7632.0, 145.0, 9493.0)
-[00:33:16] [Server thread/INFO]: WalshyXD issued server command: //sphere 35:6 10,10,10 no
-[00:33:16] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /sphere 35:6 10,10,10 no - Position: (7631.0, 144.0, 9467.0)
-[00:33:23] [Async Chat Thread - #25/INFO]: <AlmostJesus> I have bad feeling about this
-[00:33:23] [Async Chat Thread - #25/INFO]: <WalshyXD> yes, I could do it.
-[00:33:25] [Server thread/INFO]: WalshyXD issued server command: //undo
-[00:33:25] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
-[00:33:26] [Server thread/INFO]: WalshyXD issued server command: //undo
-[00:33:26] [Server thread/INFO]: WorldEdit: WalshyXD (in "world"): /undo
-[00:33:39] [Async Chat Thread - #25/INFO]: <WalshyXD> Its the concept for my future elytra luancher
-[00:33:49] [Server thread/INFO]: WalshyXD issued server command: /gm 1
-[00:33:59] [Async Chat Thread - #25/INFO]: <AlmostJesus> How do the elytra even work?
-[00:34:04] [Async Chat Thread - #25/INFO]: <WalshyXD> i'll demonstrate
-[00:34:14] [Server thread/INFO]: WalshyXD issued server command: /gm 0
-[00:34:21] [Async Chat Thread - #25/INFO]: <WalshyXD> i'm now in survival mode and can't fly
-[00:34:25] [Async Chat Thread - #25/INFO]: <WalshyXD> watch
-[00:34:40] [Server thread/INFO]: WalshyXD issued server command: /gm 1
-[00:34:43] [Async Chat Thread - #25/INFO]: <WalshyXD> follow me
-[00:34:46] [Server thread/INFO]: WalshyXD issued server command: /time day
-[00:34:49] [Server thread/INFO]: WalshyXD issued server command: /tp AlmostJesus
-[00:34:54] [Async Chat Thread - #25/INFO]: <WalshyXD> come up here
-[00:35:08] [Server thread/INFO]: WalshyXD issued server command: /gm 0
-[00:35:20] [Async Chat Thread - #25/INFO]: <AlmostJesus> Thats fuckign dope
-[00:35:21] [Async Chat Thread - #25/INFO]: <WalshyXD> it's basically a glider
-[00:35:32] [Async Chat Thread - #25/INFO]: <AlmostJesus> how do you get them?
-[00:35:45] [Async Chat Thread - #25/INFO]: <WalshyXD> can travel 1000s of blocks if you jump froma height
-[00:35:46] [Server thread/INFO]: WalshyXD issued server command: /gm 1
-[00:35:50] [Async Chat Thread - #25/INFO]: <WalshyXD> you get them from end cities
-[00:35:58] [Async Chat Thread - #25/INFO]: <WalshyXD> like nether forts. for the end
-[00:36:09] [Async Chat Thread - #25/INFO]: <AlmostJesus> They added those?
-[00:36:12] [Async Chat Thread - #25/INFO]: <WalshyXD> yeh
-[00:36:18] [Async Chat Thread - #25/INFO]: <WalshyXD> when you kill the dragon 2 portals will spawn
-[00:36:23] [Async Chat Thread - #25/INFO]: <AlmostJesus> I need to go to the end
-[00:36:25] [Async Chat Thread - #25/INFO]: <WalshyXD> the one to home.. and one to the outer isles
-[00:36:35] [Async Chat Thread - #25/INFO]: <WalshyXD> if you gear up... i'll take you there
-[00:36:46] [Async Chat Thread - #25/INFO]: <WalshyXD> you need alot of blocks with you. building bridges
-[00:37:19] [Async Chat Thread - #25/INFO]: <WalshyXD> i'll let you have a go of this if you want
-[00:37:23] [Async Chat Thread - #25/INFO]: <WalshyXD> but you gotta give it back
-[00:37:28] [Async Chat Thread - #25/INFO]: <WalshyXD> elytra is too good to give away
-[00:37:39] [Async Chat Thread - #25/INFO]: <AlmostJesus> sure
-[00:37:40] [Server thread/INFO]: WalshyXD issued server command: /fly AlmostJesus
-[00:37:49] [Async Chat Thread - #25/INFO]: <WalshyXD> goes in chestplate slot
-[00:37:53] [Server thread/INFO]: WalshyXD issued server command: /invsee AlmostJesus
-[00:37:54] [Async Chat Thread - #25/INFO]: <WalshyXD> oh..
-[00:38:05] [Async Chat Thread - #25/INFO]: <AlmostJesus> Did you fuck up?
-[00:38:14] [Async Chat Thread - #25/INFO]: <WalshyXD> to activate... press space when falling
-[00:38:20] [Async Chat Thread - #25/INFO]: <WalshyXD> and direct with mouse
-[00:38:31] [Async Chat Thread - #25/INFO]: <WalshyXD> press f5 for best view
-[00:38:37] [Async Chat Thread - #25/INFO]: <WalshyXD> let me know when you want a tp back
-[00:39:12] [Async Chat Thread - #25/INFO]: <AlmostJesus> That is awesome!!
-[00:39:36] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:39:39] [Async Chat Thread - #25/INFO]: <WalshyXD> got an idea
-[00:39:42] [Server thread/INFO]: WalshyXD issued server command: /fly AlmostJesus
-[00:39:45] [Async Chat Thread - #25/INFO]: <WalshyXD> wait a sec
-[00:39:52] [Server thread/INFO]: WalshyXD issued server command: /speed fly AlmostJesus 10
-[00:39:56] [Server thread/INFO]: WalshyXD issued server command: /speed fly 10 AlmostJesus
-[00:40:02] [Server thread/INFO]: WalshyXD issued server command: /speed fly WalshyXD
-[00:40:06] [Server thread/INFO]: WalshyXD issued server command: /speed fly WalshyXD 10
-[00:40:09] [Server thread/INFO]: WalshyXD issued server command: /speed fly 10 WalshyXD
-[00:40:12] [Async Chat Thread - #25/INFO]: <WalshyXD> go up
-[00:40:22] [Async Chat Thread - #25/INFO]: <WalshyXD> get to Y:1000
-[00:40:43] [Server thread/INFO]: WalshyXD issued server command: /speed fly 1 WalshyXD
-[00:40:49] [Async Chat Thread - #25/INFO]: <AlmostJesus> at y 1500
-[00:40:55] [Async Chat Thread - #25/INFO]: <WalshyXD> lower yourself lol
-[00:41:08] [Async Chat Thread - #25/INFO]: <AlmostJesus> there
-[00:41:24] [Async Chat Thread - #25/INFO]: <WalshyXD> you're invisible to me at this height lol
-[00:41:29] [Async Chat Thread - #25/INFO]: <WalshyXD> ok ima release you.
-[00:41:32] [Server thread/INFO]: WalshyXD issued server command: /fly AlmostJesus
-[00:41:35] [Async Chat Thread - #25/INFO]: <WalshyXD> press space!
-[00:41:37] [Server thread/INFO]: WalshyXD issued server command: /gm 1
-[00:41:39] [Server thread/INFO]: WalshyXD issued server command: /gm 0
-[00:41:47] [Async Chat Thread - #25/INFO]: <WalshyXD> then f5 to see yourself
-[00:42:06] [Async Chat Thread - #25/INFO]: <WalshyXD> Elytra degrades. but can be repaired
-[00:42:13] [Async Chat Thread - #25/INFO]: <WalshyXD> can put unbreaking on it to last longer
-[00:42:33] [Server thread/INFO]: WalshyXD issued server command: /tp 7561 187 9476
-[00:42:48] [Async Chat Thread - #25/INFO]: <AlmostJesus> This is so awesome
-[00:42:56] [Async Chat Thread - #25/INFO]: <WalshyXD> ikr
-[00:43:13] [Async Chat Thread - #25/INFO]: <WalshyXD> Amazingly enough barely anyone on the server knows what it is
-[00:43:20] [Async Chat Thread - #25/INFO]: <WalshyXD> one guy other than myself went for an elytra
-[00:43:28] [Async Chat Thread - #25/INFO]: <WalshyXD> and thats only because I told him about it
-[00:43:33] [Server thread/INFO]: WalshyXD issued server command: /tp 7561 187 9476
-[00:43:38] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:43:55] [Async Chat Thread - #25/INFO]: <AlmostJesus> Im glitched
-[00:43:56] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:44:01] [Async Chat Thread - #25/INFO]: <WalshyXD> juuuump
-[00:44:27] [Async Chat Thread - #25/INFO]: <WalshyXD> you'll fly longer when you've got the directions sorted
-[00:44:40] [Async Chat Thread - #25/INFO]: <WalshyXD> a punch 2 bow can make you fly forever
-[00:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[00:45:00] [Server thread/INFO]: Saving...
-[00:45:00] [Server thread/INFO]: Saved the world
-[00:45:00] [Server thread/INFO]: [Server] Save Complete
-[00:45:08] [Async Chat Thread - #25/INFO]: <AlmostJesus> Dank as fuck
-[00:45:53] [Async Chat Thread - #25/INFO]: <AlmostJesus> You can teleport me back now if you want
-[00:45:58] [Server thread/INFO]: WalshyXD issued server command: /tp 7561 187 9476
-[00:46:01] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:46:07] [Server thread/INFO]: WalshyXD issued server command: /tp AlmostJesus
-[00:46:16] [Async Chat Thread - #25/INFO]: <WalshyXD> finding one in the end is anoying
-[00:46:19] [Async Chat Thread - #25/INFO]: <WalshyXD> without an elytra
-[00:46:37] [Async Chat Thread - #25/INFO]: <WalshyXD> we're considering monthly resets on the end and nether
-[00:46:43] [Async Chat Thread - #25/INFO]: <WalshyXD> which is bad news for my grinder
-[00:46:55] [Async Chat Thread - #25/INFO]: <WalshyXD> but... end has a fuckton of treasure
-[00:47:06] [Async Chat Thread - #25/INFO]: <AlmostJesus> That is fair though, keeps the loot balanced for everyone
-[00:47:13] [Async Chat Thread - #25/INFO]: <WalshyXD> how much time you got left?
-[00:47:24] [Async Chat Thread - #25/INFO]: <AlmostJesus> like 15
-[00:47:27] [Async Chat Thread - #25/INFO]: <WalshyXD> damn
-[00:47:31] [Async Chat Thread - #25/INFO]: <WalshyXD> would have gone huntign with you
-[00:47:41] [Async Chat Thread - #25/INFO]: <AlmostJesus> Tomorrow?
-[00:47:44] [Async Chat Thread - #25/INFO]: <WalshyXD> sure
-[00:47:51] [Server thread/INFO]: WalshyXD issued server command: /enderchest
-[00:48:02] [Async Chat Thread - #25/INFO]: <AlmostJesus> Alright sounds like a plan, want them back now?
-[00:48:03] [Server thread/INFO]: WalshyXD issued server command: /tp -6267 68 7158
-[00:48:31] [Async Chat Thread - #25/INFO]: <WalshyXD> phew
-[00:48:34] [Server thread/INFO]: WalshyXD issued server command: /gm 0
-[00:48:37] [Server thread/INFO]: WalshyXD issued server command: /gm 1
-[00:48:41] [Async Chat Thread - #25/INFO]: <AlmostJesus> What?
-[00:49:00] [Async Chat Thread - #25/INFO]: <WalshyXD> thought I lost my survival elytra
-[00:49:02] [Server thread/INFO]: WalshyXD issued server command: /tp AlmostJesus
-[00:49:36] [Server thread/INFO]: WalshyXD issued server command: /tp 7561 187 9476
-[00:49:40] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:49:46] [Async Chat Thread - #25/INFO]: <WalshyXD> one last dive
-[00:49:52] [Async Chat Thread - #25/INFO]: <AlmostJesus> sounds good
-[00:49:52] [Server thread/INFO]: WalshyXD issued server command: /gm 0
-[00:50:35] [Async Chat Thread - #25/INFO]: <WalshyXD> bet you regret not knowing what this was
-[00:50:56] [Async Chat Thread - #25/INFO]: <WalshyXD> just mind your landings
-[00:51:00] [Async Chat Thread - #25/INFO]: <WalshyXD> they can hurt :)
-[00:51:05] [Server thread/INFO]: WalshyXD issued server command: /tp 7561 187 9476
-[00:51:09] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:51:15] [Async Chat Thread - #25/INFO]: <AlmostJesus> I knew they were a thing but didnt know what they did or how to get them
-[00:51:30] [Async Chat Thread - #25/INFO]: <WalshyXD> its a must have :p
-[00:51:36] [Async Chat Thread - #25/INFO]: <AlmostJesus> Definately
-[00:51:41] [Async Chat Thread - #25/INFO]: <WalshyXD> fuckit.
-[00:51:44] [Async Chat Thread - #25/INFO]: <WalshyXD> 1 mo
-[00:52:07] [Async Chat Thread - #25/INFO]: <WalshyXD> using f5?
-[00:52:14] [Async Chat Thread - #25/INFO]: <AlmostJesus> yep
-[00:52:27] [Async Chat Thread - #25/INFO]: <WalshyXD> I'll teach you the punch2 trick tomorrow too
-[00:52:55] [Async Chat Thread - #25/INFO]: <WalshyXD> noo
-[00:52:57] [Async Chat Thread - #25/INFO]: <AlmostJesus> sweet
-[00:52:59] [Server thread/INFO]: WalshyXD issued server command: /gm 1
-[00:53:11] [Async Chat Thread - #25/INFO]: <WalshyXD> looks like you're swimming lol
-[00:53:39] [Server thread/INFO]: WalshyXD issued server command: /tp 7561 187 9476
-[00:53:47] [Server thread/INFO]: WalshyXD issued server command: /tphere AlmostJesus
-[00:53:55] [Async Chat Thread - #25/INFO]: <WalshyXD> ok sir, hand it over
-[00:54:05] [Async Chat Thread - #25/INFO]: <WalshyXD> cheers
-[00:54:12] [Async Chat Thread - #25/INFO]: <AlmostJesus> cheers man
-[00:54:16] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
-[00:54:16] [Server thread/INFO]: AlmostJesus left the game
-[00:54:17] [Async Chat Thread - #25/INFO]: <WalshyXD> lasts for 7 mins of flight without unbreaking
-[00:54:40] [Server thread/INFO]: WalshyXD lost connection: Disconnected
-[00:54:40] [Server thread/INFO]: WalshyXD left the game
-[01:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[01:00:00] [Server thread/INFO]: Saving...
-[01:00:00] [Server thread/INFO]: Saved the world
-[01:00:00] [Server thread/INFO]: [Server] Save Complete
+[01:18:47] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[01:18:47] [Server thread/INFO]: Loading properties
+[01:18:47] [Server thread/INFO]: Default game type: SURVIVAL
+[01:18:48] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-078e2f8-9ff3d7f (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[01:18:48] [Server thread/INFO]: Debug logging is disabled
+[01:18:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:18:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:18:48] [Server thread/INFO]: Generating keypair
+[01:18:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:18:49] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[01:18:49] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[01:18:49] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[01:18:49] [Server thread/INFO]: [Slack] Loading Slack v1.5.0
+[01:18:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[01:18:49] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[01:18:49] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[01:18:49] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[01:18:49] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[01:18:49] [Server thread/INFO]: Preparing level "world"
+[01:18:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3820634467636136119)
+[01:18:50] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:51] [Server thread/INFO]: Preparing spawn area: 36%
+[01:18:52] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3488346064576240778)
+[01:18:53] [Server thread/INFO]: Preparing spawn area: 86%
+[01:18:53] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
+[01:18:54] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[01:18:55] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[01:18:55] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[01:18:55] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[01:18:55] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[01:18:55] [Server thread/INFO]: [Slack] Enabling Slack v1.5.0
+[01:18:55] [Server thread/INFO]: [Slack] Slack has been enabled.
+[01:18:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[01:18:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:18:55] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
+[01:18:55] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
+[01:18:55] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[01:18:55] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsSpawn to the same version.
+[01:18:56] [Server thread/INFO]: Using locale en
+[01:18:56] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[01:18:56] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[01:18:56] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[01:18:56] [Server thread/INFO]: Using locale en
+[01:18:56] [Server thread/INFO]: [Essentials] Metrics disabled per PluginMetrics config.
+[01:18:56] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[01:18:56] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[01:18:56] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[01:18:56] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[01:18:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[01:18:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[01:18:57] [Server thread/INFO]: [WorldGuard] Loading region data...
+[01:18:57] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/minecraft (MySQL 5.7)
+[01:18:57] [Server thread/INFO]: [WorldGuard] Current version of schema `minecraft`: 2
+[01:18:57] [Server thread/INFO]: [WorldGuard] Schema `minecraft` is up to date. No migration necessary.
+[01:18:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:18:57] [Server thread/INFO]: Done (8.597s)! For help, type "help" or "?"
+[01:18:57] [Server thread/INFO]: Starting GS4 status listener
+[01:18:57] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[01:18:57] [Server thread/INFO]: Using epoll channel type
+[01:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[01:30:00] [Server thread/INFO]: Saving...
+[01:30:00] [Server thread/INFO]: Saved the world
+[01:30:00] [Server thread/INFO]: [Server] Save Complete
+[01:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[01:45:00] [Server thread/INFO]: Saving...
+[01:45:00] [Server thread/INFO]: Saved the world
+[01:45:00] [Server thread/INFO]: [Server] Save Complete
+[02:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[02:00:00] [Server thread/INFO]: Saving...
+[02:00:00] [Server thread/INFO]: Saved the world
+[02:00:00] [Server thread/INFO]: [Server] Save Complete
