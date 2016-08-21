@@ -1,7 +1,7 @@
 lastAccountName: SalmirAeon
 timestamps:
-  login: 1471552705468
-  logout: 1471557920376
+  login: 1471785543520
+  logout: 1471786863437
   lastteleport: 1471554614126
 ipAddress: 86.188.92.48
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 13.800227
 logoutlocation:
   world: world
-  x: 399.15968007930474
+  x: 399.3844027319875
   y: 66.0
-  z: 101.0613076640432
-  yaw: 354.30325
-  pitch: 15.90027
+  z: 102.78161164298285
+  yaw: 215.69183
+  pitch: 16.200245
 homes:
   home:
     world: world
