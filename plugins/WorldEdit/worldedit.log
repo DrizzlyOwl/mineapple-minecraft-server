@@ -598,3 +598,34 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-52.0, 66.0, 228.0) - (-43.0, 66.0, 253.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-51.69999998807907, 67.0, 253.69999998807907)
 [INFO] WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-52.0, 66.0, 228.0) - (-43.0, 67.0, 253.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-93.53808322342279, 83.38271583680242, 331.4758969037282)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (25.43602726661632, 68.0, 212.8645048186246)
+[INFO] WorldEdit: WalshyXD (in "world"): /setbiome forest - Region: (-94.0, 68.0, 212.0) - (25.0, 83.0, 331.0)
+[INFO] WorldEdit: WalshyXD (in "world"): smooth 3 3
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 8 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-121.30243232965297, 64.01013565166187, 89.18167710729426)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-126.36547024077294, 72.29796032780126, 78.20082379314319)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace water 0 - Region: (-127.0, 64.0, 78.0) - (-122.0, 72.0, 89.0)
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 3 3
+[INFO] WorldEdit: WalshyXD (in "world"): smooth
+[INFO] WorldEdit: WalshyXD (in "world"): none
+[INFO] WorldEdit: WalshyXD (in "world"): smooth
+[INFO] WorldEdit: WalshyXD (in "world"): sphere water 1
+[INFO] WorldEdit: WalshyXD (in "world"): smooth
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 8 1
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-143.86025328206742, 62.0, 50.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-119.69999998807907, 61.58891464895466, 90.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-144.0, 61.0, 50.0) - (-120.0, 62.0, 90.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /sphere 35:6 20 yes - Position: (7617.0, 133.0, 9466.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /sphere 35:6 10,10,10 no - Position: (7632.0, 145.0, 9493.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /sphere 35:6 10,10,10 no - Position: (7631.0, 144.0, 9467.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
