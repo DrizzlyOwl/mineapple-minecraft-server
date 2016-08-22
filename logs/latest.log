@@ -390,3 +390,77 @@ Caused by: java.lang.IllegalStateException: Entity is already tracked!
 [03:00:00] [Server thread/INFO]: Saving...
 [03:00:00] [Server thread/INFO]: Saved the world
 [03:00:00] [Server thread/INFO]: [Server] Save Complete
+[03:00:32] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
+[03:00:32] [Server thread/INFO]: egger49 issued server command: /tpa hot
+[03:00:40] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[03:00:41] [Server thread/INFO]: egger49 issued server command: /
+[03:00:45] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
+[03:00:46] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[03:04:08] [Server thread/INFO]: egger49 fell from a high place
+[03:04:15] [Server thread/INFO]: egger49 issued server command: /back
+[03:04:23] [Server thread/INFO]: egger49 issued server command: /back
+[03:04:46] [Server thread/INFO]: egger49 issued server command: /tpa hot
+[03:05:39] [Server thread/INFO]: Hottub99 was slain by Shulker
+[03:05:43] [Server thread/INFO]: Hottub99 issued server command: /back
+[03:06:41] [Server thread/INFO]: egger49 issued server command: /home
+[03:07:48] [Server thread/INFO]: egger49 issued server command: /back
+[03:08:02] [Server thread/INFO]: egger49 fell from a high place
+[03:08:20] [Server thread/INFO]: egger49 issued server command: /back
+[03:08:36] [Server thread/INFO]: egger49 issued server command: /back
+[03:08:49] [Server thread/INFO]: egger49 issued server command: /back
+[03:08:53] [Server thread/INFO]: egger49 issued server command: /back
+[03:10:13] [User Authenticator #43/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[03:10:13] [Server thread/INFO]: egger49 lost connection: user was kicked.
+[03:10:13] [Server thread/INFO]: egger49 lost connection: You logged in from another location
+[03:10:13] [Server thread/INFO]: egger49 left the game
+[03:10:13] [Server thread/INFO]: egger49[/99.247.164.202:62240] logged in with entity id 590819 at ([world_the_end]-2721.5, 142.62336950176135, -3167.5)
+[03:10:14] [Server thread/WARN]: handleDisconnection() called twice
+[03:10:14] [Server thread/INFO]: [Server] Welcome back, egger49
+[03:10:34] [Server thread/INFO]: AlmostJesus issued server command: /home
+[03:10:37] [Server thread/INFO]: egger49 issued server command: /home
+[03:10:53] [Server thread/INFO]: egger49 lost connection: Disconnected
+[03:10:53] [Server thread/INFO]: egger49 left the game
+[03:12:15] [Server thread/INFO]: AlmostJesus issued server command: /back
+[03:14:56] [Server thread/INFO]: Hottub99 was slain by Enderman
+[03:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[03:15:00] [Server thread/INFO]: Saving...
+[03:15:03] [Server thread/INFO]: Saved the world
+[03:15:03] [Server thread/INFO]: [Server] Save Complete
+[03:15:03] [Server thread/INFO]: Hottub99 issued server command: /back
+[03:15:06] [Server thread/INFO]: Hottub99 issued server command: /back
+[03:16:38] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
+[03:16:43] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[03:18:22] [Server thread/WARN]: Hottub99 moved wrongly!
+[03:19:47] [Server thread/INFO]: Hottub99 was slain by Enderman
+[03:19:47] [Server thread/INFO]: AlmostJesus issued server command: /home
+[03:19:52] [Server thread/INFO]: Hottub99 issued server command: /back
+[03:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[03:20:36] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
+[03:20:41] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[03:20:44] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[03:21:49] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
+[03:21:50] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[03:26:41] [Server thread/INFO]: Hottub99 hit the ground too hard
+[03:26:48] [Server thread/INFO]: Hottub99 issued server command: /back
+[03:29:39] [Server thread/INFO]: Hottub99 fell from a high place
+[03:29:44] [Server thread/INFO]: Hottub99 issued server command: /back
+[03:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[03:30:00] [Server thread/INFO]: Saving...
+[03:30:00] [Server thread/INFO]: Saved the world
+[03:30:00] [Server thread/INFO]: [Server] Save Complete
+[03:32:39] [Server thread/INFO]: Hottub99 issued server command: /home
+[03:34:19] [Server thread/INFO]: Hottub99 issued server command: /back
+[03:37:37] [Server thread/INFO]: Hottub99 issued server command: /home
+[03:37:43] [Server thread/INFO]: AlmostJesus issued server command: /home
+[03:39:17] [Server thread/INFO]: Hottub99 lost connection: Disconnected
+[03:39:17] [Server thread/INFO]: Hottub99 left the game
+[03:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[03:45:00] [Server thread/INFO]: Saving...
+[03:45:00] [Server thread/INFO]: Saved the world
+[03:45:00] [Server thread/INFO]: [Server] Save Complete
+[03:49:01] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[03:49:01] [Server thread/INFO]: AlmostJesus left the game
+[04:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[04:00:00] [Server thread/INFO]: Saving...
+[04:00:00] [Server thread/INFO]: Saved the world
+[04:00:00] [Server thread/INFO]: [Server] Save Complete
