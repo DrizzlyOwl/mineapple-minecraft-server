@@ -664,3 +664,58 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /undo
 [INFO] WorldEdit: WalshyXD (in "world"): /undo
 [INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): butcher - Position: (32.0, 105.0, 201.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-47.69999998807907, 67.0, 259.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-31.30000001192093, 67.0, 269.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air water - Region: (-48.0, 67.0, 259.0) - (-32.0, 67.0, 269.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /ex - Position: (-185.0, 69.0, -27.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): tree
+[INFO] WorldEdit: DrizzlyOwl (in "world"): none
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 10 - Position: (-51.0, 65.0, 241.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 10 - Position: (-52.0, 65.0, 243.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 10 - Position: (-45.0, 65.0, 229.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-32.305376273579895, 66.0, 229.30000001192093)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-52.01415645790667, 68.0, 254.01081982150797)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 169 water - Region: (-53.0, 66.0, 229.0) - (-33.0, 68.0, 254.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-17.919189552136128, 67.0, 214.1102198850091)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-28.671851182315965, 97.23790834283388, 230.5362688740373)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace log 1:6 - Region: (-29.0, 67.0, 214.0) - (-18.0, 97.0, 230.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-31.610862024776846, 101.62605493775251, 230.7945313324215)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 1:3 43:8 - Region: (-32.0, 67.0, 214.0) - (-18.0, 101.0, 230.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 1:3 48 - Region: (-32.0, 67.0, 214.0) - (-18.0, 101.0, 230.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-31.05620120315512, 105.3704206590256, 230.9752229388523)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-13.817133146033568, 68.0, 214.1891488136421)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 1:3 48 - Region: (-18.0, 67.0, 214.0) - (-14.0, 68.0, 214.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 1:2 48 - Region: (-18.0, 67.0, 214.0) - (-14.0, 68.0, 214.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 1:2 48 - Region: (-18.0, 67.0, 214.0) - (-14.0, 68.0, 214.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 10 - Position: (-31.0, 65.0, 232.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 41 48 - Region: (-18.0, 67.0, 214.0) - (-14.0, 68.0, 214.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-27.933692130607593, 67.5, 228.88443614808642)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-12.528499067567095, 103.368136472136, 205.95835677272328)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 41 48 - Region: (-28.0, 67.0, 205.0) - (-13.0, 103.0, 228.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 10# - Position: (-32.0, 66.0, 248.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 10 - Position: (-32.0, 66.0, 248.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 41 43:8 - Region: (-28.0, 67.0, 205.0) - (-13.0, 103.0, 228.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): sphere 0
+[INFO] WorldEdit: DrizzlyOwl (in "world"): sphere 0 10
+[INFO] WorldEdit: DrizzlyOwl (in "world"): sphere 0 5
+[INFO] WorldEdit: DrizzlyOwl (in "world"): smooth 5
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /undo 5
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): sphere 0 5
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 10 - Position: (75.0, 64.0, 245.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 20 - Position: (75.0, 61.0, 243.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 2 - Position: (72.0, 61.0, 242.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 20 - Position: (72.0, 61.0, 242.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 2 - Position: (52.0, 61.0, 235.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 50 - Position: (52.0, 61.0, 235.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 100 - Position: (74.0, 61.0, 242.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /help water
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /fixwater 100 - Position: (20.0, 63.0, 210.0)
+[INFO] WorldEdit: DrizzlyOwl (in "world"): smooth 3
+[INFO] WorldEdit: DrizzlyOwl (in "world"): /undo
+[INFO] WorldEdit: DrizzlyOwl (in "world"): none
+[INFO] WorldEdit: WalshyXD (in "world"): /ex - Position: (-167.0, 70.0, 46.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /ex - Position: (86.0, 98.0, 166.0)

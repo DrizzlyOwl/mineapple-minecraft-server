@@ -1,5 +1,13 @@
 [
   {
+    "uuid": "42857404-e064-4d7b-8ea0-7958680a6fdf",
+    "name": "Flexn",
+    "created": "2016-08-21 16:19:12 +0100",
+    "source": "WalshyXD",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
     "uuid": "9e1958c3-77da-410b-94a7-80f57dce2ddb",
     "name": "weme105",
     "created": "2016-08-18 21:05:14 +0100",
@@ -8,11 +16,27 @@
     "reason": "Griefing/xraying"
   },
   {
+    "uuid": "d53f7fbc-7e97-45f0-bcbd-1c3d0c9af8da",
+    "name": "Mcn0tt3",
+    "created": "2016-08-21 16:19:07 +0100",
+    "source": "WalshyXD",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
     "uuid": "fe5a70ba-f915-4564-9a3d-61d757dbe2d5",
     "name": "LimpBiscuit",
     "created": "2016-08-17 23:49:06 +0100",
     "source": "WalshyXD",
     "expires": "forever",
     "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "641e5fc4-6c60-442e-9344-a10c14d3a00f",
+    "name": "GettoEnno",
+    "created": "2016-08-21 16:48:30 +0100",
+    "source": "WalshyXD",
+    "expires": "forever",
+    "reason": "Griefing and stealing"
   }
 ]
