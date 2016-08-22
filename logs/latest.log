@@ -356,3 +356,19 @@
 [11:00:00] [Server thread/INFO]: Saving...
 [11:00:00] [Server thread/INFO]: Saved the world
 [11:00:00] [Server thread/INFO]: [Server] Save Complete
+[11:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:15:00] [Server thread/INFO]: Saving...
+[11:15:00] [Server thread/INFO]: Saved the world
+[11:15:00] [Server thread/INFO]: [Server] Save Complete
+[11:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:30:00] [Server thread/INFO]: Saving...
+[11:30:00] [Server thread/INFO]: Saved the world
+[11:30:00] [Server thread/INFO]: [Server] Save Complete
+[11:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:45:00] [Server thread/INFO]: Saving...
+[11:45:00] [Server thread/INFO]: Saved the world
+[11:45:00] [Server thread/INFO]: [Server] Save Complete
+[12:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:00:00] [Server thread/INFO]: Saving...
+[12:00:00] [Server thread/INFO]: Saved the world
+[12:00:00] [Server thread/INFO]: [Server] Save Complete
