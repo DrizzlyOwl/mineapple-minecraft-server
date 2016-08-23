@@ -1,23 +1,23 @@
 lastAccountName: LAPSLIE
 timestamps:
-  login: 1471917052217
-  logout: 1471923000735
-  lastteleport: 1471922997152
+  login: 1471956417343
+  logout: 1471964399231
+  lastteleport: 1471963854574
 ipAddress: 5.80.138.16
 lastlocation:
   world: world
-  x: -4667.507437445927
-  y: 71.0
-  z: 10337.699999988079
-  yaw: -7.7205377
-  pitch: -0.2999065
+  x: -4697.799488390401
+  y: 62.0
+  z: 10389.86277525878
+  yaw: 42.07959
+  pitch: 5.7001004
 logoutlocation:
   world: world
-  x: -4741.778656914545
-  y: 93.7531999805212
-  z: 10533.265683587722
-  yaw: -174.67023
-  pitch: 8.100049
+  x: -4659.820939956753
+  y: 63.0
+  z: 10366.9341684193
+  yaw: -204.82019
+  pitch: 15.149957
 afk: false
 homes:
   home:

@@ -1,8 +1,8 @@
 lastAccountName: JDBrault
 timestamps:
-  login: 1471457092698
+  login: 1471962217178
   lastteleport: 1471366096662
-  logout: 1471457404122
+  logout: 1471962294028
 ipAddress: 24.60.226.124
 lastlocation:
   world: world
@@ -13,9 +13,9 @@ lastlocation:
   pitch: 31.050009
 logoutlocation:
   world: world
-  x: -154.60167455876044
-  y: 93.0
-  z: 312.89941079822825
-  yaw: 91.64993
-  pitch: 31.650047
+  x: -152.55096738769257
+  y: 91.0
+  z: 315.0608355526125
+  yaw: -301.05014
+  pitch: 29.249998
 afk: false

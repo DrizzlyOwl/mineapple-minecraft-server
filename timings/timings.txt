@@ -1,0 +1,348 @@
+Minecraft
+    ** Full Server Tick Time: 182738829593 Count: 24988 Avg: 7313063 Violations: 69
+    Player List Time: 48839732 Count: 24989 Avg: 1954 Violations: 0
+    Connection Handler Time: 4689884375 Count: 24989 Avg: 187677 Violations: 0
+    Tickables Time: 41398919 Count: 24989 Avg: 1656 Violations: 0
+    Scheduler Time: 365252963 Count: 24989 Avg: 14616 Violations: 0
+    ChunkIOTick Time: 1292740606 Count: 24989 Avg: 51732 Violations: 3
+    Time Update Time: 239749307 Count: 24989 Avg: 9594 Violations: 0
+    Server Command Time: 234088394 Count: 24988 Avg: 9368 Violations: 3
+    World Save Time: 96875743 Count: 5 Avg: 19375148 Violations: 0
+    ** entityMove Time: 15419226384 Count: 837299 Avg: 18415 Violations: 0
+    ** tickEntity Time: 77301640149 Count: 5933530 Avg: 13027 Violations: 0
+    ** activatedTickEntity Time: 50771994361 Count: 1248706 Avg: 40659 Violations: 0
+    ** tickTileEntity Time: 17906903005 Count: 6465056 Avg: 2769 Violations: 0
+    ** livingEntityBaseTick Time: 7509177934 Count: 556133 Avg: 13502 Violations: 0
+    ** livingEntityAI Time: 8745222979 Count: 556133 Avg: 15725 Violations: 0
+    ** livingEntityAICollision Time: 1432888123 Count: 556133 Avg: 2576 Violations: 0
+    ** livingEntityAIMove Time: 12932393215 Count: 556133 Avg: 23254 Violations: 0
+    ** livingEntityTickRest Time: 1058154205 Count: 556133 Avg: 1902 Violations: 0
+    processQueue Time: 57945516 Count: 24989 Avg: 2318 Violations: 0
+    ** Plugins Time: 962760272 Count: 53215 Avg: 18091 Violations: 0
+    ** Scheduler - Sync Tasks Time: 187626426 Count: 14249 Avg: 13167 Violations: 0
+    ** playerCommand Time: 5238351 Count: 1 Avg: 5238351 Violations: 0
+    entityActivationCheck Time: 2785260115 Count: 74967 Avg: 37153 Violations: 0
+    ** checkIfActive Time: 9634597388 Count: 6030688 Avg: 1597 Violations: 0
+    ** world - mobSpawn Time: 7567700419 Count: 23812 Avg: 317810 Violations: 0
+    ** world - doChunkUnload Time: 2422658215 Count: 24989 Avg: 96948 Violations: 19
+    ** world - doTickPending Time: 93766220 Count: 24989 Avg: 3752 Violations: 0
+    ** world - doTickTiles Time: 21457886109 Count: 24989 Avg: 858693 Violations: 0
+    ** world - doVillages Time: 449533720 Count: 24989 Avg: 17989 Violations: 0
+    ** world - doChunkMap Time: 1504134218 Count: 24989 Avg: 60191 Violations: 0
+    ** world - doSounds Time: 90953763 Count: 24989 Avg: 3639 Violations: 0
+    ** world - doChunkGC Time: 60178414 Count: 24989 Avg: 2408 Violations: 0
+    ** world - doPortalForcer Time: 36644275 Count: 24989 Avg: 1466 Violations: 0
+    ** world - entityTick Time: 87324158297 Count: 24989 Avg: 3494503 Violations: 0
+    ** world - tileEntityTick Time: 30690411688 Count: 24989 Avg: 1228156 Violations: 0
+    ** world - tileEntityPending Time: 62155080 Count: 24989 Avg: 2487 Violations: 0
+    ** world - chunkLoad - Structures Time: 762146159 Count: 775 Avg: 983414 Violations: 1
+    ** world - chunkLoad - Entities Time: 32155315 Count: 775 Avg: 41490 Violations: 0
+    ** world - chunkLoad - TileEntities Time: 12170541 Count: 775 Avg: 15703 Violations: 0
+    ** world - chunkLoad - TileTicks Time: 1263811 Count: 775 Avg: 1630 Violations: 0
+    ** world - chunkLoad - Post Time: 432831463 Count: 775 Avg: 558492 Violations: 0
+    world - tracker Time: 9504807915 Count: 24989 Avg: 380359 Violations: 0
+    world - doTick Time: 34260995595 Count: 24989 Avg: 1371043 Violations: 28
+    world - tickEntities Time: 122365583054 Count: 24989 Avg: 4896777 Violations: 1
+    ** world_nether - doChunkUnload Time: 96626217 Count: 24989 Avg: 3866 Violations: 0
+    ** world_nether - doTickPending Time: 67942839 Count: 24989 Avg: 2718 Violations: 0
+    ** world_nether - doTickTiles Time: 76148633 Count: 24989 Avg: 3047 Violations: 0
+    ** world_nether - doVillages Time: 50655360 Count: 24989 Avg: 2027 Violations: 0
+    ** world_nether - doChunkMap Time: 72431337 Count: 24989 Avg: 2898 Violations: 0
+    ** world_nether - doSounds Time: 35882576 Count: 24989 Avg: 1435 Violations: 0
+    ** world_nether - doChunkGC Time: 43140535 Count: 24989 Avg: 1726 Violations: 0
+    ** world_nether - doPortalForcer Time: 39833135 Count: 24989 Avg: 1594 Violations: 0
+    ** world_nether - entityTick Time: 62772741 Count: 24989 Avg: 2512 Violations: 0
+    ** world_nether - tileEntityTick Time: 71345733 Count: 24989 Avg: 2855 Violations: 0
+    ** world_nether - tileEntityPending Time: 41830232 Count: 24989 Avg: 1673 Violations: 0
+    world_nether - tracker Time: 51681924 Count: 24989 Avg: 2068 Violations: 0
+    world_nether - doTick Time: 910544075 Count: 24989 Avg: 36437 Violations: 0
+    world_nether - tickEntities Time: 421538265 Count: 24989 Avg: 16868 Violations: 0
+    ** world_the_end - doChunkUnload Time: 74579559 Count: 24989 Avg: 2984 Violations: 0
+    ** world_the_end - doTickPending Time: 37648703 Count: 24989 Avg: 1506 Violations: 0
+    ** world_the_end - doTickTiles Time: 42373733 Count: 24989 Avg: 1695 Violations: 0
+    ** world_the_end - doVillages Time: 41659671 Count: 24989 Avg: 1667 Violations: 0
+    ** world_the_end - doChunkMap Time: 60851915 Count: 24989 Avg: 2435 Violations: 0
+    ** world_the_end - doSounds Time: 34408881 Count: 24989 Avg: 1376 Violations: 0
+    ** world_the_end - doChunkGC Time: 40738525 Count: 24989 Avg: 1630 Violations: 0
+    ** world_the_end - doPortalForcer Time: 34122415 Count: 24989 Avg: 1365 Violations: 0
+    ** world_the_end - entityTick Time: 59193364 Count: 24989 Avg: 2368 Violations: 0
+    ** world_the_end - tileEntityTick Time: 56888911 Count: 24989 Avg: 2276 Violations: 0
+    ** world_the_end - tileEntityPending Time: 33576848 Count: 24989 Avg: 1343 Violations: 0
+    world_the_end - tracker Time: 41378688 Count: 24989 Avg: 1655 Violations: 0
+    world_the_end - doTick Time: 749335337 Count: 24989 Avg: 29986 Violations: 0
+    world_the_end - tickEntities Time: 396048749 Count: 24989 Avg: 15848 Violations: 0
+    ** tickEntity - EntityChicken Time: 3808982296 Count: 57410 Avg: 66347 Violations: 0
+    ** tickTileEntity - TileEntityChest Time: 6089539301 Count: 4472302 Avg: 1361 Violations: 0
+    ** tickTileEntity - TileEntityMobSpawner Time: 301593119 Count: 173505 Avg: 1738 Violations: 0
+    ** tickEntity - EntitySheep Time: 2891616225 Count: 37588 Avg: 76929 Violations: 0
+    ** tickTileEntity - TileEntityFurnace Time: 1971808547 Count: 1368921 Avg: 1440 Violations: 0
+    ** tickTileEntity - TileEntityEnderChest Time: 182377886 Count: 98953 Avg: 1843 Violations: 0
+    ** tickEntity - EntityHorse Time: 1656160121 Count: 13230 Avg: 125182 Violations: 0
+    ** tickEntity - EntityPig Time: 6652584198 Count: 70254 Avg: 94693 Violations: 0
+    ** tickEntity - EntityCow Time: 1769435969 Count: 23595 Avg: 74991 Violations: 0
+    ** tickEntity - EntityWolf Time: 32900556 Count: 478 Avg: 68829 Violations: 0
+    ** tickEntity - EntityBoat Time: 13602183657 Count: 103392 Avg: 131559 Violations: 0
+    ** tickEntity - EntityPainting Time: 720984436 Count: 448254 Avg: 1608 Violations: 0
+    ** tickTileEntity - TileEntityBrewingStand Time: 200016963 Count: 97692 Avg: 2047 Violations: 0
+    ** tickTileEntity - TileEntityHopper Time: 752017871 Count: 147668 Avg: 5092 Violations: 0
+    ** tickTileEntity - TileEntitySkull Time: 60414659 Count: 24989 Avg: 2417 Violations: 0
+    ** tickTileEntity - TileEntityEnchantTable Time: 157037789 Count: 74634 Avg: 2104 Violations: 0
+    ** tickEntity - EntityArmorStand Time: 426033897 Count: 6535 Avg: 65192 Violations: 0
+    ** tickEntity - EntityItemFrame Time: 92462593 Count: 55551 Avg: 1664 Violations: 0
+    ** tickEntity - EntitySkeleton Time: 3112828667 Count: 53422 Avg: 58268 Violations: 0
+    ** tickEntity - EntityEnderman Time: 200643441 Count: 3525 Avg: 56920 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.BlockListener::onBlockSpread(BlockSpreadEvent) Time: 98563 Count: 5 Avg: 19712 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.BlockListener::onBlockFromTo(BlockFromToEvent) Time: 36865 Count: 4 Avg: 9216 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.BlockListener::onBlockPlace(BlockPlaceEvent) Time: 8018567 Count: 202 Avg: 39695 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.BlockListener::onBlockBreak(BlockBreakEvent) Time: 62601649 Count: 1926 Avg: 32503 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.PlayerListener::onPlayerCommandPreprocess(PlayerCommandPreprocessEvent) Time: 55776 Count: 1 Avg: 55776 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.PlayerListener::onInventoryClick(InventoryClickEvent) Time: 4557392 Count: 69 Avg: 66049 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.PlayerListener::onPlayerQuit(PlayerQuitEvent) Time: 124692 Count: 2 Avg: 62346 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.PlayerListener::onPlayerInteract(PlayerInteractEvent) Time: 24369261 Count: 2668 Avg: 9133 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.PlayerListener::onPlayerInteract_Monitor(PlayerInteractEvent) Time: 20217504 Count: 2668 Avg: 7577 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.PlayerListener::onInventoryDragEvent(InventoryDragEvent) Time: 15584 Count: 1 Avg: 15584 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.EntityListener::onEntityChangeBlock(EntityChangeBlockEvent) Time: 167714 Count: 14 Avg: 11979 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.EntityListener::onEntityDamageByEntity(EntityDamageByEntityEvent) Time: 17687 Count: 2 Avg: 8843 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.EntityListener::onCreatureSpawn(CreatureSpawnEvent) Time: 2324854 Count: 611 Avg: 3804 Violations: 0
+    Plugin: CoreProtect v2.13.1 Event: net.coreprotect.listener.EntityListener::onEntityDeath(EntityDeathEvent) Time: 423201 Count: 7 Avg: 60457 Violations: 0
+    ** Command: svping Time: 1078271 Count: 2 Avg: 539135 Violations: 0
+    Plugin: BukkitCompat vR22A Event: com.mcmyadmin.bukkitcompat.PlayerCommandProprocessHandler::onPlayerCommandPreprocess(PlayerCommandPreprocessEvent) Time: 19378 Count: 1 Avg: 19378 Violations: 0
+    Plugin: WorldEdit v6.1.3;7a097ca Event: com.sk89q.worldedit.bukkit.WorldEditListener::onPlayerCommandPreprocess(PlayerCommandPreprocessEvent) Time: 80662 Count: 1 Avg: 80662 Violations: 0
+    Plugin: WorldEdit v6.1.3;7a097ca Event: com.sk89q.worldedit.bukkit.WorldEditListener::onPlayerInteract(PlayerInteractEvent) Time: 140916397 Count: 2668 Avg: 52817 Violations: 0
+    ** Command: home Time: 3536280 Count: 1 Avg: 3536280 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onPlayerPickupItem(PlayerPickupItemEvent) Time: 8091262 Count: 588 Avg: 13760 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onPlayerInteract(PlayerInteractEvent) Time: 20974742 Count: 2668 Avg: 7861 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onPlayerFishEvent(PlayerFishEvent) Time: 80188 Count: 3 Avg: 26729 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onPlayerMove(PlayerMoveEvent) Time: 89377460 Count: 13351 Avg: 6694 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onInventoryCloseEvent(InventoryCloseEvent) Time: 232890 Count: 18 Avg: 12938 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onPlayerTeleport(PlayerTeleportEvent) Time: 997100 Count: 3 Avg: 332366 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onInventoryClickEvent(InventoryClickEvent) Time: 613599 Count: 69 Avg: 8892 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onPlayerCommandPreprocess(PlayerCommandPreprocessEvent) Time: 111042 Count: 1 Avg: 111042 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsPlayerListener::onPlayerQuit(PlayerQuitEvent) Time: 4366036 Count: 2 Avg: 2183018 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsBlockListener::onBlockPlace(BlockPlaceEvent) Time: 3850078 Count: 202 Avg: 19059 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsEntityListener::onFoodLevelChange(FoodLevelChangeEvent) Time: 433924 Count: 24 Avg: 18080 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsEntityListener::onEntityRegainHealth(EntityRegainHealthEvent) Time: 510582 Count: 40 Avg: 12764 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsEntityListener::onEntityCombust(EntityCombustEvent) Time: 112789 Count: 23 Avg: 4903 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsEntityListener::onEntityDamage(EntityDamageEvent) Time: 4463151 Count: 115 Avg: 38810 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.EssentialsEntityListener::onEntityDamage(EntityDamageByEntityEvent) Time: 127467 Count: 2 Avg: 63733 Violations: 0
+    Task: Essentials v2.0.1-b424 Runnable: com.earth2me.essentials.EssentialsTimer(interval:50) Time: 32297370 Count: 499 Avg: 64724 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.RegionContainer$1::onChunkLoad(ChunkLoadEvent) Time: 404926187 Count: 775 Avg: 522485 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.RegionContainer$1::onChunkUnload(ChunkUnloadEvent) Time: 9141427 Count: 1934 Avg: 4726 Violations: 0
+    Task: WorldGuard v6.1.2;e38d98d Runnable: com.sk89q.worldguard.bukkit.RegionContainer$2(interval:2) Time: 68519871 Count: 12494 Avg: 5484 Violations: 0
+    Task: WorldGuard v6.1.2;e38d98d Runnable: com.sk89q.worldguard.session.SessionManager(interval:20) Time: 61748988 Count: 1249 Avg: 49438 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardPlayerListener::onItemHeldChange(PlayerItemHeldEvent) Time: 1562978 Count: 69 Avg: 22651 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardPlayerListener::onPlayerTeleport(PlayerTeleportEvent) Time: 397365 Count: 3 Avg: 132455 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardPlayerListener::onPlayerCommandPreprocess(PlayerCommandPreprocessEvent) Time: 203719 Count: 1 Avg: 203719 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardPlayerListener::onPlayerInteract(PlayerInteractEvent) Time: 31294511 Count: 2668 Avg: 11729 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardBlockListener::onBlockSpread(BlockSpreadEvent) Time: 201593 Count: 5 Avg: 40318 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardBlockListener::onBlockBreak(BlockBreakEvent) Time: 5017426 Count: 1926 Avg: 2605 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardBlockListener::onBlockPlace(BlockPlaceEvent) Time: 834069 Count: 202 Avg: 4129 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardBlockListener::onBlockPhysics(BlockPhysicsEvent) Time: 30413296 Count: 13639 Avg: 2229 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardBlockListener::onBlockRedstoneChange(BlockRedstoneEvent) Time: 179836 Count: 64 Avg: 2809 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardBlockListener::onBlockFromTo(BlockFromToEvent) Time: 17765 Count: 4 Avg: 4441 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardEntityListener::onCreatureSpawn(CreatureSpawnEvent) Time: 10722422 Count: 611 Avg: 17548 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardEntityListener::onEntityRegainHealth(EntityRegainHealthEvent) Time: 254751 Count: 40 Avg: 6368 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardEntityListener::onEntityDeath(EntityDeathEvent) Time: 24641 Count: 7 Avg: 3520 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardEntityListener::onEntityDamage(EntityDamageEvent) Time: 4492403 Count: 115 Avg: 39064 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardEntityListener::onEntityChangeBlock(EntityChangeBlockEvent) Time: 102424 Count: 13 Avg: 7878 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardWeatherListener::onThunderChange(ThunderChangeEvent) Time: 47777 Count: 2 Avg: 23888 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.PlayerMoveListener::onPlayerMove(PlayerMoveEvent) Time: 246247086 Count: 13351 Avg: 18444 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onPlayerDropItem(PlayerDropItemEvent) Time: 147041 Count: 10 Avg: 14704 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onPlaceBlock(PlaceBlockEvent) Time: 1035661 Count: 205 Avg: 5052 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onSpawnEntity(SpawnEntityEvent) Time: 89683 Count: 14 Avg: 6405 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onBreakBlock(BreakBlockEvent) Time: 6813456 Count: 2009 Avg: 3391 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onInventoryClick(InventoryClickEvent) Time: 732514 Count: 69 Avg: 10616 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onUseItem(UseItemEvent) Time: 8342048 Count: 2389 Avg: 3491 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onPlayerItemHeld(PlayerItemHeldEvent) Time: 801870 Count: 69 Avg: 11621 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onUseBlock(UseBlockEvent) Time: 10621951 Count: 2415 Avg: 4398 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onDestroyEntity(DestroyEntityEvent) Time: 2966474 Count: 588 Avg: 5045 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.ChestProtectionListener::onPlaceBlock(PlaceBlockEvent) Time: 772707 Count: 205 Avg: 3769 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.ChestProtectionListener::onBreakBlock(BreakBlockEvent) Time: 5596333 Count: 2009 Avg: 2785 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.ChestProtectionListener::onUseBlock(UseBlockEvent) Time: 8288290 Count: 2415 Avg: 3432 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionProtectionListener::onBreakBlock(BreakBlockEvent) Time: 90839829 Count: 2009 Avg: 45216 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionProtectionListener::onPlaceBlock(PlaceBlockEvent) Time: 6330808 Count: 205 Avg: 30881 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionProtectionListener::onSpawnEntity(SpawnEntityEvent) Time: 597090 Count: 14 Avg: 42649 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionProtectionListener::onDestroyEntity(DestroyEntityEvent) Time: 22406762 Count: 588 Avg: 38106 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionProtectionListener::onUseBlock(UseBlockEvent) Time: 8885710 Count: 2415 Avg: 3679 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionProtectionListener::onDamageEntity(DamageEntityEvent) Time: 2589297 Count: 73 Avg: 35469 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionFlagsListener::onEntityDamage(EntityDamageEvent) Time: 1066981 Count: 115 Avg: 9278 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionFlagsListener::onBreakBlock(BreakBlockEvent) Time: 15929663 Count: 2009 Avg: 7929 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.RegionFlagsListener::onPlaceBlock(PlaceBlockEvent) Time: 1419442 Count: 205 Avg: 6924 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldRulesListener::onSpawnEntity(SpawnEntityEvent) Time: 99822 Count: 14 Avg: 7130 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlockedPotionsListener::onProjectile(DamageEntityEvent) Time: 280048 Count: 73 Avg: 3836 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BlockedPotionsListener::onItemInteract(UseItemEvent) Time: 9458971 Count: 2389 Avg: 3959 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onPlayerItemConsume(PlayerItemConsumeEvent) Time: 163226 Count: 3 Avg: 54408 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onPlayerDropItem(PlayerDropItemEvent) Time: 1207643 Count: 10 Avg: 120764 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onPlayerPickupItem(PlayerPickupItemEvent) Time: 56676382 Count: 588 Avg: 96388 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onBlockPlace(BlockPlaceEvent) Time: 26171113 Count: 202 Avg: 129559 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onBlockDamage(BlockDamageEvent) Time: 6121178 Count: 2177 Avg: 2811 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onEntityCombust(EntityCombustEvent) Time: 370584 Count: 23 Avg: 16112 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onEntityDamage(EntityDamageEvent) Time: 4725365 Count: 115 Avg: 41090 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onEntityChangeBlock(EntityChangeBlockEvent) Time: 2137641 Count: 14 Avg: 152688 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onCreatureSpawn(CreatureSpawnEvent) Time: 1339989 Count: 611 Avg: 2193 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onBlockFromTo(BlockFromToEvent) Time: 8965 Count: 4 Avg: 2241 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onPlayerInteract(PlayerInteractEvent) Time: 200017676 Count: 2402 Avg: 83271 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onBlockExp(BlockExpEvent) Time: 5346376 Count: 1926 Avg: 2775 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onInventoryMoveItem(InventoryMoveItemEvent) Time: 1047372 Count: 7 Avg: 149624 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onBlockBreak(BlockBreakEvent) Time: 184882228 Count: 1926 Avg: 95992 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onEntityDeath(EntityDeathEvent) Time: 27998 Count: 7 Avg: 3999 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onInventoryOpen(InventoryOpenEvent) Time: 29770 Count: 3 Avg: 9923 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onPlayerFish(PlayerFishEvent) Time: 140827 Count: 3 Avg: 46942 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BuildPermissionListener::onSpawnEntity(SpawnEntityEvent) Time: 56994 Count: 14 Avg: 4071 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BuildPermissionListener::onPlaceBlock(PlaceBlockEvent) Time: 693696 Count: 205 Avg: 3383 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BuildPermissionListener::onDamageEntity(DamageEntityEvent) Time: 324164 Count: 73 Avg: 4440 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BuildPermissionListener::onBreakBlock(BreakBlockEvent) Time: 5912610 Count: 2008 Avg: 2944 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BuildPermissionListener::onUseBlock(UseBlockEvent) Time: 7088942 Count: 2415 Avg: 2935 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BuildPermissionListener::onDestroyEntity(DestroyEntityEvent) Time: 1805092 Count: 588 Avg: 3069 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.BuildPermissionListener::onUseItem(UseItemEvent) Time: 6042007 Count: 2389 Avg: 2529 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.InvincibilityListener::onFoodLevelChange(FoodLevelChangeEvent) Time: 551418 Count: 24 Avg: 22975 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.InvincibilityListener::onEntityCombust(EntityCombustEvent) Time: 63281 Count: 23 Avg: 2751 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.InvincibilityListener::onEntityDamage(EntityDamageEvent) Time: 489542 Count: 115 Avg: 4256 Violations: 0
+    Plugin: WorldGuard v6.1.2;e38d98d Event: com.sk89q.worldguard.bukkit.listener.WorldGuardWorldListener::onChunkLoad(ChunkLoadEvent) Time: 1491368 Count: 775 Avg: 1924 Violations: 0
+    ** Command: save-all Time: 175473871 Count: 1 Avg: 175473871 Violations: 3
+    ** Command: say Time: 3916769 Count: 2 Avg: 1958384 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.Jails$JailListener::onJailBlockPlace(BlockPlaceEvent) Time: 1067471 Count: 202 Avg: 5284 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.Jails$JailListener::onJailBlockDamage(BlockDamageEvent) Time: 15897997 Count: 2177 Avg: 7302 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.Jails$JailListener::onJailPlayerInteract(PlayerInteractEvent) Time: 23643347 Count: 2402 Avg: 9843 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.Jails$JailListener::onJailEntityDamageByEntity(EntityDamageByEntityEvent) Time: 10689 Count: 2 Avg: 5344 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.Jails$JailListener::onJailBlockBreak(BlockBreakEvent) Time: 27777051 Count: 1926 Avg: 14422 Violations: 0
+    Plugin: Essentials v2.0.1-b424 Event: com.earth2me.essentials.Jails$JailListener::onJailPlayerTeleport(PlayerTeleportEvent) Time: 50153 Count: 3 Avg: 16717 Violations: 0
+    ** tickEntity - EntityBat Time: 2135021449 Count: 41971 Avg: 50868 Violations: 0
+    ** tickEntity - EntityItem Time: 2465811837 Count: 103242 Avg: 23883 Violations: 0
+    ** tickEntity - EntityPlayer Time: 1050340356 Count: 24609 Avg: 42681 Violations: 0
+    Task: Essentials v2.0.1-b424 Runnable: com.earth2me.essentials.Backup(interval:36000) Time: 24702 Count: 1 Avg: 24702 Violations: 0
+    ** tickEntity - EntitySpider Time: 1467754052 Count: 20274 Avg: 72395 Violations: 0
+    ** tickEntity - EntityCreeper Time: 1826796685 Count: 35280 Avg: 51779 Violations: 0
+    ** tickEntity - EntityZombie Time: 1977050503 Count: 32703 Avg: 60454 Violations: 0
+    ** tickEntity - EntitySlime Time: 67230310 Count: 807 Avg: 83308 Violations: 0
+    ** tickEntity - EntityWitch Time: 120651638 Count: 2344 Avg: 51472 Violations: 0
+    ** tickTileEntity - TileEntityLightDetector Time: 12263740 Count: 6392 Avg: 1918 Violations: 0
+    ** tickEntity - EntitySquid Time: 4478684538 Count: 84533 Avg: 52981 Violations: 0
+    ** tickEntity - EntityExperienceOrb Time: 261660387 Count: 8303 Avg: 31513 Violations: 0
+    ** tickEntity - EntityVillager Time: 3257188561 Count: 47536 Avg: 68520 Violations: 0
+    ** tickEntity - EntityMinecartChest Time: 1740426999 Count: 45549 Avg: 38209 Violations: 0
+    ** tickEntity - EntityEnderPearl Time: 2692178 Count: 21 Avg: 128198 Violations: 0
+    Task: Essentials v2.0.1-b424 Runnable: com.earth2me.essentials.TimedTeleport$1DelayedTeleportTask(Single) Time: 4417227 Count: 6 Avg: 736204 Violations: 0
+    ** tickEntity - EntityFallingBlock Time: 2321366 Count: 21 Avg: 110541 Violations: 0
+    ** tickEntity - EntitySnowman Time: 2397354 Count: 40 Avg: 59933 Violations: 0
+    ** tickEntity - EntityFishingHook Time: 53569038 Count: 755 Avg: 70952 Violations: 0
+# Version git-Spigot-078e2f8-9ff3d7f (MC: 1.10.2)
+# Entities 75
+# LivingEntities 55
+Sample time 1251004721756 (1251.004721756s)
+<spigotConfig>
+# This is the main configuration file for Spigot.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+# For a reference for any variable inside this file, check out the Spigot wiki at
+# http://www.spigotmc.org/wiki/spigot-configuration/
+# 
+# If you need help with the configuration or have any questions related to Spigot,
+# join us at the IRC or drop by our forums and leave a post.
+# 
+# IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
+# Forums: http://www.spigotmc.org/
+
+config-version: 8
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
+settings:
+  save-user-cache-on-stop-only: false
+  bungeecord: false
+  late-bind: true
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
+  user-cache-size: 1000
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 3072.0
+    movementSpeed:
+      max: 3072.0
+    attackDamage:
+      max: 3072.0
+  debug: false
+commands:
+  tab-complete: 1
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+stats:
+  disable-saving: false
+  forced-stats: {}
+world-settings:
+  default:
+    verbose: false
+    growth:
+      cactus-modifier: 30
+      cane-modifier: 100
+      melon-modifier: 200
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 50
+      wheat-modifier: 200
+      netherwart-modifier: 200
+      vine-modifier: 200
+      cocoa-modifier: 200
+    entity-activation-range:
+      animals: 16
+      monsters: 42
+      misc: 20
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    mob-spawn-range: 6
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    hopper-amount: 1
+    random-light-updates: true
+    save-structure-info: true
+    max-entity-collisions: 8
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
+    hunger:
+      walk-exhaustion: 0.2
+      sprint-exhaustion: 0.5
+      combat-exhaustion: 0.3
+      regen-exhaustion: 3.0
+    max-tnt-per-tick: 40
+    max-tick-time:
+      tile: 50
+      entity: 50
+    item-despawn-rate: 3000
+    merge-radius:
+      item: 5
+      exp: 5
+    arrow-despawn-rate: 2400
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 3
+    view-distance: 12
+    hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
+    nerf-spawner-mobs: false
+
+</spigotConfig>

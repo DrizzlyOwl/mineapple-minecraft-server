@@ -507,3 +507,422 @@
 [10:00:00] [Server thread/INFO]: Saving...
 [10:00:00] [Server thread/INFO]: Saved the world
 [10:00:00] [Server thread/INFO]: [Server] Save Complete
+[10:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:15:00] [Server thread/INFO]: Saving...
+[10:15:00] [Server thread/INFO]: Saved the world
+[10:15:00] [Server thread/INFO]: [Server] Save Complete
+[10:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:30:00] [Server thread/INFO]: Saving...
+[10:30:00] [Server thread/INFO]: Saved the world
+[10:30:00] [Server thread/INFO]: [Server] Save Complete
+[10:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:45:00] [Server thread/INFO]: Saving...
+[10:45:00] [Server thread/INFO]: Saved the world
+[10:45:00] [Server thread/INFO]: [Server] Save Complete
+[10:53:52] [User Authenticator #11/INFO]: UUID of player antibaff47 is d7edc22f-5653-4fd4-ba26-65648ff172c4
+[10:53:52] [Server thread/INFO]: antibaff47[/51.6.244.213:63551] logged in with entity id 166702 at ([world]-4071.6928213259316, 65.0, 2565.293540130456)
+[10:53:52] [Server thread/INFO]: [Server] Welcome back, antibaff47
+[11:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:00:00] [Server thread/INFO]: Saving...
+[11:00:00] [Server thread/INFO]: Saved the world
+[11:00:00] [Server thread/INFO]: [Server] Save Complete
+[11:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:15:00] [Server thread/INFO]: Saving...
+[11:15:00] [Server thread/INFO]: Saved the world
+[11:15:00] [Server thread/INFO]: [Server] Save Complete
+[11:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[11:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:30:00] [Server thread/INFO]: Saving...
+[11:30:01] [Server thread/INFO]: Saved the world
+[11:30:01] [Server thread/INFO]: [Server] Save Complete
+[11:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:45:00] [Server thread/INFO]: Saving...
+[11:45:00] [Server thread/INFO]: Saved the world
+[11:45:00] [Server thread/INFO]: [Server] Save Complete
+[12:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:00:00] [Server thread/INFO]: Saving...
+[12:00:01] [Server thread/INFO]: Saved the world
+[12:00:01] [Server thread/INFO]: [Server] Save Complete
+[12:01:30] [Server thread/INFO]: antibaff47 was blown up by Creeper
+[12:01:35] [Server thread/INFO]: antibaff47 issued server command: /back
+[12:01:47] [Server thread/INFO]: antibaff47 issued server command: /back
+[12:14:25] [Server thread/INFO]: antibaff47 issued server command: /home
+[12:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:15:00] [Server thread/INFO]: Saving...
+[12:15:00] [Server thread/INFO]: Saved the world
+[12:15:00] [Server thread/INFO]: [Server] Save Complete
+[12:17:20] [Server thread/INFO]: antibaff47 issued server command: /back
+[12:17:36] [Server thread/INFO]: antibaff47 issued server command: /home
+[12:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[12:25:18] [Server thread/INFO]: antibaff47 issued server command: /home
+[12:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:30:00] [Server thread/INFO]: Saving...
+[12:30:00] [Server thread/INFO]: Saved the world
+[12:30:00] [Server thread/INFO]: [Server] Save Complete
+[12:35:48] [Server thread/INFO]: antibaff47 issued server command: /back
+[12:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[12:45:00] [Server thread/INFO]: Saving...
+[12:45:00] [Server thread/INFO]: Saved the world
+[12:45:00] [Server thread/INFO]: [Server] Save Complete
+[13:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:00:00] [Server thread/INFO]: Saving...
+[13:00:00] [Server thread/INFO]: Saved the world
+[13:00:00] [Server thread/INFO]: [Server] Save Complete
+[13:05:05] [Server thread/INFO]: antibaff47 lost connection: Disconnected
+[13:05:05] [Server thread/INFO]: antibaff47 left the game
+[13:06:16] [User Authenticator #12/INFO]: UUID of player antibaff47 is d7edc22f-5653-4fd4-ba26-65648ff172c4
+[13:06:16] [Server thread/INFO]: antibaff47[/51.6.244.213:50960] logged in with entity id 198163 at ([world]-4064.14960095019, 27.0, 2817.387843884947)
+[13:06:16] [Server thread/INFO]: [Server] Welcome back, antibaff47
+[13:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:15:00] [Server thread/INFO]: Saving...
+[13:15:01] [Server thread/INFO]: Saved the world
+[13:15:01] [Server thread/INFO]: [Server] Save Complete
+[13:19:39] [Server thread/INFO]: antibaff47 lost connection: Disconnected
+[13:19:39] [Server thread/INFO]: antibaff47 left the game
+[13:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:30:00] [Server thread/INFO]: Saving...
+[13:30:00] [Server thread/INFO]: Saved the world
+[13:30:00] [Server thread/INFO]: [Server] Save Complete
+[13:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[13:45:00] [Server thread/INFO]: Saving...
+[13:45:00] [Server thread/INFO]: Saved the world
+[13:45:00] [Server thread/INFO]: [Server] Save Complete
+[13:46:57] [User Authenticator #13/INFO]: UUID of player LAPSLIE is 13ab7374-19c4-4e90-a6b6-780f3eba6738
+[13:46:57] [Server thread/INFO]: LAPSLIE[/5.80.138.16:49547] logged in with entity id 205509 at ([world]-4741.771482024488, 94.00133597911214, 10533.100219067666)
+[13:46:57] [Server thread/INFO]: [Server] Welcome back, LAPSLIE
+[13:47:53] [User Authenticator #14/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
+[13:47:53] [Server thread/INFO]: JeffTheThriller[/5.64.179.100:60339] logged in with entity id 206718 at ([world]-4715.5, 45.0, 10493.5)
+[13:47:53] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
+[13:47:57] [Async Chat Thread - #8/INFO]: <~DARKSEID> hi
+[13:48:15] [Async Chat Thread - #8/INFO]: <~Harley> hey
+[13:50:48] [Async Chat Thread - #9/INFO]: <~Harley> wait....
+[13:50:55] [Async Chat Thread - #9/INFO]: <~DARKSEID> ..?
+[13:50:56] [Async Chat Thread - #9/INFO]: <~Harley> Darkseid
+[13:50:59] [Async Chat Thread - #9/INFO]: <~Harley> james?
+[13:51:03] [Async Chat Thread - #9/INFO]: <~DARKSEID> yes
+[13:51:09] [Async Chat Thread - #9/INFO]: <~Harley> hello
+[13:51:19] [Server thread/INFO]: LAPSLIE issued server command: /
+[13:51:19] [Async Chat Thread - #9/INFO]: <~Harley> its a good job i came to the temple thing
+[13:51:21] [Async Chat Thread - #9/INFO]: <~DARKSEID> hi
+[13:51:39] [Async Chat Thread - #9/INFO]: <~Harley> otherwise i wouldn't of realised lol
+[13:51:51] [Async Chat Thread - #9/INFO]: <~DARKSEID> the back of the temple is almost finished
+[13:51:58] [Async Chat Thread - #9/INFO]: <~DARKSEID> it's taken so fucking long
+[13:52:02] [Async Chat Thread - #9/INFO]: <~Harley> back?
+[13:52:04] [Async Chat Thread - #9/INFO]: <~DARKSEID> like holy shit m8
+[13:52:10] [Async Chat Thread - #9/INFO]: <~DARKSEID> come round and see
+[13:52:41] [Async Chat Thread - #9/INFO]: <~Harley> jesus
+[13:52:51] [Async Chat Thread - #9/INFO]: <~Harley> my god
+[13:52:54] [Async Chat Thread - #9/INFO]: <~Harley> fucking hell
+[13:53:11] [Async Chat Thread - #9/INFO]: <~DARKSEID> its gonna look sick
+[13:53:15] [Async Chat Thread - #9/INFO]: <~Harley> it is
+[13:53:32] [Async Chat Thread - #9/INFO]: <~Harley> also this rail road isnt used cus i didnt have enough track and i couldnt get it ti wirk
+[13:53:53] [Async Chat Thread - #9/INFO]: <~DARKSEID> i have alot if you want to finish it
+[13:54:23] [Async Chat Thread - #9/INFO]: <~Harley> christ
+[13:54:43] [Async Chat Thread - #9/INFO]: <~DARKSEID> YES MY CHILD
+[13:54:48] [Async Chat Thread - #9/INFO]: <~DARKSEID> I AM THE GOD HERE
+[13:54:51] [Async Chat Thread - #9/INFO]: <~Harley> lol
+[13:54:58] [Async Chat Thread - #9/INFO]: <~Harley> that was more like enchantress
+[13:55:16] [Async Chat Thread - #9/INFO]: <~DARKSEID> I AM THE ONLY TRUE GOD
+[13:55:28] [Async Chat Thread - #9/INFO]: <~DARKSEID> HOW DARE YOU COMPARE ME TO A MORTAL
+[13:55:41] [Async Chat Thread - #9/INFO]: <~DARKSEID> NOTHING COMPEARS TO ME
+[13:55:45] [Async Chat Thread - #9/INFO]: <~DARKSEID> I AM THE OMEGA
+[13:55:49] [Async Chat Thread - #9/INFO]: <~DARKSEID> I AM DEATH
+[13:55:56] [Async Chat Thread - #9/INFO]: <~Harley> shes barely a mortal
+[13:56:13] [Async Chat Thread - #9/INFO]: <~DARKSEID> NO SHE IS
+[13:56:17] [Async Chat Thread - #9/INFO]: <~DARKSEID> I AM THE ONLY GOD
+[13:56:19] [Async Chat Thread - #9/INFO]: <~DARKSEID> ONLY
+[13:57:07] [Async Chat Thread - #9/INFO]: <~Harley> okay okay
+[13:57:18] [Async Chat Thread - #9/INFO]: <~DARKSEID> HELLO
+[13:57:25] [Async Chat Thread - #9/INFO]: <~DARKSEID> soryy
+[13:57:25] [Async Chat Thread - #9/INFO]: <~Harley> hi
+[13:57:27] [Async Chat Thread - #9/INFO]: <~DARKSEID> caps
+[13:57:38] [Async Chat Thread - #9/INFO]: <~Harley> its okay
+[13:57:43] [Async Chat Thread - #9/INFO]: <~DARKSEID> #run
+[13:57:57] [Async Chat Thread - #9/INFO]: <~DARKSEID> you ready
+[13:58:04] [Async Chat Thread - #9/INFO]: <~Harley> ye
+[13:58:37] [Async Chat Thread - #9/INFO]: <~DARKSEID> this is gonna lad the server so badly
+[13:58:42] [Async Chat Thread - #9/INFO]: <~DARKSEID> lag
+[13:58:44] [Async Chat Thread - #9/INFO]: <~Harley> its is
+[14:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:00:00] [Server thread/INFO]: Saving...
+[14:00:00] [Server thread/INFO]: Saved the world
+[14:00:00] [Server thread/INFO]: [Server] Save Complete
+[14:00:06] [Async Chat Thread - #10/INFO]: <~DARKSEID> one bucket of lava
+[14:00:19] [Async Chat Thread - #10/INFO]: <~Harley> this makes me happy
+[14:00:43] [Async Chat Thread - #10/INFO]: <~DARKSEID> look at it from the back
+[14:00:48] [Async Chat Thread - #10/INFO]: <~Harley> e these iorn blocks?
+[14:00:55] [Async Chat Thread - #10/INFO]: <~DARKSEID> yes i made iron bridge
+[14:01:05] [Async Chat Thread - #10/INFO]: <~Harley> fucking hell
+[14:01:40] [Async Chat Thread - #10/INFO]: <~Harley> omg
+[14:01:44] [Async Chat Thread - #10/INFO]: <~Harley> its perfect
+[14:02:03] [Async Chat Thread - #10/INFO]: <~Harley> got any food?
+[14:02:08] [Async Chat Thread - #10/INFO]: <~DARKSEID> its used up all your cobble
+[14:02:19] [Async Chat Thread - #10/INFO]: <~Harley> thats good then
+[14:02:25] [Async Chat Thread - #10/INFO]: <~DARKSEID> behind you
+[14:02:33] [Async Chat Thread - #10/INFO]: <~Harley> thanks
+[14:03:04] [Server thread/INFO]: LAPSLIE issued server command: /home
+[14:04:18] [Async Chat Thread - #11/INFO]: <~Harley> have you even slept?
+[14:04:20] [Async Chat Thread - #11/INFO]: <~Harley> XD
+[14:04:33] [Async Chat Thread - #11/INFO]: <~DARKSEID> went to sleep at 6 woke up at 12
+[14:04:37] [Async Chat Thread - #11/INFO]: <~DARKSEID> XD
+[14:04:45] [Async Chat Thread - #11/INFO]: <~Harley> thats not toooo bad
+[14:05:06] [Async Chat Thread - #11/INFO]: <~Harley> perfection
+[14:05:29] [Async Chat Thread - #11/INFO]: <~DARKSEID> um
+[14:05:30] [Async Chat Thread - #11/INFO]: <~Harley> woah
+[14:05:34] [Async Chat Thread - #11/INFO]: <~Harley> its working
+[14:05:37] [Async Chat Thread - #11/INFO]: <~DARKSEID> its should stop?
+[14:05:37] [Async Chat Thread - #11/INFO]: <~Harley> good job
+[14:05:45] [Async Chat Thread - #11/INFO]: <~Harley> it is
+[14:05:52] [Async Chat Thread - #11/INFO]: <~DARKSEID> is it?
+[14:05:55] [Async Chat Thread - #11/INFO]: <~Harley> yesh
+[14:06:02] [Async Chat Thread - #11/INFO]: <~Harley> its just slow
+[14:06:06] [Async Chat Thread - #11/INFO]: <~DARKSEID> k m8
+[14:06:18] [Async Chat Thread - #11/INFO]: <~DARKSEID> should this be stone?
+[14:06:29] [Async Chat Thread - #11/INFO]: <~Harley> inside?
+[14:06:32] [Async Chat Thread - #11/INFO]: <~DARKSEID> yass
+[14:06:37] [Async Chat Thread - #11/INFO]: <~Harley> maybe
+[14:06:45] [Async Chat Thread - #11/INFO]: <~Harley> i think it should be bigger
+[14:07:49] [Async Chat Thread - #12/INFO]: <~Harley> maybe have it so this bit of lava is in the middle?
+[14:08:03] [Async Chat Thread - #12/INFO]: <~DARKSEID> it covers the lever
+[14:08:18] [Async Chat Thread - #12/INFO]: <~Harley> oh i see
+[14:08:31] [Async Chat Thread - #12/INFO]: <~Harley> can we dig any of this?
+[14:08:39] [Async Chat Thread - #12/INFO]: <~Harley> these walls
+[14:08:42] [Async Chat Thread - #12/INFO]: <~DARKSEID> yes just 4 back
+[14:08:45] [Async Chat Thread - #12/INFO]: <~DARKSEID> from the lava
+[14:08:49] [Async Chat Thread - #12/INFO]: <~Harley> okay
+[14:09:19] [Async Chat Thread - #12/INFO]: <~Harley> dammit i found redstone
+[14:09:26] [Async Chat Thread - #12/INFO]: <~DARKSEID> lol
+[14:12:42] [Async Chat Thread - #13/INFO]: <~Harley> lol
+[14:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:15:00] [Server thread/INFO]: Saving...
+[14:15:01] [Server thread/INFO]: Saved the world
+[14:15:01] [Server thread/INFO]: [Server] Save Complete
+[14:15:13] [Async Chat Thread - #14/INFO]: <~DARKSEID> ah
+[14:15:14] [Async Chat Thread - #14/INFO]: <~Harley> needs to be thicker this side
+[14:15:21] [Async Chat Thread - #14/INFO]: <~Harley> yeah ik
+[14:15:54] [Async Chat Thread - #14/INFO]: <~Harley> we'll sort it out
+[14:16:24] [Async Chat Thread - #14/INFO]: <~Harley> oh sorry
+[14:16:35] [Async Chat Thread - #14/INFO]: <~DARKSEID> its fine XD
+[14:17:57] [Server thread/INFO]: LAPSLIE issued server command: /home
+[14:19:07] [Async Chat Thread - #15/INFO]: <~Harley> my side looks shit cus its all different stones lol
+[14:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[14:20:24] [Async Chat Thread - #16/INFO]: <~Harley> FLOOD
+[14:20:32] [Async Chat Thread - #16/INFO]: <~Harley> OMFG WE'RE ALL GONNA DIE
+[14:20:38] [Async Chat Thread - #16/INFO]: <~Harley> oh
+[14:20:41] [Async Chat Thread - #16/INFO]: <~DARKSEID> oh no, not take that
+[14:20:50] [Async Chat Thread - #16/INFO]: <~Harley> lol
+[14:21:56] [Server thread/INFO]: LAPSLIE issued server command: /home
+[14:24:28] [Server thread/INFO]: LAPSLIE issued server command: /home
+[14:26:07] [Async Chat Thread - #17/INFO]: <~Harley> heklp
+[14:26:11] [Async Chat Thread - #17/INFO]: <~Harley> nvm
+[14:26:18] [Async Chat Thread - #17/INFO]: <~Harley> i was stuck
+[14:26:29] [Async Chat Thread - #17/INFO]: <~DARKSEID> ah
+[14:26:32] [Async Chat Thread - #17/INFO]: <~Harley> dont drown
+[14:26:44] [Async Chat Thread - #17/INFO]: <~Harley> lols
+[14:26:55] [Async Chat Thread - #17/INFO]: <~DARKSEID> fuck you
+[14:26:58] [Async Chat Thread - #17/INFO]: <~Harley> XDDD
+[14:27:32] [Async Chat Thread - #17/INFO]: <~DARKSEID> thats one expensive ass bridge
+[14:27:47] [Async Chat Thread - #17/INFO]: <~Harley> it is indeed
+[14:28:01] [Async Chat Thread - #17/INFO]: <~Harley> better not be all my ore
+[14:28:14] [Async Chat Thread - #17/INFO]: <~DARKSEID> nah its walshys
+[14:28:17] [Async Chat Thread - #17/INFO]: <~DARKSEID> :)
+[14:28:18] [Async Chat Thread - #17/INFO]: <~Harley> haha
+[14:28:24] [Async Chat Thread - #17/INFO]: <~Harley> thats fine thn ;)
+[14:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:30:00] [Server thread/INFO]: Saving...
+[14:30:01] [Server thread/INFO]: Saved the world
+[14:30:01] [Server thread/INFO]: [Server] Save Complete
+[14:43:57] [Server thread/INFO]: JeffTheThriller lost connection: user was kicked.
+[14:43:57] [Server thread/INFO]: JeffTheThriller lost connection: You have been idle for too long!
+[14:43:57] [Server thread/INFO]: JeffTheThriller left the game
+[14:43:57] [Server thread/WARN]: handleDisconnection() called twice
+[14:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[14:45:00] [Server thread/INFO]: Saving...
+[14:45:00] [Server thread/INFO]: Saved the world
+[14:45:00] [Server thread/INFO]: [Server] Save Complete
+[14:47:47] [User Authenticator #15/INFO]: UUID of player JeffTheThriller is 87e9e695-26f6-45ad-aff0-cf28786d2c41
+[14:47:47] [Server thread/INFO]: JeffTheThriller[/5.64.179.100:60454] logged in with entity id 219416 at ([world]-4679.27461182942, 62.0, 10373.333976779411)
+[14:47:47] [Server thread/INFO]: [Server] Welcome back, JeffTheThriller
+[14:47:53] [Async Chat Thread - #18/INFO]: <~DARKSEID> hi
+[14:48:10] [Async Chat Thread - #18/INFO]: <~Harley> hi
+[14:48:16] [Async Chat Thread - #18/INFO]: <~Harley> do u wanna call?
+[14:48:23] [Async Chat Thread - #18/INFO]: <~DARKSEID> sure
+[14:48:33] [Async Chat Thread - #18/INFO]: <~Harley> gimme a sec
+[14:50:50] [Async Chat Thread - #19/INFO]: <~Harley> oh wow
+[14:50:53] [Async Chat Thread - #19/INFO]: <~Harley> im calling u btw
+[14:51:06] [Async Chat Thread - #19/INFO]: <~DARKSEID> okay
+[14:51:15] [Async Chat Thread - #19/INFO]: <~Harley> PICK UP
+[14:51:30] [Async Chat Thread - #19/INFO]: <~DARKSEID> i'm getting nothing
+[14:51:36] [Async Chat Thread - #19/INFO]: <~DARKSEID> no ringing
+[14:51:47] [Async Chat Thread - #19/INFO]: <~Harley> ll call the group
+[14:58:11] [Server thread/INFO]: LAPSLIE issued server command: /home
+[14:58:23] [Server thread/INFO]: JeffTheThriller issued server command: /home
+[14:59:57] [Server thread/INFO]: JeffTheThriller issued server command: /back
+[15:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:00:00] [Server thread/INFO]: Saving...
+[15:00:00] [Server thread/INFO]: Saved the world
+[15:00:00] [Server thread/INFO]: [Server] Save Complete
+[15:02:59] [User Authenticator #16/INFO]: UUID of player I_R_TARD is f0ae569d-71cc-4784-9ed2-5c41e4904795
+[15:02:59] [Server thread/INFO]: I_R_TARD[/90.227.27.126:55157] logged in with entity id 222547 at ([world]-513.9810613877452, 64.0, 1992.329502522536)
+[15:02:59] [Server thread/INFO]: [Server] Welcome back, I_R_TARD
+[15:06:13] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:08:48] [Server thread/INFO]: LAPSLIE issued server command: /suicide
+[15:08:48] [Server thread/INFO]: LAPSLIE died
+[15:08:57] [Server thread/INFO]: LAPSLIE issued server command: /back
+[15:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:15:00] [Server thread/INFO]: Saving...
+[15:15:01] [Server thread/INFO]: Saved the world
+[15:15:01] [Server thread/INFO]: [Server] Save Complete
+[15:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[15:23:36] [User Authenticator #17/INFO]: UUID of player JDBrault is 87fb3438-989b-4d1d-9826-52164314b4bd
+[15:23:37] [Server thread/INFO]: JDBrault[/24.60.226.124:51443] logged in with entity id 228400 at ([world]-154.60167455876044, 93.0, 312.89941079822825)
+[15:23:37] [Server thread/INFO]: [Server] Welcome back, JDBrault
+[15:24:06] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:24:29] [Server thread/INFO]: JDBrault issued server command: /kit
+[15:24:29] [Server thread/INFO]: §cJDBrault §4was denied access to command.
+[15:24:54] [Server thread/INFO]: JDBrault lost connection: Disconnected
+[15:24:54] [Server thread/INFO]: JDBrault left the game
+[15:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:30:00] [Server thread/INFO]: Saving...
+[15:30:01] [Server thread/INFO]: Saved the world
+[15:30:01] [Server thread/INFO]: [Server] Save Complete
+[15:31:03] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[15:45:00] [Server thread/INFO]: Saving...
+[15:45:01] [Server thread/INFO]: Saved the world
+[15:45:01] [Server thread/INFO]: [Server] Save Complete
+[15:47:29] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:47:54] [Server thread/INFO]: I_R_TARD lost connection: Disconnected
+[15:47:54] [Server thread/INFO]: I_R_TARD left the game
+[15:50:49] [Server thread/INFO]: LAPSLIE issued server command: /home
+[15:51:52] [Server thread/INFO]: [Server] blob
+[15:51:58] [Async Chat Thread - #20/INFO]: <~Harley> heyo
+[15:52:03] [Server thread/INFO]: LAPSLIE issued server command: /teleport to ellie
+[15:52:03] [Server thread/INFO]: §cLAPSLIE §4was denied access to command.
+[15:52:17] [Server thread/INFO]: [Server] ellie you gave me crabs
+[15:52:30] [Async Chat Thread - #20/INFO]: <~DARKSEID> i bought a crab
+[15:52:34] [Async Chat Thread - #20/INFO]: <~DARKSEID> thry're lovly
+[15:54:10] [Server thread/INFO]: CONSOLE issued server command: /mob squid 1 jeff
+[15:54:10] [Server thread/INFO]: 1 squids spawned
+[15:54:28] [Async Chat Thread - #21/INFO]: <~Harley> thanks
+[15:54:32] [Async Chat Thread - #21/INFO]: <~Harley> for this squis
+[15:54:39] [Async Chat Thread - #21/INFO]: <~Harley> its dead
+[15:54:52] [Async Chat Thread - #21/INFO]: <~Harley> do you like our painting?
+[15:55:04] [Server thread/INFO]: CONSOLE issued server command: /mob squid 10 jeff
+[15:55:04] [Server thread/INFO]: 10 squids spawned
+[15:55:08] [Server thread/INFO]: [Server] better?
+[15:59:59] [Server thread/INFO]: LAPSLIE lost connection: Disconnected
+[15:59:59] [Server thread/INFO]: LAPSLIE left the game
+[16:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:00:00] [Server thread/INFO]: Saving...
+[16:00:01] [Server thread/INFO]: Saved the world
+[16:00:01] [Server thread/INFO]: [Server] Save Complete
+[16:00:46] [Server thread/INFO]: JeffTheThriller lost connection: Disconnected
+[16:00:46] [Server thread/INFO]: JeffTheThriller left the game
+[16:11:25] [User Authenticator #18/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
+[16:11:25] [Server thread/INFO]: Hottub99[/173.33.145.241:53821] logged in with entity id 239928 at ([world]7555.463229690529, 158.0, 9472.334641578169)
+[16:11:25] [Server thread/INFO]: [Server] Welcome back, Hottub99
+[16:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:15:00] [Server thread/INFO]: Saving...
+[16:15:00] [Server thread/INFO]: Saved the world
+[16:15:00] [Server thread/INFO]: [Server] Save Complete
+[16:19:13] [User Authenticator #19/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[16:19:13] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49235] logged in with entity id 254600 at ([world]-183.56321418029967, 70.0, -26.51161151924098)
+[16:19:13] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[16:19:16] [Async Chat Thread - #22/INFO]: <~Deathriderr> wb
+[16:19:23] [Async Chat Thread - #22/INFO]: <BuuTheGreat> thsnkd
+[16:19:34] [Async Chat Thread - #22/INFO]: <BuuTheGreat> thanks
+[16:19:37] [Async Chat Thread - #22/INFO]: <BuuTheGreat> lol
+[16:19:42] [Async Chat Thread - #22/INFO]: <~Deathriderr> haha no problame
+[16:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[16:25:35] [Async Chat Thread - #23/INFO]: <BuuTheGreat> how do you do
+[16:25:56] [Async Chat Thread - #23/INFO]: <~Deathriderr> good. tired tho cause i just woke up.
+[16:25:59] [Async Chat Thread - #23/INFO]: <~Deathriderr> hbu?
+[16:26:09] [Async Chat Thread - #23/INFO]: <BuuTheGreat> oh again haha
+[16:26:14] [Async Chat Thread - #23/INFO]: <~Deathriderr> haha yeah
+[16:26:51] [Async Chat Thread - #23/INFO]: <BuuTheGreat> I'm fine, will probably dine in a while
+[16:27:24] [Async Chat Thread - #23/INFO]: <~Deathriderr> same aswell
+[16:27:33] [Async Chat Thread - #23/INFO]: <BuuTheGreat> lol
+[16:27:41] [Async Chat Thread - #23/INFO]: <BuuTheGreat> but breakfast I hope :P
+[16:27:51] [Async Chat Thread - #23/INFO]: <~Deathriderr> brunch
+[16:27:55] [Async Chat Thread - #23/INFO]: <BuuTheGreat> ah okay
+[16:29:43] [Async Chat Thread - #24/INFO]: <BuuTheGreat> I feel like brunching has become more popular than eating breakfast
+[16:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:30:00] [Server thread/INFO]: Saving...
+[16:30:01] [Server thread/INFO]: Saved the world
+[16:30:01] [Server thread/INFO]: [Server] Save Complete
+[16:30:14] [Async Chat Thread - #24/INFO]: <~Deathriderr> yeah cause more and more people are waking up closer to lunch nowa days
+[16:30:31] [Async Chat Thread - #24/INFO]: <BuuTheGreat> that's true
+[16:35:12] [Async Chat Thread - #25/INFO]: <BuuTheGreat> I got fire aspect 2 from fishing yesterday :D
+[16:35:25] [Async Chat Thread - #25/INFO]: <BuuTheGreat> I knew I would get it haha
+[16:35:33] [Async Chat Thread - #25/INFO]: <~Deathriderr> oh damn lucky
+[16:39:08] [Async Chat Thread - #26/INFO]: <BuuTheGreat> I remember when there was no enchantments in mc
+[16:39:10] [Async Chat Thread - #26/INFO]: <BuuTheGreat> lol
+[16:39:18] [Async Chat Thread - #26/INFO]: <~Deathriderr> back in the day
+[16:39:25] [Async Chat Thread - #26/INFO]: <BuuTheGreat> yep
+[16:40:02] [Async Chat Thread - #26/INFO]: <~Deathriderr> I didn't play that far back then but i've been playing for probably 4-5 years
+[16:40:35] [Async Chat Thread - #26/INFO]: <BuuTheGreat> I have played this game for over 5 years
+[16:41:25] [Async Chat Thread - #26/INFO]: <BuuTheGreat> I think it was june when I bought it
+[16:41:54] [Async Chat Thread - #26/INFO]: <BuuTheGreat> I don't remember when enchantments were added
+[16:42:35] [Async Chat Thread - #26/INFO]: <~Deathriderr> i started playing the free version tho which limited everything quite significantly
+[16:42:54] [Async Chat Thread - #26/INFO]: <~Deathriderr> and they were added almost 5 year aparently
+[16:43:04] [Async Chat Thread - #26/INFO]: <BuuTheGreat> yea I had it too before buying the real one
+[16:43:18] [Server thread/INFO]: Hottub99 issued server command: /home
+[16:43:53] [Server thread/INFO]: Hottub99 issued server command: /back
+[16:44:26] [Async Chat Thread - #27/INFO]: <BuuTheGreat> might have been in autumn/winter 2011 they came
+[16:44:48] [Async Chat Thread - #27/INFO]: <BuuTheGreat> woa so long time back :P
+[16:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[16:45:00] [Server thread/INFO]: Saving...
+[16:45:01] [Server thread/INFO]: Saved the world
+[16:45:01] [Server thread/INFO]: [Server] Save Complete
+[16:45:04] [Async Chat Thread - #27/INFO]: <~Deathriderr> that's for sure
+[16:46:22] [Server thread/INFO]: Usage: /timings <reset|report|on|off|paste>
+[16:46:27] [Server thread/INFO]: Please enable timings by typing /timings on
+[16:46:32] [Server thread/INFO]: Enabled Timings & Reset
+[16:47:12] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[16:47:12] [Server thread/INFO]: BuuTheGreat left the game
+[17:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:00:00] [Server thread/INFO]: Saving...
+[17:00:00] [Server thread/INFO]: Saved the world
+[17:00:00] [Server thread/INFO]: [Server] Save Complete
+[17:05:24] [Server thread/INFO]: Hottub99 issued server command: /home
+[17:06:24] [Server thread/INFO]: Hottub99 lost connection: Disconnected
+[17:06:24] [Server thread/INFO]: Hottub99 left the game
+[17:07:23] [Server thread/INFO]: Timings written to timings/timings.txt
+[17:07:23] [Server thread/INFO]: Paste contents of file into form at http://www.spigotmc.org/go/timings to read results.
+[17:07:46] [Timings paste thread/INFO]: Timings results can be viewed at http://www.spigotmc.org/go/timings?url=0
+[17:07:59] [User Authenticator #20/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[17:07:59] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49269] logged in with entity id 267956 at ([world]-173.55077972607097, 70.0, 40.91022454813512)
+[17:07:59] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[17:13:03] [User Authenticator #21/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
+[17:13:03] [Server thread/INFO]: Hottub99[/173.33.145.241:55636] logged in with entity id 268554 at ([world]7552.836539663435, 163.0, 9490.775088707342)
+[17:13:03] [Server thread/INFO]: [Server] Welcome back, Hottub99
+[17:13:07] [Async Chat Thread - #28/INFO]: <BuuTheGreat> wb
+[17:13:11] [Async Chat Thread - #28/INFO]: <~Deathriderr> thanks
+[17:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:15:00] [Server thread/INFO]: Saving...
+[17:15:00] [Server thread/INFO]: Saved the world
+[17:15:01] [Server thread/INFO]: [Server] Save Complete
+[17:16:33] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[17:16:33] [Server thread/INFO]: BuuTheGreat left the game
+[17:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[17:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:30:00] [Server thread/INFO]: Saving...
+[17:30:01] [Server thread/INFO]: Saved the world
+[17:30:01] [Server thread/INFO]: [Server] Save Complete
+[17:42:39] [Server thread/INFO]: Hottub99 issued server command: /home
+[17:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[17:45:00] [Server thread/INFO]: Saving...
+[17:45:01] [Server thread/INFO]: Saved the world
+[17:45:01] [Server thread/INFO]: [Server] Save Complete
+[17:47:27] [Server thread/INFO]: Hottub99 lost connection: Disconnected
+[17:47:27] [Server thread/INFO]: Hottub99 left the game
+[17:55:13] [User Authenticator #22/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[17:55:14] [Server thread/INFO]: AlmostJesus[/174.117.23.186:58243] logged in with entity id 283212 at ([world]7559.162211183765, 168.0, 9478.288188927303)
+[17:55:14] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[17:56:30] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[17:56:31] [Server thread/INFO]: AlmostJesus left the game
+[18:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[18:00:00] [Server thread/INFO]: Saving...
+[18:00:00] [Server thread/INFO]: Saved the world
+[18:00:00] [Server thread/INFO]: [Server] Save Complete
