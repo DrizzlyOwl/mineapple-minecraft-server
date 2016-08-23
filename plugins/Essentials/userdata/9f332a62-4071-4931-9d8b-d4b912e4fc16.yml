@@ -1,10 +1,10 @@
 lastAccountName: Beethos
 timestamps:
-  login: 1471915674620
+  login: 1471987684900
   kits:
     tools: 1470858243991
   lastteleport: 1471824987409
-  logout: 1471917955607
+  logout: 1471987689930
 ipAddress: 86.174.1.253
 lastlocation:
   world: world
@@ -15,11 +15,11 @@ lastlocation:
   pitch: 10.049995
 logoutlocation:
   world: world
-  x: -4741.460397799758
+  x: -4716.439791403956
   y: 45.0
-  z: 10493.808286951496
-  yaw: -176.83049
-  pitch: -35.57942
+  z: 10492.236327318618
+  yaw: -127.01715
+  pitch: 7.040068
 afk: false
 homes:
   home:

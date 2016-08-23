@@ -1,0 +1,30 @@
+lastAccountName: sneadel
+timestamps:
+  login: 1471985605117
+  logout: 1471991838980
+  lastteleport: 1471991441366
+ipAddress: 71.29.44.63
+logoutlocation:
+  world: world
+  x: -40.09377678085016
+  y: 68.0
+  z: 258.84275152365655
+  yaw: -216.03705
+  pitch: 90.0
+lastlocation:
+  world: world
+  x: -2347.3952769286952
+  y: 80.79673560066871
+  z: 248.90956266141376
+  yaw: -341.62683
+  pitch: 67.17193
+nickname: sneads
+afk: false
+homes:
+  home:
+    world: world
+    x: -2358.462067526979
+    y: 79.0
+    z: 244.98469094573014
+    yaw: -117.58618
+    pitch: 36.259182
