@@ -1,23 +1,23 @@
 lastAccountName: LAPSLIE
 timestamps:
-  login: 1471816957821
-  logout: 1471826152636
-  lastteleport: 1471823862547
+  login: 1471917052217
+  logout: 1471923000735
+  lastteleport: 1471922997152
 ipAddress: 5.80.138.16
 lastlocation:
   world: world
-  x: -5075.415008752357
-  y: 16.0
-  z: 10499.221193060586
-  yaw: 100.74709
-  pitch: 15.30009
+  x: -4667.507437445927
+  y: 71.0
+  z: 10337.699999988079
+  yaw: -7.7205377
+  pitch: -0.2999065
 logoutlocation:
   world: world
-  x: -4737.18816239554
-  y: 92.7125
-  z: 10539.5
-  yaw: 180.82703
-  pitch: 5.70002
+  x: -4741.778656914545
+  y: 93.7531999805212
+  z: 10533.265683587722
+  yaw: -174.67023
+  pitch: 8.100049
 afk: false
 homes:
   home:
@@ -27,4 +27,4 @@ homes:
     z: 10543.490415540968
     yaw: -357.9702
     pitch: 9.450049
-nickname: flash
+nickname: DARKSEID

@@ -7,10 +7,9 @@
 [04:45:09] [Server thread/INFO]: Debug logging is disabled
 [04:45:09] [Server thread/INFO]: Generating keypair
 [04:45:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:45:09] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[04:45:10] [Server thread/INFO]: Set PluginClassLoader as parallel capable
 [04:45:10] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
 [04:45:10] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
-[04:45:10] [Server thread/INFO]: [Slack] Loading Slack v1.5.0
 [04:45:10] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
 [04:45:10] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
 [04:45:10] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
@@ -19,38 +18,37 @@
 [04:45:10] [Server thread/INFO]: Preparing level "world"
 [04:45:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3820634467636136119)
 [04:45:11] [Server thread/INFO]: Preparing spawn area: 0%
-[04:45:12] [Server thread/INFO]: Preparing spawn area: 37%
+[04:45:12] [Server thread/INFO]: Preparing spawn area: 34%
+[04:45:13] [Server thread/INFO]: Preparing spawn area: 98%
 [04:45:13] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3488346064576240778)
-[04:45:14] [Server thread/INFO]: Preparing spawn area: 84%
-[04:45:14] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
-[04:45:15] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
-[04:45:15] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
-[04:45:15] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
-[04:45:15] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
-[04:45:15] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
-[04:45:15] [Server thread/INFO]: [Slack] Enabling Slack v1.5.0
-[04:45:15] [Server thread/INFO]: [Slack] Slack has been enabled.
-[04:45:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
-[04:45:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[04:45:16] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
+[04:45:14] [Server thread/INFO]: Preparing spawn area: 70%
+[04:45:15] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
+[04:45:16] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[04:45:16] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[04:45:16] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[04:45:16] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[04:45:16] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[04:45:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[04:45:17] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[04:45:17] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
 [04:45:17] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
 [04:45:17] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
 [04:45:17] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsSpawn to the same version.
 [04:45:17] [Server thread/INFO]: Using locale en
 [04:45:17] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[04:45:17] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[04:45:17] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[04:45:17] [Server thread/INFO]: Using locale en
-[04:45:17] [Server thread/INFO]: [Essentials] Metrics disabled per PluginMetrics config.
-[04:45:17] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
-[04:45:17] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
-[04:45:17] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
-[04:45:17] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
-[04:45:17] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
-[04:45:17] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[04:45:17] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[04:45:17] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[04:45:17] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[04:45:18] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[04:45:18] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[04:45:18] [Server thread/INFO]: Using locale en
+[04:45:18] [Server thread/INFO]: [Essentials] Metrics disabled per PluginMetrics config.
+[04:45:18] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[04:45:18] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[04:45:18] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[04:45:18] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[04:45:18] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[04:45:18] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[04:45:18] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[04:45:18] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[04:45:18] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
 [04:45:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
 [04:45:18] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
 [04:45:18] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
@@ -66,343 +64,21 @@
 [04:45:18] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/minecraft (MySQL 5.7)
 [04:45:18] [Server thread/INFO]: [WorldGuard] Current version of schema `minecraft`: 2
 [04:45:18] [Server thread/INFO]: [WorldGuard] Schema `minecraft` is up to date. No migration necessary.
-[04:45:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:45:18] [Server thread/INFO]: Done (8.584s)! For help, type "help" or "?"
-[04:45:18] [Server thread/INFO]: Starting GS4 status listener
-[04:45:18] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[04:45:18] [Server thread/INFO]: Using epoll channel type
-[04:45:23] [User Authenticator #1/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
-[04:45:24] [Server thread/INFO]: egger49[/99.247.164.202:62459] logged in with entity id 167 at ([world_nether]1128.1071872982275, 92.0, 1313.8658733320972)
-[04:45:24] [Server thread/INFO]: [Server] Welcome back, egger49
-[04:45:53] [User Authenticator #2/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
-[04:45:53] [Server thread/INFO]: AlmostJesus[/174.117.23.186:65261] logged in with entity id 240 at ([world]7051.219019097948, 12.0, 9443.300000011921)
-[04:45:53] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
-[04:59:31] [Server thread/INFO]: AlmostJesus issued server command: /home
+[04:45:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:45:19] [Server thread/INFO]: Done (9.290s)! For help, type "help" or "?"
+[04:45:19] [Server thread/INFO]: Starting GS4 status listener
+[04:45:19] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[04:45:19] [Server thread/INFO]: Using epoll channel type
+[04:57:46] [User Authenticator #1/INFO]: UUID of player Fayzey is 7d27ee49-cf74-45f0-b220-7cdc482bcf96
+[04:57:47] [Server thread/INFO]: Fayzey[/184.153.202.125:50444] logged in with entity id 195 at ([world]-44.5, 66.0, 250.5)
+[04:57:47] [Server thread/INFO]: [Server] Fayzey has just joined for the first time.
+[04:57:47] [Server thread/INFO]: [Server] 75 unique players have visited this server.
+[04:57:47] [pool-5-thread-1/INFO]: Creating empty config: /home/mcma/Minecraft/plugins/Essentials/userdata/7d27ee49-cf74-45f0-b220-7cdc482bcf96.yml
+[04:58:21] [Server thread/WARN]: Fayzey moved wrongly!
+[04:58:45] [Server thread/INFO]: Fayzey issued server command: /help
+[04:58:48] [Server thread/INFO]: Fayzey lost connection: Disconnected
+[04:58:48] [Server thread/INFO]: Fayzey left the game
 [05:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
 [05:00:00] [Server thread/INFO]: Saving...
-[05:00:01] [Server thread/INFO]: Saved the world
-[05:00:01] [Server thread/INFO]: [Server] Save Complete
-[05:02:12] [User Authenticator #3/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
-[05:02:12] [Server thread/INFO]: Hottub99[/173.33.145.241:51869] logged in with entity id 6019 at ([world]7556.805674926203, 158.0, 9475.756127971947)
-[05:02:12] [Server thread/INFO]: [Server] Welcome back, Hottub99
-[05:02:15] [Async Chat Thread - #0/INFO]: <AlmostJesus> wb
-[05:02:26] [Async Chat Thread - #0/INFO]: <~Deathriderr> thanks g
-[05:04:03] [Server thread/INFO]: Hottub99 issued server command: /back
-[05:09:07] [Async Chat Thread - #1/INFO]: <AlmostJesus> tphere Hottub99
-[05:09:13] [Server thread/INFO]: AlmostJesus issued server command: /tphere Hottub99
-[05:09:13] [Server thread/INFO]: §cAlmostJesus §4was denied access to command.
-[05:09:26] [Server thread/INFO]: Hottub99 fell from a high place
-[05:09:37] [Server thread/INFO]: Hottub99 issued server command: /back
-[05:11:06] [Server thread/INFO]: Hottub99 issued server command: /tpa AlmostJesus
-[05:11:09] [Server thread/INFO]: AlmostJesus issued server command: /tpaccept
-[05:12:37] [Server thread/INFO]: Hottub99 issued server command: /back
-[05:13:09] [Server thread/INFO]: AlmostJesus issued server command: /home
-[05:14:01] [Server thread/INFO]: egger49 issued server command: /home
-[05:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[05:15:00] [Server thread/INFO]: Saving...
-[05:15:00] [Server thread/INFO]: Saved the world
-[05:15:00] [Server thread/INFO]: [Server] Save Complete
-[05:16:56] [Server thread/INFO]: egger49 was blown up by Creeper
-[05:17:05] [Server thread/INFO]: egger49 issued server command: /back
-[05:18:10] [Server thread/INFO]: AlmostJesus has just earned the achievement [Overpowered]
-[05:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[05:23:53] [Server thread/INFO]: AlmostJesus issued server command: /tpa egger49
-[05:24:12] [Server thread/INFO]: egger49 was slain by Zombie
-[05:24:19] [Server thread/INFO]: egger49 issued server command: /back
-[05:24:50] [Server thread/INFO]: egger49 issued server command: /tpaccept
-[05:25:39] [Server thread/INFO]: AlmostJesus issued server command: /home
-[05:26:02] [Server thread/INFO]: AlmostJesus issued server command: /home
-[05:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[05:30:00] [Server thread/INFO]: Saving...
-[05:30:00] [Server thread/INFO]: Saved the world
-[05:30:00] [Server thread/INFO]: [Server] Save Complete
-[05:30:48] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
-[05:31:08] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
-[05:32:55] [Server thread/INFO]: Hottub99 fell from a high place
-[05:32:59] [Server thread/INFO]: Hottub99 issued server command: /back
-[05:33:02] [Server thread/INFO]: AlmostJesus issued server command: /home
-[05:34:30] [Server thread/INFO]: AlmostJesus issued server command: /back
-[05:34:46] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
-[05:34:50] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
-[05:35:35] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
-[05:35:39] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
-[05:38:51] [Server thread/INFO]: AlmostJesus issued server command: /home
-[05:39:16] [Server thread/INFO]: AlmostJesus issued server command: /back
-[05:39:47] [Server thread/INFO]: AlmostJesus issued server command: /back
-[05:39:57] [Server thread/INFO]: AlmostJesus issued server command: /back
-[05:41:53] [Server thread/INFO]: Hottub99 fell from a high place
-[05:41:58] [Server thread/INFO]: Hottub99 issued server command: /back
-[05:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[05:45:00] [Server thread/INFO]: Saving...
-[05:45:00] [Server thread/INFO]: Saved the world
-[05:45:00] [Server thread/INFO]: [Server] Save Complete
-[05:47:47] [Server thread/INFO]: Hottub99 issued server command: /home
-[05:47:54] [Server thread/INFO]: Hottub99 issued server command: /home
-[05:47:57] [Server thread/INFO]: AlmostJesus issued server command: /tpa egger49
-[05:48:02] [Server thread/INFO]: egger49 issued server command: /tpaccept
-[05:49:06] [Server thread/INFO]: AlmostJesus issued server command: /home
-[05:49:09] [Server thread/INFO]: AlmostJesus issued server command: /home
-[05:50:04] [Server thread/WARN]: Hottub99 moved wrongly!
-[05:56:52] [Server thread/INFO]: AlmostJesus issued server command: /home
-[05:57:27] [Server thread/INFO]: egger49 issued server command: /home
-[05:57:37] [Server thread/WARN]: Hottub99 moved too quickly! -6613.872456556621,-63.0,-8273.519610764784
-[05:59:29] [Server thread/INFO]: egger49 fell from a high place
-[05:59:34] [Server thread/WARN]: AlmostJesus moved too quickly! -6613.666278350728,-63.0,-8273.779999633682
-[05:59:35] [Server thread/INFO]: egger49 issued server command: /home
-[06:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[06:00:00] [Server thread/INFO]: Saving...
-[06:00:00] [Server thread/INFO]: Saved the world
-[06:00:00] [Server thread/INFO]: [Server] Save Complete
-[06:00:55] [Server thread/INFO]: Hottub99 issued server command: /home
-[06:01:03] [Server thread/INFO]: AlmostJesus issued server command: /home
-[06:01:34] [Server thread/WARN]: AlmostJesus moved too quickly! -6614.491267957603,-63.0,-8272.874776867606
-[06:03:49] [Server thread/INFO]: egger49 issued server command: /home
-[06:03:49] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
-[06:03:56] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
-[06:08:24] [Server thread/INFO]: egger49 issued server command: /home
-[06:11:53] [Server thread/INFO]: Hottub99 was slain by Enderman
-[06:11:56] [Server thread/INFO]: Hottub99 issued server command: /back
-[06:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[06:15:00] [Server thread/INFO]: Saving...
-[06:15:00] [Server thread/INFO]: Saved the world
-[06:15:00] [Server thread/INFO]: [Server] Save Complete
-[06:16:17] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
-[06:16:25] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
-[06:18:48] [Server thread/INFO]: AlmostJesus issued server command: /home
-[06:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[06:25:16] [Server thread/INFO]: egger49 issued server command: /home
-[06:25:17] [Server thread/INFO]: Hottub99 issued server command: /home
-[06:29:38] [Server thread/WARN]: Hottub99 moved too quickly! -6614.349516981213,-63.0,-8273.414546527847
-[06:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[06:30:00] [Server thread/INFO]: Saving...
-[06:30:00] [Server thread/INFO]: Saved the world
-[06:30:00] [Server thread/INFO]: [Server] Save Complete
-[06:31:11] [Server thread/INFO]: Hottub99 burned to death
-[06:31:17] [Server thread/INFO]: Hottub99 issued server command: /back
-[06:32:02] [Server thread/INFO]: Hottub99 issued server command: /home
-[06:32:32] [Server thread/INFO]: Hottub99 issued server command: /home
-[06:35:24] [Server thread/INFO]: egger49 issued server command: /home
-[06:35:48] [Server thread/INFO]: Hottub99 issued server command: /tpa egger49
-[06:35:52] [Server thread/INFO]: egger49 issued server command: /tpaccept
-[06:37:15] [Server thread/WARN]: Hottub99 moved too quickly! -6613.359693925695,-63.0,-8274.541321482164
-[06:39:23] [Server thread/INFO]: Hottub99 issued server command: /home
-[06:43:50] [Server thread/INFO]: Hottub99 issued server command: /home
-[06:43:56] [Server thread/INFO]: AlmostJesus issued server command: /home
-[06:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[06:45:00] [Server thread/INFO]: Saving...
-[06:45:00] [Server thread/INFO]: Saved the world
-[06:45:00] [Server thread/INFO]: [Server] Save Complete
-[06:45:12] [Server thread/WARN]: Hottub99 moved too quickly! -6613.7155731038465,-63.0,-8273.695495122922
-[06:47:04] [Server thread/INFO]: egger49 issued server command: /back
-[06:48:37] [Server thread/INFO]: egger49 issued server command: /home
-[06:52:26] [Server thread/INFO]: egger49 issued server command: /back
-[06:52:41] [Server thread/INFO]: Hottub99 issued server command: /home
-[06:55:29] [Server thread/WARN]: Hottub99 moved too quickly! -6613.239288678396,-63.0,-8274.246202089478
-[06:57:19] [Server thread/INFO]: AlmostJesus issued server command: /afk
-[07:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[07:00:00] [Server thread/INFO]: Saving...
-[07:00:00] [Server thread/INFO]: Saved the world
-[07:00:00] [Server thread/INFO]: [Server] Save Complete
-[07:02:02] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:04:04] [Server thread/INFO]: egger49 issued server command: /home
-[07:07:10] [Server thread/WARN]: egger49 moved too quickly! -6614.126061805701,-63.0,-8273.584082529502
-[07:12:41] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
-[07:12:41] [Server thread/INFO]: AlmostJesus left the game
-[07:13:33] [Server thread/INFO]: egger49 issued server command: /home
-[07:14:09] [Server thread/INFO]: egger49 issued server command: /home
-[07:14:31] [Server thread/INFO]: egger49 issued server command: /back
-[07:14:38] [Server thread/INFO]: egger49 issued server command: /back
-[07:14:43] [Server thread/INFO]: egger49 issued server command: /back
-[07:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[07:15:00] [Server thread/INFO]: Saving...
-[07:15:00] [Server thread/INFO]: Saved the world
-[07:15:00] [Server thread/INFO]: [Server] Save Complete
-[07:16:05] [Server thread/INFO]: egger49 has just earned the achievement [Return to Sender]
-[07:16:09] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:17:22] [User Authenticator #4/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
-[07:17:22] [Server thread/INFO]: AlmostJesus[/174.117.23.186:53455] logged in with entity id 166892 at ([world]7991.990253500013, 69.0, 10035.359196095667)
-[07:17:22] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
-[07:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[07:20:12] [Server thread/INFO]: Hottub99 issued server command: /hokme
-[07:20:14] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:21:25] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:23:14] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:23:42] [Server thread/INFO]: Hottub99 issued server command: /sethome
-[07:26:44] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:29:59] [Server thread/INFO]: Hottub99 lost connection: Disconnected
-[07:29:59] [Server thread/INFO]: Hottub99 left the game
-[07:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[07:30:00] [Server thread/INFO]: Saving...
-[07:30:01] [Server thread/INFO]: Saved the world
-[07:30:01] [Server thread/INFO]: [Server] Save Complete
-[07:31:13] [Server thread/INFO]: egger49 issued server command: /home
-[07:31:44] [User Authenticator #5/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
-[07:31:44] [Server thread/INFO]: Hottub99[/173.33.145.241:52102] logged in with entity id 201505 at ([world]7555.227994237772, 163.0, 9483.786786708015)
-[07:31:44] [Server thread/INFO]: [Server] Welcome back, Hottub99
-[07:31:48] [Async Chat Thread - #2/INFO]: <AlmostJesus> wb
-[07:31:53] [Server thread/INFO]: Hottub99 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[07:31:53] [Server thread/INFO]: Hottub99 left the game
-[07:33:46] [Server thread/INFO]: AlmostJesus issued server command: /home
-[07:36:25] [User Authenticator #6/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
-[07:36:25] [Server thread/INFO]: Hottub99[/173.33.145.241:62588] logged in with entity id 205093 at ([world]7555.227994237772, 163.0, 9483.786786708015)
-[07:36:25] [Server thread/INFO]: [Server] Welcome back, Hottub99
-[07:36:34] [Server thread/INFO]: Hottub99 lost connection: Disconnected
-[07:36:34] [Server thread/INFO]: Hottub99 left the game
-[07:37:59] [User Authenticator #7/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
-[07:37:59] [Server thread/INFO]: Hottub99[/173.33.145.241:62645] logged in with entity id 205905 at ([world]7556.143304709985, 163.0, 9485.732983414364)
-[07:37:59] [Server thread/INFO]: [Server] Welcome back, Hottub99
-[07:38:05] [Server thread/INFO]: Hottub99 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[07:38:05] [Server thread/INFO]: Hottub99 left the game
-[07:42:39] [User Authenticator #8/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
-[07:42:39] [Server thread/INFO]: Hottub99[/173.33.145.241:63146] logged in with entity id 210348 at ([world]7556.143304709985, 163.0, 9485.732983414364)
-[07:42:39] [Server thread/INFO]: [Server] Welcome back, Hottub99
-[07:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[07:45:00] [Server thread/INFO]: Saving...
-[07:45:00] [Server thread/INFO]: Saved the world
-[07:45:00] [Server thread/INFO]: [Server] Save Complete
-[07:45:52] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:48:05] [Server thread/INFO]: AlmostJesus issued server command: /home
-[07:48:10] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:49:24] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:49:37] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:50:46] [Server thread/INFO]: Hottub99 issued server command: /home
-[07:52:44] [Server thread/INFO]: Hottub99 lost connection: Disconnected
-[07:52:44] [Server thread/INFO]: Hottub99 left the game
-[07:55:00] [Server thread/INFO]: AlmostJesus issued server command: /home
-[07:55:04] [Server thread/INFO]: egger49 lost connection: Disconnected
-[07:55:04] [Server thread/INFO]: egger49 left the game
-[07:55:31] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
-[07:55:31] [Server thread/INFO]: AlmostJesus left the game
-[08:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[08:00:00] [Server thread/INFO]: Saving...
-[08:00:00] [Server thread/INFO]: Saved the world
-[08:00:00] [Server thread/INFO]: [Server] Save Complete
-[08:10:14] [User Authenticator #9/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
-[08:10:15] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49855] logged in with entity id 243430 at ([world]-39.5, 68.0, 259.5)
-[08:10:15] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
-[08:10:28] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[08:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[08:15:00] [Server thread/INFO]: Saving...
-[08:15:00] [Server thread/INFO]: Saved the world
-[08:15:00] [Server thread/INFO]: [Server] Save Complete
-[08:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
-[08:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[08:30:00] [Server thread/INFO]: Saving...
-[08:30:00] [Server thread/INFO]: Saved the world
-[08:30:00] [Server thread/INFO]: [Server] Save Complete
-[08:44:34] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[08:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[08:45:00] [Server thread/INFO]: Saving...
-[08:45:00] [Server thread/INFO]: Saved the world
-[08:45:00] [Server thread/INFO]: [Server] Save Complete
-[08:46:26] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[08:48:27] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[08:49:50] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[08:59:44] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
-[08:59:54] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[09:00:00] [Server thread/INFO]: Saving...
-[09:00:00] [Server thread/INFO]: Saved the world
-[09:00:00] [Server thread/INFO]: [Server] Save Complete
-[09:00:08] [Server thread/INFO]: BuuTheGreat was blown up by Creeper
-[09:00:18] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:00:39] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:00:49] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:00:54] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:00:57] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:00:59] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:01:14] [Server thread/INFO]: BuuTheGreat was shot by Skeleton
-[09:01:27] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:01:51] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:02:03] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:02:05] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:02:14] [Server thread/INFO]: BuuTheGreat was slain by Zombie
-[09:02:30] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:02:53] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:03:05] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:03:11] [Server thread/INFO]: BuuTheGreat issued server command: /back
-[09:12:22] [Server thread/INFO]: BuuTheGreat issued server command: /home
-[09:13:29] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
-[09:13:29] [Server thread/INFO]: BuuTheGreat left the game
-[09:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[09:15:00] [Server thread/INFO]: Saving...
-[09:15:00] [Server thread/INFO]: Saved the world
-[09:15:00] [Server thread/INFO]: [Server] Save Complete
-[09:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[09:30:00] [Server thread/INFO]: Saving...
-[09:30:00] [Server thread/INFO]: Saved the world
-[09:30:00] [Server thread/INFO]: [Server] Save Complete
-[09:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[09:45:00] [Server thread/INFO]: Saving...
-[09:45:00] [Server thread/INFO]: Saved the world
-[09:45:00] [Server thread/INFO]: [Server] Save Complete
-[10:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[10:00:00] [Server thread/INFO]: Saving...
-[10:00:00] [Server thread/INFO]: Saved the world
-[10:00:00] [Server thread/INFO]: [Server] Save Complete
-[10:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[10:15:00] [Server thread/INFO]: Saving...
-[10:15:00] [Server thread/INFO]: Saved the world
-[10:15:00] [Server thread/INFO]: [Server] Save Complete
-[10:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[10:30:00] [Server thread/INFO]: Saving...
-[10:30:00] [Server thread/INFO]: Saved the world
-[10:30:00] [Server thread/INFO]: [Server] Save Complete
-[10:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[10:45:00] [Server thread/INFO]: Saving...
-[10:45:00] [Server thread/INFO]: Saved the world
-[10:45:00] [Server thread/INFO]: [Server] Save Complete
-[11:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[11:00:00] [Server thread/INFO]: Saving...
-[11:00:00] [Server thread/INFO]: Saved the world
-[11:00:00] [Server thread/INFO]: [Server] Save Complete
-[11:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[11:15:00] [Server thread/INFO]: Saving...
-[11:15:00] [Server thread/INFO]: Saved the world
-[11:15:00] [Server thread/INFO]: [Server] Save Complete
-[11:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[11:30:00] [Server thread/INFO]: Saving...
-[11:30:00] [Server thread/INFO]: Saved the world
-[11:30:00] [Server thread/INFO]: [Server] Save Complete
-[11:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[11:45:00] [Server thread/INFO]: Saving...
-[11:45:00] [Server thread/INFO]: Saved the world
-[11:45:00] [Server thread/INFO]: [Server] Save Complete
-[12:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[12:00:00] [Server thread/INFO]: Saving...
-[12:00:00] [Server thread/INFO]: Saved the world
-[12:00:00] [Server thread/INFO]: [Server] Save Complete
-[12:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[12:15:00] [Server thread/INFO]: Saving...
-[12:15:00] [Server thread/INFO]: Saved the world
-[12:15:00] [Server thread/INFO]: [Server] Save Complete
-[12:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[12:30:00] [Server thread/INFO]: Saving...
-[12:30:00] [Server thread/INFO]: Saved the world
-[12:30:00] [Server thread/INFO]: [Server] Save Complete
-[12:37:07] [Server thread/INFO]: [Server] and now I know my heart is a ghost town...
-[12:37:11] [Server thread/INFO]: [Server] dudududu
-[12:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[12:45:00] [Server thread/INFO]: Saving...
-[12:45:00] [Server thread/INFO]: Saved the world
-[12:45:00] [Server thread/INFO]: [Server] Save Complete
-[13:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[13:00:00] [Server thread/INFO]: Saving...
-[13:00:00] [Server thread/INFO]: Saved the world
-[13:00:00] [Server thread/INFO]: [Server] Save Complete
-[13:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[13:15:00] [Server thread/INFO]: Saving...
-[13:15:00] [Server thread/INFO]: Saved the world
-[13:15:00] [Server thread/INFO]: [Server] Save Complete
-[13:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[13:30:00] [Server thread/INFO]: Saving...
-[13:30:00] [Server thread/INFO]: Saved the world
-[13:30:00] [Server thread/INFO]: [Server] Save Complete
-[13:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[13:45:00] [Server thread/INFO]: Saving...
-[13:45:00] [Server thread/INFO]: Saved the world
-[13:45:00] [Server thread/INFO]: [Server] Save Complete
-[14:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
-[14:00:00] [Server thread/INFO]: Saving...
-[14:00:00] [Server thread/INFO]: Saved the world
-[14:00:00] [Server thread/INFO]: [Server] Save Complete
+[05:00:00] [Server thread/INFO]: Saved the world
+[05:00:00] [Server thread/INFO]: [Server] Save Complete

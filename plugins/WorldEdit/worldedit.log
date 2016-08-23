@@ -719,3 +719,6 @@
 [INFO] WorldEdit: DrizzlyOwl (in "world"): none
 [INFO] WorldEdit: WalshyXD (in "world"): /ex - Position: (-167.0, 70.0, 46.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /ex - Position: (86.0, 98.0, 166.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (-10.012509473680469, 92.0, 484.23300139195635)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (-27.833365495677537, 103.11687030262578, 475.0064789094386)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace dirt 22 - Region: (-28.0, 92.0, 475.0) - (-11.0, 103.0, 484.0)

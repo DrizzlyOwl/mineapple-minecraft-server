@@ -1,30 +1,31 @@
 lastAccountName: antibaff47
 timestamps:
-  login: 1471799668607
-  lastteleport: 1471803023763
-  logout: 1471804301418
+  login: 1471904394435
+  lastteleport: 1471912461956
+  logout: 1471913243188
 ipAddress: 51.6.244.213
 lastlocation:
   world: world
-  x: -38.88383135246859
-  y: 68.0
-  z: 257.67259908593076
-  yaw: 178.34097
-  pitch: 23.314812
+  x: -3887.0217409360653
+  y: 71.0
+  z: 3205.629807948127
+  yaw: -255.15771
+  pitch: 20.015444
 afk: false
 godmode: false
 logoutlocation:
   world: world
-  x: -3677.1613294108515
-  y: 62.073264324665075
-  z: 1779.4959214859211
-  yaw: 64.41567
-  pitch: 9.886036
+  x: -4071.6928213259316
+  y: 65.0
+  z: 2565.293540130456
+  yaw: -263.45828
+  pitch: 5.1879573
 homes:
   home:
     world: world
-    x: -231.70614655982283
-    y: 66.0
-    z: -571.6668349271348
-    yaw: 159.48132
-    pitch: 19.821693
+    x: -4071.6928213259316
+    y: 65.0
+    z: 2565.293540130456
+    yaw: -263.45828
+    pitch: 5.1879573
+nickname: Baff
