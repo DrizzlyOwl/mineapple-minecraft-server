@@ -1,16 +1,16 @@
 lastAccountName: egger49
 timestamps:
-  login: 1471917332943
-  lastteleport: 1471906814924
-  logout: 1471917519959
+  login: 1471928722931
+  lastteleport: 1471928547433
+  logout: 1471928752527
 ipAddress: 99.247.164.202
 lastlocation:
   world: world
-  x: 7504.4673805495995
+  x: 7494.925000011921
   y: 67.0
-  z: 9445.253761741442
-  yaw: 286.458
-  pitch: 9.600017
+  z: 9443.697417291272
+  yaw: 358.62112
+  pitch: -88.35
 homes:
   home:
     world: world
@@ -22,10 +22,10 @@ homes:
 nickname: DonaldTrump
 logoutlocation:
   world: world
-  x: 7495.482125534998
-  y: 67.0
-  z: 9439.000891579923
-  yaw: -60.491703
-  pitch: 53.099953
+  x: 7547.853970509462
+  y: 171.9375
+  z: 9489.977475193531
+  yaw: 190.00838
+  pitch: 24.149912
 afk: false
 godmode: false

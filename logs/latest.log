@@ -82,3 +82,428 @@
 [05:00:00] [Server thread/INFO]: Saving...
 [05:00:00] [Server thread/INFO]: Saved the world
 [05:00:00] [Server thread/INFO]: [Server] Save Complete
+[05:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[05:15:00] [Server thread/INFO]: Saving...
+[05:15:00] [Server thread/INFO]: Saved the world
+[05:15:00] [Server thread/INFO]: [Server] Save Complete
+[05:24:23] [User Authenticator #2/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[05:24:23] [Server thread/INFO]: AlmostJesus[/174.117.23.186:56377] logged in with entity id 4118 at ([world]7558.697256571164, 168.0, 9487.877231365834)
+[05:24:23] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[05:26:33] [User Authenticator #3/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[05:26:34] [Server thread/INFO]: egger49[/99.247.164.202:63875] logged in with entity id 11833 at ([world]7495.482125534998, 67.0, 9439.000891579923)
+[05:26:34] [Server thread/INFO]: [Server] Welcome back, egger49
+[05:27:07] [User Authenticator #4/INFO]: UUID of player Hottub99 is 4021e60f-10b8-41b2-9e68-b73fb91f5a15
+[05:27:07] [Server thread/INFO]: Hottub99[/173.33.145.241:62974] logged in with entity id 12293 at ([world]7553.2463440196625, 163.0, 9490.751587833453)
+[05:27:07] [Server thread/INFO]: [Server] Welcome back, Hottub99
+[05:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[05:30:00] [Server thread/INFO]: Saving...
+[05:30:01] [Server thread/INFO]: Saved the world
+[05:30:01] [Server thread/INFO]: [Server] Save Complete
+[05:30:20] [Server thread/INFO]: AlmostJesus was burnt to a crisp whilst fighting Hottub99
+[05:30:26] [Server thread/INFO]: AlmostJesus issued server command: /home
+[05:30:30] [Server thread/INFO]: AlmostJesus issued server command: /back
+[05:32:48] [Server thread/INFO]: Hottub99 issued server command: /hom
+[05:32:50] [Server thread/INFO]: Hottub99 issued server command: /home
+[05:32:57] [Server thread/INFO]: Hottub99 issued server command: /home
+[05:34:00] [Server thread/INFO]: AlmostJesus issued server command: /home
+[05:34:09] [Server thread/INFO]: AlmostJesus issued server command: /home
+[05:35:57] [Server thread/INFO]: Hottub99 issued server command: /home
+[05:36:07] [Server thread/INFO]: Hottub99 issued server command: /home
+[05:38:24] [Server thread/INFO]: AlmostJesus issued server command: /home
+[05:39:27] [Server thread/INFO]: Hottub99 issued server command: /back
+[05:40:12] [Server thread/INFO]: Hottub99 issued server command: /home
+[05:40:37] [Server thread/INFO]: Hottub99 issued server command: /home
+[05:41:22] [Server thread/INFO]: egger49 issued server command: /home
+[05:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[05:45:00] [Server thread/INFO]: Saving...
+[05:45:01] [Server thread/INFO]: Saved the world
+[05:45:01] [Server thread/INFO]: [Server] Save Complete
+[05:48:18] [Server thread/INFO]: egger49 issued server command: /back
+[05:51:07] [Server thread/INFO]: AlmostJesus issued server command: /home
+[05:51:08] [Server thread/INFO]: Hottub99 has just earned the achievement [Local Brewery]
+[05:51:51] [Server thread/INFO]: AlmostJesus issued server command: /home
+[05:54:28] [Server thread/INFO]: egger49 was slain by Hottub99
+[05:54:36] [Server thread/INFO]: egger49 issued server command: /back
+[05:56:22] [Server thread/INFO]: Hottub99 issued server command: /home
+[05:57:58] [Server thread/INFO]: AlmostJesus issued server command: /home
+[05:58:06] [Server thread/INFO]: egger49 was shot by Hottub99
+[05:58:17] [Server thread/INFO]: egger49 issued server command: /back
+[05:59:14] [Server thread/INFO]: egger49 issued server command: /home
+[05:59:56] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[06:00:00] [Server thread/INFO]: Saving...
+[06:00:00] [Server thread/INFO]: Saved the world
+[06:00:00] [Server thread/INFO]: [Server] Save Complete
+[06:01:46] [Server thread/INFO]: AlmostJesus issued server command: /tpa Hottub99
+[06:01:50] [Server thread/INFO]: Hottub99 issued server command: /tpaccept
+[06:02:22] [Server thread/INFO]: egger49 issued server command: /home
+[06:03:44] [Server thread/INFO]: egger49 lost connection: Disconnected
+[06:03:45] [Server thread/INFO]: egger49 left the game
+[06:03:53] [Async Chat Thread - #0/INFO]: <AlmostJesus> check the signs
+[06:05:22] [User Authenticator #5/INFO]: UUID of player egger49 is e480e72b-d142-4a5a-a8d7-abefdd147a95
+[06:05:22] [Server thread/INFO]: egger49[/99.247.164.202:63952] logged in with entity id 43719 at ([world]7553.769067628965, 173.0, 9491.33989754123)
+[06:05:22] [Server thread/INFO]: [Server] Welcome back, egger49
+[06:05:52] [Server thread/INFO]: egger49 lost connection: Disconnected
+[06:05:52] [Server thread/INFO]: egger49 left the game
+[06:06:15] [Server thread/INFO]: AlmostJesus was shot by Hottub99
+[06:06:28] [Server thread/INFO]: AlmostJesus issued server command: /back
+[06:07:47] [Server thread/INFO]: AlmostJesus issued server command: /home
+[06:07:57] [Server thread/INFO]: Hottub99 issued server command: /hoe
+[06:07:59] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:08:00] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[06:08:00] [Server thread/INFO]: AlmostJesus left the game
+[06:11:01] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:11:03] [Server thread/INFO]: Hottub99 was shot by Skeleton
+[06:11:09] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:12:57] [Server thread/INFO]: Hottub99 fell from a high place
+[06:13:02] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:13:36] [Server thread/INFO]: Hottub99 was shot by Skeleton
+[06:13:42] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:13:55] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:14:01] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:14:07] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:14:09] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[06:15:00] [Server thread/INFO]: Saving...
+[06:15:00] [Server thread/INFO]: Saved the world
+[06:15:00] [Server thread/INFO]: [Server] Save Complete
+[06:16:07] [Server thread/INFO]: Hottub99 fell from a high place
+[06:16:13] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:17:20] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:18:14] [Server thread/INFO]: Hottub99 fell from a high place
+[06:18:20] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:18:24] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:18:26] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:19:34] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[06:21:10] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:22:36] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:24:30] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:25:58] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:26:06] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:26:28] [Server thread/INFO]: Hottub99 issued server command: /sethome
+[06:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[06:30:00] [Server thread/INFO]: Saving...
+[06:30:00] [Server thread/INFO]: Saved the world
+[06:30:00] [Server thread/INFO]: [Server] Save Complete
+[06:30:34] [Server thread/INFO]: Hottub99 issued server command: /back
+[06:31:33] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:31:42] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:34:23] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:35:52] [Server thread/INFO]: Hottub99 issued server command: /home
+[06:42:22] [User Authenticator #6/INFO]: UUID of player AlmostJesus is 170093d5-d08f-4a8a-8217-05b1be0c0b32
+[06:42:22] [Server thread/INFO]: AlmostJesus[/174.117.23.186:57629] logged in with entity id 117686 at ([world]7558.42728196565, 168.0, 9488.291797776674)
+[06:42:22] [Server thread/INFO]: [Server] Welcome back, AlmostJesus
+[06:43:00] [Server thread/INFO]: AlmostJesus lost connection: Disconnected
+[06:43:00] [Server thread/INFO]: AlmostJesus left the game
+[06:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[06:45:00] [Server thread/INFO]: Saving...
+[06:45:00] [Server thread/INFO]: Saved the world
+[06:45:00] [Server thread/INFO]: [Server] Save Complete
+[06:49:24] [Server thread/INFO]: Hottub99 lost connection: Disconnected
+[06:49:24] [Server thread/INFO]: Hottub99 left the game
+[07:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:00:00] [Server thread/INFO]: Saving...
+[07:00:00] [Server thread/INFO]: Saved the world
+[07:00:00] [Server thread/INFO]: [Server] Save Complete
+[07:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:15:00] [Server thread/INFO]: Saving...
+[07:15:00] [Server thread/INFO]: Saved the world
+[07:15:00] [Server thread/INFO]: [Server] Save Complete
+[07:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:30:00] [Server thread/INFO]: Saving...
+[07:30:00] [Server thread/INFO]: Saved the world
+[07:30:00] [Server thread/INFO]: [Server] Save Complete
+[07:43:51] [User Authenticator #7/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[07:43:51] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49232] logged in with entity id 138125 at ([world]-95.13079233329067, 80.0, -34.20645877228986)
+[07:43:51] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[07:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[07:45:00] [Server thread/INFO]: Saving...
+[07:45:00] [Server thread/INFO]: Saved the world
+[07:45:00] [Server thread/INFO]: [Server] Save Complete
+[07:54:28] [Server thread/INFO]: BuuTheGreat was slain by Enderman
+[07:54:38] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[08:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:00:00] [Server thread/INFO]: Saving...
+[08:00:00] [Server thread/INFO]: Saved the world
+[08:00:00] [Server thread/INFO]: [Server] Save Complete
+[08:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:15:00] [Server thread/INFO]: Saving...
+[08:15:00] [Server thread/INFO]: Saved the world
+[08:15:00] [Server thread/INFO]: [Server] Save Complete
+[08:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[08:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:30:00] [Server thread/INFO]: Saving...
+[08:30:00] [Server thread/INFO]: Saved the world
+[08:30:00] [Server thread/INFO]: [Server] Save Complete
+[08:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[08:45:00] [Server thread/INFO]: Saving...
+[08:45:00] [Server thread/INFO]: Saved the world
+[08:45:00] [Server thread/INFO]: [Server] Save Complete
+[09:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:00:00] [Server thread/INFO]: Saving...
+[09:00:00] [Server thread/INFO]: Saved the world
+[09:00:00] [Server thread/INFO]: [Server] Save Complete
+[09:02:20] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[09:03:03] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[09:03:23] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[09:03:28] [Server thread/INFO]: BuuTheGreat issued server command: /back
+[09:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:15:00] [Server thread/INFO]: Saving...
+[09:15:00] [Server thread/INFO]: Saved the world
+[09:15:00] [Server thread/INFO]: [Server] Save Complete
+[09:16:38] [User Authenticator #8/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[09:16:38] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:64678] logged in with entity id 155223 at ([world]-1039.893137203353, 12.0, 136.7286826627509)
+[09:16:38] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[09:16:41] [Async Chat Thread - #1/INFO]: <BuuTheGreat> wb
+[09:16:43] [Async Chat Thread - #1/INFO]: <KevinDaBaws> thanks
+[09:16:47] [Server thread/INFO]: KevinDaBaws issued server command: /tpa buu
+[09:16:51] [Server thread/INFO]: BuuTheGreat issued server command: /tpaccept
+[09:16:52] [Async Chat Thread - #1/INFO]: <KevinDaBaws> God you're always on this server xD
+[09:17:00] [Async Chat Thread - #1/INFO]: <BuuTheGreat> haha not always
+[09:17:05] [Async Chat Thread - #1/INFO]: <BuuTheGreat> im fishing
+[09:17:06] [Async Chat Thread - #1/INFO]: <BuuTheGreat> :P
+[09:17:17] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Dammit I don't have a fishing rod, I'll make one stay here
+[09:17:19] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:17:28] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Time before next teleport = 30 secs
+[09:17:29] [Async Chat Thread - #1/INFO]: <KevinDaBaws> dammit
+[09:17:32] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:17:41] [Async Chat Thread - #1/INFO]: <KevinDaBaws> How many diamonds you have?
+[09:17:56] [Async Chat Thread - #1/INFO]: <KevinDaBaws> I only have 22
+[09:17:57] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:18:10] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Oops, I mean 30
+[09:18:21] [Server thread/INFO]: KevinDaBaws issued server command: /sethome home
+[09:18:24] [Server thread/INFO]: KevinDaBaws issued server command: /sethome home
+[09:18:25] [Server thread/INFO]: KevinDaBaws issued server command: /sethome home
+[09:18:38] [Async Chat Thread - #1/INFO]: <BuuTheGreat> I think 3 stacks
+[09:18:40] [Async Chat Thread - #1/INFO]: <BuuTheGreat> :p
+[09:18:41] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Dammit
+[09:19:36] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Now I have one diamond
+[09:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[09:20:17] [Server thread/INFO]: KevinDaBaws issued server command: /tpa BuuTheGreat
+[09:20:22] [Server thread/INFO]: BuuTheGreat issued server command: /tpaccept
+[09:20:26] [Async Chat Thread - #1/INFO]: <KevinDaBaws> There's a zombie spawner next to my house ahh
+[09:20:37] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Got any food? All I have is a pufferfish
+[09:20:48] [Async Chat Thread - #1/INFO]: <KevinDaBaws> thanks
+[09:21:17] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Yay
+[09:21:27] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Raw salmon
+[09:21:31] [Async Chat Thread - #1/INFO]: <BuuTheGreat> nice
+[09:21:50] [Async Chat Thread - #1/INFO]: <KevinDaBaws> nice
+[09:21:58] [Async Chat Thread - #1/INFO]: <KevinDaBaws> Yay
+[09:22:43] [Async Chat Thread - #1/INFO]: <KevinDaBaws> prot 3 loot 2
+[09:22:44] [Async Chat Thread - #1/INFO]: <KevinDaBaws> omg
+[09:22:47] [Async Chat Thread - #1/INFO]: <KevinDaBaws> It's a book
+[09:22:50] [Async Chat Thread - #1/INFO]: <BuuTheGreat> nice
+[09:24:11] [Async Chat Thread - #2/INFO]: <KevinDaBaws> I get nothing dammit
+[09:25:39] [Async Chat Thread - #3/INFO]: <KevinDaBaws> ded
+[09:25:55] [Async Chat Thread - #3/INFO]: <KevinDaBaws> Wait how was the skeleton not burning
+[09:26:01] [Async Chat Thread - #3/INFO]: <KevinDaBaws> I'm thinking because of the helmet
+[09:26:02] [Server thread/INFO]: KevinDaBaws issued server command: /pl
+[09:26:16] [Async Chat Thread - #3/INFO]: <BuuTheGreat> it had an helmet I think
+[09:26:20] [Async Chat Thread - #3/INFO]: <KevinDaBaws> YEah it did
+[09:27:33] [Async Chat Thread - #4/INFO]: <KevinDaBaws> *Yeah
+[09:27:55] [Async Chat Thread - #4/INFO]: <KevinDaBaws> A bow
+[09:27:55] [Async Chat Thread - #4/INFO]: <KevinDaBaws> ooh
+[09:28:02] [Async Chat Thread - #4/INFO]: <BuuTheGreat> :)
+[09:28:09] [Async Chat Thread - #4/INFO]: <KevinDaBaws> Unb 3 yay
+[09:28:27] [Async Chat Thread - #4/INFO]: <KevinDaBaws> You be stealing meh fishies
+[09:28:31] [Async Chat Thread - #4/INFO]: <BuuTheGreat> :p
+[09:28:32] [Async Chat Thread - #4/INFO]: <KevinDaBaws> xD
+[09:28:49] [Async Chat Thread - #4/INFO]: <KevinDaBaws> Want to go kill some mobs?
+[09:28:49] [Async Chat Thread - #4/INFO]: <BuuTheGreat> well you get books :o
+[09:28:52] [Async Chat Thread - #4/INFO]: <KevinDaBaws> True xD
+[09:29:00] [Async Chat Thread - #4/INFO]: <BuuTheGreat> nah I fish lol
+[09:29:04] [Async Chat Thread - #4/INFO]: <KevinDaBaws> Ah lol
+[09:29:11] [Async Chat Thread - #4/INFO]: <BuuTheGreat> mobs too scary for me
+[09:29:12] [Async Chat Thread - #4/INFO]: <BuuTheGreat> lol
+[09:29:16] [Async Chat Thread - #4/INFO]: <KevinDaBaws> I wonder if the fishies hate me
+[09:29:19] [Async Chat Thread - #4/INFO]: <KevinDaBaws> xD
+[09:29:32] [Async Chat Thread - #4/INFO]: <BuuTheGreat> you've a regular rod that's why
+[09:29:36] [Async Chat Thread - #4/INFO]: <KevinDaBaws> Ah
+[09:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:30:00] [Server thread/INFO]: Saving...
+[09:30:00] [Server thread/INFO]: Saved the world
+[09:30:00] [Server thread/INFO]: [Server] Save Complete
+[09:30:13] [Async Chat Thread - #4/INFO]: <KevinDaBaws> There's a cool tower over there
+[09:30:22] [Async Chat Thread - #4/INFO]: <BuuTheGreat> the spawn?
+[09:30:31] [Async Chat Thread - #4/INFO]: <KevinDaBaws> Oh that's what it is?
+[09:30:51] [Async Chat Thread - #4/INFO]: <BuuTheGreat> Well there's nothing else in that direction
+[09:30:58] [Async Chat Thread - #4/INFO]: <KevinDaBaws> Ok then
+[09:31:25] [Async Chat Thread - #4/INFO]: <BuuTheGreat> all I get is fish..:P
+[09:31:29] [Async Chat Thread - #4/INFO]: <KevinDaBaws> xD
+[09:31:37] [Async Chat Thread - #4/INFO]: <KevinDaBaws> I got a book and it's a regular rod
+[09:31:48] [Async Chat Thread - #4/INFO]: <BuuTheGreat> yea happened to me too
+[09:31:52] [Async Chat Thread - #4/INFO]: <KevinDaBaws> xD
+[09:32:22] [Async Chat Thread - #4/INFO]: <BuuTheGreat> well when it's time, I can get 5 books almost of every throw
+[09:32:27] [Async Chat Thread - #4/INFO]: <KevinDaBaws> :o
+[09:32:31] [Async Chat Thread - #4/INFO]: <BuuTheGreat> like almost 5 in a row
+[09:33:16] [Async Chat Thread - #4/INFO]: <BuuTheGreat> the luck sleeps still
+[09:33:21] [Async Chat Thread - #4/INFO]: <KevinDaBaws> xD
+[09:34:22] [Async Chat Thread - #5/INFO]: <BuuTheGreat> looting 2 is actually what I'm waiting for :P
+[09:34:29] [Async Chat Thread - #5/INFO]: <KevinDaBaws> I have that xD
+[09:34:32] [Async Chat Thread - #5/INFO]: <BuuTheGreat> cause I've got one already
+[09:34:39] [Async Chat Thread - #5/INFO]: <KevinDaBaws> A zombie armed with seeds omg
+[09:34:44] [Async Chat Thread - #5/INFO]: <BuuTheGreat> lol
+[09:34:47] [Async Chat Thread - #5/INFO]: <KevinDaBaws> And a chainmail zombie villager
+[09:34:56] [Async Chat Thread - #5/INFO]: <BuuTheGreat> lol
+[09:35:03] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Also I think enchanted chainmail
+[09:35:10] [Async Chat Thread - #5/INFO]: <BuuTheGreat> omg
+[09:35:12] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Oh god it is
+[09:35:16] [Async Chat Thread - #5/INFO]: <KevinDaBaws> I got the leggings
+[09:35:25] [Async Chat Thread - #5/INFO]: <BuuTheGreat> chain legs?
+[09:35:27] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Projectile protection 4, unb 3
+[09:35:28] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Yea
+[09:35:32] [Async Chat Thread - #5/INFO]: <BuuTheGreat> not bad man
+[09:35:36] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Ikr
+[09:35:37] [Async Chat Thread - #5/INFO]: <BuuTheGreat> unb 3 :o
+[09:35:42] [Async Chat Thread - #5/INFO]: <KevinDaBaws> :o indeed
+[09:35:49] [Async Chat Thread - #5/INFO]: <KevinDaBaws> And a skeleton horse
+[09:35:52] [Async Chat Thread - #5/INFO]: <KevinDaBaws> what the hell is happening
+[09:35:59] [Async Chat Thread - #5/INFO]: <BuuTheGreat> lol
+[09:36:06] [Async Chat Thread - #5/INFO]: <KevinDaBaws> should i kill it
+[09:36:07] [Server thread/INFO]: KevinDaBaws issued server command: /mob
+[09:36:07] [Server thread/INFO]: §cKevinDaBaws §4was denied access to command.
+[09:36:15] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Oh god I can mount it
+[09:36:15] [Async Chat Thread - #5/INFO]: <BuuTheGreat> get a bone
+[09:36:30] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:36:36] [Async Chat Thread - #5/INFO]: <KevinDaBaws> tpa a sec
+[09:36:40] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Stay here I'm going to get a saddl
+[09:36:43] [Async Chat Thread - #5/INFO]: <KevinDaBaws> *saddle
+[09:36:47] [Async Chat Thread - #5/INFO]: <BuuTheGreat> ok
+[09:36:52] [Server thread/INFO]: KevinDaBaws issued server command: /tpahere buu
+[09:36:57] [Server thread/INFO]: BuuTheGreat issued server command: /tpaccept
+[09:37:01] [Async Chat Thread - #5/INFO]: <KevinDaBaws> The horse was doing a weird spin
+[09:37:04] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:37:06] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Stay
+[09:37:44] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:37:47] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:37:53] [Async Chat Thread - #5/INFO]: <KevinDaBaws> kek
+[09:37:54] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:37:55] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:37:56] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:37:56] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:37:57] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:37:57] [Server thread/INFO]: KevinDaBaws issued server command: /homet
+[09:37:58] [Async Chat Thread - #5/INFO]: <BuuTheGreat> lol
+[09:37:59] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:38:00] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:38:01] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:38:01] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:38:02] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:38:03] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:38:10] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Time before next teleport: now
+[09:38:15] [Async Chat Thread - #5/INFO]: <BuuTheGreat> :p
+[09:38:29] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Dammit I thought I had a saddle
+[09:38:47] [Async Chat Thread - #5/INFO]: <KevinDaBaws> All I have is diamond horse armour
+[09:38:48] [Server thread/INFO]: KevinDaBaws issued server command: /tpa buu
+[09:38:52] [Server thread/INFO]: BuuTheGreat issued server command: /tpaccept
+[09:39:24] [Server thread/INFO]: KevinDaBaws issued server command: /tpa buu
+[09:39:25] [Async Chat Thread - #5/INFO]: <KevinDaBaws> kek
+[09:39:30] [Server thread/INFO]: BuuTheGreat issued server command: /tpaccept
+[09:39:48] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Do you have a saddle?
+[09:40:23] [Server thread/WARN]: BuuTheGreat was kicked for floating too long!
+[09:40:23] [Server thread/INFO]: BuuTheGreat lost connection: user was kicked.
+[09:40:23] [Server thread/INFO]: BuuTheGreat lost connection: Flying is not enabled on this server
+[09:40:23] [Server thread/INFO]: BuuTheGreat left the game
+[09:40:23] [Server thread/WARN]: handleDisconnection() called twice
+[09:40:41] [User Authenticator #9/INFO]: UUID of player BuuTheGreat is e411fd8a-28e6-445f-bdbd-009259ee03ca
+[09:40:41] [Server thread/INFO]: BuuTheGreat[/91.159.165.4:49366] logged in with entity id 161759 at ([world]-49.54922491895911, 72.78947876269956, 75.51645859417202)
+[09:40:42] [Server thread/INFO]: [Server] Welcome back, BuuTheGreat
+[09:40:44] [Async Chat Thread - #5/INFO]: <KevinDaBaws> hullo
+[09:40:46] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Do you have a saddle?
+[09:40:53] [Async Chat Thread - #5/INFO]: <BuuTheGreat> somewhere
+[09:41:03] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Can I have it please?
+[09:41:12] [Async Chat Thread - #5/INFO]: <BuuTheGreat> too lazy to get it
+[09:41:14] [Async Chat Thread - #5/INFO]: <BuuTheGreat> :P
+[09:41:20] [Async Chat Thread - #5/INFO]: <KevinDaBaws> :(
+[09:41:21] [Async Chat Thread - #5/INFO]: <KevinDaBaws> pleasew
+[09:41:23] [Async Chat Thread - #5/INFO]: <KevinDaBaws> *please
+[09:41:32] [Async Chat Thread - #5/INFO]: <BuuTheGreat> you can fish one :D
+[09:41:44] [Async Chat Thread - #5/INFO]: <KevinDaBaws> But it'll take fifty years
+[09:41:50] [Async Chat Thread - #5/INFO]: <BuuTheGreat> nah man
+[09:41:53] [Async Chat Thread - #5/INFO]: <BuuTheGreat> only 5
+[09:41:55] [Async Chat Thread - #5/INFO]: <BuuTheGreat> :P
+[09:42:01] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Please, I'll trade it for sommut if you want
+[09:42:08] [Async Chat Thread - #5/INFO]: <BuuTheGreat> looting book :P
+[09:42:14] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Not worth it :P
+[09:42:20] [Async Chat Thread - #5/INFO]: <BuuTheGreat> you get saddle and dia block?
+[09:42:28] [Async Chat Thread - #5/INFO]: <BuuTheGreat> fair trade
+[09:42:34] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Two diamond blocks
+[09:42:40] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Wait you have three stacks
+[09:42:40] [Async Chat Thread - #5/INFO]: <BuuTheGreat> no man XD
+[09:42:43] [Async Chat Thread - #5/INFO]: <KevinDaBaws> so three diamond blocks
+[09:42:47] [Async Chat Thread - #5/INFO]: <BuuTheGreat> nah man
+[09:42:53] [Async Chat Thread - #5/INFO]: <BuuTheGreat> 1
+[09:42:53] [Async Chat Thread - #5/INFO]: <KevinDaBaws> fine, the saddle and dia block
+[09:42:56] [Async Chat Thread - #5/INFO]: <BuuTheGreat> + saddle
+[09:42:59] [Server thread/INFO]: BuuTheGreat issued server command: /home
+[09:43:03] [Async Chat Thread - #5/INFO]: <KevinDaBaws> What else do you have?
+[09:43:10] [Async Chat Thread - #5/INFO]: <BuuTheGreat> all kind of shit
+[09:43:11] [Async Chat Thread - #5/INFO]: <BuuTheGreat> :p
+[09:43:18] [Async Chat Thread - #5/INFO]: <KevinDaBaws> I can tell you want this a lot and you'll do anything for it
+[09:43:29] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Do you have an efficiency or sharpness book?
+[09:43:40] [Async Chat Thread - #5/INFO]: <BuuTheGreat> sharp 3
+[09:44:03] [Async Chat Thread - #5/INFO]: <KevinDaBaws> So the saddle + sharp 3 book and diamond block for the looting book
+[09:44:18] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Ok?
+[09:44:19] [Async Chat Thread - #5/INFO]: <BuuTheGreat> wow man you're such a business man :P
+[09:44:23] [Async Chat Thread - #5/INFO]: <KevinDaBaws> yep
+[09:44:25] [Async Chat Thread - #5/INFO]: <BuuTheGreat> I like you
+[09:44:41] [Async Chat Thread - #5/INFO]: <BuuTheGreat> but I think it
+[09:44:44] [Async Chat Thread - #5/INFO]: <BuuTheGreat> a deal
+[09:44:58] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Good, tpa to stay with my horse for a sec
+[09:44:59] [Async Chat Thread - #5/INFO]: <BuuTheGreat> wait
+[09:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[09:45:00] [Server thread/INFO]: Saving...
+[09:45:00] [Server thread/INFO]: Saved the world
+[09:45:00] [Server thread/INFO]: [Server] Save Complete
+[09:45:11] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Also, do you have a leash? Maybe we could throw in a leash into the deal
+[09:45:23] [Async Chat Thread - #5/INFO]: <BuuTheGreat> no I haven't saddly
+[09:45:28] [Async Chat Thread - #5/INFO]: <KevinDaBaws> That's ok then
+[09:45:33] [Async Chat Thread - #5/INFO]: <KevinDaBaws> haha, saddly
+[09:45:39] [Async Chat Thread - #5/INFO]: <BuuTheGreat> :P
+[09:46:20] [Server thread/INFO]: BuuTheGreat issued server command: /tpa kev
+[09:46:22] [Async Chat Thread - #5/INFO]: <BuuTheGreat> ok
+[09:46:32] [Server thread/INFO]: KevinDaBaws issued server command: /tpyes
+[09:46:45] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Stay here
+[09:46:46] [Server thread/INFO]: KevinDaBaws issued server command: /home
+[09:46:51] [Async Chat Thread - #5/INFO]: <BuuTheGreat> okay
+[09:46:59] [Server thread/INFO]: KevinDaBaws issued server command: /back
+[09:47:05] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Dammit 51 sec wait
+[09:47:09] [Async Chat Thread - #5/INFO]: <BuuTheGreat> :P
+[09:47:32] [Async Chat Thread - #5/INFO]: <KevinDaBaws> One sec
+[09:47:37] [Async Chat Thread - #5/INFO]: <KevinDaBaws> Or rather 51 secs
+[09:47:42] [Async Chat Thread - #5/INFO]: <BuuTheGreat> :P
+[09:47:48] [Async Chat Thread - #5/INFO]: <BuuTheGreat> 51 more :o
+[09:47:49] [Async Chat Thread - #5/INFO]: <BuuTheGreat> lol
+[09:47:57] [Async Chat Thread - #5/INFO]: <BuuTheGreat> must leave soon hurry
+[09:47:58] [Async Chat Thread - #5/INFO]: <BuuTheGreat> lol
+[09:48:50] [Server thread/INFO]: KevinDaBaws issued server command: /tpa buu
+[09:48:58] [Server thread/INFO]: BuuTheGreat issued server command: /tpaccept
+[09:49:11] [Async Chat Thread - #6/INFO]: <KevinDaBaws> First my payment
+[09:49:16] [Async Chat Thread - #6/INFO]: <BuuTheGreat> ye
+[09:49:20] [Async Chat Thread - #6/INFO]: <KevinDaBaws> muahaha
+[09:49:23] [Async Chat Thread - #6/INFO]: <KevinDaBaws> jk
+[09:49:24] [Async Chat Thread - #6/INFO]: <BuuTheGreat> give it
+[09:49:31] [Async Chat Thread - #6/INFO]: <BuuTheGreat> thanks :)
+[09:49:34] [Async Chat Thread - #6/INFO]: <KevinDaBaws> Nice making buzziness with you
+[09:49:41] [Async Chat Thread - #6/INFO]: <BuuTheGreat> same
+[09:49:43] [Async Chat Thread - #6/INFO]: <KevinDaBaws> throw in that bow
+[09:49:51] [Async Chat Thread - #6/INFO]: <BuuTheGreat> no man
+[09:49:53] [Async Chat Thread - #6/INFO]: <KevinDaBaws> jk
+[09:50:28] [Async Chat Thread - #6/INFO]: <BuuTheGreat> I've not 3 stacks of dias anymore :P
+[09:50:32] [Async Chat Thread - #6/INFO]: <KevinDaBaws> lol
+[09:50:53] [Async Chat Thread - #6/INFO]: <KevinDaBaws> Brb
+[09:51:26] [Server thread/INFO]: KevinDaBaws lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[09:51:26] [Server thread/INFO]: KevinDaBaws left the game
+[09:52:21] [Server thread/INFO]: BuuTheGreat lost connection: Disconnected
+[09:52:21] [Server thread/INFO]: BuuTheGreat left the game
+[09:53:02] [User Authenticator #10/INFO]: UUID of player KevinDaBaws is b48a86c6-6394-4ae8-928e-ab1b906818b1
+[09:53:02] [Server thread/INFO]: KevinDaBaws[/92.0.179.202:64754] logged in with entity id 166150 at ([world]-169.3776607453449, 64.0, -31.49241135063025)
+[09:53:02] [Server thread/INFO]: [Server] Welcome back, KevinDaBaws
+[09:53:08] [Async Chat Thread - #7/INFO]: <KevinDaBaws> Hai
+[09:55:14] [Server thread/INFO]: KevinDaBaws lost connection: Disconnected
+[09:55:14] [Server thread/INFO]: KevinDaBaws left the game
+[10:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[10:00:00] [Server thread/INFO]: Saving...
+[10:00:00] [Server thread/INFO]: Saved the world
+[10:00:00] [Server thread/INFO]: [Server] Save Complete
