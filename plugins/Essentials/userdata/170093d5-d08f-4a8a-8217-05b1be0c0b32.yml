@@ -1,16 +1,16 @@
 lastAccountName: AlmostJesus
 timestamps:
-  login: 1472016766414
-  logout: 1472017791393
+  login: 1472056806267
+  logout: 1472057019354
   lastteleport: 1472017761350
 ipAddress: 174.117.23.186
 logoutlocation:
   world: world
-  x: 7559.218370344436
+  x: 7558.1616920165025
   y: 168.0
-  z: 9489.839379404597
-  yaw: -195.18176
-  pitch: 14.099614
+  z: 9491.699999988079
+  yaw: -175.52881
+  pitch: 22.649553
 lastlocation:
   world: world
   x: -39.76115443283748
