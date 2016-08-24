@@ -1,0 +1,259 @@
+[11:14:02] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[11:14:02] [Server thread/INFO]: Loading properties
+[11:14:02] [Server thread/INFO]: Default game type: SURVIVAL
+[11:14:03] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-078e2f8-9ff3d7f (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[11:14:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:14:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:14:03] [Server thread/INFO]: Debug logging is disabled
+[11:14:03] [Server thread/INFO]: Generating keypair
+[11:14:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:14:03] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:14:04] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.13.1
+[11:14:04] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
+[11:14:04] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[11:14:04] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b424
+[11:14:04] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[11:14:04] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[11:14:04] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:14:04] [Server thread/INFO]: Preparing level "world"
+[11:14:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3820634467636136119)
+[11:14:05] [Server thread/INFO]: Preparing spawn area: 0%
+[11:14:06] [Server thread/INFO]: Preparing spawn area: 34%
+[11:14:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3488346064576240778)
+[11:14:08] [Server thread/INFO]: Preparing spawn area: 90%
+[11:14:08] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3820634467636136119)
+[11:14:09] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.13.1
+[11:14:09] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[11:14:09] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[11:14:09] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
+[11:14:09] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
+[11:14:09] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[11:14:11] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:14:11] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to /home/mcma/Minecraft/plugins/WorldEdit/worldedit.log
+[11:14:11] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
+[11:14:11] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b424
+[11:14:11] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsSpawn to the same version.
+[11:14:11] [Server thread/INFO]: Using locale en
+[11:14:11] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[11:14:11] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[11:14:11] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[11:14:11] [Server thread/INFO]: Using locale en
+[11:14:11] [Server thread/INFO]: [Essentials] Metrics disabled per PluginMetrics config.
+[11:14:11] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[11:14:11] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[11:14:11] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b${BUILD_NUMBER}
+[11:14:11] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[11:14:11] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[11:14:12] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[11:14:12] [Server thread/INFO]: [WorldGuard] Loading region data...
+[11:14:12] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/minecraft (MySQL 5.7)
+[11:14:12] [Server thread/INFO]: [WorldGuard] Current version of schema `minecraft`: 2
+[11:14:12] [Server thread/INFO]: [WorldGuard] Schema `minecraft` is up to date. No migration necessary.
+[11:14:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:14:13] [Server thread/INFO]: Done (8.957s)! For help, type "help" or "?"
+[11:14:13] [Server thread/INFO]: Starting GS4 status listener
+[11:14:13] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[11:14:13] [Server thread/INFO]: Using epoll channel type
+[11:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[11:15:00] [Server thread/INFO]: Saving...
+[11:15:01] [Server thread/INFO]: Saved the world
+[11:15:01] [Server thread/INFO]: [Server] Save Complete
+[11:21:58] [Thread-9/WARN]: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:21:58] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.GeneratedConstructorAccessor88.newInstance(Unknown Source)
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:21:58] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+[11:21:58] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+[11:21:58] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+[11:21:58] [Thread-9/WARN]: 	at net.coreprotect.database.Database.getConnection(Database.java:89)
+[11:21:58] [Thread-9/WARN]: 	at net.coreprotect.consumer.Process.processConsumer(Process.java:28)
+[11:21:58] [Thread-9/WARN]: 	at net.coreprotect.consumer.Consumer.run(Consumer.java:105)
+[11:21:58] [Thread-9/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[11:21:58] [Thread-9/WARN]: Caused by: java.net.ConnectException: Connection refused
+[11:21:58] [Thread-9/WARN]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[11:21:58] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[11:21:58] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[11:21:58] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[11:21:58] [Thread-9/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[11:21:58] [Thread-9/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+[11:21:58] [Thread-9/WARN]: 	... 17 more
+[11:21:58] [Thread-9/WARN]: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:21:58] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.GeneratedConstructorAccessor88.newInstance(Unknown Source)
+[11:21:58] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:21:58] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+[11:21:58] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+[11:21:58] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+[11:21:58] [Thread-9/WARN]: 	at net.coreprotect.database.Database.getConnection(Database.java:89)
+[11:21:58] [Thread-9/WARN]: 	at net.coreprotect.consumer.Process.processConsumer(Process.java:28)
+[11:21:58] [Thread-9/WARN]: 	at net.coreprotect.consumer.Consumer.run(Consumer.java:105)
+[11:21:58] [Thread-9/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[11:21:58] [Thread-9/WARN]: Caused by: java.net.ConnectException: Connection refused
+[11:21:58] [Thread-9/WARN]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[11:21:58] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[11:21:58] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[11:21:58] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[11:21:58] [Thread-9/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[11:21:58] [Thread-9/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+[11:21:58] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+[11:21:58] [Thread-9/WARN]: 	... 17 more
+[11:21:59] [Thread-9/WARN]: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:21:59] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.GeneratedConstructorAccessor88.newInstance(Unknown Source)
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:21:59] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+[11:21:59] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+[11:21:59] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+[11:21:59] [Thread-9/WARN]: 	at net.coreprotect.database.Database.getConnection(Database.java:89)
+[11:21:59] [Thread-9/WARN]: 	at net.coreprotect.consumer.Process.processConsumer(Process.java:28)
+[11:21:59] [Thread-9/WARN]: 	at net.coreprotect.consumer.Consumer.run(Consumer.java:105)
+[11:21:59] [Thread-9/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[11:21:59] [Thread-9/WARN]: Caused by: java.net.ConnectException: Connection refused
+[11:21:59] [Thread-9/WARN]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[11:21:59] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[11:21:59] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[11:21:59] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[11:21:59] [Thread-9/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[11:21:59] [Thread-9/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+[11:21:59] [Thread-9/WARN]: 	... 17 more
+[11:21:59] [Thread-9/WARN]: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:21:59] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.GeneratedConstructorAccessor88.newInstance(Unknown Source)
+[11:21:59] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:21:59] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+[11:21:59] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+[11:21:59] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+[11:21:59] [Thread-9/WARN]: 	at net.coreprotect.database.Database.getConnection(Database.java:89)
+[11:21:59] [Thread-9/WARN]: 	at net.coreprotect.consumer.Process.processConsumer(Process.java:28)
+[11:21:59] [Thread-9/WARN]: 	at net.coreprotect.consumer.Consumer.run(Consumer.java:105)
+[11:21:59] [Thread-9/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[11:21:59] [Thread-9/WARN]: Caused by: java.net.ConnectException: Connection refused
+[11:21:59] [Thread-9/WARN]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[11:21:59] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[11:21:59] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[11:21:59] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[11:21:59] [Thread-9/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[11:21:59] [Thread-9/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+[11:21:59] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+[11:21:59] [Thread-9/WARN]: 	... 17 more
+[11:22:00] [Thread-9/WARN]: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[11:22:00] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[11:22:00] [Thread-9/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[11:22:00] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:22:00] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+[11:22:00] [Thread-9/WARN]: 	at sun.reflect.GeneratedConstructorAccessor88.newInstance(Unknown Source)
+[11:22:00] [Thread-9/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[11:22:00] [Thread-9/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+[11:22:00] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+[11:22:00] [Thread-9/WARN]: 	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+[11:22:00] [Thread-9/WARN]: 	at net.coreprotect.database.Database.getConnection(Database.java:89)
+[11:22:00] [Thread-9/WARN]: 	at net.coreprotect.consumer.Process.processConsumer(Process.java:28)
+[11:22:00] [Thread-9/WARN]: 	at net.coreprotect.consumer.Consumer.run(Consumer.java:105)
+[11:22:00] [Thread-9/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[11:22:00] [Thread-9/WARN]: Caused by: java.net.ConnectException: Connection refused
+[11:22:00] [Thread-9/WARN]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[11:22:00] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[11:22:00] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[11:22:00] [Thread-9/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[11:22:00] [Thread-9/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[11:22:00] [Thread-9/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+[11:22:00] [Thread-9/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+[11:22:00] [Thread-9/WARN]: 	... 17 more
