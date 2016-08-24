@@ -2,3 +2,33 @@
 [00:00:00] [Server thread/INFO]: Saving...
 [00:00:00] [Server thread/INFO]: Saved the world
 [00:00:00] [Server thread/INFO]: [Server] Save Complete
+[00:15:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[00:15:00] [Server thread/INFO]: Saving...
+[00:15:00] [Server thread/INFO]: Saved the world
+[00:15:00] [Server thread/INFO]: [Server] Save Complete
+[00:16:47] [User Authenticator #52/INFO]: UUID of player AidenMoMo is 097586fc-29a9-449d-98ef-5f6d23e466ce
+[00:16:47] [Server thread/INFO]: AidenMoMo[/73.251.23.206:56965] logged in with entity id 471769 at ([world]-2332.0034517168538, 82.0, 288.01862043565023)
+[00:16:47] [Server thread/INFO]: [Server] Welcome back, AidenMoMo
+[00:17:19] [User Authenticator #53/INFO]: UUID of player sneadel is 3250aa4f-e7f0-4845-b5f3-5acb033afb78
+[00:17:19] [Server thread/INFO]: sneadel[/71.29.44.63:57036] logged in with entity id 472087 at ([world]-40.09377678085016, 68.0, 258.84275152365655)
+[00:17:19] [Server thread/INFO]: [Server] Welcome back, sneadel
+[00:17:49] [Server thread/INFO]: sneadel issued server command: /tpa ai
+[00:18:08] [Server thread/INFO]: AidenMoMo issued server command: /tpaccept
+[00:20:00] [Server thread/INFO]: [Server] Visit our website at https://www.mineapple.co.uk/
+[00:20:28] [Server thread/INFO]: sneadel was burnt to a crisp whilst fighting Zombie
+[00:21:53] [Server thread/INFO]: sneadel lost connection: Disconnected
+[00:21:53] [Server thread/INFO]: sneadel left the game
+[00:22:10] [Server thread/INFO]: AidenMoMo lost connection: Disconnected
+[00:22:10] [Server thread/INFO]: AidenMoMo left the game
+[00:30:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[00:30:00] [Server thread/INFO]: Saving...
+[00:30:00] [Server thread/INFO]: Saved the world
+[00:30:00] [Server thread/INFO]: [Server] Save Complete
+[00:45:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[00:45:00] [Server thread/INFO]: Saving...
+[00:45:00] [Server thread/INFO]: Saved the world
+[00:45:00] [Server thread/INFO]: [Server] Save Complete
+[01:00:00] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+[01:00:00] [Server thread/INFO]: Saving...
+[01:00:00] [Server thread/INFO]: Saved the world
+[01:00:00] [Server thread/INFO]: [Server] Save Complete

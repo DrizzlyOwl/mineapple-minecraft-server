@@ -1,16 +1,16 @@
 lastAccountName: AidenMoMo
 timestamps:
-  login: 1471991077762
-  logout: 1471991852687
+  login: 1471994207094
+  logout: 1471994530884
   lastteleport: 1471990440827
 ipAddress: 73.251.23.206
 logoutlocation:
   world: world
-  x: -2332.0034517168538
-  y: 82.0
-  z: 288.01862043565023
-  yaw: -80.850525
-  pitch: 82.49998
+  x: -2328.6423556682985
+  y: 88.0
+  z: 293.42720668435135
+  yaw: -181.49924
+  pitch: 30.449972
 nickname: happyspike
 lastlocation:
   world: world
