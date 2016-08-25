@@ -1,16 +1,16 @@
 lastAccountName: Danomanic
 timestamps:
-  login: 1471983614353
-  logout: 1471983703017
+  login: 1472070592568
+  logout: 1472071794967
   lastteleport: 1471608105416
 ipAddress: 86.16.139.135
 logoutlocation:
   world: world
-  x: 399.6296844989596
-  y: 66.0
-  z: 101.51980347979365
-  yaw: -129.1473
-  pitch: 0.4499673
+  x: 569.5445939818528
+  y: 11.0
+  z: 104.98256465430946
+  yaw: -99.29199
+  pitch: 6.2999563
 lastlocation:
   world: world
   x: 445.38305939350323
