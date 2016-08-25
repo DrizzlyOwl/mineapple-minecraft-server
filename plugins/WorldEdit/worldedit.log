@@ -751,3 +751,49 @@
 [INFO] WorldEdit: DrizzlyOwl (in "world"): /wand
 [INFO] WorldEdit: DrizzlyOwl (in "world"): /copy
 [INFO] WorldEdit: DrizzlyOwl (in "world"): /paste - Position: (7528.0, 100.0, 9502.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (-31.863109630676153, 41.06456864318111, 456.25770655585126)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (-4.964106669907501, 57.55346547584243, 485.4169022442391)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace 1:6 - Region: (-32.0, 41.0, 456.0) - (-5.0, 57.0, 485.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /undo
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace dirt 1:6 - Region: (-32.0, 41.0, 456.0) - (-5.0, 57.0, 485.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace planks 1:6 - Region: (-32.0, 41.0, 456.0) - (-5.0, 57.0, 485.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace 5 1:6 - Region: (-32.0, 41.0, 456.0) - (-5.0, 57.0, 485.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (-65.77199254283764, 84.60870638792198, 451.91262388708736)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (18.010093131876346, 92.85598809809365, 515.5220947324003)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace 216 - Region: (-66.0, 84.0, 451.0) - (18.0, 92.0, 515.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /undo
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace netherreack 216 - Region: (-66.0, 84.0, 451.0) - (18.0, 92.0, 515.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace stone 216 - Region: (-66.0, 84.0, 451.0) - (18.0, 92.0, 515.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace dirt 216 - Region: (-66.0, 84.0, 451.0) - (18.0, 92.0, 515.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace cobblestone 216 - Region: (-66.0, 84.0, 451.0) - (18.0, 92.0, 515.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace stonebrick 216 - Region: (-66.0, 84.0, 451.0) - (18.0, 92.0, 515.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace 216 1 - Region: (-66.0, 84.0, 451.0) - (18.0, 92.0, 515.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /pos1 - Position: (-91.57698879157627, 88.49601292615363, 439.81210920048534)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /pos2 - Position: (14.806496573015485, 100.85561446504867, 527.8642658477515)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace 216 1 - Region: (-92.0, 88.0, 439.0) - (14.0, 100.0, 527.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace netherrack 1 - Region: (-92.0, 88.0, 439.0) - (14.0, 100.0, 527.0)
+[INFO] WorldEdit: WalshyXD (in "world_the_end"): /replace dirt 1 - Region: (-92.0, 88.0, 439.0) - (14.0, 100.0, 527.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): cylinder 4 1
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-2317.3650151056554, 82.0, 178.39158981983422)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-2348.7618916793253, 96.53859992665366, 155.98115279128436)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace cobblestone - Region: (-2349.0, 82.0, 155.0) - (-2318.0, 96.0, 178.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace cobblestone - Region: (-2349.0, 82.0, 155.0) - (-2318.0, 96.0, 178.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-2317.699999988079, 83.0, 155.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-2334.699999988079, 81.0, 167.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace cobblestone grass - Region: (-2335.0, 81.0, 155.0) - (-2318.0, 83.0, 167.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-2346.6943354230248, 89.11825760591549, 159.97746148395834)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-2316.2199324086787, 87.62369908429427, 141.64055004008407)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace grass - Region: (-2347.0, 87.0, 141.0) - (-2317.0, 89.0, 159.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-2313.9576600223527, 82.7496952691024, 141.10696205036905)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace grass - Region: (-2347.0, 82.0, 141.0) - (-2314.0, 89.0, 159.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-2311.3183603879143, 78.26410242960091, 173.98654988239616)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-2344.26965249387, 88.36243871178907, 139.40187916370218)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace grass - Region: (-2345.0, 78.0, 139.0) - (-2312.0, 88.0, 173.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-2326.5761204148803, 82.0, 173.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-2343.699999988079, 88.0, 158.69999998807907)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace cobbstone - Region: (-2344.0, 82.0, 158.0) - (-2327.0, 88.0, 173.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /replace cobblestone - Region: (-2344.0, 82.0, 158.0) - (-2327.0, 88.0, 173.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
