@@ -1,24 +1,24 @@
 lastAccountName: AidenMoMo
 timestamps:
-  login: 1472158303608
-  logout: 1472158313702
-  lastteleport: 1471990440827
+  login: 1472168246089
+  logout: 1472172043764
+  lastteleport: 1472169568986
 ipAddress: 73.251.23.206
 logoutlocation:
   world: world
-  x: -2349.4551939821367
-  y: 104.0
-  z: 138.7109252997769
-  yaw: 249.612
-  pitch: 12.749947
-nickname: happyspike
+  x: -2351.160565714792
+  y: 103.5
+  z: 144.03760670989274
+  yaw: -152.09521
+  pitch: 9.449822
+nickname: PREGNAT_GNAT
 lastlocation:
   world: world
-  x: -2351.699999988079
-  y: 96.02442408821369
-  z: 150.56399243586077
-  yaw: -215.24976
-  pitch: 22.949944
+  x: -2392.720545066945
+  y: 63.0
+  z: 154.69999998807907
+  yaw: -18.73954
+  pitch: 29.399952
 afk: false
 homes:
   home:
