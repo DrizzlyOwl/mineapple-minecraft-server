@@ -1,25 +1,25 @@
 lastAccountName: Beethos
 timestamps:
-  login: 1472173228723
+  login: 1472237954070
   kits:
     tools: 1470858243991
-  lastteleport: 1472170794850
-  logout: 1472175344810
+  lastteleport: 1472240018239
+  logout: 1472240427279
 ipAddress: 86.174.3.178
 lastlocation:
   world: world
-  x: -4684.236428069314
-  y: 46.0
-  z: 10504.300000011921
-  yaw: -181.9935
-  pitch: 49.007805
+  x: -4865.300000011921
+  y: 10.0
+  z: 8256.487587489764
+  yaw: 46.258545
+  pitch: 13.544266
 logoutlocation:
   world: world
-  x: -4714.530450535794
+  x: -4720.696871391003
   y: 45.0
-  z: 10493.534932957567
-  yaw: 82.385284
-  pitch: 12.93442
+  z: 10494.953059357153
+  yaw: -89.80083
+  pitch: 26.826685
 afk: false
 homes:
   home:
@@ -29,5 +29,5 @@ homes:
     z: 10491.699999988079
     yaw: 295.03748
     pitch: 1.7169955
-nickname: Joker
 godmode: false
+nickname: Joker
