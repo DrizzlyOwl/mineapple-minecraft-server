@@ -2,7 +2,7 @@ lastAccountName: WalshyXD
 timestamps:
   login: 1472247138482
   lastteleport: 1472255107624
-  logout: 1472247942651
+  logout: 1472256053936
 ipAddress: 86.3.13.214
 lastlocation:
   world: world
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 49.200054
 logoutlocation:
   world: world
-  x: 7525.722501632774
-  y: 69.0
-  z: 9483.306808833126
-  yaw: 182.1977
-  pitch: 27.599909
+  x: -13.074700961019497
+  y: 74.23482835270956
+  z: 273.198239034426
+  yaw: 190.63464
+  pitch: 23.99991
 afk: false
 homes:
   home:
