@@ -1,16 +1,16 @@
 lastAccountName: BuuTheGreat
 timestamps:
-  login: 1472300233921
-  logout: 1472302659508
+  login: 1472302986549
+  logout: 1472302992212
   lastteleport: 1472302117404
   kits:
     tools: 1471606905299
 ipAddress: 85.76.84.64
 logoutlocation:
   world: world
-  x: -155.88223990839745
+  x: -152.73258408017304
   y: 64.8500000178814
-  z: -36.5078736549292
+  z: -36.65669997570814
   yaw: 267.23294
   pitch: 38.188595
 lastlocation:
