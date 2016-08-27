@@ -1,23 +1,23 @@
 lastAccountName: Danomanic
 timestamps:
-  login: 1472148972403
-  logout: 1472149011848
-  lastteleport: 1471608105416
+  login: 1472248301922
+  logout: 1472248689057
+  lastteleport: 1472248619281
 ipAddress: 86.16.139.135
 logoutlocation:
   world: world
-  x: 569.5445939818528
-  y: 11.0
-  z: 104.98256465430946
-  yaw: 106.95799
-  pitch: -9.600045
+  x: 400.4975141068186
+  y: 66.0
+  z: 101.43120936235383
+  yaw: 9.001282
+  pitch: 25.649914
 lastlocation:
   world: world
-  x: 445.38305939350323
-  y: 13.0
-  z: 115.3022214800412
-  yaw: -184.49902
-  pitch: -1.6498933
+  x: 638.4208240087526
+  y: 11.0
+  z: 104.30000001192093
+  yaw: 278.85126
+  pitch: 5.2497344
 nickname: Dano
 homes:
   home:
