@@ -1,11 +1,27 @@
 [
   {
+    "uuid": "d9101819-d064-410a-be01-fd84f1f16093",
+    "name": "N3RD09UY",
+    "created": "2016-08-28 01:53:14 +0100",
+    "source": "WalshyXD",
+    "expires": "forever",
+    "reason": "haxed."
+  },
+  {
     "uuid": "42857404-e064-4d7b-8ea0-7958680a6fdf",
     "name": "Flexn",
     "created": "2016-08-21 16:19:12 +0100",
     "source": "WalshyXD",
     "expires": "forever",
     "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "18226df4-c283-4296-85b1-650e381d1695",
+    "name": "upularPvP",
+    "created": "2016-08-28 00:40:09 +0100",
+    "source": "WalshyXD",
+    "expires": "forever",
+    "reason": "Warned you."
   },
   {
     "uuid": "9e1958c3-77da-410b-94a7-80f57dce2ddb",
@@ -22,6 +38,14 @@
     "source": "WalshyXD",
     "expires": "forever",
     "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "ff006b55-79cd-44bb-8f54-a88ff7b08541",
+    "name": "MikeHawk69",
+    "created": "2016-08-28 00:39:34 +0100",
+    "source": "WalshyXD",
+    "expires": "forever",
+    "reason": "Banned for EVERYTHING"
   },
   {
     "uuid": "31f6c9c5-a4c5-4bea-be45-0ae1b2cdbf48",

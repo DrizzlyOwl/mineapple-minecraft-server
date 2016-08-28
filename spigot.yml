@@ -12,16 +12,15 @@
 
 config-version: 8
 settings:
-  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: true
   sample-count: 12
-  player-shuffle: 0
+  player-shuffle: 20
   filter-creative-items: true
   user-cache-size: 1000
   int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
+  moved-wrongly-threshold: 0.0825
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
   timeout-time: 60
@@ -35,13 +34,8 @@ settings:
       max: 3072.0
     attackDamage:
       max: 3072.0
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  debug: false
+  global-api-cache: true
 commands:
   tab-complete: 1
   log: true
@@ -53,6 +47,13 @@ commands:
   - summon
   - testforblock
   - tellraw
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 stats:
   disable-saving: false
   forced-stats: {}
@@ -71,23 +72,23 @@ world-settings:
       vine-modifier: 200
       cocoa-modifier: 200
     entity-activation-range:
-      animals: 16
-      monsters: 42
-      misc: 20
+      animals: 24
+      monsters: 24
+      misc: 8
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    mob-spawn-range: 6
     ticks-per:
       hopper-transfer: 8
-      hopper-check: 8
+      hopper-check: 1
     hopper-amount: 1
-    random-light-updates: true
+    mob-spawn-range: 6
+    random-light-updates: false
     save-structure-info: true
-    max-entity-collisions: 8
+    max-entity-collisions: 3
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
@@ -98,16 +99,16 @@ world-settings:
       regen-exhaustion: 3.0
     max-tnt-per-tick: 40
     max-tick-time:
-      tile: 50
-      entity: 50
+      tile: 20
+      entity: 25
     item-despawn-rate: 3000
     merge-radius:
       item: 5
       exp: 5
     arrow-despawn-rate: 2400
+    zombie-aggressive-towards-villager: true
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 3
-    view-distance: 12
+    view-distance: 8
     hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false

@@ -1,0 +1,28 @@
+lastAccountName: N3RD09UY
+timestamps:
+  login: 1472338755491
+  logout: 1472345594440
+  lastteleport: 1472344251872
+ipAddress: 142.165.9.245
+logoutlocation:
+  world: world
+  x: -45.48692658498997
+  y: 68.0
+  z: 255.75576190486828
+  yaw: -105.694824
+  pitch: 19.950006
+lastlocation:
+  world: world
+  x: -180.41700239603992
+  y: 67.0
+  z: -736.8704931110016
+  yaw: -29.228271
+  pitch: 17.399961
+homes:
+  home:
+    world: world
+    x: -183.7720325922944
+    y: 67.0
+    z: -733.5217114068183
+    yaw: -15.12793
+    pitch: 22.949953

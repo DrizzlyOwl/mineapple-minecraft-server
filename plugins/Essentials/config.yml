@@ -37,7 +37,7 @@ change-displayname: true
 
 # When this option is enabled, the (tab) player list will be updated with the displayname.
 # The value of change-displayname (above) has to be true.
-change-playerlist: true
+change-playerlist: false
 
 # When EssentialsChat.jar isn't used, force essentials to add the prefix and suffix from permission plugins to displayname.
 # This setting is ignored if EssentialsChat.jar is used, and defaults to 'true'.
@@ -234,10 +234,10 @@ kits:
   tools:
     delay: -1
     items:
-      - 272 1
-      - 273 1
-      - 274 1
-      - 275 1
+      - 413 4
+      - 268 1
+      - 355 1
+      - 50 3
   
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
@@ -404,7 +404,7 @@ unsafe-enchantments: false
 register-back-in-listener: true
 
 #Delay to wait before people can cause attack damage after logging in.
-login-attack-delay: 5
+login-attack-delay: 10
 
 #Set the max fly speed, values range from 0.1 to 1.0
 max-fly-speed: 0.8

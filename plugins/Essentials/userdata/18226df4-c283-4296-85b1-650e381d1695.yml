@@ -1,0 +1,23 @@
+lastAccountName: upularPvP
+timestamps:
+  login: 1472340045854
+  logout: 1472340110013
+  lastteleport: 1472337300638
+  mute: 0
+ipAddress: 5.80.19.41
+logoutlocation:
+  world: world
+  x: -23.292739803656623
+  y: 67.55000001192093
+  z: 258.0199444287584
+  yaw: -245.98256
+  pitch: 25.434738
+lastlocation:
+  world: world
+  x: -63.5
+  y: 72.0
+  z: -56.5
+  yaw: -14.400968
+  pitch: -70.59072
+nickname: Delevingne
+muted: true

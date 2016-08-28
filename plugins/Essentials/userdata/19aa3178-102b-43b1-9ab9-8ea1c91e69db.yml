@@ -1,4 +1,21 @@
 lastAccountName: Mr_Pickles1
 timestamps:
-  login: 1472328159605
+  login: 1472348027159
+  logout: 1472350259198
+  lastteleport: 1472331929203
 ipAddress: 174.124.184.162
+nickname: PicklesTheOne
+lastlocation:
+  world: world
+  x: -39.36301261048517
+  y: 68.0
+  z: 256.4314347000022
+  yaw: -181.24994
+  pitch: 1.9499964
+logoutlocation:
+  world: world
+  x: -909.6419185619566
+  y: 60.0
+  z: 203.0799615110646
+  yaw: 141.34387
+  pitch: 20.400002
