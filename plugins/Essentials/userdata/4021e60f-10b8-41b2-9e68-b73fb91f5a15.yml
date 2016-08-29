@@ -1,16 +1,16 @@
 lastAccountName: Hottub99
 timestamps:
-  login: 1472428175886
-  lastteleport: 1472432532346
+  login: 1472449937479
+  lastteleport: 1472450301877
   logout: 1472432568581
 ipAddress: 173.33.145.241
 lastlocation:
   world: world
-  x: 7551.862500011921
-  y: 187.0
-  z: 9478.570468317186
-  yaw: 278.17664
-  pitch: 13.199863
+  x: -29.510648149607576
+  y: 40.0
+  z: -5.300000011920947
+  yaw: 226.75122
+  pitch: 58.800156
 homes:
   home:
     world: world
