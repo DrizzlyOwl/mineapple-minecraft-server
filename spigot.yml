@@ -60,7 +60,6 @@ stats:
 world-settings:
   default:
     verbose: false
-    mob-spawn-range: 6
     growth:
       cactus-modifier: 30
       cane-modifier: 100
@@ -82,6 +81,7 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
+    mob-spawn-range: 6
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
