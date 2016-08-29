@@ -1138,3 +1138,20 @@
 [INFO] WorldEdit: DrizzlyOwl (in "world"): /help biome
 [INFO] WorldEdit: DrizzlyOwl (in "world"): info
 [INFO] WorldEdit: DrizzlyOwl (in "world"): info
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (7585.936361111988, 162.80948674189204, 9481.895610128506)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (7585.955097543354, 162.80948674189204, 9481.895610128506)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air 0 - Region: (7585.0, 162.0, 9481.0) - (7585.0, 162.0, 9481.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air 1 - Region: (7585.0, 162.0, 9481.0) - (7585.0, 162.0, 9481.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (7551.862500011921, 187.0, 9484.558727978034)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (7560.137499988079, 189.751664492094, 9484.15032123388)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air stone - Region: (7551.0, 187.0, 9484.0) - (7560.0, 189.0, 9484.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air stone - Region: (7551.0, 187.0, 9484.0) - (7560.0, 189.0, 9484.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air stone - Region: (7551.0, 187.0, 9484.0) - (7560.0, 189.0, 9484.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air glass - Region: (7551.0, 187.0, 9484.0) - (7560.0, 189.0, 9484.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air glass - Region: (7551.0, 187.0, 9484.0) - (7560.0, 189.0, 9484.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air glass - Region: (7551.0, 187.0, 9484.0) - (7560.0, 189.0, 9484.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo

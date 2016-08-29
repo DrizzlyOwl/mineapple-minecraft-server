@@ -60,6 +60,7 @@ stats:
 world-settings:
   default:
     verbose: false
+    mob-spawn-range: 6
     growth:
       cactus-modifier: 30
       cane-modifier: 100
@@ -89,7 +90,6 @@ world-settings:
     save-structure-info: true
     max-entity-collisions: 3
     dragon-death-sound-radius: 0
-    mob-spawn-range: 6
     seed-village: 10387312
     seed-feature: 14357617
     hunger:
@@ -101,14 +101,14 @@ world-settings:
     max-tick-time:
       tile: 20
       entity: 25
-    zombie-aggressive-towards-villager: true
     item-despawn-rate: 3000
     merge-radius:
       item: 5
       exp: 5
     arrow-despawn-rate: 2400
     enable-zombie-pigmen-portal-spawns: true
-    nerf-spawner-mobs: false
     wither-spawn-sound-radius: 3
     view-distance: 8
     hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
+    nerf-spawner-mobs: false
