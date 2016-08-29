@@ -1,23 +1,23 @@
 lastAccountName: chinto30
 timestamps:
-  login: 1472392175526
-  lastteleport: 1472399809066
-  logout: 1472400018195
+  login: 1472419964827
+  lastteleport: 1472423844847
+  logout: 1472425840121
 ipAddress: 81.106.125.108
 lastlocation:
   world: world
-  x: -6.471178764098299
+  x: -39.36301261048517
   y: 68.0
-  z: 235.5725623223554
-  yaw: -251.33557
-  pitch: -2.4000561
+  z: 256.4314347000022
+  yaw: -183.34993
+  pitch: 2.8499966
 logoutlocation:
   world: world
-  x: -474.01903658182215
+  x: -471.9928270821256
   y: 14.0
-  z: 752.0826393573075
-  yaw: -278.25278
-  pitch: 13.200112
+  z: 748.8128565817657
+  yaw: 27.143372
+  pitch: 24.900045
 homes:
   home:
     world: world

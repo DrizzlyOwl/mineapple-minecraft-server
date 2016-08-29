@@ -1,7 +1,7 @@
 lastAccountName: ItzAdam14
 timestamps:
-  login: 1471813837701
-  logout: 1471813854900
+  login: 1472414071014
+  logout: 1472414185075
   mute: 0
 ipAddress: 86.160.104.141
 logoutlocation:
@@ -9,6 +9,6 @@ logoutlocation:
   x: -9.975552143824292
   y: 67.5
   z: 242.12134559542437
-  yaw: -26.404377
-  pitch: 11.281911
+  yaw: -50.730976
+  pitch: 3.8781636
 muted: true
