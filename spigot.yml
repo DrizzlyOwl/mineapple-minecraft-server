@@ -38,7 +38,6 @@ settings:
   global-api-cache: true
 commands:
   tab-complete: 1
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -47,6 +46,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -60,7 +60,6 @@ stats:
 world-settings:
   default:
     verbose: false
-    mob-spawn-range: 6
     growth:
       cactus-modifier: 30
       cane-modifier: 100
@@ -101,11 +100,12 @@ world-settings:
     max-tick-time:
       tile: 20
       entity: 25
-    arrow-despawn-rate: 2400
+    mob-spawn-range: 6
     item-despawn-rate: 3000
     merge-radius:
       item: 5
       exp: 5
+    arrow-despawn-rate: 2400
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 3
     view-distance: 8
