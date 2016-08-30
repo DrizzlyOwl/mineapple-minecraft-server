@@ -4,7 +4,7 @@ timestamps:
   kits:
     tools: 1470858243991
   lastteleport: 1472521178208
-  logout: 1472425414017
+  logout: 1472524464452
   mute: 0
 ipAddress: 109.148.222.51
 lastlocation:
@@ -16,12 +16,12 @@ lastlocation:
   pitch: 1.8612695
 logoutlocation:
   world: world
-  x: -4753.142923047232
-  y: 63.0
-  z: 10475.300000011921
-  yaw: 124.52057
-  pitch: 8.282739
-afk: true
+  x: -4711.300000011921
+  y: 47.0
+  z: 10492.824705839183
+  yaw: -80.5429
+  pitch: 80.32874
+afk: false
 homes:
   home:
     world: world

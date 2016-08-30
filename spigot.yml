@@ -60,7 +60,6 @@ stats:
 world-settings:
   default:
     verbose: false
-    mob-spawn-range: 6
     growth:
       cactus-modifier: 30
       cane-modifier: 100
@@ -72,6 +71,7 @@ world-settings:
       netherwart-modifier: 200
       vine-modifier: 200
       cocoa-modifier: 200
+    mob-spawn-range: 6
     entity-activation-range:
       animals: 24
       monsters: 24

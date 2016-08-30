@@ -1,16 +1,16 @@
 lastAccountName: Hottub99
 timestamps:
-  login: 1472500421337
-  lastteleport: 1472503355330
-  logout: 1472503363890
+  login: 1472525670384
+  lastteleport: 1472525160435
+  logout: 1472525325296
 ipAddress: 173.33.145.241
 lastlocation:
   world: world
-  x: 112.43731962221452
-  y: 63.0
-  z: 291.35517314208107
-  yaw: 199.29993
-  pitch: -1.4999975
+  x: 7552.27231552693
+  y: 160.0
+  z: 9479.359908640528
+  yaw: 356.80447
+  pitch: -6.1500287
 homes:
   home:
     world: world
@@ -22,10 +22,10 @@ homes:
 afk: false
 logoutlocation:
   world: world
-  x: 7557.5
-  y: 163.0
-  z: 9487.5
-  yaw: -258.0457
-  pitch: 12.149992
+  x: 98.61445119202155
+  y: 151.0
+  z: 264.40946485753454
+  yaw: 3.4005737
+  pitch: 13.5
 nickname: Deathriderr
 godmode: false
