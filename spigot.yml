@@ -60,6 +60,22 @@ stats:
 world-settings:
   default:
     verbose: false
+    mob-spawn-range: 6
+    growth:
+      cactus-modifier: 30
+      cane-modifier: 100
+      melon-modifier: 200
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 50
+      wheat-modifier: 200
+      netherwart-modifier: 200
+      vine-modifier: 200
+      cocoa-modifier: 200
+    entity-activation-range:
+      animals: 24
+      monsters: 24
+      misc: 8
     entity-tracking-range:
       players: 48
       animals: 48
@@ -85,27 +101,11 @@ world-settings:
     max-tick-time:
       tile: 20
       entity: 25
-    growth:
-      cactus-modifier: 30
-      cane-modifier: 100
-      melon-modifier: 200
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 50
-      wheat-modifier: 200
-      netherwart-modifier: 200
-      vine-modifier: 200
-      cocoa-modifier: 200
-    entity-activation-range:
-      animals: 24
-      monsters: 24
-      misc: 8
-    mob-spawn-range: 6
+    arrow-despawn-rate: 2400
     item-despawn-rate: 3000
     merge-radius:
       item: 5
       exp: 5
-    arrow-despawn-rate: 2400
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 3
     view-distance: 8
