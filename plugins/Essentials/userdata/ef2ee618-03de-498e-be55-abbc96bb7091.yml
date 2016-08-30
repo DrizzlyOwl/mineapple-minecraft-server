@@ -1,7 +1,7 @@
 lastAccountName: RoodZ_420
 timestamps:
-  login: 1472525960543
-  logout: 1472525248675
+  login: 1472526167130
+  logout: 1472526589435
   lastteleport: 1472524573574
 ipAddress: 178.135.119.129
 logoutlocation:
@@ -9,8 +9,8 @@ logoutlocation:
   x: -151.66706269447144
   y: 62.0
   z: 175.30000001192093
-  yaw: -194.42456
-  pitch: 28.199957
+  yaw: -249.47433
+  pitch: 16.49992
 lastlocation:
   world: world
   x: 13.712614911904746
