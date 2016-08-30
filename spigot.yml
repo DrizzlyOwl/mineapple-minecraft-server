@@ -60,6 +60,18 @@ stats:
 world-settings:
   default:
     verbose: false
+    mob-spawn-range: 6
+    growth:
+      cactus-modifier: 30
+      cane-modifier: 100
+      melon-modifier: 200
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 50
+      wheat-modifier: 200
+      netherwart-modifier: 200
+      vine-modifier: 200
+      cocoa-modifier: 200
     entity-activation-range:
       animals: 24
       monsters: 24
@@ -75,10 +87,6 @@ world-settings:
       hopper-check: 1
     hopper-amount: 1
     random-light-updates: false
-    max-tnt-per-tick: 40
-    max-tick-time:
-      tile: 20
-      entity: 25
     save-structure-info: true
     max-entity-collisions: 3
     dragon-death-sound-radius: 0
@@ -89,18 +97,10 @@ world-settings:
       sprint-exhaustion: 0.5
       combat-exhaustion: 0.3
       regen-exhaustion: 3.0
-    mob-spawn-range: 6
-    growth:
-      cactus-modifier: 30
-      cane-modifier: 100
-      melon-modifier: 200
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 50
-      wheat-modifier: 200
-      netherwart-modifier: 200
-      vine-modifier: 200
-      cocoa-modifier: 200
+    max-tnt-per-tick: 40
+    max-tick-time:
+      tile: 20
+      entity: 25
     item-despawn-rate: 3000
     merge-radius:
       item: 5

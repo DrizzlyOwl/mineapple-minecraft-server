@@ -1,30 +1,30 @@
 lastAccountName: sneadel
 timestamps:
-  login: 1472167449406
-  logout: 1472172040931
-  lastteleport: 1472170865038
-ipAddress: 98.20.244.127
+  login: 1472518365275
+  logout: 1472519090222
+  lastteleport: 1472519043471
+ipAddress: 69.40.55.209
 logoutlocation:
   world: world
-  x: -2300.8488855072474
-  y: 68.0
-  z: 84.30000001192099
-  yaw: -175.78345
-  pitch: 10.79357
+  x: -2345.0865522046433
+  y: 79.0
+  z: 192.71763442497567
+  yaw: -41.63678
+  pitch: 24.28288
 lastlocation:
   world: world
-  x: -39.76115443283748
+  x: -39.36301261048517
   y: 68.0
-  z: 259.8532276205475
-  yaw: 152.32462
-  pitch: 90.0
-nickname: IncockIncest
+  z: 256.4314347000022
+  yaw: -181.24994
+  pitch: 1.9499964
+nickname: cumdumpster_mom
 afk: false
 homes:
   home:
     world: world
-    x: -2358.462067526979
-    y: 79.0
-    z: 244.98469094573014
-    yaw: -117.58618
-    pitch: 36.259182
+    x: -2369.5726073461574
+    y: 67.0
+    z: 86.6447732747529
+    yaw: -95.75413
+    pitch: 6.2971563

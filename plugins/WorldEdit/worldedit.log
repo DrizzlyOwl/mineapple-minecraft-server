@@ -1155,3 +1155,174 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /replace air glass - Region: (7551.0, 187.0, 9484.0) - (7560.0, 189.0, 9484.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /replace air glass - Region: (7551.0, 187.0, 9484.0) - (7560.0, 189.0, 9484.0)
 [INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /snow - Position: (152.0, 164.0, 278.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /snow - Position: (147.0, 164.0, 277.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (131.68015610377768, 170.78231952752628, 288.8397793031999)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (131.68015610377768, 170.78231952752628, 288.8397793031999)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air stone - Region: (131.0, 170.0, 288.0) - (131.0, 170.0, 288.0)
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 1 3
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 1 5
+[INFO] WorldEdit: WalshyXD (in "world"): smooth
+[INFO] WorldEdit: WalshyXD (in "world"): smooth 4
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 2 1
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 2 3
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 2 1
+[INFO] WorldEdit: WalshyXD (in "world"): tree spruce
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 1 2
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 0 1
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 3 2
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 2 2
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 2 1
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 1 2
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 0.1 2
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 18:1 3
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (143.25460968519957, 188.25618212701977, 250.95134586364813)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (161.97340235903647, 214.50051446587585, 231.20971731111405)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:1 0 - Region: (143.0, 188.0, 231.0) - (161.0, 214.0, 250.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:1 0 - Region: (143.0, 188.0, 231.0) - (161.0, 214.0, 250.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:1 0 - Region: (143.0, 188.0, 231.0) - (161.0, 214.0, 250.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:1 0 - Region: (143.0, 188.0, 231.0) - (161.0, 214.0, 250.0)
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 0.1 2
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 3 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 3 2
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 3 1
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 2 2
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 2 1
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 17:1 1 2
+[INFO] WorldEdit: WalshyXD (in "world"): cylinder 18:1 3
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): cylinder 18:1 3 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 17:1
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 18:1 1
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 2
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 1 3
+[INFO] WorldEdit: WalshyXD (in "world"): tree bigtree
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): tree spruce
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 3
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 3
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /snow - Position: (148.0, 166.0, 231.0)
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 1 3
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): smooth 1
+[INFO] WorldEdit: WalshyXD (in "world"): smooth 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 2 3
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 2 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 1 3
+[INFO] WorldEdit: WalshyXD (in "world"): tree bigtreee
+[INFO] WorldEdit: WalshyXD (in "world"): tree bigtree
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (132.94571871241743, 174.361814614121, 306.22021480495937)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (132.94571871241743, 174.361814614121, 306.22021480495937)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air grass - Region: (132.0, 174.0, 306.0) - (132.0, 174.0, 306.0)
+[INFO] WorldEdit: WalshyXD (in "world"): tree spuce
+[INFO] WorldEdit: WalshyXD (in "world"): tree spruce
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): tree darkoak
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (136.79562966365745, 184.0, 304.6053283735556)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (129.25026378021207, 175.0, 312.4745969112588)
+[INFO] WorldEdit: WalshyXD (in "world"): /cut - Region: (129.0, 175.0, 304.0) - (136.0, 184.0, 312.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /flip
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (129.0, 175.0, 312.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /rotate 3
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /cut - Region: (129.0, 175.0, 304.0) - (136.0, 184.0, 312.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /rotate 90
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (139.0, 177.0, 318.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /rotate 0 90 0
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (137.0, 177.0, 320.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /flip
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (138.0, 174.0, 321.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /rotate 0 0 90
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (137.0, 191.0, 325.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /rotate 0 0 90
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (152.0, 204.0, 325.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (126.0, 169.0, 295.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (124.0, 169.0, 285.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (124.0, 159.0, 280.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (124.0, 162.0, 277.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (124.0, 157.0, 277.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /paste - Position: (123.0, 156.0, 281.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /snow - Position: (121.0, 166.0, 289.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 3
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 2 1
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (125.69999998807907, 169.0, 288.36436680567624)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (121.30000001192093, 169.0, 287.43408174741245)
+[INFO] WorldEdit: WalshyXD (in "world"): /setbiome river - Region: (121.0, 169.0, 287.0) - (125.0, 169.0, 288.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): tree tree
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 1
+[INFO] WorldEdit: WalshyXD (in "world"): tree jungle
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (97.2423986232995, 165.99904104355997, 293.2652448327953)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (96.97799694985311, 161.18049698779024, 301.30236662436596)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (106.70669415016988, 186.27883120772657, 282.8296866435872)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 17:3 162:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace 18:3 161:1 - Region: (96.0, 161.0, 282.0) - (106.0, 186.0, 301.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 0 2
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 1 3 1
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 3
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 4
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 4
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 4
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 4
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 4
+[INFO] WorldEdit: WalshyXD (in "world"): /undo 4
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): tree spruce
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): tree bigtree
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-46.69999998807907, 57.0, 251.300000011921)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-36.30000001192093, 61.0, 261.69369734392967)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace stone 155 - Region: (-47.0, 57.0, 251.0) - (-37.0, 61.0, 261.0)
+[INFO] WorldEdit: WalshyXD (in "world_nether"): /snow - Position: (-579.0, 41.0, 1311.0)
+[INFO] WorldEdit: WalshyXD (in "world"): cyl 2 3 1

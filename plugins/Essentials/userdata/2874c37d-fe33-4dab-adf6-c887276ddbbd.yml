@@ -1,12 +1,20 @@
 lastAccountName: thecodezombie
 timestamps:
-  login: 1472230230317
-  logout: 1472230599636
-ipAddress: 81.174.244.11
+  login: 1472506905763
+  logout: 1472507197247
+  lastteleport: 1472503175419
+ipAddress: 176.12.107.140
 logoutlocation:
   world: world
-  x: -328.67506247033566
-  y: 79.0
-  z: -28.053326008504886
-  yaw: -320.3999
-  pitch: 23.399998
+  x: 44.46318792531315
+  y: 10.0
+  z: -170.41448036767542
+  yaw: -14.600924
+  pitch: 34.65005
+lastlocation:
+  world: world
+  x: -39.76133900488002
+  y: 68.0
+  z: 253.86348147770295
+  yaw: -146.75002
+  pitch: 8.699997

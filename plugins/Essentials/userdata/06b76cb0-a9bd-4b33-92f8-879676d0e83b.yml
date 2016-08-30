@@ -1,0 +1,29 @@
+lastAccountName: bluefox1999
+timestamps:
+  login: 1472521396242
+  lastteleport: 1472515423487
+  logout: 1472522055344
+ipAddress: 188.220.138.125
+homes:
+  home:
+    world: world
+    x: -150.5535770466272
+    y: 80.0
+    z: 410.6237046954897
+    yaw: -245.10277
+    pitch: 12.096494
+lastlocation:
+  world: world
+  x: -39.36301261048517
+  y: 68.0
+  z: 256.4314347000022
+  yaw: -182.84937
+  pitch: 9.14739
+logoutlocation:
+  world: world
+  x: -121.9795638052691
+  y: 61.0
+  z: 407.3965974028714
+  yaw: -170.72217
+  pitch: 14.027073
+godmode: false

@@ -1,24 +1,24 @@
 lastAccountName: AidenMoMo
 timestamps:
-  login: 1472168246089
-  logout: 1472172043764
-  lastteleport: 1472169568986
+  login: 1472517766705
+  logout: 1472519098986
+  lastteleport: 1472519083132
 ipAddress: 73.251.23.206
 logoutlocation:
   world: world
-  x: -2351.160565714792
-  y: 103.5
-  z: 144.03760670989274
-  yaw: -152.09521
-  pitch: 9.449822
-nickname: PREGNAT_GNAT
+  x: -2350.2583212653303
+  y: 104.0
+  z: 139.04601943045483
+  yaw: 97.51114
+  pitch: 47.69997
+nickname: cockner
 lastlocation:
   world: world
-  x: -2392.720545066945
-  y: 63.0
-  z: 154.69999998807907
-  yaw: -18.73954
-  pitch: 29.399952
+  x: -2371.0595157742573
+  y: 64.0
+  z: 106.40570015364332
+  yaw: -9.88836
+  pitch: 17.400045
 afk: false
 homes:
   home:

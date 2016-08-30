@@ -1,23 +1,23 @@
 lastAccountName: HWSNBN
 timestamps:
-  login: 1472418886504
-  logout: 1472424974042
-  lastteleport: 1472424166427
+  login: 1472507467130
+  logout: 1472508550793
+  lastteleport: 1472507483039
 ipAddress: 77.96.31.38
 lastlocation:
   world: world
-  x: -41.086148967221
+  x: -39.36301261048517
   y: 68.0
-  z: 256.4341406365552
-  yaw: -270.19995
-  pitch: 6.299997
+  z: 256.4314347000022
+  yaw: -144.04996
+  pitch: 4.949997
 logoutlocation:
   world: world
-  x: -475.97274160189437
+  x: -460.69999998807907
   y: 14.0
-  z: 745.9085283942283
-  yaw: 179.26254
-  pitch: 11.250039
+  z: 824.0649700185782
+  yaw: 179.71704
+  pitch: 6.6000805
 homes:
   home:
     world: world
