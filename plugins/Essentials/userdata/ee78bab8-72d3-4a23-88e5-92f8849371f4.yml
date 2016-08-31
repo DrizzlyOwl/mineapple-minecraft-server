@@ -1,16 +1,16 @@
 lastAccountName: UnholyxXxReaper
 timestamps:
-  login: 1472581833241
-  lastteleport: 1472583045191
-  logout: 1472584093468
+  login: 1472601609358
+  lastteleport: 1472602056849
+  logout: 1472602060350
 ipAddress: 97.95.164.179
 lastlocation:
   world: world
-  x: 86.58172369720798
-  y: 69.0
-  z: 177.51229892394608
-  yaw: 159.09975
-  pitch: -88.19999
+  x: -204.03128900325245
+  y: 61.0
+  z: 219.08822765955716
+  yaw: 153.84998
+  pitch: 46.499985
 homes:
   home:
     world: world
@@ -21,8 +21,8 @@ homes:
     pitch: 18.450018
 logoutlocation:
   world: world
-  x: 91.19152636080403
+  x: 93.5
   y: 82.0
-  z: 219.01458250397675
-  yaw: 201.39185
-  pitch: 19.200045
+  z: 219.5
+  yaw: 87.70007
+  pitch: 18.450018
