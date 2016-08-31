@@ -1326,3 +1326,16 @@
 [INFO] WorldEdit: WalshyXD (in "world"): /replace stone 155 - Region: (-47.0, 57.0, 251.0) - (-37.0, 61.0, 261.0)
 [INFO] WorldEdit: WalshyXD (in "world_nether"): /snow - Position: (-579.0, 41.0, 1311.0)
 [INFO] WorldEdit: WalshyXD (in "world"): cyl 2 3 1
+[INFO] WorldEdit: WalshyXD (in "world"): smooth 3
+[INFO] WorldEdit: WalshyXD (in "world"): /chunk - Position: (-163.98785761520182, 90.0, 176.59588012188732)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-4722.533386388157, 45.0, 10493.300000011921)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-4722.528923976995, 46.200000047683716, 10494.699999988079)
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 10
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 20
+[INFO] WorldEdit: WalshyXD (in "world"): /pos1 - Position: (-4709.1872981992265, 128.51215398197576, 10495.6113167607)
+[INFO] WorldEdit: WalshyXD (in "world"): /pos2 - Position: (-4709.1872981992265, 128.51215398197576, 10495.6113167607)
+[INFO] WorldEdit: WalshyXD (in "world"): /replace air glass - Region: (-4710.0, 128.0, 10495.0) - (-4710.0, 128.0, 10495.0)
+[INFO] WorldEdit: WalshyXD (in "world"): sphere 5
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
+[INFO] WorldEdit: WalshyXD (in "world"): /sphere glass 20,20,20 no - Position: (-4708.0, 128.0, 10494.0)
+[INFO] WorldEdit: WalshyXD (in "world"): /undo
