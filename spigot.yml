@@ -76,6 +76,9 @@ world-settings:
       animals: 24
       monsters: 24
       misc: 8
+    max-tick-time:
+      tile: 20
+      entity: 25
     entity-tracking-range:
       players: 48
       animals: 48
@@ -98,9 +101,6 @@ world-settings:
       combat-exhaustion: 0.3
       regen-exhaustion: 3.0
     max-tnt-per-tick: 40
-    max-tick-time:
-      tile: 20
-      entity: 25
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 3000
     merge-radius:
